@@ -5,6 +5,7 @@
 #oriental
 #what to do for latin IPA?
 #https://www.wiktionary.org/ for nominative form
+#https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
 
 mandare , mənˈa
 sentire , səntˈi
@@ -31,7 +32,7 @@ f ˈiː w u m , f ˈi l
 g a l l ˈiː n a , g ə ʎ i n ə
 b ˈiː n u , b ˈi 
 a p r ˈiː l e m , ə β ɾ ˈi l
-a j s t ˈiː v u m , ə s t ˈi w #a j is ae dipthong 
+a e̯ s t ˈiː v u m , ə s t ˈi w #aj is ae. dipthong 
 a m ˈiː k u m , ə m ˈi k
 s p ˈiː k a m , ə s p ˈi ɣ ə  # change colons
 b o w ˈiː n u m , b ˈu j n ə
@@ -52,8 +53,8 @@ p e l l e , p ˈe ʎ
 k a s t e l l o , k ə s t ˈe ʎ
 a l e k r o , ə l ˈe ɣ ɾ ə
 e k w a , ˈe ɣ w ə
-k a j k o , s ˈe k #ae
-k a j l u , s ˈɛ l#ae
+k a e̯ k o , s ˈe k #ae
+k a e̯ l u , s ˈɛ l#ae
 f e l , f ˈɛ l
 g e l o , ʒ ˈɛ l
 m e l , m ˈɛ l
@@ -72,3 +73,33 @@ g e n e r u , ʒ ˈɛ n d ɾ ə
 t e n e r u ,  t ˈɛ n d ɾ ə
 p e d e , p ˈɛ w
 s e d e t , s ˈɛ w #ask about this. cited by article as oberta but IPA from diccionary says tancada
+d e k e , d ˈɛ w
+d e k i m u , d ˈɛ w m ə #self-transcribed
+p r e t i u m , p ɾ ˈɛ w
+s e p t e , s ˈɛ t
+l e k t u , ʎ ˈi t
+p e k t u s , p ˈi t #in source catalan is plural
+d e l e k t u , d ə l ˈi t
+#gita
+#pg 66
+s p e k u l u , ə s p ˈi ʎ
+m e d i u , m ˈi tʃ
+m e l i u s , m ˈi ʎ #in source catalan is plural
+e k s t e r i u s , ə s t ˈi r s #self-transcribed. I decided to make it plural due to silent r in catalan
+i n g e n i u , ə ɲ ʒ ˈi ɲ
+f e r i a t , f ˈi ɾ ə
+l e g i t , ʎ ˈi tʃ #self-transcribed
+s e k s , s ˈi s
+t e k s i t , t i ʃ #self-transcribed
+e k s i t , i ʃ
+k a t e d r a , k ə ð ˈi ɾ ə
+i n t e g r u , #can't find catalan transcription here
+t e n e o , # can't find catalan transcription
+w e n i o , b ˈi ŋ k #self-transcribed
+w e k l u , b ˈe ʎ #exception to rule for short e becoming i
+w e n ˈi , b ˈi n ə #self-transcribed
+h e r i , ə ˈi
+k e r e s i a , s i ɾ ˈe ɾ ə
+r e m e d i u , r ə m ˈɛ j #exception to rule
+
+
