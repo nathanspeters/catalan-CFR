@@ -1,6 +1,6 @@
 #https://www.openipa.org/transcription/latin IPA latin
 #Add page numbers for data
-#Catalan to IPa wseful here? https://github.com/Connum/catalan2ipa
+#Catalan to IPA useful here? https://github.com/Connum/catalan2ipa
 #Only catalan to french gives IPA https://www.diccionari.cat/catala-frances/diccionari
 #oriental
 #what to do for latin IPA?
@@ -291,3 +291,84 @@ t r i m o d i a , t ɾ ə m ˈu ʒ ə
 i n o d i u , ə n ˈu tʃ
 p o d i u , p ˈu tʃ
 t r o j a , t ɾ ˈu ʒ ə
+p l u w i a , p l ˈu ʒ ə
+o d i u , ˈɔ j
+r o t u l u , r ɔ ʎ ʎ ə
+s o m n i u , s ˈɔ m n i
+#pg 79
+n o k t e , n ˈi t
+#n o k e t , n ˈɔ́ w but this example is strange due to definitions
+c o m p u t a t , k ˈo m t ə #self
+m o n t e , m ˈɔ n #contradictory to francesc
+k o m p a r a t , k ˈo m p ɾ ə
+j o k a t , ʒ ˈu ɣ ə #self
+s o r b a , s ˈe r b ə
+#pg 80
+l u p u , ʎ ˈo p
+r oː b u r e , r ˈo w ɾ ə
+j u w e n e , ʒ ˈo β ə
+p oː m a , p ˈo m ə
+u m b r a , ˈo m b ɾ ə
+p l u m b u , p l ˈo m
+n e p oː t e , n ə β ˈo t
+t ˈoː t u , t ˈo t
+a r b u t e u , ə r b ˈo s
+p u t e u , p ˈo w
+m u s k a , m ˈo s k ə
+t u s s e , t ˈo s
+a n g u s t i a , ə ŋ g ˈo ʃ ə
+u n d a , ˈo n ə
+m u n d u , m ˈo n
+r o t u n d u , r u ð ˈo
+l i g oː n e , ʎ ə ɣ ˈo
+f a w oː n i u , f ə ɣ ˈo ɲ #self
+k o t oː n e u , k u ð ˈo ɲ
+w e r e k u n d i a , b ə r g ˈo ɲ ə
+g u l a , g ˈo l ə
+s u l k u , s ˈo l k
+s u l f u r e , s ˈo f ɾ ə
+m u l t u , m ˈo l
+d i u r n u , ʒ ˈo r n
+f u r n u , f ˈo r n
+t u r r e , t ˈo r ə
+t o n s oː r i a s , t i z ˈo ɾ ə s #self
+k u r s u , k ˈo s #self
+s u r d u , s ˈo r t
+b u k k a , b ˈo k ə
+g e n u k l u , ʒ ə n ˈo ʎ
+j u g u , ʒ ˈo w
+b u ks u , b ˈo ʃ
+s u a , s ˈu ə #self
+d u a s , d ˈu ə s #self
+j u n g e r e , ʒ ˈu ɲ ə
+j u n k t u , ʒ ˈu n
+m u n g i t , m ˈu ɲ #self
+p u n k t a , p ˈu n t ə
+u n g u l a , ˈu ŋ g l ə
+p u g n u , p ˈu ɲ
+f u g i o , f ˈu tʃ #self
+r e p u d i u , r ə β ˈu tʃ
+l u k t a , ʎ ˈu j t ə
+t r u k t a , t ɾ ˈu j t ə
+k oː g i t a t , k ˈu j t ə #self
+n oː d u , n ˈu
+o k t oː b e r , u k t ˈu β ɾ ə
+#pg 81
+k u l p a , k ˈu l p ə
+k oː d a , k ˈu ə
+i l l oː r i u m , ʎ ˈu r
+u n k i a , ˈu n s ə
+t oː t t i , t ˈo t #not explicitly stated as example
+f l oː r e , #unknown transcription
+m a j oː r e , #no transcription but probably majú from majuscules
+j u w e n e, #unknown transcription
+l u p u , #unknown transcription
+s oː l e , s ˈɔ l
+r u b e u , r ˈɔ tʃ
+s u p e r a t , s ˈɔ β ɾ ə
+k u p e r a t , k ˈɔ β ɾ ə
+k r u s t a , k ɾ ˈɔ s t ə
+#pg 82
+p a w oː r e , p ˈo
+f l ˈoː r e , f l ˈɔ #contradictory to francesc
+h oː r a , ˈɔ ɾ ə
