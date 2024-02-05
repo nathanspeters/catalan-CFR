@@ -1,6 +1,6 @@
 #https://www.openipa.org/transcription/latin IPA latin
 #Add page numbers for data
-#Catalan to IPA useful here? https://github.com/Connum/catalan2ipa
+#Catalan to IPa wseful here? https://github.com/Connum/catalan2ipa
 #Only catalan to french gives IPA https://www.diccionari.cat/catala-frances/diccionari
 #oriental
 #what to do for latin IPA?
@@ -235,12 +235,59 @@ a s k i a , ˈa ʃ ə
 n a s k e r e , n ˈa ʃ ə
 #pg 77
 k a p s u , k ˈe ʃ
-r a u b a , r ˈɔ β ə
-p a u p e r e , p ˈɔ β ɾ ə
-a u d i t , ˈɔ w
-p a u s a t , p ˈo z ə #contradictory to francesc
-k a u s a , k ˈɔ z ə
-a u s a t , ɡ ˈɔ z ə #self
-n a u s e a , n ˈɔ z ə
-k a u l e , k ˈɔ l
-a u r u , ˈɔ r
+r a w b a , r ˈɔ β ə
+p a w p e r e , p ˈɔ β ɾ ə
+a w d i t , ˈɔ w
+p a w s a t , p ˈo z ə #contradictory to francesc
+k a w s a , k ˈɔ z ə
+a w s a t , ɡ ˈɔ z ə #self
+n a w s e a , n ˈɔ z ə
+k a w l e , k ˈɔ l
+a w r u , ˈɔ r
+g a w d i u , g ˈɔ tʃ
+a w k a , ˈɔ k ə
+p a w k u , p ˈɔ k
+n a w k u , n ˈɔ k
+t a b u l a , t ˈa w l ə
+p a r a b o l a , p ə ɾ ˈa w l ə
+t r a b u k a r e , t ɾ ˈa w
+#pg 78
+d o m i n a , d ˈɔ n ə
+k o m i t e , k ˈo m t ə #contradictory to francesc
+b o w e , b ˈɔ w
+o p e r i t , ˈɔ β ɾ ə #self
+k o p h i n u , k ˈɔ β ə
+r o t a , r ˈɔ ð ə
+r e p o s t u , r ə β ˈɔ s t
+k o r p u s , k ˈɔ s
+b o n u , b ˈɔ
+f o n t e , f ˈɔ n
+p o r k u , p ˈɔ r k
+m o l l e , m ˈɔ ʎ
+k o l l u , k ˈɔ ʎ
+l o k u , ʎ ˈɔ k
+f o k u , f ˈɔ k
+k r o k u , g ɾ ˈɔ k
+#bottom of page
+k o k t u , k ˈu j t
+o k t u , b ˈu j t
+w o k i t u , b ˈu j t
+o k l u , ˈu ʎ #next few are strange since they aren't the same dipthong but OK
+s k o p u l u , ə s k ˈu ʎ
+t o r k u l u , t ɾ ˈu ʎ
+w o l i o , b ˈu ʎ #self
+f o l i a , f ˈu ʎ ə
+l o l i u , #cant find transcription
+k o l l i g o , k ˈu ʎ #self
+k o ks a , k ˈu ʃ ə
+p r o ks i m u , #cant find transcription
+p o s t i u s , p ˈu ʃ
+g r o s s i a , #ɡ ɾ ˈu ʃ is closest. i don't know why it has an a at the end
+l o n g e , ʎ ˈu ɲ
+m o r i o , #here it is muir instead of morir. i don't know why
+k o r i u , k ˈu j r
+h o d i e , ə β ˈu j
+t r i m o d i a , t ɾ ə m ˈu ʒ ə
+i n o d i u , ə n ˈu tʃ
+p o d i u , p ˈu tʃ
+t r o j a , t ɾ ˈu ʒ ə
