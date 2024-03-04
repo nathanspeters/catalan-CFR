@@ -7,7 +7,7 @@
 #https://www.wiktionary.org/ for nominative form
 #https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
 
-m a n d a r e , m ə n ˈa
+m a n d a r e , m ə n ˈa 
 s e n t i r e , s ə n t ˈi
 k a t ˈe n a , k a ð ˈɛ n ə
 p a u z ˈa r e , p u z ˈa
@@ -23,7 +23,7 @@ i m pˈi n g e r e, ə m pˈɛ ɲ ə
 s t r ˈi k t u , ə s t ɾ ˈɛ t
 o w ˈi k l a , u β ˈɛ ʎ ə
 r ˈe g u l a , r ˈɛ ʎ ə
-koˈrridʒia , kuˈrɛdʒə #fix
+koˈrridʒia k , kuˈrɛdʒə #fix
 s ˈi k u , s ˈɛ k
 #pg 64
 w ˈiː w e r e , b ˈi w ɾ ə
@@ -181,7 +181,7 @@ k a b a l l u , k ə β ˈa ʎ
 a r a n e a , ə ɾ ˈa ɲ ə
 a n n u , ˈa ɲ
 p l a n t a g i n e , p l ə n t ˈa dʒ ə
-l a k w e u , ʎ ˈa s
+l a k w e u m , ʎ ˈa s
 b r a k k t i u , b ɾ ˈa s
 a k k w u a , ˈa j ɣ w ə
 #pg 74
@@ -203,7 +203,7 @@ f a g e u , f ˈa tʃ
 b a i u l u , b ˈa ʎ ʎ ə
 m a i u , m ˈa tʃ
 r a d i u , r ˈa tʃ
-l a b i u , ʎ ˈa β i
+l a b i u m , ʎ ˈa β i
 s a p i a t , s ˈa p i ə # self
 f a k t u , f ˈe t
 l a k t e , ʎ ˈe t
@@ -476,9 +476,9 @@ k o k h l e a r i a , k u ʎ ˈe ɾ ə
 d u b i t a r e , d u p t ˈa
 j o k a r e , ʒ u ɣ ˈa #ortography exception here. doesnt affect sound. for u usually o
 n o w a k u l a , n ə β ˈa ʎ ə
-l u m b r i k u , ʎ ə m b ɾ ˈi k
-k o l o s t r u , k ə l ˈɔ s t ɾ ə
-o b k a e k a r e, u p s ə k ˈa #old catalan is abcegar. Updated to modern catalan
+l u m b r i k u m , ʎ ə m b ɾ ˈi k
+k o l o s t r u m , k ə l ˈɔ s t ɾ ə
+o b k a e k a r e , u p s ə k ˈa #old catalan is abcegar. Updated to modern catalan
 o f f o k a r e , ə f u ɣ ˈa #self
 o b t u r a r e , ə t u ɾ ˈa
 o k k u p a r e , ə k u β ˈa
@@ -495,10 +495,10 @@ f r uː m e n t u , f u r m ˈe n
 r uː m o r e , r ə m ˈo
 k a l a m e l l u , k ə ɾ ə m ˈe ʎ
 h o r t a l i k i a , u r t ə l ˈi s ə
-p a r a d i s u , p ə ɾ ə ð ˈi s
-h o r t u l a n u , u r t u l ˈa
+p a r a d i s u m , p ə ɾ ə ð ˈi s
+h o r t u l a n u m , u r t u l ˈa
 s a l a m a n d r i a , #no transcription found
-f a r iː n a r i u , #no transcription found
+f a r iː n a r i u m , #no transcription found
 m o l iː n a r i u , m u ɫ n ˈe
 b o n i t a t e , b u n d ˈa t
 a r k h i d i a k o n u , ə r d i ˈa k ə
@@ -606,7 +606,7 @@ m o r s i k a t , m u s ˈɛ ɣ ə
 r e w i w i s k u l a t , r ə β i s k ˈɔ ɫ ə #self
 r o t u l a t , #transcription not found
 t r e m u l a t , #transcription not found
-a p i u , ˈa p i
+a p i u m, ˈa p i
 a w i u , ˈa β i
 h o r d e u , ˈɔ r d i
 o l e u , ˈɔ l i
@@ -971,7 +971,6 @@ i l l a , ˈe ʎ ə
 b a n n a , b ˈa ɲ ə
 t h u n n i n a , t u ɲ ˈi n ə
 g r u n n i r e , g ɾ u ɲ ˈi
-a n g u iː l l a , ə ŋ g ˈi l ə
 a r g iː l l a , ə r ʒ ˈi l ə
 n iː n n a , n ˈi n ə
 w iː l l a , b ˈi l ə
@@ -1129,7 +1128,7 @@ g e r u n d a , ʒ i ɾ ˈo n ə #self
 k o n d o m i n a , k u ɾ u m ˈi n ə #self
 l e n d i n e , ʎ ˈe m ə n ə #old catalan <lénena>
 a d d e n s a r e , ə ð ə z ˈa
-k o n s u e r e , k u z ˈi
+k ˌoː n s u ˈeː r e , k u z ˈi
 i n k e n s a , ə n s ˈɛ z ə #self
 p e n s a r e , p ə z ˈa
 t o n s o r i a s , t i z ˈo ɾ ə s #self
@@ -1260,7 +1259,52 @@ k w a t t u o r , k w ˈa t ɾ ə
 k w i d , k ə
 k w i n d e k e , k i n z ˈɛ
 k w o m o d o , k ˈɔ m
-k w i n k w e , 
+k w i n k w e , s ˈi ŋ
+k w e r k u , #old catalan <cercs>
+a e k w a l e , i ɣ w ˈa l
+k w i n k w a g i n t a , s i ŋ k w ˈa n t ə
+ˈe g u a , ˈe ɣ w ə
+p a s k u a , p ˈa s k w ə
+#pg 129
+s ˈe k w e r e , s ə ɣ ˈi
+ˌɑ n ɡ u ˈiː l l ɑ , ə ŋ g ˈi l ə
+k ˈo k w e t , k ˈɔ w #self
+k ˌo k w ˈiː n a m , k ˈu j n ə
+d i s t i n g u e r e , d i s t i ɲ ʒ ˈi
+k e n s u a l e , s ə n s ˈa l
+b a t t u e r e , b ˈa t ɾ ə
+f u t t u e r e , f ˈo t ɾ ə
+k o n f l u e n t e , k u m f l ˈe n
+f e b r u a r i u m , f ə β ɾ ˈe
+m o r t u a , m ˈɔ r t ə
+a n n u a l e , ə ɲ ˈa l
+j a n a r i u m , ʒ ə n ˈe
+m a n u o p e r a , m ə n ˈɔ β ɾ ə
+#pg 130
+a b b r e w i a r e , ə β ɾ ə w ʒ ˈa
+a g g r e w i a r e , ə ɣ ɾ ə w ʒ ˈa
+a l l e w i a r e , ə ʎ ə w ʒ ˈa
+l e w i a r i u m , ʎ ə w ʒ ˈe
+g l a d i u m , g l ˈa β i
+n o w i u m , n ˈu β i
+s a l w i a , s ˈa l β i ə
+k a p i a t , #valencian. not found
+s e p i a , s ˈi p i ə
+k a m b i a r e , k ə m b i ˈa
+a l w e u , ˈɔ β i #strange case. unsure about catalan word here
+#pg 131
+h a b e a t , ˈa ʒ ə
+h a b e a t i s , #old catalan <hajau>
+r u b e a , r ˈɔ ʒ ə
+b a u b i u m , b ˈɔ tʃ
+h a b e o , ˈa tʃ
+s u b p l u w i u , s u p l ˈu tʃ
+a k u t i a r e , ə ɣ u z ˈa
+a t t i t i a r e , ə t i ˈa
+l a b o r a t i o n e , ʎ ə w ɾ ˈo #city?
+p a r t i t i o n e , p ə r t i ˈo
+p r e t i a r e , p ɾ e ˈa
+s a t i o n e , s ə o
 
 #other examples
 ˌa m iː k i t ˈaː t e m , ə m i s t ˈa t
