@@ -1,0 +1,1012 @@
+#https://www.openipa.org/transcription/latin IPA latin
+#Add page numbers for data
+#Catalan to IPA useful here? https://github.com/Connum/catalan2ipa
+#Only catalan to french gives IPA https://www.diccionari.cat/catala-frances/diccionari
+#oriental
+#what to do for latin IPA?
+#https://www.wiktionary.org/ for nominative form
+#https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
+
+m ˌa n d ˈaː r e , m ə n ˈa 
+s ˌe n̪ t̪ ˈiː r e , s ə n t ˈi
+k ˌa t ˈeː n a , k a ð ˈɛ n ə
+p ˌa w s ˈaː r e , p u z ˈa
+#pg 67
+d ˈe b i t u m, d ˈɛ w t ə 
+b ˈi b e r e , b ˈɛ w ɾ ə 
+p ˌa r ˈeː t e m , p ə ɾ ˈɛ t
+p ˈi r a m , p ˈɛ ɾ ə
+k r ˈi s t a m , k ɾ ˈɛ s t ə
+s ˈi l i a m , s ˈɛ ʎ ə
+k ˌa p ˈi l l u m , k ə β ˈɛ ʎ
+ˌi m p ˈi n g e r e , ə m p ˈɛ ɲ ə
+s t r ˈi k t u m , ə s t ɾ ˈɛ t
+ˌo w ˈi k u l a m , u β ˈɛ ʎ ə
+r ˈe g u l a m , r ˈɛ ʎ ə
+k ˌo r r ˈi g i a m , k u r ˈɛ dʒ ə 
+s ˈi k u m , s ˈɛ k
+#pg 64
+w ˈiː w e r e , b ˈi w ɾ ə
+r ˈiː w u m , r ˈi w
+f ˈiː w u m , f ˈi l
+g ˌa l l ˈiː n a m , g ə ʎ i n ə
+b ˈiː n u m , b ˈi 
+ˌa p r ˈiː l e m , ə β ɾ ˈi l
+ˌa e̯ s t ˈiː w u m , ə s t ˈi w #aj is ae. dipthong 
+ˌa m ˈiː k u m , ə m ˈi k
+s p ˈiː k a m , ə s p ˈi ɣ ə
+b ˌo w ˈiː n u m , b ˈu j n ə
+k ˌo k ˈiː n a m , k ˈu j n ə
+k r ˌu k ˈiː k u l a , k ɾ ˈu j ə #self
+r ˌe g ˈiː n a m , r ˈe j n ə
+f r ˈiː g i d u m , f ɾ ˈɛ t
+f ˈiː n e m , f ˈi n s
+#pg 65
+f ˈe b r e m , f ˈe β ɾ ə
+t ˈe m p u s , t ˈe m s
+l ˌe p ˈoː r e , ʎ ˈe β ɾ ə
+w ˈe n t u m , b ˈe n
+w ˈe s p e r u m , b ˈe s p ɾ ə
+h ˈe r b a , ˈe r b ə
+p ˈe r s i k u m , p ɾ ˈe s ə k
+p ˈe l l e m , p ˈe ʎ
+k ˌa s t ˈe l l u m, k ə s t ˈe ʎ
+ˌa l ˈe k r u m , ə l ˈe ɣ ɾ ə #strange latin root. fix
+ˈe k w a m , ˈe ɣ w ə
+k ˈa e̯ k u m , s ˈe k #ae
+k ˈa e̯ l u m , s ˈɛ l#ae
+f ˈe l , f ˈɛ l
+g ˈe l u m , ʒ ˈɛ l
+m ˈe l , m ˈɛ l
+f ˈe r r u m , f ˈɛ r u
+t ˈe r r a m , t ˈɛ r ə
+s ˈe r r a m , s ə r ˈa
+ˌa p ˈe r t u m , u β ˈɛ r t
+h ˌiː b ˈe r n u m , i β ˈɛ r n
+l ˌa n t ˈe r n a m , ʎ ə n t ˈɛ r n ə
+l ˌu k ˈe r n a , ʎ u ˈɛ r n ə
+m ˈe r u l a m , m ˈɛ r l ə
+p ˈe r d e r e , p ˈɛ r d ɾ ə
+t ˈe r t i u m , t ˈɛ r s
+d ˈi e w ˈe n e r i s , d i β ˈɛ n d ɾ ə s
+ɡ ˈe n̪ e r u m , ʒ ˈɛ n d ɾ ə
+t̪ ˈe n̪ e r u m ,  t ˈɛ n d ɾ ə
+p ˈe d e m , p ˈɛ w
+s ˈe d e t , s ˈɛ w $verb #ask about this. cited by article as oberta but IPA from diccionary says tancada
+d ˈe k e m , d ˈɛ w
+d ˈe k i m u m , d ˈɛ w m ə #self-transcribed
+p r ˈe t i u m , p ɾ ˈɛ w
+s ˈe p t e m , s ˈɛ t
+l ˈeː k t u m , ʎ ˈi t
+p ˈe k t u s , p ˈi t #in source catalan is plural
+d ˌeː l ˈeː k t u m , d ə l ˈi t
+#gita
+#pg 66
+s p ˈe k u l u m , ə s p ˈi ʎ
+m ˈe d i u m , m ˈi tʃ
+m ˈe l i u s , m ˈi ʎ #in source catalan is plural
+ˌe k s t ˈe r i u s , ə s t ˈi r s #self-transcribed. I decided to make it plural due to silent r in catalan
+ˌi n g ˈe n i u m , ə ɲ ʒ ˈi ɲ
+f ˈe r i a t , f ˈi ɾ ə
+l ˈe g i t , ʎ ˈi tʃ #self-transcribed
+s ˈe k s , s ˈi s
+t ˈe k s i t , t ˈi ʃ #self-transcribed. valencian
+ˈe k s i t , ˈi ʃ
+k ˈa t h e d r a m , k ə ð ˈi ɾ ə
+ˈi n̪ t̪ e ɡ r u m , #can't find catalan transcription here
+t e n e o , # can't find catalan transcription
+w ˈeː n i oː , b ˈi ŋ k #self-transcribed
+w ˈe t u l u m , b ˈe ʎ #exception to rule for short e becoming i
+w ˌe n ˈi , b ˈi n ə #self-transcribed
+h ˈe r iː , ə ˈi
+k ˌe r ˈe s i a m , s i ɾ ˈe ɾ ə
+r ˌe m ˈe d i u m , r ə m ˈɛ j #exception to rule
+#pg 69 - e tancada excepcions
+g ˈi b b u m , ʒ ˈe p
+g ˌi n g ˈi b e r , ʒ i ɲ ʒ ˈe β ɾ ə #unsure about latin transcription here for stress
+r ˈeː g e m , r ˈe j
+l ˈeː g e m , ʎ ˈe j
+d ˈi e d ˌo m ˈi n i k u m , d i w m ˈe ɲ ʒ ə
+l ˈi n̪ ɡ w ɑ m , ʎ ˈe ŋ g w ə
+#pg 70
+s k ˈi l l a , ə s k ˈe ʎ ə #i cant find latin transcription here
+ˈi l l u m , ˈe ʎ
+k ˈi n e r e , s ˈɛ n d ɾ ə $unsure about the latin form here. # pronounced as ndr instead of nr since nr doesnt exist in catalan
+w ˈi r g i n e , b ˈɛ r ʒ ə #exception
+l ˈeː g e , #catalan pronunciation up to debate?
+w ˌi r ˈiː d u m , b ˈɛ r t #strange. unsure about latin stress
+w ˈeː l u m , b ˈɛ l
+w ˈeː l a m , b ˈɛ l ə
+k ˌa n d ˈeː l a m , k ə n d ˈɛ l ə
+p ˈi l u m , p ˈɛ l
+$m ˌuː s t ˈeː l a , #cant find transcription here
+t ˈeː l a m , t ˈɛ ʎ ə
+#pg 71
+k ˈe r e u m , s ˈi ɾ i
+s ˈeː p i a m , s ˈi p i ə
+k ˌo e̯ m eː n t ˈeː r i u m , s ə m ə n t ˈi ɾ i #might be a loan
+m ˌo n a s t ˈeː r i u m , m u n ə s t ˈi
+p s ˌa l t ˈeː r i u m , s ə l t ˈi ɾ i
+#nirvi. not sure if this is an instanace to include since latin isnt listed here
+k r ˈi p i a , g ɾ ˈi p i ə
+$s aː n i j a , s ˈi n i ə #arabic
+#saqiya
+f ˈeː k iː , f ˈi w #self-trans
+ˈi b iː , ˈi
+m ˈi h iː , m ˈi
+s ˈi b iː , s ˈi
+s t ˈeː t u iː , ə s t ˈi k #self
+t ˈeː n u iː , t ˈi ŋ #self #here all examples of past tens in latin -> present tense in catalan
+w ˌi g ˈi n t iː , b ˈi n
+d ˈi e , d ˈi ə
+s ˈi a t , s ˈi ə
+w ˈi a m , b ˈi ə
+k ˈi n k t a m , s ˈi n t ə
+k ˈi n g u l a m , s ˈi ŋ g l ə
+p i n k t a t , p ˈi n t ə #from vulgar latin pinktare
+ˌe k s ˈeː m p l u m , ə k s ˈi m p l i #self
+m ˈi n u a t , m ˈi m b ə
+w ˈi d u a , b ˈi w ð ə
+ˌe p ˈi s k o p u m , b ˈi z b ə
+f ˌa m ˈi l i a m , f ə m ˈi l i ə
+l ˈiː b r u m , ʎ ˈi β ɾ ə
+m ˈi s s a m , m ˈi s ə
+ˌo f f ˈi k i u m , u f ˈi s i
+w ˈi t r u m , b ˈi ð ɾ ə
+ˌe k k l ˈeː s i a m , ə z g l ˈe z i ə
+eˌ k s ˈe m p l u m , ə g z ˈe m p l ə #variation of word
+#pg 72
+w ˌe n ˈeː n u m , b ə ɾ ˈi
+r ˌa k ˈeː m u m , r ə ˈi m
+t ˈi n e a m , t ˈi ɲ ə
+d ˈi g i t u m , d ˈi t
+d ˈi k t u m , d ˈi t #variation
+m ˈiː l i u m , m ˈi ʎ
+d ˌe ˈi n t u s , d ˈi n s
+d ˌe ˈi n t r o , d ˈi n t ɾ ə
+s ˌu b ˈi n d e , s u β ˈi n #weird case
+#pg 73
+f r ˈa t r e , f ɾ ˈa ɾ ə
+p ˌa l ˈaː t i u m , p ə l ˈa w
+g ˌe r m ˈaː n u m , ʒ ə r m ˈa
+p ˈa n t i k e m , p ˈa ɲ ʃ ə
+p ˈa s s u m , p ˈa s
+ˈa r b o r e m, ˈa β ɾ ə
+k ˈa r n e m , k ˈa r n
+k ˈa l i k e m , k ˈa l z ə
+t ˈa l p a m , t ˈa l p
+ˈa l t e r u m , ˈa l t ɾ ə
+f ˈa l k e m , f ˈa l s
+k ˌa b ˈa l l u m , k ə β ˈa ʎ
+ˌa r ˈaː n e a m , ə ɾ ˈa ɲ ə
+ˈa n n u m , ˈa ɲ
+p l ˌa n t ˈa g i n e , p l ə n t ˈa dʒ ə #unsure if latin should have "um"
+l ˈa k w e u m , ʎ ˈa s
+b r ˈa k k t i u m , b ɾ ˈa s
+ˈa k k w u a m , ˈa j ɣ w ə
+#pg 74
+j ˌa k ˈe t , ʒ ˈɛ w #self
+t r ˌa h ˈeː r e , t ɾ ˈɛ w ɾ ə
+s ˌa p ˈeː r e , s ˈɛ β ɾ ə
+$k a p e r e , #unknown due to dialect word
+t ˈa m , t ˈe n #self also idk about this one
+s ˈaː n k t u m , s ˈe n #self. Weird example
+#pg 75
+f a k i a m , #old unused word
+p ˈa l e a m , p ˈa ʎ ə
+d ˈa k u l a m , d ˈa ʎ ə
+f r ˈa g u l a m , f ɾ ˈa w l ə
+s p ˈa t u l a m , ə s p ˈa ʎ ʎ ə
+ˌa r ˈaː n e a m , ə ɾ ˈa ɲ ə
+s t ˈaː g n u m , ə s t ˈa ɲ
+f ˈaː g e u m , f ˈa tʃ
+b ˈa i u l u m , b ˈa ʎ ʎ ə
+m ˈa i u m , m ˈa tʃ
+r ˈa d i u m , r ˈa tʃ
+l ˈa b i u m , ʎ ˈa β i
+s ˈa p i a t , s ˈa p i ə # self
+f ˈa k t u m , f ˈe t
+l ˈa k t e , ʎ ˈe t
+p l ˈa k i t u m , p l ˈe t
+t r ˈa k t u m , t ɾ ˈe t
+w e r b a k t u m , g w ə ɾ ˈɛ t #contradictory. unsure about transcription. unable to find either
+ˈa k s e m , ˈe ʃ
+f ˈa s k i a m , f ˈe ʃ ə
+f ˈa s k e m , f ˈe ʃ
+f r ˈaː k s i n u , f ɾ ˈe ʃ ə
+l ˌa k s ˈa t , ʎ ˈe ʃ ə #unsure about stress here for latin
+m ˌa t ˈa k s a m , m ə ð ˈe ʃ ə
+p ˌa s k ˈeː r e , p ˈe ʃ ə
+t ˈa k s u m , t ˈe ʃ
+ˈaː r e a m , ˈe ɾ ə
+k ˌa l d ˈaː r i a m , k ə l d ˈe ɾ ə
+g l ˈa r e a m , ɡ l ˈe ɾ ə #self
+b ˈa s i u m , b ˈe s
+g r ˈa s s e u m , g ɾ ˈe ʃ
+$k a n t a w i , #no transcription
+l ˈaː i k u m , ʎ ˈe k
+m ˈa g i s , m ˈe s
+#galloromanic word as well LAID and lleig
+#pg 76
+b ˈa s s i a t , b ˈa ʃ #unsure about latin transcription
+k ˈa p s a , k ˈa ʃ ə
+f ˈa s k i a m , f ˈa ʃ ə
+ˈa s k i a m , ˈa ʃ ə
+n ˈa s k e r e , n ˈa ʃ ə
+#pg 77
+k ˈa p s u m , k ˈe ʃ
+r ˈa w b a , r ˈɔ β ə
+p ˈa w p e r e m , p ˈɔ β ɾ ə
+ˈa w d i t , ˈɔ w
+p ˈa w s a t , p ˈɔ z ə
+k ˈa w s a , k ˈɔ z ə
+ˈa w s a t , ɡ ˈɔ z ə #self
+n ˈa w s e a m , n ˈɔ z ə
+k ˈa w l e m , k ˈɔ l
+ˈa w r u m , ˈɔ r
+g ˈa w d i u m , g ˈɔ tʃ
+ˈa w k a m , ˈɔ k ə
+p ˈa w k u m , p ˈɔ k
+n ˈa w k u m , n ˈɔ k
+t ˈa b u l a m , t ˈa w l ə
+p ˌa r ˈa b o l a m , p ə ɾ ˈa w l ə
+$t r a b u k a r e , t ɾ ˈa w #exception due to post-verbals?
+#pg 78
+d ˈo m i n a , d ˈɔ n ə
+k ˈo m i t e , k ˈo m t ə #contradictory to francesc
+b ˈo w e m , b ˈɔ w
+ˈo p e r i t , ˈɔ β ɾ ə #self
+k ˈo p h i n u m , k ˈɔ β ə
+r ˈo t a m , r ˈɔ ð ə
+r ˌe p ˈo s t u m , r ə β ˈɔ s t
+k ˈo r p u s , k ˈɔ s
+b ˈo n u m , b ˈɔ
+f ˈo n t e m , f ˈɔ n
+p ˈo r k u m , p ˈɔ r k
+m ˈo l l e m , m ˈɔ ʎ
+k ˈo l l u m , k ˈɔ ʎ
+l ˈo k u m , ʎ ˈɔ k
+f ˈo k u m , f ˈɔ k
+k r ˈo k u m , g ɾ ˈɔ k
+#bottom of page
+k ˈo k t u m , k ˈu j t
+ˈo k t o , b ˈu j t #in between form /w o k i t u/
+ˈo k l u m , ˈu ʎ #next few are strange since they aren't the same dipthong but OK
+s k ˈo p u l u m , ə s k ˈu ʎ
+t ˈo r k u l u m , t ɾ ˈu ʎ
+w ˈo l e oː , b ˈu ʎ #self
+f ˈo l i a m , f ˈu ʎ ə
+$l o l i u , #cant find transcription
+k ˈo l l i g oː , k ˈu ʎ #self
+k ˈo k s a m , k ˈu ʃ ə
+$p r o k s i m u , #cant find transcription. old catalan
+p ˈo s t i u s , p ˈu ʃ #west romance form CFPUIS
+$g r o s s i a , #ɡ ɾ ˈu ʃ is closest. i don't know why it has an a at the end
+l ˈo n g eː , ʎ ˈu ɲ
+$m o r i o , #here it is muir instead of moro (present fps) mallorqui?
+k ˈo r i u m , k ˈu j r
+h ˈo d i eː , ə β ˈu j
+t r ˌi m ˈo d i a , t ɾ ə m ˈu ʒ ə
+ˌi n ˈo d i u m , ə n ˈu tʃ #strange latin word
+p ˈo d i u m , p ˈu tʃ
+t r ˈo j a m , t ɾ ˈu ʒ ə $gallish maybe trogjiam
+p l ˈu w i a m , p l ˈu ʒ ə
+ˈo d i u m , ˈɔ j
+r ˈo t u l u m , r ˈɔ ʎ ʎ ə
+s ˈo m n i u m , s ˈɔ m n i
+#pg 79
+n ˈo k t e m , n ˈi t
+#n o k e t , n ˈɔ́ w but this example is strange due to definitions
+k ˈo m p u t a t , k ˈo m t ə #self
+m ˈo n t e m , m ˈɔ n #contradictory to francesc
+k ˈo m p a r a t , k ˈo m p ɾ ə
+j ˈo k a t , ʒ ˈu ɣ ə #self
+s ˈo r b a , s ˈe r b ə
+#pg 80
+l ˈu p u m , ʎ ˈo p
+r ˈoː b u r e , r ˈo w ɾ ə
+j ˈu w e n e m , ʒ ˈo β ə
+p ˈoː m a , p ˈo m ə
+ˈu m b r a m , ˈo m b ɾ ə
+p l ˈu m b u m , p l ˈo m
+n ˌe p ˈoː t e m , n ə β ˈo t
+t ˈoː t u m , t ˈo t
+ˌa r b ˈu t e u s , ə r b ˈo s
+p ˈu t e u m, p ˈo w
+m ˈu s k a m , m ˈo s k ə
+t ˈu s s e m , t ˈo s
+ˌa n g ˈu s t i a , ə ŋ g ˈo ʃ ə
+ˈu n d a m , ˈo n ə
+m ˈu n d u m , m ˈo n
+r ˌo t ˈu n d u m , r u ð ˈo
+l ˌi g ˈoː n e m , ʎ ə ɣ ˈo
+f ˌa w ˈoː n i u m , f ə ɣ ˈo ɲ #self
+k ˌo t ˈoː n e u m , k u ð ˈo ɲ
+w ˌe r eː k ˈu n d i a , b ə r g ˈo ɲ ə
+g ˈu l a m , g ˈo l ə
+s ˈu l k u m , s ˈo l k
+s ˈu l f u r e , s ˈo f ɾ ə
+m ˈu l t u m , m ˈo l
+d i ˈu r n u m , ʒ ˈo r n
+f ˈu r n u m , f ˈo r n
+t ˈu r r e m , t ˈo r ə
+t ˌo n s ˈoː r i a s , t i z ˈo ɾ ə s #self
+k ˈu r s u m , k ˈo s #self
+s ˈu r d u m , s ˈo r t
+b ˈu k k a m , b ˈo k ə
+g e n ˈu k u l u m , ʒ ə n ˈo ʎ
+j ˈu g u m , ʒ ˈo w
+b ˈu k s u m , b ˈo ʃ
+s ˈu a m , s ˈu ə #self
+d ˈu a s , d ˈu ə s #self
+j ˈu n g e r e , ʒ ˈu ɲ ə
+j ˈu n k t u m , ʒ ˈu n
+m ˈu n g i t , m ˈu ɲ #self
+p ˈu n k t a m , p ˈu n t ə
+ˈu n g u l a m , ˈu ŋ g l ə
+p ˈu g n u m , p ˈu ɲ
+f ˈu g i oː , f ˈu tʃ #self
+r ˌe p ˈu d i u m , r ə β ˈu tʃ
+l ˈu k t a m , ʎ ˈu j t ə
+t r ˈu k t a m , t ɾ ˈu j t ə
+k ˈoː g i t a t , k ˈu j t ə #self
+n ˈoː d u m , n ˈu
+ˌo k t ˈoː b e r , u k t ˈu β ɾ ə
+#pg 81
+k ˈu l p a m , k ˈu l p ə
+k ˈoː d a m , k ˈu ə
+ˌi l l ˈoː r i u m , ʎ ˈu r
+ˈu n k i a m , ˈu n s ə
+t ˈoː t t i , t ˈo t #not explicitly stated as example
+$f l oː r e , #unknown transcription
+$m a j oː r e , #no transcription but probably majú from majuscules
+$j u w e n e , #unknown transcription
+$l u p u , #unknown transcription
+s ˈoː l e m , s ˈɔ l
+r ˈu b e u m , r ˈɔ tʃ
+s ˈu p e r a t , s ˈɔ β ɾ ə
+k ˈu p e r a t , k ˈɔ β ɾ ə
+k r ˈu s t a m , k ɾ ˈɔ s t ə
+#pg 82
+p ˌa w ˈoː r e m , p ˈo
+f l ˈoː r e m , f l ˈɔ #contradictory to francesc
+h ˈoː r a m , ˈɔ ɾ ə
+p l ˈoː r a t , p ɫ ˈɔ ɾ ə #self
+p r ˈoː d e m , p ɾ ˈɔ w
+n ˈoː k e t , n ˈɔ w
+k r ˈu k e m , k ɾ ɛ w 
+d ˈu k e m , d ˈɛ w 
+w ˈoː k e m , b ˈɛ w
+#pg 84
+k ˌo n ˈoː s k e r e , k u n ˈɛ ʃ ə
+l ˈuː m e n , ʎ ˈu m
+n ˈuː b e m , n ˈu w
+f ˈuː m u m , f ˈu m
+s ˈuː b e r u m , s ˈu ɾ u
+n ˈuː d u m , n ˈu
+k r ˈuː d u m , k ɾ ˈu
+f ˈuː s u m , f ˈu s
+l ˈuː n a m , ʎ ˈu n ə
+m ˌe n s ˈuː r a m , m ə z ˈu ɾ ə
+m ˌa t ˈuː r u m , m ə ð ˈu
+p ˈuː l i k e m , p ˈu s ə
+$s uː k i d u , #cant find transcription
+ˌa k ˈuː k u l a m , ə ɣ ˈu ʎ ə
+f r ˈuː k t u m , f ɾ ˈu j t
+p l ˈuː m a m , p l ˈo m ə
+b r ˈuː m a m , b ɾ ˈo m ə
+$f l uː m e n , #cant find transcription
+t ˈuː f e r a m , t ˈɔ f u n ə
+#pg 85
+s ˌiː b i l ˈaː r e  , ʃ i w l ˈa #catalan verb has another more modern form. judgement call
+h ˌiː w ˈe r n u m , i β ˈɛ r n
+l ˌiː m i t ˈaː r e , ʎ i n d ˈa
+k ˌiː v i t ˈaː t e m , s i w t ˈa t
+m ˌiː r ˈaː r e , m i ɾ ˈa
+w ˌiː k ˈiː n u m , b ə ˈi
+$d iː w iː n a t , #i can do self transcription later, stress slightly different
+d ˌiː w ˈiː n u m , d i β ˈi
+ˌa p r ˈiː k u m , ə β ɾ ˈi k
+p ˌa r ˈe t e , p ə ɾ ˈɛ t
+w ˌe s t ˈiː r e , b ə s t ˈi
+p l ˌi k ˈaː r e , p l ə ɣ ˈa
+m ˌe r k ˈeː d e m , m ə r s ˈɛ
+s ˌi n k ˈe r u m , s ə n s ˈɛ
+ˌa e̯ r ˈaː m e n , ə ɾ ˈa m
+b ˌi l ˈa n k e a , b ə l ˈa n s ə #latin root strange here
+s ˌa l w ˈa t i k u , s ə l β ˈa dʒ ə
+ˌi l i k ˈiː n a , ə l z ˈi n ə
+f ˌi l i k ˈaː r i a , f ə l ɣ ˈe ɾ ə
+b ˌa s i ˈaː r e , b ə z ˈa
+l ˌa k t ˈuː k a m , ʎ ə t ˈu ɣ ə
+t ˌa k s ˈoː n e m , t ə ʃ ˈo
+w ˌa r i ˈoː l a m , b ə ɾ ˈɔ l ə #unsure about latin root here.
+g ˌiː r ˈaː r e , ʒ i ɾ ˈa #j e k t a r e en vulgar latin. I made a judgement call here to choose the older infinitive.
+l ˌeː k t i ˈoː n e , ʎ i s ˈo
+m ˌe l i ˈoː r e m , m i ʎ ˈo
+p ˌeː d iː k ˈaː r e , p i dʒ ˈa
+ˌi n d ˌiː r eː k t u m , i n d ɾ ˈɛ t #two secondary stress due to prefix?
+k r ˌe ˈaː r e , k ɾ i ˈa
+#pg 86
+k i s t ˈe l l a m , s i s t ˈe ʎ ə
+f ˌe n ˈe s t r a m , f i n ˈe s t ɾ ə
+g ˌe n ˈi p e r u m , ʒ i n ˈe β ɾ ə #cant find latin root. self-converted
+g ˌe n ˈi s t a m , ʒ i n ˈe s t ə
+d ˌaː m ˈa s k u m , d u m ˈa s #contradiction since francesc states it should be "o"
+ˌi m p l ˈeː r e , u m p l ˈi
+ˌiː n f l ˈaː r e , u ɱ f l ˈa #self + dialectal
+r ˌe m ˌa n ˈeː r e , r u m ˈa n d ɾ ə #prefix = two counter stress?
+f o e̯ n u k l u m , f u n ˈo ʎ
+g ˌe n ˈu k u l u m , ʒ u n ˈo ʎ #self
+r ˌe s t ˈu p l u m , r u s t ˈo ʎ
+t ˈa k s o n e m , t u ʃ ˈo
+a u k e l l u m , u s ˈe ʎ #unsure about latin stress here
+ˌa u d ˈiː r e , u ˈi
+ˌa u r ˈi k u l a m , u ɾ ˈɛ ʎ ə
+l ˌa u r ˈe n t i u m , ʎ u ɾ ˈɛ n s
+p ˌa u s ˈaː r e , p u z ˈa
+ˌa g ˈu s t u m , ə ɣ ˈo s t
+o f f e r i r e , u f ə ɾ ˈi #seems like latin has offerre
+ˌoː l l ˈaː r i u m , u ʎ ˈe
+ˌo p ˈaː k a m , u β ˈa ɣ ə #self
+ˌo w ˈi k u l a m , u β ˈɛ ʎ ə
+ˌo r ˈiː g a n u m , u ɾ ˈɛ ŋ g ə
+ˌu r t ˈiː k a m , u r t ˈi ɣ ə
+h ˌo s p i t ˈaː l e m , u s t ˈa l
+k ˌu n ˈiː k l u m , k u n ˈi ʎ
+d ˌo r m ˈiː r e , d u r m ˈi
+l ˌu p ˈiː n u m , ʎ u β ˈi
+m ˌo r s i k ˈaː r e , m u s ə ɣ ˈa
+n ˌu k ˈaː r i u m , n u ɣ ˈe
+n ˌu t r iː r e , n u ð ɾ ˈi
+p ˌo t ˈeː r e , p u ð ˈe
+p r ˌo b ˈaː r e , p ɾ u β ˈa
+s ˌu p e r ˈaː r e , s u β ɾ ˈa
+w ˌu l t ˈoː r e , b u l t ˈo
+#pg 87
+m ˌu l i ˈeː r e , m u ʎ ˈe
+m ˌoː i ˈo l u m , m u ʒ ˈɔ l
+m ˌoː l l i ˈaː r e , m u ʎ ˈa
+ˌo l e ˈa s t r u m , u ʎ ˈa s t ɾ ə
+p ˌu n g ˈeː r e , p u ɲ ˈi
+k ˌoː g n ˈa t u m , k u ɲ ˈa t
+ˌo k t ˈa n t a m , b u j t ˈa n t ə #old catalan version huytanta
+k ˌo k h l e ˈaː r i a m , k u ʎ ˈe ɾ ə
+d ˌu b i t ˈaː r e , d u p t ˈa
+j ˌo k ˈaː r e , ʒ u ɣ ˈa #ortography exception here. doesnt affect sound. for u usually o
+n ˌo w ˈaː k u l a m , n ə β ˈa ʎ ə
+l ˌu m b r ˈiː k u m , ʎ ə m b ɾ ˈi k
+k ˌo l ˈo s t r u m , k ə l ˈɔ s t ɾ ə
+ˌo b k a e k ˈaː r e , u p s ə k ˈa #old catalan is abcegar. Updated to modern catalan
+ˌo f f o k ˈaː r e , ə f u ɣ ˈa #self
+ˌo b t u r ˈaː r e , ə t u ɾ ˈa
+ˌo k k u p ˈaː r e , ə k u β ˈa
+h ˌoː r o l ˈo g i u m , r ə ʎ ˈɔ dʒ ə
+r ˌo t ˈu n d u m , r ə ð ˈo #self. More popular word is ruˈðo dissimilation
+t ˌoː n s ˈo r i a s , t i z ˈo ɾ ə s #self. old catalan word tesores. change likely due to spanish tijeras
+p ˌuː b ˈi l l u m , p u β ˈi ʎ ə
+s ˌu d ˈaː r e , s u ˈa
+s k ˌuː t ˈe l l a m , ə s k u ð ˈe ʎ ə
+p ˌuː t ˈiː r e , p u ð ˈi
+l ˌuː k ˈiː r e , ʎ u ˈi
+m ˌuː r ˈa l i a m , m u ɾ ˈa ʎ ə
+f r ˌuː m ˈe n t u m , f u r m ˈe n
+r uː m ˈoː r e , r ə m ˈo
+k ˌa l a m ˈe l l u m , k ə ɾ ə m ˈe ʎ
+h ˌo r t a l ˈi k i a m , u r t ə l ˈi s ə
+p ˌa r a d ˈiː s u m , p ə ɾ ə ð ˈi s
+h ˌo r t u l ˈaː n u m , u r t u l ˈa
+$s a l a m a n d r i a , #no transcription found
+$f a r iː n a r i u m , #no transcription found
+m ˌo l iː n ˈaː r i u m , m u l n ˈe
+b ˌo n i t ˈaː t e , b u n d ˈa t
+ˌa r k h i d i ˈa k o n u m , ə r d i ˈa k ə
+k e r e b ˈe l l u m , s ə r b ˈe ʎ
+k ˌo n s iː d e r ˈaː r e , k u n s i ð ə ɾ ˈa #old catalan consirar (change probably because of spanish)
+k ˌo l oː r ˈaː r e , k u l r ˈa
+p ˌe k t o r ˈaː l e m , p i t ɾ ˈa l
+l ˌa b oː r ˈaː r e , ʎ ə w ɾ ˈa
+k ˌo m p u t ˈaː r e , k u m t ˈa
+ˌa w e l l ˈaː n a m , ə β ə ʎ ˈa n ə
+h ˌo r t u l ˈaː n u m , u r t u l ˈa
+p ˌe t r i k ˈoː s u m , p ə ð ɾ ə ɣ ˈo s
+w ˌo l u n t ˈaː t e m , b u l u n t ˈa t #old catalan volentat
+p ˌaː p i l i ˈoː n e m , p ə p ə ʎ ˈo
+#pg 89
+ˌe k s a m i n ˈaː r e , ə ʃ ə m ə n ˈa #self
+l ˌe n i k ˈaː r e , ʎ ə n ə ɣ ˈa
+l ˌu m i n ˈa r i a m , ʎ u m ə n ˈe ɾ ə
+n ˌo m i n ˈaː r e , n u m ə n ˈa
+t ˌe r m i n ˈaː r e , t ə ɾ m ə ŋ ˈa
+ˌi n g u i n ˈaː l e m , ə ŋ g u n ˈa l
+s ˌa n g u i n ˈa r i a m , s ə ŋ g u n ˈe ɾ ə
+s ˌa n g u i n ˈoː s u m , s ə ŋ g u n ˈo s
+d ˌo r m iː t ˈoː r i u m , d u r m i ð ˈo
+m o l i n a r i u , m u l i n ˈe #old catalan molner
+t r ˌa d i t ˈoː r e m , t ɾ ə i ð ˈo
+k ˌa r r i k ˈaː r e , k ə r ə ɣ ˈa
+t r ˌe m u l ˈaː r e , t ɾ ə m u l ˈa
+$a m i k i t a t e , ə m i s t ˈa t #not official word. I have one at end of doc
+k ˌo m i n i t i ˈaː r e , k u m ə n s ˈa
+r ˌe k u p e r ˈaː r e , r ə k u β ɾ ˈa
+$p e l l i k i k a r e , #transcription not found
+ˈa n a t e m , ˈa n ə k #other option for word aneda
+ˌa s p ˈa r a g u m , ə s p ˈa ɾ ə k #more modern version available I believe with trilled r
+
+r ˈa p h a n u m , r ˈa β ə
+ˈo r p h a n u m , ˈɔ r f ə
+ˈo r g a n u m , ˈɔ r g ə
+s k ˈa n d a l u m , ə s k ˈa n d u l #old catalan word escandel. transcription not found
+k ˈa n a m u m , k ˈa n ə m
+b ˈa l s a m u m , b ˈa ɫ s ə m #self
+t ˈa l a m u m , t ˈa l ə m
+$k i n e r a , #transcription not found
+g ˈe n e r e , ʒ ˈɛ n ə ɾ ə #old catalan genre
+p ˈi p e r e m , p ˈɛ β ɾ ə
+l ˈi t t e r a m , ʎ ˈɛ t ɾ ə
+d ˈeː b i t u m , d ˈɛ w t ə
+k ˈiː m i k e m , ʃ ˈi ɲ ʃ ə
+h ˈo s p i t e m , ˈɔ s t ə
+k ˈa l i k e m , k ˈa l z ə
+$p r o ks i m u , #old catalan pruxme. transcription not found
+p ˈu l i k e m , p ˈu s ə
+l ˈe p o r e m , ʎ ˈe β ɾ ə
+p ˈo p u l u m , p ˈɔ b b l ə
+ˈa s i n u m , ˈa z ə
+k ˈo p h i n u m , k ˈɔ β ə
+h ˈo m i n e m , ˈɔ m ə
+m ˈa r g i n e m , m ˈa r ʒ ə
+ˈo r d i n e m , ˈo r d ə
+t ˈe r m i n u m , t ˈe r m ə
+#pg 90
+h ˈo m o , ˈɔ m
+n ˈo m e n , n ˈɔ m
+k ˌo n o s k ˈeː r e , k u n ˈɛ ʃ ə
+k r ˌe s k ˈeː r e , k ɾ ˈe ʃ ə
+k ˌu r r ˈeː r e , k ˈo r ə
+n ˌa s k ˈeː r e , n ˈe ʃ ə
+p ˌa s k ˈeː r e , p ˈe ʃ ə
+s t r ˌi n g ˈeː r e , ə s t ɾ ˈɛ ɲ ə
+t ˌo r k w ˈeː r e , t ˈɔ r s ə
+w ˌi n k ˈeː r e , b ˈɛ n s ə
+d ˌo m ˈi n i k u m , d u m ˈɛ n ə k #other variation domenge
+k ˈa w i k u m , k ˈa β ə k
+k ˈu r r i k u m , k ˈɔ r ə k
+m ˈa n i k a m , m ˈa n ə ɣ ə
+m ˈa n i k u m , m ˈa n ə k
+p ˈe r s i k u m , p ɾ ˈe s ə k
+$n i t i d u , #cant find transcription
+#most of these "idu" words I cant find transcription for
+b ˈi f i d u m , b ˈi f i
+r ˈa n k i d u m , r ˈa n s i
+t ˈe p i d u m , t ˈɛ β i
+n ˈu b i l u m , n ˈu β u l #old catalan nuvel
+$s t r i g i l e , #cant find transcription
+m ˈu g i l e m , m ˈu ʒ u l
+p ˈa m p u l u m , p ˈa m p u l
+ˌa k r ˈi p h o l u m , g ɾ ˈɛ β u l
+ˌa p ˈo s t o l u m , ə p ˈɔ s t u l
+k ˈi r k u l u m , s ˈɛ r k ˈu l #two points of stress here?
+ˈa u̯ n k u l u m , ˈo ŋ k l ə
+s ˈu b t u l u m , s ˈɔ t i l
+ˈa n g e l u m , ˈa ɲ ʒ ə l
+ˈa n i m a m , ˈa n i m ə
+l ˈa k r i m a m , ʎ ˈa ɣ ɾ i m ə
+s ˌa n k t ˈi s s i m u m , s ə n t ˈi s i m
+ˌa l t ˈi s s i m u m , ə l t ˈi s i m #old catalan altisme
+ˈu t i l e m , ˈu t i l
+#pg 91
+ˌa d n ˈo m i n a t , ə n u m ˈɛ n ə #self
+$t e r m i n a t , #stress different transcription off
+k ˈa r r i k a t , k ˈa r ə ɣ ə #stress different than specified
+g ˈe m i k a t , ʒ ə m ˈe ɣ ə #self
+m ˈa s t i k a t , m ə s t ˈɛ ɣ ə #self
+m ˈo r s i k a t , m u s ˈɛ ɣ ə
+r ˌe w iː w ˈiː s k u l a t , r ə β i s k ˈɔ l ə #self
+$r o t u l a t , #transcription not found
+$t r e m u l a t , #transcription not found
+ˈa p i u m, ˈa p i
+ˈa w i u m , ˈa β i
+h ˈo r d e u m , ˈɔ r d i
+ˈo l e u m , ˈɔ l i
+s t ˈu d i u m , ə s t ˈu ð i
+#pg 92
+d ˈo m n a m , d ˈɔ n ə
+w ˈi n e a m , b ˈi ɲ ə
+#pg 93
+k ˈa n t o , k ˈa n
+d ˈu l k e m , d ˈo l s
+#pg 94
+ˈa k r u m , ˈa ɣ ɾ ə
+m ˈa s k l u m , m ˈa s k l ə
+m ˈe d i k u m , m ˈe dʒ ə
+p ˈa u p e r u m , p ˈɔ β ɾ ə #repeat but root is different??
+r ˌu m p ˈeː r e , r ˈo m p ɾ ə
+$w e r r e , #transcription not found
+d ˈe u m , d ˈe w
+m ˈe u m , m ˈe w
+p l ˈa k e n t , p l ˈa w ə n #self
+$k u r r u n t , #transcription not found
+b ˈe k k u m , b ˈe k
+b ˈo r e a m , b ˈɔ j ɾ ə
+f ˈeː n u m , f ˈɛ
+f ˌiː k ˈaː r i a m , f i ɣ ˈe ɾ ə
+f ˌo r ˈaː t u m, f u ɾ ˈa t
+f ˈuː m u m , f ˈu m
+#pg 95
+f ˈiː b u l a m , s i β ˈe ʎ ə #vulgar latin f i b ˈeː l l a m
+w ˌa l ˈeː r e , b ə l ˈɛ
+w ˈo k e m , b ˈɛ w
+$w u l p e , #transcription not found. Old catalan
+w ˌa k ˈiː w a m , b ə s ˈi β ə #self
+w ˈa g i n a m , b ˈa j n ə #self
+w ˌeː r ˈaː t r u m , b ə l ˈa ð ɾ ə
+$w e r k a r i a , #transcription not found
+w ˌe r r ˈuː k a m , b ə r ˈu ɣ ə
+w ˌe r ˈu i n a m , b ə r ˈi n ə
+w ˈo k i t u m , b ˈu j t
+w ˌo l w i k ˈaː r e , b u l k ˈa
+ˌi n w o l w i k ˈaː r e , ə m b u l i k ˈa #two secondary stress 
+$w e r u k u l u , #exception. Transcription not found
+#lots of weird vulgar latin going on here. Go back and revisit
+w ˈe r r a m , g ˈɛ r ə
+w ˈi s a m , g ˈi z ə
+w ˈi h s e l a m , g ˈi ʎ ə
+#pg 96
+$w a s t a t , #transcription not found
+w ˌe r w ˈaː k t u m , g w ə ɾ ˈɛ t
+t ˌa l i ˈaː r e , t ə ʎ ˈa
+t ˌo n d ˈeː r e , t ˈɔ n d ɾ ə
+t r iː g ˈi n t aː , t ɾ ˈɛ n t ə
+t ˈu r d u m , t ˈo r t
+t h e s ˈa u̯ r u m , t ɾ ə z ˈɔ r
+t h ˈi a m , t ˈi ə
+t h r ˈi s k a n , t ɾ ə s k ˈa
+$t h a l j a , t u β ˈa ʎ ə #I think this is germanic?
+t h ˈy m u m , t ˈe m #y here in latin form.
+d ˈa m n u m , d ˈa ɲ
+d ˌeː f ˈeː n s a m , d ə β ˈɛ z ə
+d r a k ˈo n e m , d ɾ ə ɣ ˈo
+d ˈuː r u m , d ˈu
+s ˌe d ˈeː r e , s ˈɛ w ɾ ə
+s ˌi n g u l ˈaː r e , s ə ŋ g l ˈa
+s ˈo r t e m , s ˈɔ r t
+s ˌu b ˈeː r e , s ˈu ɾ u #unsure on this example. since it means cork?
+s ˈyː r i n g a m , ʃ ə ɾ ˈi ŋ g ə
+s ˈi m p l i k e m , ʃ ˈi m p l ə
+#pg 97
+k ˈa n n a m , k ˈa ɲ ə
+k ˌa n t ˈaː r e , k ə n t ˈa
+k ˈoː d a m , k ˈo ə #self
+k ˈu p p a m , k ˈo p ə
+k ˈuː p u m , k ˈu p
+k ˈe p a m , s ˈɛ β ə
+k ˌi r k ˈaː r e , s ə r k ˈa
+k ˌi k ˈaː l a m , s i ɣ ˈa l ə
+k ˈi l i a , s ˈɛ ʎ ə
+k ˈi n g u l a , s ˈi ŋ g l ə
+k iː w i t ˈaː t e m , s i w t ˈa t
+k ˈi k k u m , ʃ ˈi k
+k ˈiː m i k e m , ʃ ˈi ɲ ʃ ə
+k ˌi k ˈo r i a , ʃ i k ˈɔ j ɾ ə
+$k i r k u l u , #dialectal. no transcription found
+g ˈa l l u m , g ˈa ʎ
+$g o l i a t , #no idea what this is. no transcription
+g ˈu l a m , g ˈo l ə
+g ˈu t t a m , g ˈo t ə
+k ˈa t t u m , g ˈa t
+k ˈa w e a m , g ˈa β i ə
+g ˈi p p u m , ʒ ˈe p
+g ˌi n g ˈiː w a m , ʒ ə n ˈi β ə
+#pg 98
+j ˌa k ˈeː r e , ʒ ˈa w ɾ ə
+j ˈo k u m , ʒ ˈɔ k
+j ˈu d i k e m , ʒ ˈu dʒ ə
+j ˌe j ˈuː n u m , d ə ʒ ˈu
+j ˌe j ˈuː n i u m , d ə ʒ ˈu n i
+j ˌe j uː n ˈaː r e , d ə ʒ u n ˈa
+m ˈa n u m , m ˈa
+m ˈo r s u m , m ˈɔ s
+n ˈa s u m , n ˈa s
+n ˈe p t a m , n ˈe t ə #self
+n ˈiː d u m , n ˈi w
+n ˈu m e r u m , n ˈɔ m b ɾ ə
+m ˈe s p i l a m , n ˈe s p l ə
+$m u s k a t a , #not found
+n ˌe k ˈuː n u m , n i ŋ g ˈu
+r ˌa d ˈeː r e , r ˈa w ɾ ə
+r ˌe k i p ˈeː r e , r ˈɛ β ɾ ə
+r ˈi k k u m , r ˈi k
+r ˈu t a m , r ˈu ð ə
+#pg 99
+r ˈa n o t t a m , g ɾ ə n ˈɔ t ə #exception? This word is from vulgar latin. I added stress as I saw fit
+l ˈa k u m , ʎ ˈa k
+l ˌe n t ˈi k u l a m , ʎ ə n t ˈi ʎ ə
+l ˌi g ˈaː r e , ʎ i ɣ ˈa
+l ˌu m b r ˈiː k u m , ʎ ə m b ɾ ˈi k
+l ˈu k t a m , ʎ ˈu j t ə
+l ˈu t u m , ʎ ˈo t
+l ˈu m e n , ʎ ˈu m
+l ˈu n a m , ʎ ˈu n ə
+l ˌu s k i n i ˈoː l u m , r u s i ɲ ˈɔ l #cant find latin root. stress added as expected in catalan
+l ˌi b ˈe l l u m , n i β ˈe ʎ
+l ˈiː n e a m , ʒ ˈi ɲ ə #strange. Old catalan?
+$l i n e o l a , #not found
+$l e n t i k u l a , #not found
+l ˈo l i u m , ʒ ˈu ʎ
+l ˌa b r ˈe l l u m , ʒ i β ɾ ˈe ʎ
+ˌu m b i l ˈiː k u l u m , ʎ u m b ɾ ˈi ɣ u l
+#pg 100
+r ˈi p a m , r ˈi β ə
+ˌo p ˈaː k u m, u β ˈa k
+ˌa p ˈi k u l a m , ə β ˈɛ ʎ ə
+s ˌaː p ˈoː n e m , s ə β ˈo
+f ˈa b a m , f ˈa β ə
+g l ˈe b a m , g l ˈɛ β ə
+ˌa b ˈe t e m , ə β ˈɛ t
+r ˌu b ˈi k u l u m , r u β ˈɛ ʎ 
+p ˌa k i f i k ˈaː r e , ə p ə j β ə ɣ ˈa
+k ˌa w ˈaː r e , k ə β ˈa
+f l ˌa b ˈuː t a m , f l ˈa w t ə #here there are two versions. One dialectal which fransesc suggests
+$h a b uː t u , #haut. not found. old catalan
+$p a w oː r e ,  #paor. not found. Old catalan. There are two versions here.
+s ˌa b ˈuː k u m , s ə ˈu k
+s a b ˈu r r a m , s ˈo r ə #old catalan saorra
+f ˈa t a m , f ˈa ð ə
+k l ˈe t a m , k l ˈɛ ð ə
+k ˌa t h ˈe d r a m , k ə ð ˈi ɾ ə
+$a n a t i k u l a , #not found
+l ˌo t ˈoː n e m , ʎ ə ð ˈo
+#pg 101
+k r ˌa t ˈeː l l a s , ɡ ɾ ə ˈe ʎ ə s #self
+k r ˌa t ˈaː l e m , g ɾ e ˈa l ə
+p ˌa t ˈeː l l a m , p ə ˈe ʎ ə
+k w ˌa t ˈe r n u m , k w ə ð ˈe r n #self. more modern version here. Fransesc uses old catalan version
+s p ˈa t a m , ə s p ˈa z ə #old catalan espaa
+t r ˌi t ˈaː r e , t ɾ i ˈa
+v ˌi k ˈaː t a m , b ə ɣ ˈa #self
+l ˌaː b ː r a t ˈoː r e m , ʎ ə w ɾ ə ð ˈo #self. fransesc suggests an older llauraor
+b ˈoː t a n , b u t ˈa
+b r ˈu t a n , b ɾ u t ˈa
+#here there are roots without available transcriptions
+ˌa l ˈa u̯ d a m , ə l ˈo z ə
+l ˌa m p r ˈeː d a m , ʎ ə m p ɾ ˈɛ z ə #self
+ˌi n k ˈuː d i n e m , ə ŋ k l ˈu z ə
+j ˌuː d ˈa e̯ u m , ʒ u ˈe w
+s ˌu d ˈaː r e , s u ˈa
+k r ˌuː d ˈeː l e m , k ɾ u ˈɛ l
+k l ˌa u̯ d ˈe n d a m , k l u ˈe n d ə
+$f i d e l e , #old catalan feel. transcription not found
+$w i d e r e , #old catalan veer. de veure
+$r e d i m e r e , #old catalan reembre , 
+l ˌa u d ˈoː r e , ʎ ə ˈo
+p ˌe d ˈu k u l u m , p ˈo ʎ #old catalan peoll
+#pg 102
+l ˈa u̯ s a , ʎ ˈɔ z ə
+r ˈo s a m , r ˈɔ z ə
+ˌa k k u s ˈaː r e , ə k u z ˈa
+ˌi n k iː s ˈaː m e n , ə n s i ˈa m #vulgar latin of incīsum
+r o s ˈe l l a m , r u ˈe ʎ ə #self
+$l a u s e l l a , #not found
+r ˌeː s ˈiː n a m , r ə ˈi n ə
+r ˌa s ˈoː r e , r ə ˈo
+r ˌo s ˈaː t a m , r u z ˈa ð ə #self
+#pg 103
+f ˌo k ˈa k e a , f u ɣ ˈa s ə
+l ˌo k ˈaː r e , ʎ u ɣ ˈa
+f ˌo r m ˈiː k a m , f u r m ˈi ɣ ə
+s ˌe k ˈu n d u m , s ə ɣ ˈo n
+p ˈa u̯ k a m , p ˈɔ k ə
+f ˌa k ˈe n d a , f ˈɛ j n ə #older latin form f a k i e n d a m seems correct here but unsure.
+$j a k e n t e , #not found
+p l ˌa k ˈeː r e , p l ə ˈɛ
+d ˌe k ˈeː n a , d ˈɛ n ə #old catalan
+r ˈi k i n u m , r ˈɛ #self
+$t a n a k e t u , #cant find
+b ˈi g a m , b ˈi ɣ ə
+d ˈo g a m , d ˈɔ ɣ ə
+r ˈi g a t , r ˈe ɣ ə
+l ˈi g a t , ʎ ˈi ɣ ə
+n ˈe g a t , n ˈe ɣ ə #self
+$b r i g a n t e s , #not found. strange case
+r ˌu m i g ˈaː r e , r u m i ˈa
+r ˌe g ˈa l e m , r e ˈa l
+#pg 104
+r ˈu g a m , r ˈu ə
+p ˈu g a m , p ˈu ə
+t ˈe g u l a m , t ˈɛ w l ə
+l ˌe g ˈuː m e n , ʎ ə ɣ ˈu m
+ˌa w g ˈu s t u m , ə ɣ ˈo s t
+k w ˌa d r aː g ˈeː s i m a m , k w ə ɾ ˈɛ z m ə
+b ˌo r r ˈa g i n a m , b u r ˈa j n ə
+$b r u g i t u , #not found. bruit
+k ˌo g i t ˈaː r e , k u j t ˈa
+w ˌi g i l ˈaː r e , b ə l l ˈa #self. dialectal here
+$d o g e l l a , #self
+m ˌa g ˈi s t r u m , m ˈɛ s t ɾ ə
+n ˌi g ˈe l l a m , n i ˈe ʎ ə
+s ˌa g ˈiː m e n , s ə ˈi m #vulgar latin here. s a g iː n a from classic latin?
+f ˌu g ˈiː r e , f u ʒ ˈi
+f r ˌe g ˈiː r e , f ɾ ə ʒ ˈi
+l ˌe g ˈiː r e , ʎ ə ʒ ˈi
+#pg 105
+p ˌaː g ˈe l l u m , p ə ʒ ˈe ʎ
+p ˌaː g ˈeː n s e m , p ə ʒ ˈɛ s
+s ˌa g ˈi t t a m , s ə ʒ ˈɛ t ə
+s ˌi g ˈi l l u m , s ə ʒ ˈe ʎ
+s ˌa g ˈi n u m , s ə ʒ ˈi
+$t r a g i n a t , #transcription not found
+b ˌo r r ˈa g i n e m , b u r ˈa d ʒ ə
+f ˌa r r ˈa g i n e m , f ə r ˈa dʒ ə
+ˌi m ˈa g i n e m , i m ˈa dʒ ə
+c ˌa l ˈi g i n e m , k ə l ˈi dʒ ə
+f ˌe r r ˈi g i n e m , f ə r ˈi dʒ ə
+$p r u r i g i n e , #transcription not found. other versions of the word available but im unsure which to use
+d ˈi e j ˈo w i s , d i ʒ ˈɔ w s
+m ˌa j ˈo r e , m ə ʒ ˈo
+p l ˈo j a m , p l ˈu ʒ ə
+t r ˈo j a m , t ɾ ˈu ʒ ə
+#pg 106
+f ˌe m ˈe l l a m , f a m ˈe l a
+r ˌu m ˈoː r e , r ə m ˈo
+p l ˈu m a m , p l ˈo m ə
+p ˌaː n ˈaː r i u m , p ə n ˈe
+m ˌi n ˈaː r e , m ə n ˈa
+ˌa r ˈa t r u m , ə ɾ ˈa ð ə
+$e r u k a , #not found
+$f e r a m e n , #not found
+w ˈe l a m , b ˈɛ l ə
+w ˌo l ˈaː r e , b u l ˈa
+m ˈu l a m , m ˈu l ə #self
+w ˌe n ˈiː n u m , b ə ɾ ˈi
+n ˌo n ˈa n t a m , n u ɾ ˈa n t ə
+b ˌa r k i n ˈoː n e , b ə r s ə l ˈo n ə #self
+ˌa r ˈa t r u m , ə l ˈa ð ɾ ə
+$a r a t r i k a , #not found. old catalan
+p ˌa r a w e r ˈeː d u m , p ə l ə f ɾ ˈɛ
+ˌe k s k e r e b r ˈaː t uː r u m , ə ʃ ə l ə β ɾ ˈa t #vulgar latin version: ˌe k s k e r e b r a t u m
+r ˌoː s m a r ˈiː n u m , r u m ə n ˈi
+$a r a t r i k u l a , #not found
+#pg 107
+k ˌo l u m n ˈe l l a m , k u ɾ u n ˈe ʎ ə
+f ˌi l ˈi k u l a m , f ə ɾ i ɣ ˈo l ə #unsure about latin stress here
+j ˌu l i ˈo l u m , ʒ u l i ˈɔ l #judgment call here since example given was dialectal
+ˌu l u l ˈaː r e , u ð u l ˈa
+p l ˈo r a t , p l ˈɔ ɾ ə #self
+e t , ˈɛ #strange case here
+a d , ˈa
+ˈa p u d , ə m
+h o k , u
+n e k , n i
+s iː k , s ˈi
+r e s , r ˈɛ s
+t ˈa b u l aː s , t ˈa w l ə s #self
+h ˈo m i n e s , ˈɔ m ə s
+t ˈe m p u s , t ˈe m s
+g ˈe n u s , ʒ ˈe n s
+j ˈa m , ʒ ˈa
+s ˈu m , s ˈɔ n #unsure whether its s ˈo n or s ˈɔ n
+t ˈa m , t ˈa n
+t ˈu u m , t u n
+s ˈu u m , s ˈɔ n
+r ˈe m , r ˈɛ n
+p e r , p ə r
+k o r , k ˈɔ r
+s ˈe m p e r , s ˈe m p ɾ ə
+ˈi n t e r , ˈe n t ɾ ə
+p ˌaː s t ˈoː r e m , p ə s t ˈo #judgement call here. dialectal
+s ˌa r t ˈoː r e m, s ˈa s t ɾ ə
+#pg 108
+f ˈi m u m , f ˈe m
+$k a n t a m u s , #transcription not found. <cantam>
+p l ˈa n u m , p l ˈa
+d ˌe m ˈa n e m , d ə m ˈa
+$e r o n e , #transcription not found <oro>
+p r ˌi m ˈaː r i u m , p ɾ i m ˈe
+#pg 109
+m ˈa r e , m ˈa r
+k ˈaː r u m , k ˈa r
+p ˈu r u m , p ˈu r
+d ˈe b e t , d ˈɛ w
+l ˈe w e , ʎ ˈe w
+m ˈo w e t , m ˈɔ w
+n ˈuː d u m , n ˈu #two words here. I chose the one for "naked" instead of "cloud"
+p ˈa k e m , p ˈa w
+l ˈi k e t , ʎ ˈe w
+f ˌeː l ˈiː k e m , f ə l ˈi w
+$r a d i k e , #transcription not found. Old catalan
+f ˈi d eː m , f ˈɛ #francesc states its fede in latin but i see fidem
+#pg 110 - there are some middle stages for latin here in francesc that might be helpful for analysis
+k ˈa p u m , k ˈa p
+p r ˈa t u m , p ɾ ˈa t
+h ˌe r bˈo s u m , ə r b ˈo s
+m ˈa j u m , m ˈa tʃ
+p l ˈe n u m , p l ˈɛ
+b l ˈa n k u m , b l ˈa ŋ
+f l ˈa m m a m , f l ˈa m ə
+k l ˌa u̯ d ˈeː r e , k l ˈɔ w ɾ ə
+k l ˈa w e m , k l ˈa w
+b r ˈa k h i u m , b ɾ ˈa s
+f r ˈo n t e m , f ɾ ˈo n
+g r ˈa k u l u m , g ɾ ˈa ʎ
+g r ˈo s s u m , g ɾ ˈɔ s
+f l ˈe b i l e m , f ˈe b b l ə
+p r ˌe n d ˈeː r e , p ˈɛ n d ɾ ə
+b l ˌi d ˈa l e m , b ɾ i ˈa l
+f r ˌa g r ˈaː r e , f l ə j ɾ ˈa
+$f r a t r e , #not found. dialectal <flare>
+p l uː s , p ˈu s
+#pg 111
+p l ˌi k ˈaː r e , b l ə ɣ ˈa
+d ˌu p l i k ˈaː r e , d u b b l ə ɣ ˈa
+k r ˈa s s u m , g ɾ ˈa s
+k r ˈa p p a m , g ɾ ˈa p ə
+k r ˌa p ˈa u d , g ɾ i p ˈa w #strange stress in latin. unsure
+k r ˌa t ˈa l e m , g ɾ e ˈa l
+k r ˌa t ˈe l l a s , ɡ ɾ ə ˈe ʎ ə s #self
+k r ˌa t t ˈaː r e , g ɾ ə t ˈa
+k r ˈi p j a m , g ɾ ˈi p i ə
+k r ˈi p t a m , g ɾ ˈu t ə #y vowel in latin
+s t ˈo r e a m , ə s t ˈo ɾ ə
+s k ˈu m a m , ə s k ˈu m ə
+p t ˌi s ˈa n a m , t i z ˈa n ə
+p s ˈa l m u m , s ˈa l m
+#pg 112
+k ˈi r r a , s ˈɛ r ə #not sure whether to put m in latin here
+ˌa b b i b e r ˈaː r e , ə β ə w ɾ ˈa
+m ˌi t t ˈeː r e , m ˈɛ t ɾ ə
+r ˌe d d ˈeː r e , r ˈɛ t ɾ ə
+m ˌa m m ˈe l l a m , m ə m ˈe ʎ ə
+w ˈa k k a m , b ˈa k ə
+b ˌa k k ˈi n u m , b ə s ˈi
+m ˈa s s a m , m ˈa s ə
+ˈo s s a m , ˈɔ s ə
+w ˌe s s ˈi k a m , b ə ʃ ˈi ɣ ə
+k ˌo l l i g ˈeː r e , k u ʎ ˈi
+ˈi l l a , ˈe ʎ ə
+b ˈa n n a , b ˈa ɲ ə
+t h ˌu n n ˈi n a m , t u ɲ ˈi n ə
+g r ˌu n n ˈiː r e , g ɾ u ɲ ˈi
+ˌa r g ˈiː l l a m , ə r ʒ ˈi l ə
+n ˈiː n n a m , n ˈi n ə
+w ˈiː l l a m , b ˈi l ə
+s t ˈeː l l a m , ə s t ˈɛ l ə
+p ˈeː n n a m , p ˈɛ n ə
+#pg 113
+p ˌa r ˈaː t o r , p ə ɾ ˈa j ɾ ə #self
+b ˌa p t i s m u m , b ə p t ˈi z m ə
+k ˌa p t ˈi w u m , k ə p t ˈi w
+r ˈu p t a m , r ˈɔ t ə #unsure why it is feminine here. maybe a bad example?
+s ˌu b t ˈiː l e m , s u p t ˈi l
+k ˌa p i t ˈa l e m , k ə b d ˈa l
+k ˌa p i t ˈe l l u m , k ə b d ˈe ʎ
+k ˌa p i t ˈaː r e , k ə p t ˈa
+r ˌe p u t ˈaː r e , r ə p t ˈa
+m ˌa l e h ˈa b i t u m , m ə l ˈa l #old catalan <malaute>
+k u b i t u , k ˈo l z ə
+#pg 114
+k ˈa p s a m , k ˈa p s ə
+ˌa b s o l w ˈeː r e , ə p s ˈɔ l d ɾ ə
+k ˈa p r a , k ˈa β ɾ ə
+ˌa p r i k ˈaː r e , ə β ɾ i ɣ ˈa
+ˈo p e r a m , ˈɔ β ɾ ə
+k ˌu p e r ˈaː r e , k u β ɾ ˈa
+l ˈe p r a m , l ˈe p ɾ ə #cult example
+p r ˈo p r i u m , p ɾ ˈɔ p i
+k ˈu p r u m , k ˈo w ɾ ə
+l ˈiː b r a m , ʎ ˈi w ɾ ə
+f ˈa b r u m , f ˈa β ɾ ə #self. surname
+f ˈa b r i k a m , f ˈa β ɾ ə ɣ ə #self. Old catalan. modern version: <farga>
+p ˈa l p e b r a m , p ə r p ˈe ʎ ə
+w ˌi w ˈeː r e , b ˈi w ɾ ə
+#pg 115
+n ˈi t i d a m , n ˈɛ t ə #self
+p ˈu t i d a m , p ˈu t ə
+f ˈa t i d a m , f ˈa ð ə #transcription from francesc
+p ˈa t i n a m , p ˈa n n ə
+k ˈu t i n a m , k ˈo n n ə
+r ˈe t i n a s , r ˈe ŋ n ə s #self
+$l e g i t i m u , #not found. old catalan
+$k u l k i t r a , #not found
+p ˈa t r e m , p ˈa ɾ ə
+m a t r e , m ˈa ɾ ə #self
