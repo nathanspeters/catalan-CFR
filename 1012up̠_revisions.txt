@@ -161,12 +161,12 @@ w ˌe n ˈeː n u m , b ə ɾ ˈi
 r ˌa k ˈeː m u m , r ə ˈi m
 t ˈi n e a m , t ˈi ɲ ə
 d ˈi g i t u m , d ˈi t
-d ˈi k t u m , d ˈi t #variation
+d ˈi k t u m , d ˈi t 
 m ˈiː l i u m , m ˈi ʎ
 d ˌe ˈi n t u s , d ˈi n s
 d ˌe ˈi n t r o , d ˈi n t ɾ ə
-s ˌu b ˈi n d e , s u β ˈi n #weird case
-#pg 73
+s ˌu b ˈi n d e , s u β ˈi n $odd, reexamine.
+$pg 73
 f r ˈa t r e , f ɾ ˈa ɾ ə
 p ˌa l ˈaː t i u m , p ə l ˈa w
 g ˌe r m ˈaː n u m , ʒ ə r m ˈa
@@ -181,54 +181,53 @@ f ˈa l k e m , f ˈa l s
 k ˌa b ˈa l l u m , k ə β ˈa ʎ
 ˌa r ˈaː n e a m , ə ɾ ˈa ɲ ə
 ˈa n n u m , ˈa ɲ
-p l ˌa n t ˈa g i n e , p l ə n t ˈa dʒ ə #unsure if latin should have "um"
+p l ˌa n t ˈa: g i n e m , p l ə n t ˈa dʒ ə 
 l ˈa k w e u m , ʎ ˈa s
-b r ˈa k k t i u m , b ɾ ˈa s
-ˈa k k w u a m , ˈa j ɣ w ə
+ˈa k w a m , ˈa j ɣ w ə
 #pg 74
-j ˌa k ˈe t , ʒ ˈɛ w #self
-t r ˌa h ˈeː r e , t ɾ ˈɛ w ɾ ə
-s ˌa p ˈeː r e , s ˈɛ β ɾ ə
-$k a p e r e , #unknown due to dialect word
-t ˈa m , t ˈe n #self also idk about this one
-s ˈaː n k t u m , s ˈe n #self. Weird example
-#pg 75
-f a k i a m , #old unused word
+i ˌa k ˈe t , ʒ ˈɛ w $verb. 3sg. pres. 
+t r ˌa h ˈeː r e , t ɾ ˈɛ w ɾ ə $verb. inf. 
+s ˌa p ˈeː r e , s ˈɛ β ɾ ə $verb. inf. 
+$k a p e r e , > dialectal quebre. Cf. Spanish quepo.  
+t ˈa m , t ˈe n $wiktionary and the Catalan dictionary have as tan, Francesc has ten. Reexamien. 
+s ˈaː n k t u m , s ˈe n  $"sent". 
+$pg 75
+$ f a k i a m , --> an archaism 
 p ˈa l e a m , p ˈa ʎ ə
 d ˈa k u l a m , d ˈa ʎ ə
 f r ˈa g u l a m , f ɾ ˈa w l ə
 s p ˈa t u l a m , ə s p ˈa ʎ ʎ ə
-ˌa r ˈaː n e a m , ə ɾ ˈa ɲ ə
+$ˌa r ˈaː n e a m , ə ɾ ˈa ɲ ə -- duplicated from above. 
 s t ˈaː g n u m , ə s t ˈa ɲ
 f ˈaː g e u m , f ˈa tʃ
 b ˈa i u l u m , b ˈa ʎ ʎ ə
 m ˈa i u m , m ˈa tʃ
 r ˈa d i u m , r ˈa tʃ
 l ˈa b i u m , ʎ ˈa β i
-s ˈa p i a t , s ˈa p i ə # self
+s ˈa p i a t , s ˈa p i ə $verb. 3sg.pres.subj. 
 f ˈa k t u m , f ˈe t
-l ˈa k t e , ʎ ˈe t
+l ˈa k t e m , ʎ ˈe t
 p l ˈa k i t u m , p l ˈe t
 t r ˈa k t u m , t ɾ ˈe t
-w e r b a k t u m , g w ə ɾ ˈɛ t #contradictory. unsure about transcription. unable to find either
+w e r w a k t u m , g w ə ɾ ˈɛ t $"Germanic influence". Cf. Spanish barbecho. Reexamine. 
 ˈa k s e m , ˈe ʃ
 f ˈa s k i a m , f ˈe ʃ ə
 f ˈa s k e m , f ˈe ʃ
-f r ˈaː k s i n u , f ɾ ˈe ʃ ə
-l ˌa k s ˈa t , ʎ ˈe ʃ ə #unsure about stress here for latin
+f r ˈaː k s i n u m , f ɾ ˈe ʃ ə
+l ˈa k s a t , ʎ ˈe ʃ ə $verb. 3sg. pres. 
 m ˌa t ˈa k s a m , m ə ð ˈe ʃ ə
-p ˌa s k ˈeː r e , p ˈe ʃ ə
+p ˈaː s k e r e , p ˈe ʃ ə $"péixer". Verb. inf., now nominalized. 
 t ˈa k s u m , t ˈe ʃ
 ˈaː r e a m , ˈe ɾ ə
 k ˌa l d ˈaː r i a m , k ə l d ˈe ɾ ə
-g l ˈa r e a m , ɡ l ˈe ɾ ə #self
+g l ˈa r e a m , ɡ l ˈe ɾ ə $glera "gravel", not the egg-white word. 
 b ˈa s i u m , b ˈe s
 g r ˈa s s e u m , g ɾ ˈe ʃ
-$k a n t a w i , #no transcription
+k ˌa n t ˈaː w iː , k ə n t ˈe $1sg preterite, maybe? Was 1sg perf in Latin. Unsure about form, wikt gives present canto, pret cantí. 
 l ˈaː i k u m , ʎ ˈe k
 m ˈa g i s , m ˈe s
-#galloromanic word as well LAID and lleig
-#pg 76
+$ lleig < some Gallo-Romance laid < Frankish laith  
+$pg 76
 b ˈa s s i a t , b ˈa ʃ #unsure about latin transcription
 k ˈa p s a , k ˈa ʃ ə
 f ˈa s k i a m , f ˈa ʃ ə
