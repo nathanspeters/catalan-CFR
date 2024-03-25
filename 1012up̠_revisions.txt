@@ -7,11 +7,11 @@
 #https://www.wiktionary.org/ for nominative form
 #https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
 
-m ˌa n d ˈaː r e , m ə n ˈa 
-s ˌe n̪ t̪ ˈiː r e , s ə n t ˈi
+m ˌa n d ˈaː r e , m ə n ˈa $verb. inf. 
+s ˌe n̪ t̪ ˈiː r e , s ə n t ˈi $verb. inf. 
 k ˌa t ˈeː n a , k a ð ˈɛ n ə
-p ˌa w s ˈaː r e , p u z ˈa
-#pg 67
+p ˌa w s ˈaː r e , p u z ˈa $verb. inf.
+$pg 67
 d ˈe b i t u m, d ˈɛ w t ə 
 b ˈi b e r e , b ˈɛ w ɾ ə 
 p ˌa r ˈeː t e m , p ə ɾ ˈɛ t
@@ -19,16 +19,16 @@ p ˈi r a m , p ˈɛ ɾ ə
 k r ˈi s t a m , k ɾ ˈɛ s t ə
 s ˈi l i a m , s ˈɛ ʎ ə
 k ˌa p ˈi l l u m , k ə β ˈɛ ʎ
-ˌi m p ˈi n g e r e , ə m p ˈɛ ɲ ə
+ˌi m p ˈi n g e r e , ə m p ˈɛ ɲ ə $verb. inf. 
 s t r ˈi k t u m , ə s t ɾ ˈɛ t
 ˌo w ˈi k u l a m , u β ˈɛ ʎ ə
 r ˈe g u l a m , r ˈɛ ʎ ə
 k ˌo r r ˈi g i a m , k u r ˈɛ dʒ ə 
 s ˈi k u m , s ˈɛ k
-#pg 64
-w ˈiː w e r e , b ˈi w ɾ ə
+$pg 64
+w ˈiː w e r e , b ˈi w ɾ ə $verb. inf. 
 r ˈiː w u m , r ˈi w
-f ˈiː w u m , f ˈi l
+f ˈiː l u m , f ˈi l
 g ˌa l l ˈiː n a m , g ə ʎ i n ə
 b ˈiː n u m , b ˈi 
 ˌa p r ˈiː l e m , ə β ɾ ˈi l
@@ -37,57 +37,57 @@ b ˈiː n u m , b ˈi
 s p ˈiː k a m , ə s p ˈi ɣ ə
 b ˌo w ˈiː n u m , b ˈu j n ə
 k ˌo k ˈiː n a m , k ˈu j n ə
-k r ˌu k ˈiː k u l a , k ɾ ˈu j ə #self
-r ˌe g ˈiː n a m , r ˈe j n ə
+k r ˌu k ˈiː k u l a m , k ɾ ˈu j ə #self
+r ˌeː g ˈiː n a m , r ˈe j n ə
 f r ˈiː g i d u m , f ɾ ˈɛ t
-f ˈiː n e m , f ˈi n s
-#pg 65
+f ˈiː n i s , f ˈi n s
+$pg 65
 f ˈe b r e m , f ˈe β ɾ ə
 t ˈe m p u s , t ˈe m s
-l ˌe p ˈoː r e , ʎ ˈe β ɾ ə
+l ˈe p o r e m , ʎ ˈe β ɾ ə
 w ˈe n t u m , b ˈe n
 w ˈe s p e r u m , b ˈe s p ɾ ə
-h ˈe r b a , ˈe r b ə
+h ˈe r b a m , ˈe r b ə
 p ˈe r s i k u m , p ɾ ˈe s ə k
 p ˈe l l e m , p ˈe ʎ
 k ˌa s t ˈe l l u m, k ə s t ˈe ʎ
-ˌa l ˈe k r u m , ə l ˈe ɣ ɾ ə #strange latin root. fix
+ˌa l ˈe k r e m , ə l ˈe ɣ ɾ ə #strange latin root. fix
 ˈe k w a m , ˈe ɣ w ə
 k ˈa e̯ k u m , s ˈe k #ae
 k ˈa e̯ l u m , s ˈɛ l#ae
-f ˈe l , f ˈɛ l
+f ˈe l , f ˈɛ l $neut.acc. form. Alternatively m/f felem.
 g ˈe l u m , ʒ ˈɛ l
-m ˈe l , m ˈɛ l
+m ˈe l , m ˈɛ l $Latin neut.acc. form. Alternatively, Vulgar Latin m/f melem.
 f ˈe r r u m , f ˈɛ r u
 t ˈe r r a m , t ˈɛ r ə
 s ˈe r r a m , s ə r ˈa
-ˌa p ˈe r t u m , u β ˈɛ r t
+ˌa p ˈe r t u m , u β ˈɛ r t $possibly analogized (?) to opertum. 
 h ˌiː b ˈe r n u m , i β ˈɛ r n
 l ˌa n t ˈe r n a m , ʎ ə n t ˈɛ r n ə
-l ˌu k ˈe r n a , ʎ u ˈɛ r n ə
+l ˌu k ˈe r n a m , ʎ u ˈɛ r n ə
 m ˈe r u l a m , m ˈɛ r l ə
-p ˈe r d e r e , p ˈɛ r d ɾ ə
+p ˈe r d e r e , p ˈɛ r d ɾ ə $verb. inf. 
 t ˈe r t i u m , t ˈɛ r s
 d ˈi e w ˈe n e r i s , d i β ˈɛ n d ɾ ə s
 ɡ ˈe n̪ e r u m , ʒ ˈɛ n d ɾ ə
 t̪ ˈe n̪ e r u m ,  t ˈɛ n d ɾ ə
 p ˈe d e m , p ˈɛ w
-s ˈe d e t , s ˈɛ w $verb #ask about this. cited by article as oberta but IPA from diccionary says tancada
+s ˈe d e t , s ˈɛ w $verb. 3sg.pres. 
 d ˈe k e m , d ˈɛ w
 d ˈe k i m u m , d ˈɛ w m ə #self-transcribed
 p r ˈe t i u m , p ɾ ˈɛ w
 s ˈe p t e m , s ˈɛ t
-l ˈeː k t u m , ʎ ˈi t
-p ˈe k t u s , p ˈi t #in source catalan is plural
+l ˈe k t u m , ʎ ˈi t $"bed". not to be confused lēct(us/a/um), meaning "selected, read, choice-worthy, etc.", which appears to be the root of delit < dē-lēctum below. 
+p ˈe k t u s , p ˈi t s $now singularized as pit; Old Catalan pits. From SG pectus, not PL pectora (cf. Occitan pitre, vs. French pis, poitr-ine). 
 d ˌeː l ˈeː k t u m , d ə l ˈi t
-#gita
-#pg 66
+i ˌe k t a t , ʒ i t ə $verb (throw, vomit) -- 3sg.pres. 
+$pg 66
 s p ˈe k u l u m , ə s p ˈi ʎ
 m ˈe d i u m , m ˈi tʃ
-m ˈe l i u s , m ˈi ʎ #in source catalan is plural
+$m ˈe l i u s , m ˈi ʎ $mills. Old Catalan. millo is now around, from melio:rem. 
 ˌe k s t ˈe r i u s , ə s t ˈi r s #self-transcribed. I decided to make it plural due to silent r in catalan
 ˌi n g ˈe n i u m , ə ɲ ʒ ˈi ɲ
-f ˈe r i a t , f ˈi ɾ ə
+f ˈe r i a t , f ˈi ɾ ə $verb. 3sg.pres. 
 l ˈe g i t , ʎ ˈi tʃ #self-transcribed
 s ˈe k s , s ˈi s
 t ˈe k s i t , t ˈi ʃ #self-transcribed. valencian
