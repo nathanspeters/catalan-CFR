@@ -232,15 +232,16 @@ b ˈa s s i a t , b ˈa ʃ #unsure about latin transcription
 k ˈa p s a , k ˈa ʃ ə
 f ˈa s k i a m , f ˈa ʃ ə
 ˈa s k i a m , ˈa ʃ ə
-n ˈa s k e r e , n ˈa ʃ ə
-#pg 77
+n ˈa s k e r e , n ˈa ʃ ə $"nàixer". Verb. inf.  Variant. 
+n ˈa s k e r e , n ˈe ʃ ə $"néixer". Verb. inf. Variant. 
+$pg 77
 k ˈa p s u m , k ˈe ʃ
-r ˈa w b a , r ˈɔ β ə
+r ˈa w b a m , r ˈɔ β ə $Latin raubam, likely from Gothic. 
 p ˈa w p e r e m , p ˈɔ β ɾ ə
-ˈa w d i t , ˈɔ w
-p ˈa w s a t , p ˈɔ z ə
-k ˈa w s a , k ˈɔ z ə
-ˈa w s a t , ɡ ˈɔ z ə #self
+ˈa w d i t , ˈɔ w $verb. 3sg pres. 
+p ˈa w s a t , p ˈɔ z ə $verb. 3sg pres. 
+k ˈa w s a m , k ˈɔ z ə 
+ˈa w s a t , ɡ ˈɔ z ə $verb. 3sg. pres. 
 n ˈa w s e a m , n ˈɔ z ə
 k ˈa w l e m , k ˈɔ l
 ˈa w r u m , ˈɔ r
@@ -250,7 +251,8 @@ p ˈa w k u m , p ˈɔ k
 n ˈa w k u m , n ˈɔ k
 t ˈa b u l a m , t ˈa w l ə
 p ˌa r ˈa b o l a m , p ə ɾ ˈa w l ə
-$t r a b u k a r e , t ɾ ˈa w #exception due to post-verbals?
+t r ˈa b u k u m , t ɾ ˈa w $post-verbal, reexamine. From a *trabucare according ot Francesc but what is this item in Latin.
+t r ˈa w k u m , t ɾ ˈa w $Gaulish, added in. Earlier trau. 
 #pg 78
 d ˈo m i n a , d ˈɔ n ə
 k ˈo m i t e , k ˈo m t ə #contradictory to francesc
