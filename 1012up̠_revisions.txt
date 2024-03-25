@@ -253,12 +253,12 @@ t ˈa b u l a m , t ˈa w l ə
 p ˌa r ˈa b o l a m , p ə ɾ ˈa w l ə
 t r ˈa b u k u m , t ɾ ˈa w $post-verbal, reexamine. From a *trabucare according ot Francesc but what is this item in Latin.
 t r ˈa w k u m , t ɾ ˈa w $Gaulish, added in. Earlier trau. 
-#pg 78
-d ˈo m i n a , d ˈɔ n ə
-k ˈo m i t e , k ˈo m t ə #contradictory to francesc
+$pg 78
+d ˈo m i n a m , d ˈɔ n ə
+k ˈo m i t e m , k ˈo m t ə $possible contradiction vis a vis francesc
 b ˈo w e m , b ˈɔ w
-ˈo p e r i t , ˈɔ β ɾ ə #self
-k ˈo p h i n u m , k ˈɔ β ə
+ˈo p e r i t , ˈɔ β ɾ ə $verb. 3sg. pres. 
+k ˈo pʰ i n u m , k ˈɔ β ə
 r ˈo t a m , r ˈɔ ð ə
 r ˌe p ˈo s t u m , r ə β ˈɔ s t
 k ˈo r p u s , k ˈɔ s
@@ -270,33 +270,32 @@ k ˈo l l u m , k ˈɔ ʎ
 l ˈo k u m , ʎ ˈɔ k
 f ˈo k u m , f ˈɔ k
 k r ˈo k u m , g ɾ ˈɔ k
-#bottom of page
 k ˈo k t u m , k ˈu j t
-ˈo k t o , b ˈu j t #in between form /w o k i t u/
-ˈo k l u m , ˈu ʎ #next few are strange since they aren't the same dipthong but OK
+ˈo k t oː , b ˈu j t $Francesc claims in between form /w o k i t u/
+ˈo k u l u m , ˈu ʎ $next few are strange since they aren't the same dipthong but OK
 s k ˈo p u l u m , ə s k ˈu ʎ
 t ˈo r k u l u m , t ɾ ˈu ʎ
-w ˈo l e oː , b ˈu ʎ #self
+w ˈo l e oː , b ˈu ʎ $verb. 1sg pres. 
 f ˈo l i a m , f ˈu ʎ ə
-$l o l i u , #cant find transcription
-k ˈo l l i g oː , k ˈu ʎ #self
+l ˈo l i u m , ʒ ˈu ʎ $llull in Francesc 
+k ˈo l l i g oː , k ˈu ʎ $verb. 1sg pres. 
 k ˈo k s a m , k ˈu ʃ ə
-$p r o k s i m u , #cant find transcription. old catalan
-p ˈo s t i u s , p ˈu ʃ #west romance form CFPUIS
-$g r o s s i a , #ɡ ɾ ˈu ʃ is closest. i don't know why it has an a at the end
+$p r o k s i m u , --> Old Catalan pruxme
+p ˈo s t i u s , p ˈu ʃ $west romance form cf. PUIS
+g r ˈo s s i a , ɡ ɾ ˈu ʃ ə $gruixa. This item may now be gruix, gender shifted? 
 l ˈo n g eː , ʎ ˈu ɲ
-$m o r i o , #here it is muir instead of moro (present fps) mallorqui?
+$m ˈo r i oː , --> muir, but in Central Catalan this is moro [moru]; muir may be dialectal.
 k ˈo r i u m , k ˈu j r
 h ˈo d i eː , ə β ˈu j
-t r ˌi m ˈo d i a , t ɾ ə m ˈu ʒ ə
-ˌi n ˈo d i u m , ə n ˈu tʃ #strange latin word
+t r ˌi m ˈo d i a m  , t ɾ ə m ˈu ʒ ə
+ˌi n ˈo d i u m , ə n ˈu tʃ $deverbal (irregular) of inodiare. 
 p ˈo d i u m , p ˈu tʃ
-t r ˈo j a m , t ɾ ˈu ʒ ə $gallish maybe trogjiam
+t r ˈo g i a m , t ɾ ˈu ʒ ə $Gaulish. 
 p l ˈu w i a m , p l ˈu ʒ ə
 ˈo d i u m , ˈɔ j
 r ˈo t u l u m , r ˈɔ ʎ ʎ ə
 s ˈo m n i u m , s ˈɔ m n i
-#pg 79
+$pg 79
 n ˈo k t e m , n ˈi t
 #n o k e t , n ˈɔ́ w but this example is strange due to definitions
 k ˈo m p u t a t , k ˈo m t ə #self
