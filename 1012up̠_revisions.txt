@@ -297,33 +297,33 @@ r ˈo t u l u m , r ˈɔ ʎ ʎ ə
 s ˈo m n i u m , s ˈɔ m n i
 $pg 79
 n ˈo k t e m , n ˈi t
-#n o k e t , n ˈɔ́ w but this example is strange due to definitions
-k ˈo m p u t a t , k ˈo m t ə #self
-m ˈo n t e m , m ˈɔ n #contradictory to francesc
-k ˈo m p a r a t , k ˈo m p ɾ ə
-j ˈo k a t , ʒ ˈu ɣ ə #self
-s ˈo r b a , s ˈe r b ə
-#pg 80
+n ˈo k e t , n ˈɔ w $verb. 3sg pres. 
+k ˈo m p u t a t , k ˈo m t ə $verb. 3sg pres. 
+m ˈo n t e m , m ˈɔ n $contradictory to francesc
+k ˈo m p a r a t , k ˈo m p ɾ ə $verb.3sg pres.
+j ˈo k a t , ʒ ˈu ɣ ə $verb.3sg pres. 
+$s ˈo r b a , s ˈe r b ə. This is contamination with acerba (and sorba). 
+$pg 80
 l ˈu p u m , ʎ ˈo p
 r ˈoː b u r e , r ˈo w ɾ ə
-j ˈu w e n e m , ʒ ˈo β ə
+i ˈu w e n e m , ʒ ˈo β ə
 p ˈoː m a , p ˈo m ə
 ˈu m b r a m , ˈo m b ɾ ə
 p l ˈu m b u m , p l ˈo m
 n ˌe p ˈoː t e m , n ə β ˈo t
-t ˈoː t u m , t ˈo t
-ˌa r b ˈu t e u s , ə r b ˈo s
+t ˈoː t t u m , t ˈo t $geminate -t- inserted based on other Romance evidence. 
+ˌa r b ˈu t e u m , ə r b ˈo s $arboç
 p ˈu t e u m, p ˈo w
 m ˈu s k a m , m ˈo s k ə
 t ˈu s s e m , t ˈo s
-ˌa n g ˈu s t i a , ə ŋ g ˈo ʃ ə
+ˌa n g ˈu s t i a m , ə ŋ g ˈo ʃ ə
 ˈu n d a m , ˈo n ə
 m ˈu n d u m , m ˈo n
 r ˌo t ˈu n d u m , r u ð ˈo
 l ˌi g ˈoː n e m , ʎ ə ɣ ˈo
-f ˌa w ˈoː n i u m , f ə ɣ ˈo ɲ #self
+f ˌa w ˈoː n i u m , f ə ɣ ˈo ɲ
 k ˌo t ˈoː n e u m , k u ð ˈo ɲ
-w ˌe r eː k ˈu n d i a , b ə r g ˈo ɲ ə
+w ˌe r eː k ˈu n d i a m , b ə r g ˈo ɲ ə
 g ˈu l a m , g ˈo l ə
 s ˈu l k u m , s ˈo l k
 s ˈu l f u r e , s ˈo f ɾ ə
@@ -331,55 +331,53 @@ m ˈu l t u m , m ˈo l
 d i ˈu r n u m , ʒ ˈo r n
 f ˈu r n u m , f ˈo r n
 t ˈu r r e m , t ˈo r ə
-t ˌo n s ˈoː r i a s , t i z ˈo ɾ ə s #self
-k ˈu r s u m , k ˈo s #self
+t ˌo n s ˈoː r i a s , t i z ˈo ɾ ə s 
+k ˈu r s u m , k ˈo s 
 s ˈu r d u m , s ˈo r t
 b ˈu k k a m , b ˈo k ə
 g e n ˈu k u l u m , ʒ ə n ˈo ʎ
-j ˈu g u m , ʒ ˈo w
+i ˈu g u m , ʒ ˈo w
 b ˈu k s u m , b ˈo ʃ
-s ˈu a m , s ˈu ə #self
-d ˈu a s , d ˈu ə s #self
-j ˈu n g e r e , ʒ ˈu ɲ ə
-j ˈu n k t u m , ʒ ˈu n
-m ˈu n g i t , m ˈu ɲ #self
+s ˈu a m , s ˈu ə
+d ˈu a s , d ˈu ə s 
+i ˈu n g e r e , ʒ ˈu ɲ ə $verb. inf. 
+i ˈu n k t u m , ʒ ˈu n
+m ˈu n g i t , m ˈu ɲ $verb (to milk). 3sg.pres. 
 p ˈu n k t a m , p ˈu n t ə
 ˈu n g u l a m , ˈu ŋ g l ə
 p ˈu g n u m , p ˈu ɲ
-f ˈu g i oː , f ˈu tʃ #self
+f ˈu g i oː , f ˈu tʃ $verb. 1sg.pres. 
 r ˌe p ˈu d i u m , r ə β ˈu tʃ
 l ˈu k t a m , ʎ ˈu j t ə
 t r ˈu k t a m , t ɾ ˈu j t ə
-k ˈoː g i t a t , k ˈu j t ə #self
+k ˈoː g i t a t , k ˈu j t ə $verb. 3sg.pres. 
 n ˈoː d u m , n ˈu
-ˌo k t ˈoː b e r , u k t ˈu β ɾ ə
-#pg 81
+$ˌo k t ˈoː b e r , --> (v)uitubri, but Old Catalan form obsolesced.;  [u k t ˈu β ɾ ə] is a loan. 
+$pg 81
 k ˈu l p a m , k ˈu l p ə
 k ˈoː d a m , k ˈu ə
-ˌi l l ˈoː r i u m , ʎ ˈu r
+ˌi l l ˈoː r u m , ʎ ˈu r
 ˈu n k i a m , ˈu n s ə
-t ˈoː t t i , t ˈo t #not explicitly stated as example
-$f l oː r e , #unknown transcription
-$m a j oː r e , #no transcription but probably majú from majuscules
-$j u w e n e , #unknown transcription
-$l u p u , #unknown transcription
+t ˈoː t t i , t ˈo t $not explicitly stated as example
+f l oː r e m , f l ˈɔ $flor. [flu] in Roussillon.
+m ˌa i ˈoː r e m , m ə ʒ ˈo $major. majú in Roussillo
 s ˈoː l e m , s ˈɔ l
 r ˈu b e u m , r ˈɔ tʃ
-s ˈu p e r a t , s ˈɔ β ɾ ə
-k ˈu p e r a t , k ˈɔ β ɾ ə
+s ˈu p e r a t , s ˈɔ β ɾ ə $verb. 3sg pres. 
+k ˈu p e r a t , k ˈɔ β ɾ ə $verb. 3sg pres.
 k r ˈu s t a m , k ɾ ˈɔ s t ə
-#pg 82
+$pg 82
 p ˌa w ˈoː r e m , p ˈo
-f l ˈoː r e m , f l ˈɔ #contradictory to francesc
+$f l ˈoː r e m , f l ˈɔ $contradictory to francesc. Relisted, it's above. 
 h ˈoː r a m , ˈɔ ɾ ə
-p l ˈoː r a t , p ɫ ˈɔ ɾ ə #self
+p l ˈoː r a t , p ɫ ˈɔ ɾ ə $verb 3sg. 
 p r ˈoː d e m , p ɾ ˈɔ w
-n ˈoː k e t , n ˈɔ w
+n ˈoː k e t , n ˈɔ w $verb 3sg. 
 k r ˈu k e m , k ɾ ɛ w 
 d ˈu k e m , d ˈɛ w 
 w ˈoː k e m , b ˈɛ w
-#pg 84
-k ˌo n ˈoː s k e r e , k u n ˈɛ ʃ ə
+$pg 84
+k ˌo n ˈoː s k e r e , k u n ˈɛ ʃ ə $verb. inf. 
 l ˈuː m e n , ʎ ˈu m
 n ˈuː b e m , n ˈu w
 f ˈuː m u m , f ˈu m
@@ -391,7 +389,7 @@ l ˈuː n a m , ʎ ˈu n ə
 m ˌe n s ˈuː r a m , m ə z ˈu ɾ ə
 m ˌa t ˈuː r u m , m ə ð ˈu
 p ˈuː l i k e m , p ˈu s ə
-$s uː k i d u , #cant find transcription
+s ˈuː k i d u , s ˈu d͡z e w $as listed in Francesc; elsewhere one finds sutze though. 
 ˌa k ˈuː k u l a m , ə ɣ ˈu ʎ ə
 f r ˈuː k t u m , f ɾ ˈu j t
 p l ˈuː m a m , p l ˈo m ə
