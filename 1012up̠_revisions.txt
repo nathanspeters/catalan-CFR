@@ -139,24 +139,24 @@ s ˈi b iː , s ˈi
 s t ˈeː t u iː , ə s t ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres 
 t ˈeː n u iː , t ˈi ŋ k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres.  
 w ˌi g ˈi n t iː , b ˈi n
-d ˈi e , d ˈi ə
-s ˈi a t , s ˈi ə
+d ˈi a , d ˈi ə $inherited from a *dia. Latin was diēs. Consider revisiting. 
+s ˈi a t , s ˈi ə $verb. 3sg. pres. subj. ? Possibly archaic. 
 w ˈi a m , b ˈi ə
 k ˈi n k t a m , s ˈi n t ə
 k ˈi n g u l a m , s ˈi ŋ g l ə
-p i n k t a t , p ˈi n t ə #from vulgar latin pinktare
-ˌe k s ˈeː m p l u m , ə k s ˈi m p l i #self
-m ˈi n u a t , m ˈi m b ə
-w ˈi d u a , b ˈi w ð ə
+p i n k t a t , p ˈi n t ə $ verb. 3sg. pres. 
+ˌe k s ˈeː m p l u m , ə k s ˈi m p l i $in Francesc it is listed as from exēmplum, long ē, but it may have been short e. Reexamine. 
+m ˈi n u a t , m ˈi m b ə $verb. 3sg. subj.
+w ˈi d u a m , b ˈi w ð ə
 ˌe p ˈi s k o p u m , b ˈi z b ə
 f ˌa m ˈi l i a m , f ə m ˈi l i ə
-l ˈiː b r u m , ʎ ˈi β ɾ ə
+l ˈiː b r u m , ʎ ˈi β ɾ ə $Latin was actually librum with short i however. Likely a learned borrowing into Gallo-Romance, as is French livre. Consider removal.  
 m ˈi s s a m , m ˈi s ə
 ˌo f f ˈi k i u m , u f ˈi s i
 w ˈi t r u m , b ˈi ð ɾ ə
-ˌe k k l ˈeː s i a m , ə z g l ˈe z i ə
-eˌ k s ˈe m p l u m , ə g z ˈe m p l ə #variation of word
-#pg 72
+ˌe k k l ˈeː s i a m , ə z g l ˈe z i ə $possible borrowing from Latin into Gallo-Romance. Consider removal.  
+eˌ k s ˈe m p l u m , ə g z ˈe m p l ə $another variant of [əksˈimpli] above. 
+$pg 72
 w ˌe n ˈeː n u m , b ə ɾ ˈi
 r ˌa k ˈeː m u m , r ə ˈi m
 t ˈi n e a m , t ˈi ɲ ə
