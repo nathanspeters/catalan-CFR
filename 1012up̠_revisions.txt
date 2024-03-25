@@ -32,12 +32,12 @@ f ˈiː l u m , f ˈi l
 g ˌa l l ˈiː n a m , g ə ʎ i n ə
 b ˈiː n u m , b ˈi 
 ˌa p r ˈiː l e m , ə β ɾ ˈi l
-ˌa e̯ s t ˈiː w u m , ə s t ˈi w #aj is ae. dipthong 
+ˌa e̯ s t ˈiː w u m , ə s t ˈi w
 ˌa m ˈiː k u m , ə m ˈi k
 s p ˈiː k a m , ə s p ˈi ɣ ə
 b ˌo w ˈiː n u m , b ˈu j n ə
 k ˌo k ˈiː n a m , k ˈu j n ə
-k r ˌu k ˈiː k u l a m , k ɾ ˈu j ə #self
+k r ˌu k ˈiː k u l a m , k ɾ ˈu j ə
 r ˌeː g ˈiː n a m , r ˈe j n ə
 f r ˈiː g i d u m , f ɾ ˈɛ t
 f ˈiː n i s , f ˈi n s
@@ -51,10 +51,10 @@ h ˈe r b a m , ˈe r b ə
 p ˈe r s i k u m , p ɾ ˈe s ə k
 p ˈe l l e m , p ˈe ʎ
 k ˌa s t ˈe l l u m, k ə s t ˈe ʎ
-ˌa l ˈe k r e m , ə l ˈe ɣ ɾ ə #strange latin root. fix
+ˌa l ˈe k r e m , ə l ˈe ɣ ɾ ə 
 ˈe k w a m , ˈe ɣ w ə
-k ˈa e̯ k u m , s ˈe k #ae
-k ˈa e̯ l u m , s ˈɛ l#ae
+k ˈa e̯ k u m , s ˈe k 
+k ˈa e̯ l u m , s ˈɛ l 
 f ˈe l , f ˈɛ l $neut.acc. form. Alternatively m/f felem.
 g ˈe l u m , ʒ ˈɛ l
 m ˈe l , m ˈɛ l $Latin neut.acc. form. Alternatively, Vulgar Latin m/f melem.
@@ -74,7 +74,7 @@ t̪ ˈe n̪ e r u m ,  t ˈɛ n d ɾ ə
 p ˈe d e m , p ˈɛ w
 s ˈe d e t , s ˈɛ w $verb. 3sg.pres. 
 d ˈe k e m , d ˈɛ w
-d ˈe k i m u m , d ˈɛ w m ə #self-transcribed
+d ˈe k i m u m , d ˈɛ w m ə 
 p r ˈe t i u m , p ɾ ˈɛ w
 s ˈe p t e m , s ˈɛ t
 l ˈe k t u m , ʎ ˈi t $"bed". not to be confused lēct(us/a/um), meaning "selected, read, choice-worthy, etc.", which appears to be the root of delit < dē-lēctum below. 
@@ -85,58 +85,59 @@ $pg 66
 s p ˈe k u l u m , ə s p ˈi ʎ
 m ˈe d i u m , m ˈi tʃ
 $m ˈe l i u s , m ˈi ʎ $mills. Old Catalan. millo is now around, from melio:rem. 
-ˌe k s t ˈe r i u s , ə s t ˈi r s #self-transcribed. I decided to make it plural due to silent r in catalan
+ˌe k s t ˈe r i u s , ə s t ˈi r s $ is the r-dropped? Plural? 
 ˌi n g ˈe n i u m , ə ɲ ʒ ˈi ɲ
 f ˈe r i a t , f ˈi ɾ ə $verb. 3sg.pres. 
-l ˈe g i t , ʎ ˈi tʃ #self-transcribed
+l ˈe g i t , ʎ ˈi tʃ $verb (read), 3sg.pres. Old Catalan form it seems. 
 s ˈe k s , s ˈi s
-t ˈe k s i t , t ˈi ʃ #self-transcribed. valencian
-ˈe k s i t , ˈi ʃ
-k ˈa t h e d r a m , k ə ð ˈi ɾ ə
-ˈi n̪ t̪ e ɡ r u m , #can't find catalan transcription here
-t e n e o , # can't find catalan transcription
-w ˈeː n i oː , b ˈi ŋ k #self-transcribed
-w ˈe t u l u m , b ˈe ʎ #exception to rule for short e becoming i
-w ˌe n ˈi , b ˈi n ə #self-transcribed
+t ˈe k s i t , t ˈi ʃ $verb. 3sg.pres. Valencian it seems?
+ˈe k s i t , ˈi ʃ $verb. 3sg.pres. 
+k ˈa t h e d r a m , k ə ð ˈi ɾ ə $French chai(r/s)e from < cˈathedram in FLLex but stress placement in modern Catalan suggests cathˈedra. 
+$ˈi n̪ t̪ e ɡ r u m , -- Old Catalan entregue, not inherited into modern. REW lists a "occ. cat. entegre" but "doesn't sound right" as modern Cat. Not in FEW for CAT. 
+t e n e oː , t ˈi ŋ k $verb. 1sg.pres. May be [tiŋ], "depending on dialect"; but likely still underlying k. 
+w ˈeː n i oː , b ˈi ŋ k $verb. 1sg.pres.
+w ˈe t u l u m , b ˈe ʎ $exception to rule for short e becoming i
+w ˌe n ˈi , b ˈi n ə $verb. 3sg. imperative.  (but from Latin 2sg imp?) 
 h ˈe r iː , ə ˈi
 k ˌe r ˈe s i a m , s i ɾ ˈe ɾ ə
-r ˌe m ˈe d i u m , r ə m ˈɛ j #exception to rule
+r ˌe m ˈe d i u m , r ə m ˈɛ j $exception to e > i 
 #pg 69 - e tancada excepcions
 g ˈi b b u m , ʒ ˈe p
-g ˌi n g ˈi b e r , ʒ i ɲ ʒ ˈe β ɾ ə #unsure about latin transcription here for stress
+g ˌi n g ˈi b e r i , ʒ i ɲ ʒ ˈe β ɾ ə
 r ˈeː g e m , r ˈe j
 l ˈeː g e m , ʎ ˈe j
 d ˈi e d ˌo m ˈi n i k u m , d i w m ˈe ɲ ʒ ə
 l ˈi n̪ ɡ w ɑ m , ʎ ˈe ŋ g w ə
-#pg 70
+$pg 70
 s k ˈi l l a , ə s k ˈe ʎ ə #i cant find latin transcription here
 ˈi l l u m , ˈe ʎ
-k ˈi n e r e , s ˈɛ n d ɾ ə $unsure about the latin form here. # pronounced as ndr instead of nr since nr doesnt exist in catalan
-w ˈi r g i n e , b ˈɛ r ʒ ə #exception
-l ˈeː g e , #catalan pronunciation up to debate?
-w ˌi r ˈiː d u m , b ˈɛ r t #strange. unsure about latin stress
+k ˈi n e r e m , s ˈɛ n d ɾ ə $unsure about the latin form here. # pronounced as ndr instead of nr since nr doesnt exist in catalan
+w ˈi r g i n e m , b ˈɛ r ʒ ə #exception
+$l ˈeː g e , $lig. catalan pronunciation up to debate, but it's an archaism. 
+w ˈi r i d e m , b ˈɛ r t
 w ˈeː l u m , b ˈɛ l
 w ˈeː l a m , b ˈɛ l ə
 k ˌa n d ˈeː l a m , k ə n d ˈɛ l ə
 p ˈi l u m , p ˈɛ l
-$m ˌuː s t ˈeː l a , #cant find transcription here
+$m ˌuː s t ˈeː l a m , m u s t e l ə 
 t ˈeː l a m , t ˈɛ ʎ ə
-#pg 71
-k ˈe r e u m , s ˈi ɾ i
+$pg 71
+w ˈi k i a m , b ɛ s ə
+k ˈeː r e u m , s ˈi ɾ i
 s ˈeː p i a m , s ˈi p i ə
-k ˌo e̯ m eː n t ˈeː r i u m , s ə m ə n t ˈi ɾ i #might be a loan
+k ˌo e̯ m eː n t ˈeː r i u m , s ə m ə n t ˈi ɾ i $might be a loan
 m ˌo n a s t ˈeː r i u m , m u n ə s t ˈi
 p s ˌa l t ˈeː r i u m , s ə l t ˈi ɾ i
-#nirvi. not sure if this is an instanace to include since latin isnt listed here
-k r ˈi p i a , g ɾ ˈi p i ə
-$s aː n i j a , s ˈi n i ə #arabic
-#saqiya
-f ˈeː k iː , f ˈi w #self-trans
+n ˈe r w u m , n ˈɛ r b i  $other form nirvi 
+k r ˈi p i a , g ɾ ˈi p i ə $Germanic. 
+$ s aː n i j a , s ˈi n i ə $Arabic. Alongside sénia
+$ s a: q i j a , s ˈi k i ə $Arabic. Alongside séquia. 
+f ˈeː k iː , f ˈi w $verb. 1sg.perf.act. 
 ˈi b iː , ˈi
 m ˈi h iː , m ˈi
 s ˈi b iː , s ˈi
-s t ˈeː t u iː , ə s t ˈi k #self
-t ˈeː n u iː , t ˈi ŋ #self #here all examples of past tens in latin -> present tense in catalan
+s t ˈeː t u iː , ə s t ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres 
+t ˈeː n u iː , t ˈi ŋ k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres.  
 w ˌi g ˈi n t iː , b ˈi n
 d ˈi e , d ˈi ə
 s ˈi a t , s ˈi ə
