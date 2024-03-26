@@ -422,81 +422,83 @@ t ˌa k s ˈoː n e m , t ə ʃ ˈo
 w ˌa r i ˈo l a m , b ə ɾ ˈɔ l ə 
 g ˌiː r ˈaː r e , ʒ i ɾ ˈa  $verb. inf. 
 i ˌe k t ˈaː r e , ʒ i t ˈa $ gita. verb. inf. 
-l ˌeː k t i ˈoː n e , ʎ i s ˈo
+l ˌeː k t i ˈoː n e m , ʎ i s ˈo
 m ˌe l i ˈoː r e m , m i ʎ ˈo
-p ˌeː d iː k ˈaː r e , p i dʒ ˈa
-ˌi n d ˌiː r eː k t u m , i n d ɾ ˈɛ t #two secondary stress due to prefix?
-k r ˌe ˈaː r e , k ɾ i ˈa
-#pg 86
+p ˌeː d iː k ˈaː r e , p i dʒ ˈa $verb. inf. 
+ˌi n d ˌiː r eː k t u m , i n d ɾ ˈɛ t 
+k r ˌe ˈaː r e , k ɾ i ˈa $verb. inf.
+$pg 86
 k i s t ˈe l l a m , s i s t ˈe ʎ ə
 f ˌe n ˈe s t r a m , f i n ˈe s t ɾ ə
-g ˌe n ˈi p e r u m , ʒ i n ˈe β ɾ ə #cant find latin root. self-converted
+i ˌuː n ˈi p e r u m , ʒ i n ˈe β ɾ ə
 g ˌe n ˈi s t a m , ʒ i n ˈe s t ə
-d ˌaː m ˈa s k u m , d u m ˈa s #contradiction since francesc states it should be "o"
+d ˌaː m ˈa s k u m , d u m ˈa s $domas.
 ˌi m p l ˈeː r e , u m p l ˈi
-ˌiː n f l ˈaː r e , u ɱ f l ˈa #self + dialectal
-r ˌe m ˌa n ˈeː r e , r u m ˈa n d ɾ ə #prefix = two counter stress?
-f o e̯ n u k l u m , f u n ˈo ʎ
-g ˌe n ˈu k u l u m , ʒ u n ˈo ʎ #self
+ˌiː n f l ˈaː r e , u ɱ f l ˈa $verb. inf. 
+r ˌe m ˌa n ˈeː r e , r u m ˈa n d ɾ ə
+f ˌo e̯ n ˈu k u l u m , f u n ˈo ʎ
+g ˌe n ˈu k u l u m , ʒ u n ˈo ʎ 
 r ˌe s t ˈu p l u m , r u s t ˈo ʎ
 t ˈa k s o n e m , t u ʃ ˈo
-a u k e l l u m , u s ˈe ʎ #unsure about latin stress here
-ˌa u d ˈiː r e , u ˈi
-ˌa u r ˈi k u l a m , u ɾ ˈɛ ʎ ə
-l ˌa u r ˈe n t i u m , ʎ u ɾ ˈɛ n s
-p ˌa u s ˈaː r e , p u z ˈa
+ˌa w i k ˈe l l u m , u s ˈe ʎ 
+ˌa w d ˈiː r e , u ˈi
+ˌa uwr ˈi k u l a m , u ɾ ˈɛ ʎ ə
+l ˌa w r ˈe n t i u m , ʎ u ɾ ˈɛ n s
+$ p ˌa w s ˈaː r e , p u z ˈa  -- duplicates an entry above. 
 ˌa g ˈu s t u m , ə ɣ ˈo s t
-o f f e r i r e , u f ə ɾ ˈi #seems like latin has offerre
-ˌoː l l ˈaː r i u m , u ʎ ˈe
-ˌo p ˈaː k a m , u β ˈa ɣ ə #self
+ˌo f f ˌe r ˈiː r e , u f ə ɾ ˈi $verb. inf. ob-fer-ire.  
+ˌoː l l ˈaː r i u m , u ʎ ˈe $marked as long in Francesc but may have shortened by the time of input.  
+ˌo p ˈaː k a m , u β ˈa ɣ ə 
+ˌo p ˈaː k u m , u β ˈa k 
 ˌo w ˈi k u l a m , u β ˈɛ ʎ ə
 ˌo r ˈiː g a n u m , u ɾ ˈɛ ŋ g ə
-ˌu r t ˈiː k a m , u r t ˈi ɣ ə
+ˌu r t ˈiː k a m , u r t ˈi ɣ ə $ortiga.
 h ˌo s p i t ˈaː l e m , u s t ˈa l
-k ˌu n ˈiː k l u m , k u n ˈi ʎ
-d ˌo r m ˈiː r e , d u r m ˈi
+k ˌu n ˈiː k u l u m , k u n ˈi ʎ
+d ˌo r m ˈiː r e , d u r m ˈi $verb. inf.
 l ˌu p ˈiː n u m , ʎ u β ˈi
-m ˌo r s i k ˈaː r e , m u s ə ɣ ˈa
+m ˌo r s i k ˈaː r e , m u s ə ɣ ˈa $verb. inf.
 n ˌu k ˈaː r i u m , n u ɣ ˈe
-n ˌu t r iː r e , n u ð ɾ ˈi
+n ˌu: t r ˈiː r e , n u ð ɾ ˈi $verb. inf. 
 p ˌo t ˈeː r e , p u ð ˈe
-p r ˌo b ˈaː r e , p ɾ u β ˈa
-s ˌu p e r ˈaː r e , s u β ɾ ˈa
-w ˌu l t ˈoː r e , b u l t ˈo
-#pg 87
-m ˌu l i ˈeː r e , m u ʎ ˈe
-m ˌoː i ˈo l u m , m u ʒ ˈɔ l
-m ˌoː l l i ˈaː r e , m u ʎ ˈa
+p r ˌo b ˈaː r e , p ɾ u β ˈa $verb. inf. 
+s ˌu p e r ˈaː r e , s u β ɾ ˈa $verb. inf. 
+w ˌu l t ˈoː r e m , b u l t ˈo $voltor. 
+$pg 87
+m ˌu l i ˈe r e m , m u ʎ ˈe
+m ˌoː d i ˈo l u m , m u ʒ ˈɔ l $listed as moiolus in Fransesc but I'm fairly certain ti's modiolu.s. 
+m ˌoː l l i ˈaː r e , m u ʎ ˈa $verb. inf.
 ˌo l e ˈa s t r u m , u ʎ ˈa s t ɾ ə
-p ˌu n g ˈeː r e , p u ɲ ˈi
-k ˌoː g n ˈa t u m , k u ɲ ˈa t
+p ˌu n g ˈeː r e , p u ɲ ˈi $verb. inf.
+k ˌoː g n ˈa: t u m , k u ɲ ˈa t
 ˌo k t ˈa n t a m , b u j t ˈa n t ə #old catalan version huytanta
-k ˌo k h l e ˈaː r i a m , k u ʎ ˈe ɾ ə
-d ˌu b i t ˈaː r e , d u p t ˈa
-j ˌo k ˈaː r e , ʒ u ɣ ˈa #ortography exception here. doesnt affect sound. for u usually o
+k ˌo kʰ l e ˈaː r i a m , k u ʎ ˈe ɾ ə
+d ˌu b i t ˈaː r e , d u p t ˈa $verb. inf.
+j ˌo k ˈaː r e , ʒ u ɣ ˈa $verb. inf. #orthography exception here. doesnt affect sound. for u usually o
 n ˌo w ˈaː k u l a m , n ə β ˈa ʎ ə
 l ˌu m b r ˈiː k u m , ʎ ə m b ɾ ˈi k
 k ˌo l ˈo s t r u m , k ə l ˈɔ s t ɾ ə
-ˌo b k a e k ˈaː r e , u p s ə k ˈa #old catalan is abcegar. Updated to modern catalan
-ˌo f f o k ˈaː r e , ə f u ɣ ˈa #self
-ˌo b t u r ˈaː r e , ə t u ɾ ˈa
-ˌo k k u p ˈaː r e , ə k u β ˈa
+ˌo b k ˌa e̯ k ˈaː r e , u p s ə k ˈa $verb. inf. #old catalan is abcegar. Updated to modern catalan
+ˌo f f ˌo k ˈaː r e , ə f u ɣ ˈa $verb. inf.
+ˌo b t ˌu r ˈaː r e , ə t u ɾ ˈa $verb. inf.
+ˌo k k ˌu p ˈaː r e , ə k u β ˈa $verb. inf.
 h ˌoː r o l ˈo g i u m , r ə ʎ ˈɔ dʒ ə
-r ˌo t ˈu n d u m , r ə ð ˈo #self. More popular word is ruˈðo dissimilation
-t ˌoː n s ˈo r i a s , t i z ˈo ɾ ə s #self. old catalan word tesores. change likely due to spanish tijeras
+r ˌo t ˈu n d u m , r ə ð ˈo $More popular word is ruˈðo dissimilation
+t ˌoː n s ˈo r i a s , t i z ˈo ɾ ə s $old catalan word tesores. change likely due to spanish tijeras
+$page88 
 p ˌuː b ˈi l l u m , p u β ˈi ʎ ə
-s ˌu d ˈaː r e , s u ˈa
+s ˌu d ˈaː r e , s u ˈa $verb. inf.
 s k ˌuː t ˈe l l a m , ə s k u ð ˈe ʎ ə
-p ˌuː t ˈiː r e , p u ð ˈi
-l ˌuː k ˈiː r e , ʎ u ˈi
+p ˌuː t ˈiː r e , p u ð ˈi $verb. inf.
+l ˌuː k ˈiː r e , ʎ u ˈi $verb. inf.
 m ˌuː r ˈa l i a m , m u ɾ ˈa ʎ ə
 f r ˌuː m ˈe n t u m , f u r m ˈe n
-r uː m ˈoː r e , r ə m ˈo
+r uː m ˈoː r e m , r ə m ˈo
 k ˌa l a m ˈe l l u m , k ə ɾ ə m ˈe ʎ
-h ˌo r t a l ˈi k i a m , u r t ə l ˈi s ə
+h ˌo r t a l ˈiː k i a m , u r t ə l ˈi s ə
 p ˌa r a d ˈiː s u m , p ə ɾ ə ð ˈi s
 h ˌo r t u l ˈaː n u m , u r t u l ˈa
-$s a l a m a n d r i a , #no transcription found
+$s a l a m a n d r i a , #no transcription found -- seems to be dialectal anyways.
 $f a r iː n a r i u m , #no transcription found
 m ˌo l iː n ˈaː r i u m , m u l n ˈe
 b ˌo n i t ˈaː t e , b u n d ˈa t
