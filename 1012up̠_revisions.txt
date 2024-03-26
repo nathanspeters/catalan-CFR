@@ -605,83 +605,85 @@ $t e r m i n a t , #stress different transcription off
 k ˈa r r i k a t , k ˈa r ə ɣ ə $verb. 3sg.pres. #stress different than specified
 g ˈe m i k a t , ʒ ə m ˈe ɣ ə $verb. 3sg pres. Check stress.
 m ˈa s t i k a t , m ə s t ˈɛ ɣ ə $verb. 3sg pres. Chech stress.
-m ˈo r s i k a t , m u s ˈɛ ɣ ə
-r ˌe w iː w ˈiː s k u l a t , r ə β i s k ˈɔ l ə #self
-$r o t u l a t , #transcription not found
-$t r e m u l a t , #transcription not found
+m ˈo r s i k a t , m u s ˈɛ ɣ ə $verb. 3sg pres. Check stress.
+r ˌe w iː w ˈiː s k u l a t , r ə β i s k ˈɔ l ə $verb. 3sg pres. Check stress.
+r ˈo t u l a t , r u ð ˈu l ə $verb. 3sg pres. Check stress.
+t r ˈe m u l a t , t ɾ e m ˈu l ə $verb. 3sg pres. Check stress.
 ˈa p i u m, ˈa p i
 ˈa w i u m , ˈa β i
 h ˈo r d e u m , ˈɔ r d i
 ˈo l e u m , ˈɔ l i
 s t ˈu d i u m , ə s t ˈu ð i
-#pg 92
-d ˈo m n a m , d ˈɔ n ə
-w ˈi n e a m , b ˈi ɲ ə
-#pg 93
-k ˈa n t o , k ˈa n
+$#pg 92
+$d ˈo m n a m , d ˈɔ n ə -- duplicated.
+w ˈi: n e a m , b ˈi ɲ ə
+$#pg 93
+k ˈa n t o: , k ˈa n $cant. verb 1sg pres? 
 d ˈu l k e m , d ˈo l s
-#pg 94
+$#pg 94
 ˈa k r u m , ˈa ɣ ɾ ə
-m ˈa s k l u m , m ˈa s k l ə
+m ˈa s k u l u m , m ˈa s k l ə
 m ˈe d i k u m , m ˈe dʒ ə
-p ˈa u p e r u m , p ˈɔ β ɾ ə #repeat but root is different??
-r ˌu m p ˈeː r e , r ˈo m p ɾ ə
-$w e r r e , #transcription not found
+p ˈa u p e r u m , p ˈɔ β ɾ ə $#repeat but root is different??
+r ˈu m p e r e , r ˈo m p ɾ ə
+f ˈe r r u m , f ˈɛ r ə
+t ˈu r r e m , t ˈo r ə $CM: I did transcription, check.
+w ˈe r r e m , v ˈɛ r ə $CM: I did transcription, check.
 d ˈe u m , d ˈe w
 m ˈe u m , m ˈe w
-p l ˈa k e n t , p l ˈa w ə n #self
-$k u r r u n t , #transcription not found
+p l ˈa k e n t , p l ˈa w ə n $verb. 3pl pres.
+k ˈu r r u n t , k ˈo r ə n $verb. 3pl pres. CM: I did transcription, check.
 b ˈe k k u m , b ˈe k
 b ˈo r e a m , b ˈɔ j ɾ ə
 f ˈeː n u m , f ˈɛ
 f ˌiː k ˈaː r i a m , f i ɣ ˈe ɾ ə
 f ˌo r ˈaː t u m, f u ɾ ˈa t
 f ˈuː m u m , f ˈu m
-#pg 95
+$#pg 95
 f ˈiː b u l a m , s i β ˈe ʎ ə #vulgar latin f i b ˈeː l l a m
-w ˌa l ˈeː r e , b ə l ˈɛ
+w ˌa l ˈeː r e , b ə l ˈɛ $verb. inf. 
 w ˈo k e m , b ˈɛ w
 $w u l p e , #transcription not found. Old catalan
-w ˌa k ˈiː w a m , b ə s ˈi β ə #self
-w ˈa g i n a m , b ˈa j n ə #self
+w ˌa k ˈiː w a m , b ə s ˈi β ə 
+w ˈa g i n a m , b ˈa j n ə 
 w ˌeː r ˈaː t r u m , b ə l ˈa ð ɾ ə
 $w e r k a r i a , #transcription not found
 w ˌe r r ˈuː k a m , b ə r ˈu ɣ ə
 w ˌe r ˈu i n a m , b ə r ˈi n ə
 w ˈo k i t u m , b ˈu j t
-w ˌo l w i k ˈaː r e , b u l k ˈa
-ˌi n w o l w i k ˈaː r e , ə m b u l i k ˈa #two secondary stress 
-$w e r u k u l u , #exception. Transcription not found
-#lots of weird vulgar latin going on here. Go back and revisit
-w ˈe r r a m , g ˈɛ r ə
-w ˈi s a m , g ˈi z ə
-w ˈi h s e l a m , g ˈi ʎ ə
+w ˌo l w i k ˈaː r e , b u l k ˈa  $verb. inf.
+ˌi n w ˌo l w i k ˈaː r e , ə m b u l i k ˈa $verb. inf. 
+w ˌe r ˈi k u l u m  , f u r ˈo ʎ $ #exception. Transcription not found
+$CK: #lots of weird vulgar latin going on here. Go back and revisit. CM: This is all Germanic. Exclude for now. 
+$w ˈe r r a m , g ˈɛ r ə -- Germanic
+$w ˈi s a m , g ˈi z ə -- Germanic
+$ w ˈi h s e l a m , g ˈi ʎ ə -- Germanic.
 #pg 96
-$w a s t a t , #transcription not found
+$w a s t a t , #transcription not found -- GErmainc.
 w ˌe r w ˈaː k t u m , g w ə ɾ ˈɛ t
 t ˌa l i ˈaː r e , t ə ʎ ˈa
-t ˌo n d ˈeː r e , t ˈɔ n d ɾ ə
-t r iː g ˈi n t aː , t ɾ ˈɛ n t ə
+t ˈo n d e r e , t ˈɔ n d ɾ ə
+t r ˌiː g ˈi n t aː , t ɾ ˈɛ n t ə
 t ˈu r d u m , t ˈo r t
-t h e s ˈa u̯ r u m , t ɾ ə z ˈɔ r
-t h ˈi a m , t ˈi ə
-t h r ˈi s k a n , t ɾ ə s k ˈa
-$t h a l j a , t u β ˈa ʎ ə #I think this is germanic?
+tʰ e s ˈa u̯ r u m , t ɾ ə z ˈɔ r $CM: I suspect this is a French loan. Revisit. 
+tʰ ˈi a m , t ˈi ə
+tʰ r ˈi s k a n , t ɾ ə s k ˈa
+$t h a l j a , t u β ˈa ʎ ə #I think this is germanic? Yes it's Germanic.
 t h ˈy m u m , t ˈe m #y here in latin form.
 d ˈa m n u m , d ˈa ɲ
 d ˌeː f ˈeː n s a m , d ə β ˈɛ z ə
-d r a k ˈo n e m , d ɾ ə ɣ ˈo
+d r ˌa k ˈo n e m , d ɾ ə ɣ ˈo
 d ˈuː r u m , d ˈu
-s ˌe d ˈeː r e , s ˈɛ w ɾ ə
-s ˌi n g u l ˈaː r e , s ə ŋ g l ˈa
+s ˈe d e r e , s ˈɛ w ɾ ə $verb. inf.
+s ˌi n g u l ˈaː r e , s ə ŋ g l ˈa $verb. inf.
 s ˈo r t e m , s ˈɔ r t
-s ˌu b ˈeː r e , s ˈu ɾ u #unsure on this example. since it means cork?
+s ˈuː b e r e m , s ˈu ɾ u $#unsure on this example. since it means cork?
 s ˈyː r i n g a m , ʃ ə ɾ ˈi ŋ g ə
 s ˈi m p l i k e m , ʃ ˈi m p l ə
-#pg 97
+$#pg 97
 k ˈa n n a m , k ˈa ɲ ə
-k ˌa n t ˈaː r e , k ə n t ˈa
-k ˈoː d a m , k ˈo ə #self
+k ˌa n t ˈaː r e , k ə n t ˈa $VERB. INF. 
+k ˈoː d a m , k ˈo ə 
 k ˈu p p a m , k ˈo p ə
 k ˈuː p u m , k ˈu p
 k ˈe p a m , s ˈɛ β ə
@@ -695,46 +697,46 @@ k ˈiː m i k e m , ʃ ˈi ɲ ʃ ə
 k ˌi k ˈo r i a , ʃ i k ˈɔ j ɾ ə
 $k i r k u l u , #dialectal. no transcription found
 g ˈa l l u m , g ˈa ʎ
-$g o l i a t , #no idea what this is. no transcription
+$g o l i a t , #no idea what this is. no transcription . CM--looks derived anyways. 
 g ˈu l a m , g ˈo l ə
 g ˈu t t a m , g ˈo t ə
 k ˈa t t u m , g ˈa t
 k ˈa w e a m , g ˈa β i ə
 g ˈi p p u m , ʒ ˈe p
 g ˌi n g ˈiː w a m , ʒ ə n ˈi β ə
-#pg 98
-j ˌa k ˈeː r e , ʒ ˈa w ɾ ə
-j ˈo k u m , ʒ ˈɔ k
-j ˈu d i k e m , ʒ ˈu dʒ ə
-j ˌe j ˈuː n u m , d ə ʒ ˈu
-j ˌe j ˈuː n i u m , d ə ʒ ˈu n i
-j ˌe j uː n ˈaː r e , d ə ʒ u n ˈa
+$#pg 98
+i ˈa k e r e , ʒ ˈa w ɾ ə $verb. inf.
+i ˈo k u m , ʒ ˈɔ k
+i ˈu d i k e m , ʒ ˈu dʒ ə
+i ˌe i ˈuː n u m , d ə ʒ ˈu
+i ˌe i ˈuː n i u m , d ə ʒ ˈu n i
+i ˌe i uː n ˈaː r e , d ə ʒ u n ˈa $verb. inf.
 m ˈa n u m , m ˈa
 m ˈo r s u m , m ˈɔ s
-n ˈa s u m , n ˈa s
-n ˈe p t a m , n ˈe t ə #self
+n ˈaː s u m , n ˈa s
+n ˈe p t a m , n ˈe t ə 
 n ˈiː d u m , n ˈi w
 n ˈu m e r u m , n ˈɔ m b ɾ ə
 m ˈe s p i l a m , n ˈe s p l ə
 $m u s k a t a , #not found
 n ˌe k ˈuː n u m , n i ŋ g ˈu
-r ˌa d ˈeː r e , r ˈa w ɾ ə
-r ˌe k i p ˈeː r e , r ˈɛ β ɾ ə
+r ˈaː d e r e , r ˈa w ɾ ə $verb. inf.
+r ˌe k ˈi p e r e , r ˈɛ β ɾ ə $verb. inf.
 r ˈi k k u m , r ˈi k
 r ˈu t a m , r ˈu ð ə
-#pg 99
+$#pg 99
 r ˈa n o t t a m , g ɾ ə n ˈɔ t ə #exception? This word is from vulgar latin. I added stress as I saw fit
 l ˈa k u m , ʎ ˈa k
 l ˌe n t ˈi k u l a m , ʎ ə n t ˈi ʎ ə
-l ˌi g ˈaː r e , ʎ i ɣ ˈa
+l ˌi g ˈaː r e , ʎ i ɣ ˈa $verb. inf.
 l ˌu m b r ˈiː k u m , ʎ ə m b ɾ ˈi k
 l ˈu k t a m , ʎ ˈu j t ə
 l ˈu t u m , ʎ ˈo t
 l ˈu m e n , ʎ ˈu m
 l ˈu n a m , ʎ ˈu n ə
-l ˌu s k i n i ˈoː l u m , r u s i ɲ ˈɔ l #cant find latin root. stress added as expected in catalan
-l ˌi b ˈe l l u m , n i β ˈe ʎ
-l ˈiː n e a m , ʒ ˈi ɲ ə #strange. Old catalan?
+l ˌu s k i n i ˈo l u m , r u s i ɲ ˈɔ l $#cant find latin root. stress added as expected in catalan. CM: this is probably fine. Fixed it slightly. 
+l ˌi b ˈe l l u m , n i β ˈe ʎ $CM: may be related to Fr. niveau etc.  
+l ˈiː n e a m , ʒ ˈi ɲ ə $#strange. Old catalan? Revisit. 
 $l i n e o l a , #not found
 $l e n t i k u l a , #not found
 l ˈo l i u m , ʒ ˈu ʎ
