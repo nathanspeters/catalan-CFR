@@ -738,87 +738,87 @@ l ˌu s k i n i ˈo l u m , r u s i ɲ ˈɔ l $#cant find latin root. stress add
 l ˌi b ˈe l l u m , n i β ˈe ʎ $CM: may be related to Fr. niveau etc.  
 l ˈiː n e a m , ʒ ˈi ɲ ə $#strange. Old catalan? Revisit. 
 $l i n e o l a , #not found
-$l e n t i k u l a , #not found
-l ˈo l i u m , ʒ ˈu ʎ
+$l e n t i k u l a , #not found -- duplicates above anyways.
+$l ˈo l i u m , ʒ ˈu ʎ -- duplicates above. 
 l ˌa b r ˈe l l u m , ʒ i β ɾ ˈe ʎ
 ˌu m b i l ˈiː k u l u m , ʎ u m b ɾ ˈi ɣ u l
-#pg 100
-r ˈi p a m , r ˈi β ə
-ˌo p ˈaː k u m, u β ˈa k
+$#pg 100
+r ˈi: p a m , r ˈi β ə
+ˌo p ˈaː k u m , u β ˈa k
 ˌa p ˈi k u l a m , ə β ˈɛ ʎ ə
 s ˌaː p ˈoː n e m , s ə β ˈo
 f ˈa b a m , f ˈa β ə
 g l ˈe b a m , g l ˈɛ β ə
-ˌa b ˈe t e m , ə β ˈɛ t
+ˌa b ˈe: t e m , ə β ˈɛ t $from Classical Latin abietem.
 r ˌu b ˈi k u l u m , r u β ˈɛ ʎ 
-p ˌa k i f i k ˈaː r e , ə p ə j β ə ɣ ˈa
-k ˌa w ˈaː r e , k ə β ˈa
-f l ˌa b ˈuː t a m , f l ˈa w t ə #here there are two versions. One dialectal which fransesc suggests
+p ˌa k i f i k ˈaː r e , ə p ə j β ə ɣ ˈa $verb. inf.
+k ˌa w ˈaː r e , k ə β ˈa $verb. inf.
+f l ˌa b ˈuː t a m , f l ˈa w t ə #$here there are two versions. One dialectal which fransesc suggests
 $h a b uː t u , #haut. not found. old catalan
 $p a w oː r e ,  #paor. not found. Old catalan. There are two versions here.
 s ˌa b ˈuː k u m , s ə ˈu k
-s a b ˈu r r a m , s ˈo r ə #old catalan saorra
+s a b ˈu r r a m , s ˈo r ə $#old catalan saorra
 f ˈa t a m , f ˈa ð ə
 k l ˈe t a m , k l ˈɛ ð ə
 k ˌa t h ˈe d r a m , k ə ð ˈi ɾ ə
 $a n a t i k u l a , #not found
 l ˌo t ˈoː n e m , ʎ ə ð ˈo
 #pg 101
-k r ˌa t ˈeː l l a s , ɡ ɾ ə ˈe ʎ ə s #self
+k r ˌa t ˈeː l l a s , ɡ ɾ ə ˈe ʎ ə s 
 k r ˌa t ˈaː l e m , g ɾ e ˈa l ə
 p ˌa t ˈeː l l a m , p ə ˈe ʎ ə
-k w ˌa t ˈe r n u m , k w ə ð ˈe r n #self. more modern version here. Fransesc uses old catalan version
-s p ˈa t a m , ə s p ˈa z ə #old catalan espaa
-t r ˌi t ˈaː r e , t ɾ i ˈa
-v ˌi k ˈaː t a m , b ə ɣ ˈa #self
-l ˌaː b ː r a t ˈoː r e m , ʎ ə w ɾ ə ð ˈo #self. fransesc suggests an older llauraor
-b ˈoː t a n , b u t ˈa
-b r ˈu t a n , b ɾ u t ˈa
-#here there are roots without available transcriptions
-ˌa l ˈa u̯ d a m , ə l ˈo z ə
-l ˌa m p r ˈeː d a m , ʎ ə m p ɾ ˈɛ z ə #self
+k w ˌa t ˈe r n u m , k w ə ð ˈe r n $#self. more modern version here. Fransesc uses old catalan version
+s p ˈa tʰ a m , ə s p ˈa z ə $#old catalan espaa
+t r ˌi t ˈaː r e , t ɾ i ˈa $verb. inf.
+v ˌi k ˈaː t a m , b ə ɣ ˈa 
+l ˌaː b o r aː t ˈoː r e m , ʎ ə w ɾ ə ð ˈo #self. fransesc suggests an older llauraor
+b ˈoː t a n , b u t ˈa $Germanic? Reexamine.
+b r ˈu t a n , b ɾ u t ˈa $Germanic? Reexamine. 
+$#here there are roots without available transcriptions
+ˌa l ˈa u̯ d a m , ə l ˈo z ə $Gaulish. 
+l ˌa m p r ˈeː d a m , ʎ ə m p ɾ ˈɛ z ə $Gaulish. 
 ˌi n k ˈuː d i n e m , ə ŋ k l ˈu z ə
-j ˌuː d ˈa e̯ u m , ʒ u ˈe w
-s ˌu d ˈaː r e , s u ˈa
+i ˌuː d ˈa e̯ u m , ʒ u ˈe w
+s ˌu d ˈaː r e , s u ˈa $verb. inf.
 k r ˌuː d ˈeː l e m , k ɾ u ˈɛ l
-k l ˌa u̯ d ˈe n d a m , k l u ˈe n d ə
+k l ˌa w d ˈe n d a m , k l u ˈe n d ə
 $f i d e l e , #old catalan feel. transcription not found
 $w i d e r e , #old catalan veer. de veure
 $r e d i m e r e , #old catalan reembre , 
-l ˌa u d ˈoː r e , ʎ ə ˈo
+l ˌa u d ˈoː r e m , ʎ ə ˈo
 p ˌe d ˈu k u l u m , p ˈo ʎ #old catalan peoll
-#pg 102
-l ˈa u̯ s a , ʎ ˈɔ z ə
+$#pg 102
+l ˈa w s a m , ʎ ˈɔ z ə
 r ˈo s a m , r ˈɔ z ə
-ˌa k k u s ˈaː r e , ə k u z ˈa
-ˌi n k iː s ˈaː m e n , ə n s i ˈa m #vulgar latin of incīsum
-r o s ˈe l l a m , r u ˈe ʎ ə #self
+ˌa k k u s ˈaː r e , ə k u z ˈa $verb. inf.
+ˌi n k iː s ˈaː m e n , ə n s i ˈa m $#vulgar latin of incīsum
+r o s ˈe l l a m , r u ˈe ʎ ə 
 $l a u s e l l a , #not found
 r ˌeː s ˈiː n a m , r ə ˈi n ə
-r ˌa s ˈoː r e , r ə ˈo
+r ˌa s ˈoː r e m , r ə ˈo
 r ˌo s ˈaː t a m , r u z ˈa ð ə #self
-#pg 103
+$#pg 103
 f ˌo k ˈa k e a , f u ɣ ˈa s ə
-l ˌo k ˈaː r e , ʎ u ɣ ˈa
+l ˌo k ˈaː r e , ʎ u ɣ ˈa $verb. inf.
 f ˌo r m ˈiː k a m , f u r m ˈi ɣ ə
 s ˌe k ˈu n d u m , s ə ɣ ˈo n
-p ˈa u̯ k a m , p ˈɔ k ə
-f ˌa k ˈe n d a , f ˈɛ j n ə #older latin form f a k i e n d a m seems correct here but unsure.
+p ˈa w k a m , p ˈɔ k ə
+f ˌa k ˈe n d a , f ˈɛ j n ə $#older latin form f a k i e n d a m seems correct here but unsure.
 $j a k e n t e , #not found
-p l ˌa k ˈeː r e , p l ə ˈɛ
-d ˌe k ˈeː n a , d ˈɛ n ə #old catalan
-r ˈi k i n u m , r ˈɛ #self
-$t a n a k e t u , #cant find
+p l ˌa k ˈeː r e , p l ə ˈɛ $verb. inf.
+d ˌe k ˈeː n a , d ˈɛ n ə $#old catalan
+r ˈi k i n u m , r ˈɛ 
+$t a n a k e t u , #cant find -- it's dialectal anyways, to the dialect of Cerdanya  
 b ˈi g a m , b ˈi ɣ ə
 d ˈo g a m , d ˈɔ ɣ ə
-r ˈi g a t , r ˈe ɣ ə
-l ˈi g a t , ʎ ˈi ɣ ə
-n ˈe g a t , n ˈe ɣ ə #self
-$b r i g a n t e s , #not found. strange case
-r ˌu m i g ˈaː r e , r u m i ˈa
-r ˌe g ˈa l e m , r e ˈa l
-#pg 104
-r ˈu g a m , r ˈu ə
+r ˈi g a t , r ˈe ɣ ə $verb. 3sg pres. 
+l ˈi g a t , ʎ ˈi ɣ ə $verb. 3sg pres.
+n ˈe g a t , n ˈe ɣ ə $verb. 3sg pres.
+$b r i g a n t e s , #not found. strange case -- CM: probably a placename
+r ˌu m i g ˈaː r e , r u m i ˈa $verb. inf.
+r ˌe: g ˈa: l e m , r e ˈa l
+$#pg 104
+r ˈu g a m , r ˈu: ə
 p ˈu g a m , p ˈu ə
 t ˈe g u l a m , t ˈɛ w l ə
 l ˌe g ˈuː m e n , ʎ ə ɣ ˈu m
@@ -826,16 +826,16 @@ l ˌe g ˈuː m e n , ʎ ə ɣ ˈu m
 k w ˌa d r aː g ˈeː s i m a m , k w ə ɾ ˈɛ z m ə
 b ˌo r r ˈa g i n a m , b u r ˈa j n ə
 $b r u g i t u , #not found. bruit
-k ˌo g i t ˈaː r e , k u j t ˈa
-w ˌi g i l ˈaː r e , b ə l l ˈa #self. dialectal here
+k ˌo g i t ˈaː r e , k u j t ˈa $verb. inf.
+w ˌi g i l ˈaː r e , b ə l l ˈa $verb. inf.# dialectal here
 $d o g e l l a , #self
 m ˌa g ˈi s t r u m , m ˈɛ s t ɾ ə
 n ˌi g ˈe l l a m , n i ˈe ʎ ə
-s ˌa g ˈiː m e n , s ə ˈi m #vulgar latin here. s a g iː n a from classic latin?
-f ˌu g ˈiː r e , f u ʒ ˈi
-f r ˌe g ˈiː r e , f ɾ ə ʒ ˈi
-l ˌe g ˈiː r e , ʎ ə ʒ ˈi
-#pg 105
+s ˌa g ˈiː m e n , s ə ˈi m $#vulgar latin here. s a g iː n a from classic latin? CM: it's fine. 
+f ˌu g ˈiː r e , f u ʒ ˈi $verb. inf.
+f r ˌe g ˈiː r e , f ɾ ə ʒ ˈi $verb. inf.
+l ˌe g ˈiː r e , ʎ ə ʒ ˈi $verb. inf.
+$#pg 105
 p ˌaː g ˈe l l u m , p ə ʒ ˈe ʎ
 p ˌaː g ˈeː n s e m , p ə ʒ ˈɛ s
 s ˌa g ˈi t t a m , s ə ʒ ˈɛ t ə
@@ -848,36 +848,36 @@ f ˌa r r ˈa g i n e m , f ə r ˈa dʒ ə
 c ˌa l ˈi g i n e m , k ə l ˈi dʒ ə
 f ˌe r r ˈi g i n e m , f ə r ˈi dʒ ə
 $p r u r i g i n e , #transcription not found. other versions of the word available but im unsure which to use
-d ˈi e j ˈo w i s , d i ʒ ˈɔ w s
+d ˈi e i ˈo w i s , d i ʒ ˈɔ w s
 m ˌa j ˈo r e , m ə ʒ ˈo
 p l ˈo j a m , p l ˈu ʒ ə
 t r ˈo j a m , t ɾ ˈu ʒ ə
-#pg 106
+$#pg 106
 f ˌe m ˈe l l a m , f a m ˈe l a
-r ˌu m ˈoː r e , r ə m ˈo
-p l ˈu m a m , p l ˈo m ə
+r ˌu m ˈoː r e m , r ə m ˈo
+p l ˈu: m a m , p l ˈo m ə
 p ˌaː n ˈaː r i u m , p ə n ˈe
-m ˌi n ˈaː r e , m ə n ˈa
+m ˌi n ˈaː r e , m ə n ˈa $verb. inf.
 ˌa r ˈa t r u m , ə ɾ ˈa ð ə
 $e r u k a , #not found
 $f e r a m e n , #not found
 w ˈe l a m , b ˈɛ l ə
-w ˌo l ˈaː r e , b u l ˈa
-m ˈu l a m , m ˈu l ə #self
+w ˌo l ˈaː r e , b u l ˈa $verb. inf.
+m ˈu: l a m , m ˈu l ə 
 w ˌe n ˈiː n u m , b ə ɾ ˈi
 n ˌo n ˈa n t a m , n u ɾ ˈa n t ə
-b ˌa r k i n ˈoː n e , b ə r s ə l ˈo n ə #self
+b ˌa r k i n ˈoː n e m , b ə r s ə l ˈo n ə 
 ˌa r ˈa t r u m , ə l ˈa ð ɾ ə
 $a r a t r i k a , #not found. old catalan
-p ˌa r a w e r ˈeː d u m , p ə l ə f ɾ ˈɛ
-ˌe k s k e r e b r ˈaː t uː r u m , ə ʃ ə l ə β ɾ ˈa t #vulgar latin version: ˌe k s k e r e b r a t u m
+p ˌa r a w e r ˈeː d u m , p ə l ə f ɾ ˈɛ $CM: looks like loan from Western French variant of French palefroi.  Reexamine. 
+ˌe k s k ˌe r e b r ˈaː t u m  , ə ʃ ə l ə β ɾ ˈa t $#vulgar latin version: ˌe k s k e r e b r a t u m. CMː going with this instead of diachronically irrelevant (seemingly)  -uː r u m  form.
 r ˌoː s m a r ˈiː n u m , r u m ə n ˈi
 $a r a t r i k u l a , #not found
-#pg 107
+$#pg 107
 k ˌo l u m n ˈe l l a m , k u ɾ u n ˈe ʎ ə
-f ˌi l ˈi k u l a m , f ə ɾ i ɣ ˈo l ə #unsure about latin stress here
-j ˌu l i ˈo l u m , ʒ u l i ˈɔ l #judgment call here since example given was dialectal
-ˌu l u l ˈaː r e , u ð u l ˈa
+f ˌi l ˈi k u l a m , f ə ɾ i ɣ ˈo l ə 
+i ˌu l i ˈo l u m , ʒ u l i ˈɔ l #judgment call here since example given was dialectal. CM: let's include for now, possibly remove when making decision about dialectal stuff. Could be useful for matters during period before divergence.  
+ˌu l u l ˈaː r e , u ð u l ˈa $verb. inf.
 p l ˈo r a t , p l ˈɔ ɾ ə #self
 e t , ˈɛ #strange case here
 a d , ˈa
