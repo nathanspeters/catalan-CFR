@@ -878,141 +878,142 @@ k ˌo l u m n ˈe l l a m , k u ɾ u n ˈe ʎ ə
 f ˌi l ˈi k u l a m , f ə ɾ i ɣ ˈo l ə 
 i ˌu l i ˈo l u m , ʒ u l i ˈɔ l #judgment call here since example given was dialectal. CM: let's include for now, possibly remove when making decision about dialectal stuff. Could be useful for matters during period before divergence.  
 ˌu l u l ˈaː r e , u ð u l ˈa $verb. inf.
-p l ˈo r a t , p l ˈɔ ɾ ə #self
-e t , ˈɛ #strange case here
-a d , ˈa
-ˈa p u d , ə m
-h o k , u
-n e k , n i
-s iː k , s ˈi
-r e s , r ˈɛ s
-t ˈa b u l aː s , t ˈa w l ə s #self
+p l ˈo r a t , p l ˈɔ ɾ ə  $verb. 3sg pres. 
+ˌe t , ɛ $#strange case here. CM: keep for now. May be due to lack of primary stress on this conjunction. 
+ˌa d , ˈa
+ˌa p u d , ə m
+h ˌo k , u
+n ˌe k , n i
+s ˈiː k , s ˈi
+r ˈeː s , r ˈɛ s
+t ˈa b u l aː s , t ˈa w l ə s 
 h ˈo m i n e s , ˈɔ m ə s
 t ˈe m p u s , t ˈe m s
 g ˈe n u s , ʒ ˈe n s
 j ˈa m , ʒ ˈa
-s ˈu m , s ˈɔ n #unsure whether its s ˈo n or s ˈɔ n
+s ˈu m , s ˈɔ n $CK:#unsure whether its s ˈo n or s ˈɔ n
 t ˈa m , t ˈa n
 t ˈu u m , t u n
 s ˈu u m , s ˈɔ n
 r ˈe m , r ˈɛ n
-p e r , p ə r
-k o r , k ˈɔ r
+p ˌe r , p ə r
+k ˈo r , k ˈɔ r
 s ˈe m p e r , s ˈe m p ɾ ə
 ˈi n t e r , ˈe n t ɾ ə
-p ˌaː s t ˈoː r e m , p ə s t ˈo #judgement call here. dialectal
-s ˌa r t ˈoː r e m, s ˈa s t ɾ ə
-#pg 108
+p ˌaː s t ˈoː r e m , p ə s t ˈo $#judgement call here. dialectal
+s ˈa r t o r , s ˈa s t ɾ ə $CM: replaced earlier form sartōrem here. This is a case where it actualy comes from accusative SG. 
+$#pg 108
 f ˈi m u m , f ˈe m
 $k a n t a m u s , #transcription not found. <cantam>
 p l ˈa n u m , p l ˈa
-d ˌe m ˈa n e m , d ə m ˈa
+d ˌeː m ˈaː n e , d ə m ˈa $CM: this one is actually from dē - māne (abl.) not a *demanem.
 $e r o n e , #transcription not found <oro>
 p r ˌi m ˈaː r i u m , p ɾ i m ˈe
-#pg 109
+$#pg 109
 m ˈa r e , m ˈa r
 k ˈaː r u m , k ˈa r
-p ˈu r u m , p ˈu r
-d ˈe b e t , d ˈɛ w
-l ˈe w e , ʎ ˈe w
-m ˈo w e t , m ˈɔ w
-n ˈuː d u m , n ˈu #two words here. I chose the one for "naked" instead of "cloud"
+p ˈu: r u m , p ˈu r
+d ˈe b e t , d ˈɛ w $verb 3sg pres. 
+l ˈe w e m , ʎ ˈe w
+m ˈo w e t , m ˈɔ w $verb. 3sg pres. 
+n ˈuː d u m , n ˈu $#two words here. I chose the one for "naked" instead of "cloud"
 p ˈa k e m , p ˈa w
-l ˈi k e t , ʎ ˈe w
+l ˈi k e t , ʎ ˈe w $verb 3sg pres.
 f ˌeː l ˈiː k e m , f ə l ˈi w
 $r a d i k e , #transcription not found. Old catalan
-f ˈi d eː m , f ˈɛ #francesc states its fede in latin but i see fidem
-#pg 110 - there are some middle stages for latin here in francesc that might be helpful for analysis
+f ˈi d eː m , f ˈɛ $#francesc states its fede in latin but i see fidem. CM: that's correct. 
+$#pg 110 - there are some middle stages for latin here in francesc that might be helpful for analysis
 k ˈa p u m , k ˈa p
 p r ˈa t u m , p ɾ ˈa t
 h ˌe r bˈo s u m , ə r b ˈo s
-m ˈa j u m , m ˈa tʃ
+m ˈa i u m , m ˈa tʃ
 p l ˈe n u m , p l ˈɛ
 b l ˈa n k u m , b l ˈa ŋ
 f l ˈa m m a m , f l ˈa m ə
-k l ˌa u̯ d ˈeː r e , k l ˈɔ w ɾ ə
+k l ˈa w d e r e , k l ˈɔ w ɾ ə $verb. inf.
 k l ˈa w e m , k l ˈa w
 b r ˈa k h i u m , b ɾ ˈa s
 f r ˈo n t e m , f ɾ ˈo n
 g r ˈa k u l u m , g ɾ ˈa ʎ
 g r ˈo s s u m , g ɾ ˈɔ s
-f l ˈe b i l e m , f ˈe b b l ə
-p r ˌe n d ˈeː r e , p ˈɛ n d ɾ ə
+f l ˈe: b i l e m , f ˈe b b l ə
+p r ˈe n d e r e , p ˈɛ n d ɾ ə $verb. inf.
 b l ˌi d ˈa l e m , b ɾ i ˈa l
-f r ˌa g r ˈaː r e , f l ə j ɾ ˈa
+f r ˌa g r ˈaː r e , f l ə j ɾ ˈa $verb. inf.
 $f r a t r e , #not found. dialectal <flare>
 p l uː s , p ˈu s
 #pg 111
-p l ˌi k ˈaː r e , b l ə ɣ ˈa
-d ˌu p l i k ˈaː r e , d u b b l ə ɣ ˈa
+p l ˌi k ˈaː r e , b l ə ɣ ˈa $verb. inf.
+d ˌu p l i k ˈaː r e , d u b b l ə ɣ ˈa $verb. inf.
 k r ˈa s s u m , g ɾ ˈa s
-k r ˈa p p a m , g ɾ ˈa p ə
-k r ˌa p ˈa u d , g ɾ i p ˈa w #strange stress in latin. unsure
-k r ˌa t ˈa l e m , g ɾ e ˈa l
-k r ˌa t ˈe l l a s , ɡ ɾ ə ˈe ʎ ə s #self
+k r ˈa p p a m , g ɾ ˈa p ə $CM: Germanic? 
+$k r ˌa p ˈa u d , g ɾ i p ˈa w #strange stress in latin. unsure. CM: This is a Occitan loan, reflecting a derivation of a Germanic (Frankish) item. Plenty of grounds to exclude.  
+k r ˌaː t ˈaː l e m , g ɾ e ˈa l
+k r ˌaː t ˈe l l a s , ɡ ɾ ə ˈe ʎ ə s
 k r ˌa t t ˈaː r e , g ɾ ə t ˈa
-k r ˈi p j a m , g ɾ ˈi p i ə
-k r ˈi p t a m , g ɾ ˈu t ə #y vowel in latin
+k r ˈi p j a m , g ɾ ˈi p i ə $CM: Germanic? 
+k r ˈy p t a m , g ɾ ˈu t ə 
 s t ˈo r e a m , ə s t ˈo ɾ ə
 s k ˈu m a m , ə s k ˈu m ə
 p t ˌi s ˈa n a m , t i z ˈa n ə
 p s ˈa l m u m , s ˈa l m
-#pg 112
-k ˈi r r a , s ˈɛ r ə #not sure whether to put m in latin here
-ˌa b b i b e r ˈaː r e , ə β ə w ɾ ˈa
+$#pg 112
+k ˈi r r a m , s ˈɛ r ə 
+ˌa b b ˌi b e r ˈaː r e , ə β ə w ɾ ˈa $verb. inf.
 m ˌi t t ˈeː r e , m ˈɛ t ɾ ə
-r ˌe d d ˈeː r e , r ˈɛ t ɾ ə
+r ˈe d d e r e , r ˈɛ t ɾ ə $verb. inf. Earlier redre. 
 m ˌa m m ˈe l l a m , m ə m ˈe ʎ ə
 w ˈa k k a m , b ˈa k ə
-b ˌa k k ˈi n u m , b ə s ˈi
+b ˌa k k ˈiː n u m , b ə s ˈi
 m ˈa s s a m , m ˈa s ə
 ˈo s s a m , ˈɔ s ə
-w ˌe s s ˈi k a m , b ə ʃ ˈi ɣ ə
-k ˌo l l i g ˈeː r e , k u ʎ ˈi
+w ˌe s s ˈiː k a m , b ə ʃ ˈi ɣ ə
+k ˌo l l ˈiː g e r e , k u ʎ ˈi $verb. inf.
 ˈi l l a , ˈe ʎ ə
 b ˈa n n a , b ˈa ɲ ə
-t h ˌu n n ˈi n a m , t u ɲ ˈi n ə
+tʰ ˌu n n ˈiː n a m , t u ɲ ˈi n ə
 g r ˌu n n ˈiː r e , g ɾ u ɲ ˈi
 ˌa r g ˈiː l l a m , ə r ʒ ˈi l ə
 n ˈiː n n a m , n ˈi n ə
 w ˈiː l l a m , b ˈi l ə
 s t ˈeː l l a m , ə s t ˈɛ l ə
 p ˈeː n n a m , p ˈɛ n ə
-#pg 113
-p ˌa r ˈaː t o r , p ə ɾ ˈa j ɾ ə #self
-b ˌa p t i s m u m , b ə p t ˈi z m ə
+$#pg 113
+p ˌa r ˈaː t o r , p ə ɾ ˈa j ɾ ə 
+$b ˌa p t ˈi s m u m , b ə p t ˈi z m ə $CM: excluded on grounds of being an obvious church loan.
 k ˌa p t ˈi w u m , k ə p t ˈi w
-r ˈu p t a m , r ˈɔ t ə #unsure why it is feminine here. maybe a bad example?
+r ˈu p t a m , r ˈɔ t ə $#unsure why it is feminine here. maybe a bad example? It's fine. Cf. Frnehc route. But you have Catalan rot too. Added below. 
+r ˈu p t u m , r ˈɔ t 
 s ˌu b t ˈiː l e m , s u p t ˈi l
 k ˌa p i t ˈa l e m , k ə b d ˈa l
 k ˌa p i t ˈe l l u m , k ə b d ˈe ʎ
-k ˌa p i t ˈaː r e , k ə p t ˈa
-r ˌe p u t ˈaː r e , r ə p t ˈa
-m ˌa l e h ˈa b i t u m , m ə l ˈa l #old catalan <malaute>
-k u b i t u , k ˈo l z ə
-#pg 114
+k ˌa p i t ˈaː r e , k ə p t ˈa $verb. inf.
+r ˌe p u t ˈaː r e , r ə p t ˈa $verb. inf.
+m ˌa l e h ˈa b i t u m , m ə l ˈa l $#old catalan <malaute>
+k ˈu b i t u m , k ˈo l z ə
+$#pg 114
 k ˈa p s a m , k ˈa p s ə
-ˌa b s o l w ˈeː r e , ə p s ˈɔ l d ɾ ə
+ˌa b s ˈo l w e r e , ə p s ˈɔ l d ɾ ə $verb. inf.
 k ˈa p r a , k ˈa β ɾ ə
-ˌa p r i k ˈaː r e , ə β ɾ i ɣ ˈa
+ˌa p r ˌi k ˈaː r e , ə β ɾ i ɣ ˈa $verb. inf.
 ˈo p e r a m , ˈɔ β ɾ ə
 k ˌu p e r ˈaː r e , k u β ɾ ˈa
-l ˈe p r a m , l ˈe p ɾ ə #cult example
+l ˈe p r a m , l ˈe p ɾ ə $#cult example. CM: what do you mean? 
 p r ˈo p r i u m , p ɾ ˈɔ p i
 k ˈu p r u m , k ˈo w ɾ ə
-l ˈiː b r a m , ʎ ˈi w ɾ ə
-f ˈa b r u m , f ˈa β ɾ ə #self. surname
-f ˈa b r i k a m , f ˈa β ɾ ə ɣ ə #self. Old catalan. modern version: <farga>
+$l ˈiː b r a m , ʎ ˈi w ɾ ə $CM: likely learned loan, also a duplicate of above.  
+f ˈa b r u m , f ˈa β ɾ ə $#surname
+f ˈa b r i k a m , f ˈa β ɾ ə ɣ ə $#self. Old catalan. modern version: <farga>. CM: reexamine.
 p ˈa l p e b r a m , p ə r p ˈe ʎ ə
-w ˌi w ˈeː r e , b ˈi w ɾ ə
-#pg 115
-n ˈi t i d a m , n ˈɛ t ə #self
+w ˈiː w e r e , b ˈi w ɾ ə  $verb. inf.
+$#pg 115
+n ˈi t i d a m , n ˈɛ t ə 
 p ˈu t i d a m , p ˈu t ə
-f ˈa t i d a m , f ˈa ð ə #transcription from francesc
+f ˈa t i d a m , f ˈa ð ə 
 p ˈa t i n a m , p ˈa n n ə
 k ˈu t i n a m , k ˈo n n ə
-r ˈe t i n a s , r ˈe ŋ n ə s #self
+r ˈeː t i n a s , r ˈe ŋ n ə s 
 $l e g i t i m u , #not found. old catalan
 $k u l k i t r a , #not found
 p ˈa t r e m , p ˈa ɾ ə
-m a t r e , m ˈa ɾ ə #self
+m a t r e , m ˈa ɾ ə 
