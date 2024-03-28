@@ -1,3 +1,61 @@
-h > ∅ / [+syll] __ [+syll]
+$ loss of aspiration from gk loans. 
+$ HOWEVER: we have pʰ ˌa s e ˈo l u m , f ə z ˈɔ l ... pʰ l ˈe g m a m , f l ˈɛ w m ə ... t r ˌi ˈu m pʰ u m , t ɾ i ˈo m f
+$ I'm assuming these were borrowed into latin with /f/.
+[+sg,-voi,-cont] > [-sg]
 
-h > ∅
+$ gk y unrounds
+[+front,+round] > [-round]
+
+
+$ h-loss: very early.
+$ h > ∅ / [+syl] __ [+syl] technically happened even earlier.
+h > ∅ 
+
+$ Prosthetic front vowel before s+stop (becomes e in sp, ə in cat)
+∅ > ɪ / # __ s [-son,-cont]
+
+$ final m-loss except in monosyl (via vowel nasalization)
+$ really what happened here was first [+syl] [+nas] > [+nas] ∅ / __ # 
+    $ then nasalization was lost on atonics, restored as /n/ with tonics.
+m > n / [+stres] __ #
+m > ∅ / __ #
+
+
+$ VL vowel changes
+$Tonic:
+    [+syl,-lo,-hi,-long] > [-tense] $ lax e,o 
+    [+syl,-long] > -hi $ lower i,u
+    [+syl] > [-long] $ a:,e:,i:,o:,u: lose length
+    ˈa e̯ > ˈɛ
+    ˈo e̯ > ˈe
+$Atonic:
+    [+syl,-hi,-lo,-stres] > [+tense] $ ɛ>e ɔ>o
+
+
+
+
+
+$$$$ NOTES
+
+$VL TONIC VOWELS > CAT
+$1.1.1 p64: vl i (<i:)
+    $Always /i/ (or /j/ when non-nuclear)
+
+$1.1.2 p65: vl ɛ (<e,ae):
+    $becomes /e/ in cat except when:
+        $followed by l
+        $followed by rr or r[-lab]
+        $followed by nr (ndr) eg. teneru>tendre
+        $followed by the /w/ from d or c'eg. pede>peu, dece>deu
+        $/i/ when __j (after breaking) eg. pects(>?pieits?)>pits
+
+$1.1.3 p67: vl e (<e:,i,oe)
+    $ɛ' in ECat. Looks like this is from intermediary ə' which balearic retains.
+        $Meyer-lubke: e>ə before reconquista
+    $p69: vl /e/ -> cat /e/ after /ʒ/ or when followed by /j/, /ɲ/, or /ŋ/. Or betw any 2 palatals
+    $p71: vl /e/ -> cat /i/ in certain regular cases 
+
+$1.1.4 p73: vl a (<a,a:)
+
+
+
