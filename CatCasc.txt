@@ -6,6 +6,17 @@ $ I'm assuming these were borrowed into latin with /f/.
 $ gk y unrounds
 [+front,+round] > [-round]
 
+$ from CLEF: Vns>V:s
+[+syl] > [+long] / __ n̪ s ([-syl])* [-stres] 
+n̪ > ∅ / [+syl,+long] __  s
+
+$ from CLEF: rs>s after long vowels
+[+cor,+son,-nas,-lat] > ∅ / [+syl,+long] __ s 
+
+$ from CLEF: stressed i + e > iː x 
+    $ happens with certainty before vowel tenseness changes.
+[+hi,+front,+stres] e > [+long] x / __ [-nas]
+
 
 $ h-loss: very early.
 $ h > ∅ / [+syl] __ [+syl] technically happened even earlier.
@@ -37,25 +48,63 @@ $Atonic:
 
 $$$$ NOTES
 
-$VL TONIC VOWELS > CAT
-$1.1.1 p64: vl i (<i:)
-    $Always /i/ (or /j/ when non-nuclear)
+$VL TONIC VOWELS > CAT (pp64-84)
+    $1.1.1 p64: vl ˈi (<ˈi:)
+        $Always /ˈi/ (or /j/ when non-nuclear)
+    $1.1.2 p65: vl ˈɛ (<ˈe,ˈae):
+        $becomes /ˈe/ in cat except when:
+            $followed by l
+            $followed by rr or r[-lab]
+            $followed by nr (ndr) eg. teneru>tendre
+            $followed by the /w/ from d or c'eg. pede>peu, dece>deu
+            $/i/ when __j (after diphthongization) eg. pects(>?pieits?)>pits
+    $1.1.3 p67: vl ˈe (<ˈe:,ˈi,ˈoe)
+        $ˈɛ in ECat. Looks like this is from intermediary ˈə which balearic retains.
+            $Meyer-lubke: ˈe>ˈə before reconquista
+        $p69: vl /ˈe/ -> cat /ˈe/ after /ʒ/ or when followed by /j/, /ɲ/, or /ŋ/. Or betw any 2 palatals
+        $p71: vl /ˈe/ -> cat /ˈi/ in certain regular cases 
+    $The reversal of the two VL E sounds in tonics is thus ordered:
+        $first ˈe>ˈə
+        $then ˈɛ>ˈe
+        $finally ˈə>ˈɛ in east; ˈə>ˈe in west; unchanged in balearic
+    $1.1.4 p73: vl ˈa (<ˈa,ˈa:)
+        $generally stays as /ˈa/. F2 quality varies. In certain dialects, is so fronted that it is sometimes transcribed as [ɛ] - not relevant to us.
+        $"iod quarta" - /ks/, /kt/, /rj/ /sj/ /pj/ - was the only thing to affect /a/, making it /e/ in mod cat
+            $intermediate stage "ei" found in documents <14th c.; some pyrenese dialects still have this.
+            $also, there is a metathesis of suffix -ariu(m) > -airu > -eru
+            $in french -ariu(m) became -ier, -iere and the -aire is semi-learned
+        $ latin au ended up as ɔ; later au (<abu) maintained.
+    $1.1.5 p78: vl ˈɔ (<ˈo)
+        $generally maintained. There is always a perceptible difference between the two o sounds for catalan speakers.
+        $ɔj > uej > uj (im sure we can look at fr cascade for this as well)
+        $closed to /o/ when followed by nas+stop cluster eg. monte
+        $ɔw has apparently opened to aw 
+    1.1.6 p80: vl ˈo (<ˈo:,ˈu)
+        $maintained as /ˈo/ except when:
+        $in hiatus - becomes /u/ (I assume nonsyllabic?) eg. duas>dues "two (f.)"
+        $followed by nasal+velar or nasal+palatal - becomes /ˈu/ eg. puncta>punta 
+        $"iod segona i tercera": closes to /ˈu/ eg. pugnu>puny
+        $numerous other cases of closure explained as lexical due to "cultisme" (again)
+        $ou > eu change in cruce>creu, voce>veu: timing is debated.
+            $this needs some more investigation
+    1.1.7 p84: vl ˈu (<ˈu:)
+        $pretty much always kept as ˈu.
+        $a few sporadic cases exist where /ˈum/>/ˈom/: pluma>ploma, bruma>broma, flumen>flom
 
-$1.1.2 p65: vl ɛ (<e,ae):
-    $becomes /e/ in cat except when:
-        $followed by l
-        $followed by rr or r[-lab]
-        $followed by nr (ndr) eg. teneru>tendre
-        $followed by the /w/ from d or c'eg. pede>peu, dece>deu
-        $/i/ when __j (after breaking) eg. pects(>?pieits?)>pits
-
-$1.1.3 p67: vl e (<e:,i,oe)
-    $ɛ' in ECat. Looks like this is from intermediary ə' which balearic retains.
-        $Meyer-lubke: e>ə before reconquista
-    $p69: vl /e/ -> cat /e/ after /ʒ/ or when followed by /j/, /ɲ/, or /ŋ/. Or betw any 2 palatals
-    $p71: vl /e/ -> cat /i/ in certain regular cases 
-
-$1.1.4 p73: vl a (<a,a:)
-
-
+$VL ATONIC VOWELS (pp85-94)
+    $First syllable (countertonic)
+    $I see a lot of cases in the lexicon where first-syllable a or e are ə in mod cat. Maybe there's something I'm misunderstanding.
+        $vl ˌi (<ˌiː)
+            $preserved except for when following syllable has i, which triggers still-productive dissim. lowering to e
+        $vl ˌa
+            $preserved except ˌa[C]j became ˌe
+        $ various cases where ˌa or ˌe became ˌi. See section 68 on p85
+            $ˌa or ˌe followed by a nasal became ˌi -- singulare>singlar, in directu>indret
+            $creare>criar due to hiatus
+            $and others
+        $ au raises to o (which o?)
+        $ vl o > cat o 
+            $e.catː realized as /u/ (typical for unstressed u,o,ɔ)
+            $rose to /u/ when followed by a palatal sound
+            $certain cases of following stressed o change a first-syl o to e
 
