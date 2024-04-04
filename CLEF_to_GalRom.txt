@@ -1,9 +1,9 @@
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$ Clayton's CLEF cascade up until the Gallo-Roman stage, for purposes of testing.
+$ Clayton's CLEF cascade up until middle Gallo-Roman, for purposes of testing.
 $ If your DiaSim installation and catalan-CFR are in sister subfolders within a Github folder, use:
 $ ./derive.sh -s -lex ../catalan-CFR/lexicon.txt -rules ../catalan-CFR/CLEF_to_GalRom.txt 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-
+$ See also - a few ballpark implementations of later cat rules are at the bottom
 
 
 
@@ -345,7 +345,7 @@ $ she actually has the effects of this in her citation forms for Late Latin (s68
 $CORRECTION: opening of voiced velar and palatal stops intervocalically occurs early enough to get into Pope's sound tables.
 [-cont,+hi,+voi] > [+cont] / [-cons] __ {[+son,-lat,-nas];ʝ}
 
-$~Late Latin
+=Late Latin
 
 $absorption of yod into prev, now palatalized, consonant 
 ʝ > ∅ / [-cont,+hi,+front] __
@@ -461,3 +461,49 @@ $ -- give her the benefit of the doubt and specify +syl not -cons
 [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
 [+prim] > [+long] / __ [+lab,+voi,+ant] r [+syl] #
 [+prim] > [+long] / # ([-syl])* __ [+cons] #
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+=GalRom
+
+$Some ballpark later rules
+
+[+syl] > [-nas]
+[+lat] > [-back]
+βʷ > β
+β > b
+l l > ʎ
+l > ʎ / # __
+d̪ > ∅ / n̪ __
+s c > ʃ
+s s ʝ > ʃ
+s ʝ > z
+{p p; t t; k k}> {p;t;k}
+s s > s
+ʝ ʝ > ʝ
+ʝ > ʒ $ This is definitely wrong - either it was contextual or the original ʝ from clef never arose in some cases. We have kləɾiˈan̪ə from klˌariˈaːn̪am
+r > ɾ
+ɾ ɾ > r
+w > ∅ / __ [+lab]
+c > s
+
+
+[+stres,-prim] > [-stres]
+[+long] > [-long]
+ɑ > a
+ˈɑ > ˈa
+
+[+syl,-lo] > ∅ / __ # $ Feeds loss of word final n and tap r
+n̪ > ∅ / __ #
+ɾ > ∅ / __ # $ This rule is wrong
+
+x > ∅
+t͡sʲ > s
+
+$ Unstressed vowels - massive oversimplification [evidenced by the stressed schwa existing in balearic] 
+a > ə
+e > ə
+ɛ > ə
+o > u
+ɔ > u
