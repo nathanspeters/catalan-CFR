@@ -513,3 +513,9 @@ $pg 68 the proto catalan [e] became [ə] before the reconquesta of spain. Later 
 
 $/ow/ > /ɛw/ around the 14th century
 $Example words: CRUCE crou > cr/ɛw/, DUCE dow > d/ɛw/ 'font', VOCE vow > v/ɛw/.
+
+$long consonants are possible due to a following /l/
+$examples of /bbl/ STABULU estable, MOBILE moble, NOBILE noble
+
+$dentals /d/ dissappear before a stressed syllable in 13th - 14th century due to influences from provencal or occitan. These later mostly became intervocalic /z/ or <s>.
+$examples: PEDUCULU posoll, MEDULLA mosolla, SUDARE susar,
