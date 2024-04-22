@@ -508,3 +508,5 @@ e > ə
 ɛ > ə
 o > u
 ɔ > u
+
+$pg 68 the proto catalan [e] became [ə] before the reconquesta of spain. Later in the Valencian territory due to mossarab influence again became [e]. In the wester dialect, the schwa became [ɛ].
