@@ -519,3 +519,5 @@ $examples of /bbl/ STABULU estable, MOBILE moble, NOBILE noble
 
 $dentals /d/ dissappear before a stressed syllable in 13th - 14th century due to influences from provencal or occitan. These later mostly became intervocalic /z/ or <s>.
 $examples: PEDUCULU posoll, MEDULLA mosolla, SUDARE susar,
+
+$Around 13th century mVn > mr > mbr. Francesc cites influences of Spanish.
