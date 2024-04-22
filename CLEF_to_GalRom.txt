@@ -474,19 +474,20 @@ $Some ballpark later rules
 βʷ > β
 β > b
 l l > ʎ
-l > ʎ / # __
+l > ʎ / # __ $13th c
 d̪ > ∅ / n̪ __
 s c > ʃ
 s s ʝ > ʃ
 s ʝ > z
-{p p; t t; k k}> {p;t;k}
+{p p; t̪ t̪; k k}> {p;t̪;k}
+c > s
 s s > s
 ʝ ʝ > ʝ
 ʝ > ʒ $ This is definitely wrong - either it was contextual or the original ʝ from clef never arose in some cases. We have kləɾiˈan̪ə from klˌariˈaːn̪am
 r > ɾ
 ɾ ɾ > r
 w > ∅ / __ [+lab]
-c > s
+
 
 
 [+stres,-prim] > [-stres]
