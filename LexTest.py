@@ -1,8 +1,8 @@
 #make alphabetized version of CatLLex and check for duplicates.
 
-CATLEXLOC = "CatLLex"
+LEXLOC = "CatLLex"
 
-o = open(CATLEXLOC)
+o = open(LEXLOC)
 
 lines = [(ln+'$').split('$')[0].strip() for ln in o.readlines()]
 o.close()
