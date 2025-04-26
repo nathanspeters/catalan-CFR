@@ -79,7 +79,7 @@ $VL TONIC VOWELS > CAT (pp64-84)
         $ɔj > uej > uj (im sure we can look at fr cascade for this as well)
         $closed to /o/ when followed by nas+stop cluster eg. monte
         $ɔw has apparently opened to aw 
-    1.1.6 p80: vl ˈo (<ˈo:,ˈu)
+    $1.1.6 p80: vl ˈo (<ˈo:,ˈu)
         $maintained as /ˈo/ except when:
         $in hiatus - becomes /u/ (I assume nonsyllabic?) eg. duas>dues "two (f.)"
         $followed by nasal+velar or nasal+palatal - becomes /ˈu/ eg. puncta>punta 
@@ -87,7 +87,7 @@ $VL TONIC VOWELS > CAT (pp64-84)
         $numerous other cases of closure explained as lexical due to "cultisme" (again)
         $ou > eu change in cruce>creu, voce>veu: timing is debated.
             $this needs some more investigation
-    1.1.7 p84: vl ˈu (<ˈu:)
+    $1.1.7 p84: vl ˈu (<ˈu:)
         $pretty much always kept as ˈu.
         $a few sporadic cases exist where /ˈum/>/ˈom/: pluma>ploma, bruma>broma, flumen>flom
 
