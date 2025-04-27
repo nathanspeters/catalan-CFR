@@ -483,7 +483,7 @@ s ʝ > z
 c > s
 ʝ ʝ > ʝ
 ʝ > ʒ $ This is definitely wrong - either it was contextual or the original ʝ from clef never arose in some cases. We have kləɾiˈan̪ə from klˌariˈaːn̪am
-r > ɾ $i honestly think this might just be wrong but i leave it here jic
+r > ɾ / @__@ $i honestly think this might just be wrong but i leave it here jic. also i added the conditioning
 ɾ ɾ > r
 w > ∅ / __ [+lab]
 
@@ -497,7 +497,9 @@ w > ∅ / __ [+lab]
 
 [+syl,-lo] > ∅ / __ # $ Feeds loss of word final n and tap r
 n̪ > ∅ / __ #
-ɾ > ∅ / __ # $ This rule is wrong
+ɾ > ∅ / __ # $ This rule is wrong $ i actually think it might be right--there's just a metathesis thing going on in some situations
+$i think this is more general than just these two...
+$but [+cor] > ∅ / __# is also bad
 
 x > ∅
 t͡sʲ > s
@@ -509,6 +511,8 @@ a w > ɔ
 
 o w > ɛ w
 
+$[+syl,-stres] > ∅ / i can't figure out the conditioning bc the data is so messy :/
+
 ŋ ɟ > ɲ
 
 ɟ > ʒ
@@ -516,8 +520,6 @@ o w > ɛ w
 ʒ > t͡ʃ / __#
 
 $ s > ʃ / __i this happens for ʃimə but not sˈimi. it probably only happens with unstressed i, but we're getting a stressed i in our reflex for sˈiːmiam. gotta destress it
-
-ə > ∅ / #__[-cont] $this might not be doing anything idk
 
 $just to see what happens: intervocalic voicing and spirantization (prob needs to be ordered before the s s > s but oh well)
 $actually i am moving s s > s down here rq
@@ -527,17 +529,16 @@ $...and it doesn't even matter because i had to specify it with [-cont] anyway. 
 
 s s > s
 
-ʒ > j / __e
+$ʒ > j / e__ this actually made it worse somehow. will have to fix later
 
 ɾ > ∅ / __s
 
 $ Unstressed vowels - massive oversimplification [evidenced by the stressed schwa existing in balearic] 
-$a > ə
-$e > ə
-$ɛ > ə
-$o > u
-$ɔ > u
-$these guys are on pause for now -nathan
+a > ə
+e > ə
+ɛ > ə
+o > u
+ɔ > u
 
 $pg 68 the proto catalan [e] became [ə] before the reconquesta of spain. Later in the Valencian territory due to mossarab influence again became [e]. In the wester dialect, the schwa became [ɛ].
 
@@ -549,6 +550,7 @@ $examples of /bbl/ STABULU estable, MOBILE moble, NOBILE noble
 
 $dentals /d/ dissappear before a stressed syllable in 13th - 14th century due to influences from provencal or occitan. These later mostly became intervocalic /z/ or <s>.
 $examples: PEDUCULU posoll, MEDULLA mosolla, SUDARE susar,
+$i tried doing this and then no one came to my party :( -nathan
 
 $Around 13th century mVn > mr > mbr. Francesc cites influences of Spanish.
 $according to francesc: either when the n is in a pretonic syllable or when the word is proparoxytone and ends in -a (which results in irregular paradigms that get smoothed out by analogy). i'm actually thinking this is related to a dissimilation thing so i'm gonna try it out
