@@ -468,7 +468,8 @@ $Some ballpark later rules
 [+syl] > [-nas]
 [+lat] > [-back]
 βʷ > β
-β > b
+β > b / #__
+β > w
 l l > ʎ
 n̪ n̪ > ɲ $ our l-palatalization rule needed a friend :) -nathan
 l > ʎ / # __ $13th c
