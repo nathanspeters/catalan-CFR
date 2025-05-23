@@ -35,10 +35,7 @@ $ of k -- such as the deletion of the rounded "fricative"/approximant before ʝ 
 
 $Pope p226 s629
 $In the second century, all aspiration on Greek loanwords was lost. 
-$[+sg,-cont] > [-sg]
-$how much does it break this if i make it "better"...
-{pʰ;t̪ʰ;kʰ} > {f;t̪;k}
-$...nice. (Nathan)
+[+sg,-cont] > [-sg]
 
 $Pope p226-7 s632
 $ Greek y unrounded to i 
@@ -466,128 +463,54 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 =GalRom
 
-$Some ballpark later rules
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-[+syl] > [-nas]
-[+lat] > [-back]
-{ɸʷ;βʷ} > {ɸ;β}
-β > b / #__
+l > ʎ / # __ $ F106
 
-[+cons,+hi,-back] [-cons,+hi,-back] > j / [-cons]__
+l l > ʎ $ F136
 
-l l > ʎ
-n̪ n̪ > ɲ $ our l-palatalization rule needed a friend :) -nathan
-l > ʎ / # __ $13th c
-d̪ > ∅ / n̪ __
+n̪ n̪ > ɲ $ F136
 
-$ s s > s moved down below
+{p;b} > {t;t} / @ __ t $ F137
 
-s c > ʃ
-s s ʝ > ʃ
-s ʝ > z
+s > z / [-cons] __ [-cons] $ FLAG IDK where but it's in there somewhere!
 
-$ {p p; t̪ t̪; k k}> {p;t̪;k} moved down below
+{p p;t̪ t̪;c c;k k;b b;d̪ d̪;ɡ ɡ;s s} > {p;t̪;c;k;b;d̪;ɡ;s} $ F135
 
-c > s
-ʝ ʝ > ʝ
-ʝ > ʒ $ This is definitely wrong - either it was contextual or the original ʝ from clef never arose in some cases. We have kləɾiˈan̪ə from klˌariˈaːn̪am
-r > ɾ / @__@ $i honestly think this might just be wrong but i leave it here jic. also i added the conditioning -nathan
-ɾ ɾ > r
-w > ∅ / __ [+lab]
+c > s $ F114
+
+$$$$$$$ SYNCOPE!!!!!!!!!!!!!!!
+
+[-lo,+syl] > ∅ / # ([-syl])* [+syl,-stres] [-nas,-syl] __ [-nas,-syl] [+stres] $ F77+78+79
+
+[-lo,+syl] > ∅ / # ([-syl])* [+syl,-stres] ([-syl])* [+syl,-stres] [-nas,-syl] __ [-nas,-syl] [+stres] $ F77+78+79
+
+$ revisit the thing in F78 about uj>o/[velar]__n
+
+[-son] > [+voi] / [-cons] __ [-cons] $ F108+110+114 FLAG FIX CITATION
+
+p t > b d $ F137
 
 
-[+stres,-prim] > [-stres]
-[+long] > [-long]
-ɑ > a
-ˈɑ > ˈa
 
-[-cont,-nas] l > ʎ / [+syl]__
+a > ə $ F76
 
-t̪ > ∅ / __# $i think this needs to be counterbled by the final vowel deletion ...except we get bˈen from βʷˈɛn̪t̪o
 
-[+syl,-stres,-lo] > ∅ / [+stres] ([-syl])* __# $ Feeds loss of word final n and tap r $nathan speaking--something about this rule is wrong. causing lots of errors
-[+syl,-stres,-lo] > ∅ / [+stres] ([-syl])* [-stres] ([-syl])* __#
 
-n̪ > ɾ / [+stres] ([-syl])* [+syl] __ a
+$ b and v merge in the dialect of Catalan that we care about. i don't think francesc ever references this Directly but i have reason to believe it's a very late development because it doesn't happen in other dialects
 
-[+syl,-stres] > ∅ / [-cons] [+cons]__([+son,-nas])* [-stres]
+v > β
 
-∅ > b / m__ɾ
-∅ > d̪ / n̪__ɾ
+β > b / # __
 
-∅ [-stres] ɾ > ɾ [-stres] ∅ / [+lab]__#
+p > b / [-cons] __ [-cons] $ F108
 
-$just to see what happens: intervocalic voicing and spirantization (prob needs to be ordered before the s s > s but oh well)
-$actually i am moving s s > s down here rq
-$...and it doesn't even matter because i had to specify it with [-cont] anyway. oh well
-[-cont] > [+voi] / [+voi,-cons]__[+voi]
+b > β / @ __ $ F109
 
-{p p; t̪ t̪; k k; b b; d̪ d̪; ɡ ɡ}> {p;t̪;k;b;d̪;ɡ}
+β > ∅ / __ [+syl,+lab,+stres] $ F109
 
-{b;d̪;ɡ} > {β;ð;ɣ} / [+syl]__[+voi]
+β > w / __ {t;r;ɾ} $ F137+140+141 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens
 
-n̪ > ∅ / __#
-ɾ > ∅ / __ # $ This rule is wrong $ i actually think it might be right--there's just a metathesis thing going on in some situations
-$i think this is more general than just these two...
-$but [+cor] > ∅ / __# is also bad
-$...so is [+cor,+distr] > ∅ / __#
+p > b / @ __ {r;ɾ} $ F139 $ FLAG same thing as above.
 
-x > ∅
-t͡sʲ > s
 
-$ what follows is all "new" work (i haven't actually read through francesc all the way so i'm just blindly trying to get it somewhere)
-
-a w > ɔ
-ˈa w > ˈɔ
-
-o w > ɛ w
-
-ˈe > ˈɛ
-
-s > z / [-cons]__[-cons]
-
-ŋ ɟ > ɲ
-
-ɟ > ʒ
-
-ʒ > t͡ʃ / __#
-
-$ s > ʃ / __i this happens for ʃimə but not sˈimi. it probably only happens with unstressed i, but we're getting a stressed i in our reflex for sˈiːmiam. gotta destress it
-
-s s > s
-
-$ʒ > j / e__ this actually made it worse somehow. will have to fix later
-
-ɾ > ∅ / __s
-
-{ɸ;β} > {w;w} / [+stres]__{[-syl];#}
-
-n̪ t̪ > n̪ / __#
-
-{t̪;n̪} > [-distr] / __#
-
-$ Unstressed vowels - massive oversimplification [evidenced by the stressed schwa existing in balearic] 
-a > ə
-e > ə
-ɛ > ə
-o > u
-ɔ > u
-
-$pg 68 the proto catalan [e] became [ə] before the reconquesta of spain. Later in the Valencian territory due to mossarab influence again became [e]. In the wester dialect, the schwa became [ɛ].
-
-$/ow/ > /ɛw/ around the 14th century
-$Example words: CRUCE crou > cr/ɛw/, DUCE dow > d/ɛw/ 'font', VOCE vow > v/ɛw/.
-
-$long consonants are possible due to a following /l/
-$examples of /bbl/ STABULU estable, MOBILE moble, NOBILE noble
-
-$dentals /d/ dissappear before a stressed syllable in 13th - 14th century due to influences from provencal or occitan. These later mostly became intervocalic /z/ or <s>.
-$examples: PEDUCULU posoll, MEDULLA mosolla, SUDARE susar,
-$i tried doing this and then no one came to my party :( -nathan
-
-$Around 13th century mVn > mr > mbr. Francesc cites influences of Spanish.
-$according to francesc: either when the n is in a pretonic syllable or when the word is proparoxytone and ends in -a (which results in irregular paradigms that get smoothed out by analogy). i'm actually thinking this is related to a dissimilation thing so i'm gonna try it out EDITː this dissimilation thing is actually unrelated trust
-
-n̪ > ɾ / __[+syl] n̪
-
-$ok yeah that helped. the syncope stuff must come after this then.
