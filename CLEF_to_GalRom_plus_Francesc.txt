@@ -35,7 +35,7 @@ $ of k -- such as the deletion of the rounded "fricative"/approximant before ʝ 
 
 $Pope p226 s629
 $In the second century, all aspiration on Greek loanwords was lost. 
-[+sg,-cont] > [-sg]
+[+sg,-cont] > [-sg] $ FLAG i think this might be bled by pʰ > f, but given that pʰ still ends up as β in at least one form, maybe not... then again, possibly pʰ > f > v > β
 
 $Pope p226-7 s632
 $ Greek y unrounded to i 
@@ -76,6 +76,7 @@ $p73 s155i ~ p91 s185 -- h-loss word-internally Pope explains that this happened
 h > ∅ / @ __
 
 $p145 s361- i-prosthesis -- happens in Western Romance very early, attested second century
+	$ also F134
 ∅ > ˌɪ / # __ s [+cons] 
 
 $p100 s214i -- one case of regular stress movement, attested in third and fourth centuries . 
@@ -137,7 +138,7 @@ w > ∅ / k __ [+syl,+round]
 
 $ p115 s261-264 ~ s221 ~ s156i
 $ *** Note as per s156i, for Pope this is a "tendency" 
-$ the slurring ... of "proparoxytones" ... i.e. where the tonic syllable was followed by two unstressed sylls before hte word coda
+$ the slurring ... of "proparoxytones" ... i.e. where the tonic syllable was followed by two unstressed sylls before the word coda
 $ ... typically concerning those which are common suffixes here.
 $ Pope attests this with the Appendix Probi, which was written in the third or fourth centuries but does not say that is when it specifically occurred. 
 $ Because of words like "table", we know it probably occurred before lenition of intervocalic b (early second century) but Pope does not confirm this either. 
@@ -257,7 +258,7 @@ k > x / [-cons] __ [+cor,-voi]
 $CORRECTION: countertonic /ɛ/ closes back to /e/ before ssʝ (not sj -- see prehensionem > prison)
 ˌɛ > ˌe / __ s s ʝ
 
-$p144 s359 ~ p73 s156iii : g > w before m, Pope says this is first attested in teh 3rd/4th century Appendix Prodi 
+$p144 s359 ~ p73 s156iii : g > w before m, Pope says this is first attested in the 3rd/4th century Appendix Prodi 
 $"opened and vocalized"-- Pope is explicit that it passes through a fricative stage p65 s135b
 ɡ > [+cont] / __ m 
 ɣ > w / __ m 
@@ -305,7 +306,7 @@ $ CORRECTION: we are discarding this rule : it seems to be just wrong, per 40 ef
 
 $ -- kwinkwe > kinkwe dissimilation
 $ Pope s823 iii. 
-w > ∅ / k __ [+syl] ([-syl]) k w [+syl]
+w > ∅ / k __ [+syl] ([-syl]) k w [+syl] $ +F177
 
 $ CORRECTION : ts goes to f before a sonorant consonant (tsrokna, etc.) 
 $ can be seen as overfitting, but necessary to assimilate loanwords and we are more interested in French sound shifts not Latin ones. 
@@ -343,7 +344,9 @@ $CORRECTION: opening of voiced velar and palatal stops intervocalically occurs e
 
 =Late Latin
 
-$absorption of yod into prev, now palatalized, consonant 
+$ cutting Pope off here because Francesc deals a lot with sound changes from vulgar latin so i'm going to just use his work from this point forward to establish our baseline. EDIT: actually going to try to integrate the rest of pope now
+
+$absorption of yod into prev, now palatalized, consonant
 ʝ > ∅ / [-cont,+hi,+front] __
 
 $p131 s311, assigned to Late Latin in p73 s155-5iv :
@@ -351,20 +354,20 @@ $ as per s293 and s156 however this did not YET affect ng + pal-stop -- i.
 $ trigger again in Gallo-Roman stage.
 $CORRECTION: This is bled by an early shift of mnj to mmj
 $ does not appear in Pope's s660-680ish tables. 
-n̪ > m / m __ ʝ
-[+nas,+cor] [+hi,+front,-syl,+voi,+cont] > ɲ
+$n̪ > m / m __ ʝ $ COMMENTED OUT don't think this happens in catalan
+[+nas,+cor] [+hi,+front,-syl,+voi,+cont] > ɲ $ +F193
 
 $p131 s312, assigned to Late Latin p73 s155-5iv -- but not evident in Pope's tables in 660-680 for that stage
 $ as per s293 and s156 however this did not YET affect l + pla-stop -- i.e. not words like culcita 
 $trigger again in Gallo-Roman stage
 l l ʝ > ʎ
-l ʝ > ʎ
+l ʝ > ʎ $ +F194
 
 $ CORRECTION: unstressed vowels deleted between [+syl] w and {t;d}
 	$ even when not penultimate (Pope's rule s353 applies only for penultimates
 		$... where Late Latin is concerned) 
 	$ 2 examples -- may need to delete as overfitting? But it is consistent with other patterns of unstressed /ɪ/ deletion 
-[-stres] > ∅ / [+syl] βʷ __ [+cor,-cont]
+$[-stres] > ∅ / [+syl] βʷ __ [+cor,-cont] $ COMMENTED OUT doesn't appear to be doing anything?
 
 $per Pope s353: unstressed penultimate ɪ in -item, itum, idum, ita endings is deleted before any d > ð
 $ we can use /e/ here because if it was e:, it would be stressed. 
@@ -372,20 +375,15 @@ $ CORRECTION: include also the syncope of vowels before n̪
 $ CORRECTION: when before a vowel in coda position it instead goes to "evanescent" ə̯ 
  $ (which will be completely effaced instead only in the Gallo-Roman stage) 
  	$ before t when after a consonantal continuant then a stop
-e > ə̯ / [+cont,+cons] [-delrel] __ t̪ [+syl] #
-e > ∅ / __ [+distr] [+syl] ([-syl]) #
-
-$ CORRECTION: unstressed ɛ after palatal deleted 
-	$ when before t̪ then some a-variant
-$ SUPPRESSED -- overfitting. 
-$ ɛ > ∅ / [+front,+cons] __ t̪ [+lo]
+$e > ə̯ / [+cont,+cons] [-delrel] __ t̪ [+syl] # $ FLAG made it worse
+$e > ∅ / __ [+distr] [+syl] ([-syl]) # $ FLAG made it worse
 
 $CORRECTION ə̯ inserted between p and d (rapidum, sapidum, tepidum > rade, sade, tiede | etc) 
-∅ > ə̯ / p __ d̪
+$∅ > ə̯ / p __ d̪ $ COMMENTED OUT doesn't appear to be doing anything?
 
 $ CORRECTION : n̪ > m / p __  -- case of carpinum > charme etc
 $ Pope does cover it but doesn't attribute it to Late Latin.
-n̪ > m / p __ 
+$n̪ > m / p __ $ COMMENTED OUT doesn't appear to be doing anything?
 
 $ CORRECTION : earliest flapping with n comes into contact with d due to falls of vowels here: 
 	$ cases of Londres, ordre, desordre, etc. 
@@ -393,21 +391,18 @@ $ We can just send it straight to the trill here
 $ bleeds s365
 $ Pope attributes this to a variety of non-phonological factors
 	$ but it can be modeled regularly. 
-n̪ > r / d̪ __ 
+$n̪ > r / d̪ __ $ COMMENTED OUT doesn't appear to be doing anything?
 
 $ CORRECTION : earliest implementation of s365 (Pope attributes these to Gallo-Roman)
 $ necessary to correctly bleed some of the following lenition shifts.
 $ s365 : deletion of all plosive consonants internal to a cluster not ending in l or r 
 $ CORRECTION: also does not target consonants before ʝ
-[-cont] > ∅ / [+cons] __ [-son,-hi]
-[-cont] > ∅ / [+cons] __ [-cont,+hi]
-
-$ CORRECTION : before nasals, effacement does not occur at this stage
-$ [-cont] > ∅ / [+cons] __ [+nas,+cons]
+$[-cont] > ∅ / [+cons] __ [-son,-hi] $ +F175? $ COMMENTED OUT doesn't appear to be doing anything?
+$[-cont] > ∅ / [+cons] __ [-cont,+hi] $ +F175? $ COMMENTED OUT doesn't appear to be doing anything?
 
 $ CORRECTION: s365i inserted here too, earlier than Pope explicitly states it is. 
 $ s365i : additional deletion of velars in rgl, skl
-{s k;r ɡ} > {s;r} / __ l
+${s k;r ɡ} > {s;r} / __ l $ COMMENTED OUT doesn't appear to be doing anything?
 
 $p73 s155iia and pp136-137 ss332-336 and p6 s9 : intervocalic lenition between vowel and (vowel or r)
 $ valid targets before r included plus d before l -- s372
@@ -419,16 +414,16 @@ $However she indicates a shift order in s307i that necessitates velar stop palat
 $So we give her the benefit of the doubt and place the lenition of the rest of the velar stops later,
 $Right after the beginning of palatalization. This should be roughly 4th century
 $ inclusion of palatal voiced stop in this shift -- as per Pope p127 s297
-[-delrel,+voi] > [+cont] / [+syl] __ [+son,-lat,-nas]
-d̪ > ð / __ [+lat]
+$[-delrel,+voi] > [+cont] / [+syl] __ [+son,-lat,-nas]  $ FLAG made it worse
+$d̪ > ð / __ [+lat] $ FLAG made it worse (i'm thinking having lenition this early on is bad and also i have a bunch of ɟ rules that are no longer working properly if they're getting lenited) honestly though most of the stuff after the e>ə and syncope is breaking everything so i'm just gonna say the split was earlier than this.
 
 $ s353 : devoicing of labial and dental consonants that are now before t 
 $ since aidier is excluded, we can dodge fixing palatals too. 
-[+ant,+cons,-son] > [-voi] / __ t̪
+$ [+ant,+cons,-son] > [-voi] / __ t̪ $ COMMENTED OUT doesn't appear to be doing anything?
 
 $p73 s155i ~ p91 s185 -- as Pope explained, h-effacement happened word-internally first. 
 $It was apparently still being resisted among the educated classes at the time of St. Augustine, 4th century and early 5th century 
-h > ∅ 
+h > ∅
 
 $p73 s156vi -- influence of tonic vowels on countertonic vowels
 $***NOTE Pope calls these "TENDENCIES"
@@ -436,81 +431,357 @@ $ she does not seem to give a date to these
 $ s127 for i > e
 $ s128 for e >a 
 $ s505 for aw > a under influence of u specifically 
-ˌi > ˌe / __ ([-syl])* [+hi,-round,+prim,+tense] $i.e. by i
-${ˌe;ˌɛ} > {ˌɑ;ˌɑ} / __ ([-syl])* [+lo,+prim]
-$ CORRECTION: e mutation deleted -- does much more harm than good. 
-$s505 ~ ˌɑ w > ˌɑ before round stressed sylls -- already handled elsewhere, don't need to redundantly do it here. 
+$ˌi > ˌe / __ ([-syl])* [+hi,-round,+prim,+tense] $i.e. by i $ FLAG made it worse $ also F66 says pretty much the same thing but the rule that I wrote for it isn't doing anything (perhaps because i didn't include the secondary stress). this rule is probably overfitting.
 
-$p73 s154ii : length returns for stressed vowels only, conditioned the open/closed context condition:
-$ as per s197-198 -- not "blocked", including word final, followed by vowel, followed by cons + word coda only in a monosyllable,
-$ followed by cons + vowel, or followed by plosive + l/r
-	$ CORRECTION: before β/v + r + V + # vowels are also lengthened -- chevre, couleuvre, levre, fievre, etc... 
-		$ Pope only stipulates that plosive + r is free -- neglecting that b has become fricative here.
-			$ (the same does not occur for ðr clusters which are indeed blocked) 
-$ note as per p53 s100, note that Pope does not consider glides to be consonants 
-	$ but to be fair she specifies  "in hiatus with a following vowel" -- and all her examples feature
-		$ hiatus with syllabic vowels, not semivowels
-$ -- give her the benefit of the doubt and specify +syl not -cons
-[+prim] > [+long] / __ #
-[+prim] > [+long] / __ [+syl]
-[+prim] > [+long] / __ [+cons] [-cons] 
-[+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
-[+prim] > [+long] / __ [+lab,+voi,+ant] r [+syl] #
-[+prim] > [+long] / # ([-syl])* __ [+cons] #
+$ and as there are no long vowels in Catalan, i can say i'm fairly confident there aren't any lengthening rules before the split.
 
+$ ...pulling some stuff from clayton's "ballpark later rules" to get to a more workable position
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+βʷ > β $ marr
+β > b $ marr
+{ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
-=GalRom
+w > ∅ / [-back,+cons] [-back,+cons] __ $ F179
+w > ∅ / n̪ __ $ F179
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ŋ n̪ > ɲ $ F155 not really what francesc says happens but i'm giving him the benefit of the doubt and just writing a rule that actually does something
+
+s > ∅ / __ b $ F150 FLAG might be in pope. look for it later
+
+p > ∅ / # __ {s;t̪} $ F134 FLAG this might be somewhere in pope and i just didn't see it lol
+
+{t̪;d̪;k} > {∅;∅;∅} / __ # $ F121
+
+m > n̪ / [+ant] [+syl] __ # $ F123 HIT? francesc didn't specify this context but it appears to be the correct context.
+
+m > ∅ / __ # $ F123 btw this rule and the above rule only work if the m is deleted in polysyllabics before this point, but i think clayton and/or pope already did this for me, so yay!
+
+m > n̪ / __ n̪ $ F157 not what francesc says actually happens but i think it's a way more plausible hypothesis than a bilabial and a dental "coalescing" into a palatal
+
+∅ [+syl] r > r [+syl] ∅ / [+syl] ([-syl])* __ # $ F124   R METATHESIS
+
+$ FLAG revisit F166 for whatever is going on with the r>l HOWEVER don't include in baseline as francesc appears to not know what's going on ALSO probably doesn't happen in oriental? but if it does it's r > l / __ l and it's AFTER l l > lambda
 
 l > ʎ / # __ $ F106
+
+{p;b} > {t̪;t̪} / @ __ t̪ $ F137 NOTE TO CLAYTON i wish i could only have one output listed here. just sayin'
+
+ˈa w > ˈɔ $ F53
+
+a w > ɔ $ F70 FLAG cite whatever else does this as i'm sure it comes up later too ALSO maybe output is o
+
+ˈo > ˈu / __ [-cons] $ F59
+
+ˈo > ˈu / __ [+nas] [+hi] $ F59
+
+i > e / # ([-syl])* __ ([-syl])* ˈi $ F66 FLAG because is it e or ɛ? also does this happen in front of unstressed i as well? FLAG for removal. doesn't appear to be doing anything
+
+a > e / [+stres] ([-syl])* __ [-syl] $ F80
+
+a > e / __ s # $ F89 FLAG revisit because francesc yaps a lot on this one and i don't wanna miss anything
+
+$ FLAG revisit F96 in case any germanic loans were included in CatLLex. rule should be something like ɡwa > ɡo
+
+[-cont] > [+voi] / __ r $ F144+153
+
+d̪ > ∅ / __ {r;v} $ F144+145 and F147 FLAG this might be assimilation (and francesc might call it that) but then we gotta get v-b merger above the degemination rule
+
+$u > o / __ m $ F75 COMMENTED OUT doesn't appear to be doing anything?
+
+$ FLAG revisit F144+145 if we need to figure out when d>j/__r and j>0 happen
+$ FLAG revisit F145 if d>w turns out to not be analogy
+
+d̪ > s / __ s $ F147
+
+ʃ > s / __ [+syl] ʒ $ footnote of F154 FLAG idk if that conditioning is correct
+
+$ FLAG footnote in F36 suggests a diphthongization of ˈɛ>jˈe but that doesn't seem relevant At All
+
+ˈe j > ˈi $ F151
+
+j > ∅ / __ ˈi $ F151
+
+j > ∅ / ˈi __ $ F151
+
+[+nas] ɟ > ɲ $ F162+188
+
+ɟ > ∅ / [-cons] __ [-cons] $ F117 FLAG clayton/pope may have already taken care of this.
+
+ɟ > j / [-cons] __ [+cons] $ F117
+
+ɟ > ʒ $ F103+186+187
+
+p > b / @ __ l $ F167
+
+b > b b / __ l $ F167
+
+t̪ > ∅ / {n̪;s} __ # $ F172
+
+k > ∅ / s __ # $ F172
+
+ŋ > n̪ / __ s $ HIT? ish. just feeds next rule
+
+n̪ > ∅ / __ s [+stres] $ F161+F163 (F163 being the one that makes it clear that this is only in the pretonic)
+
+c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
+
+t̪ ʝ > t͡sʲ $ F182 through F185 i think
+
+[-cont] > t / __ t͡sʲ $ F185
+
+t͡sʲ > d͡z / __ # $ F130+183 SIDE NOTE THIS MAKES NO SENSE
+
+t t͡sʲ > s s $ F185
+
+t͡sʲ ʝ > s s $ F191
+
+t͡sʲ > s $ marr+F114
+
+n̪ > r / [+syl] ([-syl])* n̪ ([-son])* [+syl] ([-son])* __ ([-son])* [+syl] ([-son])* n̪ $ F120
+
+n̪ > l / r ([-son])* [+syl] ([-son])* __ ([-son])* [+syl] ([-son])* n̪ $ F120
+
+n̪ > r / __ ([-son])* [+syl] ([-son])* n̪ $ F120
+
+r > l / __ ([-son])* [+syl] ([-son])* r $ F120 but also HIT? bc i added the @
+
+l > d̪ / __ [+syl] l $ F120
+
+l > r / __ ([-son])* [+syl] ([-son])* l $ F120
+
+l > r / __ ([-son])* [+syl] ([-son])* [+syl] ([-son])* l $ F120
+
+r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
+
+$ FLAG there is another r > n̪ but francesc says it only happens in one word and it's progressive instead of recessive dissimilation so i doubt it's even the same phenomenon.
+
+n̪ > r / m __ $ F157
+
+n̪ > r / __ ([+syl]) m $ F159
+
+u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i forgot where i found this in francesc
+
+
+
+$$$$$$$ SYNCOPE!!!!!!!!!!!!!!!
+
+[-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-syl] [+stres] $ F77+78+79. I have reason to believe that the counterexamples in F78c are due to analogy.
+
+[+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons] $ IMPLIED by F86+91 but not explicitly elaborated. ***CONSIDER REMOVING FROM BASELINE***
+
+$$$$$$$ syncope^^^^^
+
+
+
+[+stres,-prim] > [+prim] / # ([-syl])* __ ([-syl])* # $ HIT?
+
+[+stres,-prim] > [-stres] $ marr
+
+
+
+[-lo,-cons,-stres] > ∅ / __ # $ F90 FLAG revisit because F90 and F91 say OPPOSITE THINGS also when i do my improved version i think the rules might be those listed below
+
+$$$$$$$ BETTER FINAL VOWEL DELETIONS
+$
+$[-lo,-cons,-stres] > ∅ / [+cont] [-syl] __ #
+$
+$[-lo,-cons,-stres] > ∅ / [+syl,-stres] __ #
+$
+$$$$$$$ BETTER FINAL VOWEL DELETIONS
+
+
+
+n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
+
+t̪ > d̪ / __ ʒ $ F189 FLAG because maybe this voicing is intervocalic voicing and if that's the case then the intervocalic voicing rule needs to come before the syncope and that messes everything up BAD. otherwise this works fine i guess
+
+b > ∅ / m __ $ F158+173
+d̪ > ∅ / n̪ __ $ F160+173
+
+d̪ ʒ > d͡ʒ $ F189
+
+r > ∅ / [+syl] ([-syl])* [+syl] __ # $ F128+129 definitely only polysyllabics this time
+
+$ ∅ > t̪ / r __ # $ F129 according to francesc this happens in oriental. can't tell if it's doing anything EDIT NO NO NO NO NO IT'S BAD $ FLAG made it worse
+
+ɡ > ∅ / __ ˈa $ F115 FLAG clayton/pope may have already taken care of this
+
+ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 FLAG see above
+
+[-lo,+syl] > e / [+stres] ([-syl]) [+cons,+son] ([-syl]) __ # $ F91 FLAG for output
+
+$ e > ɔ / ˈɔ ([-syl])* __ # $ F92 FLAG unsure of output also FLAG this rule is just awful. and possibly analogic because i think it only affects masculine nouns
+
+d̪ > t̪ / t̪ __ $ F142+147
+
+t̪ > n̪ / __ n̪ $ F143
+
+s > j / __ [+nas] $ F148
+
+x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does something
+
+{k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
+
+{ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something
+
+∅ > b / m __ r $ F157
+∅ > d̪ / n̪ __ r $ FLAG fix citation
+
+r > l / __ b [+syl] r $ F166
+
+{p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added @
 
 l l > ʎ $ F136
 
 n̪ n̪ > ɲ $ F136
 
-{p;b} > {t;t} / @ __ t $ F137
+{ʎ;ɲ} > {l;n̪} / ˈi __ $ F136 if this is where this happens in the relchron, it's dissimilation, which is what francesc says if i'm not mistaken. FLAG just bc it's weird
 
-s > z / [-cons] __ [-cons] $ FLAG IDK where but it's in there somewhere!
+k > ∅ / __ s k $ F175 (shown but not described)
 
-{p p;t̪ t̪;c c;k k;b b;d̪ d̪;ɡ ɡ;s s} > {p;t̪;c;k;b;d̪;ɡ;s} $ F135
+[-syl] > ∅ / [+cons] __ {[-son];[+nas]} $ F175 $ FLAG for removal although honestly it might be good to have it both before+after syncope
 
-c > s $ F114
+r > s / __ s $ F166
 
-$$$$$$$ SYNCOPE!!!!!!!!!!!!!!!
+d̪ > s / [-cons] __ [-cons] $ F111+112
 
-[-lo,+syl] > ∅ / # ([-syl])* [+syl,-stres] [-nas,-syl] __ [-nas,-syl] [+stres] $ F77+78+79
+s s ʝ > ʃ $ F149+190
 
-[-lo,+syl] > ∅ / # ([-syl])* [+syl,-stres] ([-syl])* [+syl,-stres] [-nas,-syl] __ [-nas,-syl] [+stres] $ F77+78+79
+ʝ > i / m __ $ F192
 
-$ revisit the thing in F78 about uj>o/[velar]__n
+[+lab,+cons] > w / __ ʝ [+stres] $ F180
 
-[-son] > [+voi] / [-cons] __ [-cons] $ F108+110+114 FLAG FIX CITATION
+[+lab,+cons] > ∅ / __ ʝ $ F181
 
-p t > b d $ F137
+n̪ ʝ > ɲ ʒ $ F193
+
+r ʝ > j r $ F195
+
+x > ∅ / __ t̪ [+stres] $ F152 not what francesc specifies but i wanted a rule that does something
+
+x > j / __ t̪ $ F151 not what francesc specifies but i wanted a rule that does something
+
+ˈa > ˈe / __ {j;ʃ} $ F51 doesn't appear to be doing anything
+
+j > ∅ / ˈe __ $ F51 doesn't appear to be doing anything
+
+a j > e $ implied by F67
+
+$a > e / __ [+cons] {ʝ;j} $ F67 unsure of context so i just put both $ FLAG makes it worse
+
+ʝ > ∅ / [+cons] __ $ FLAG HIT? francesc acts like this rule happens but he doesn't discuss it. also FLAG for removal
+
+z > ∅ / [-cons] __ [+stres] $ F111+112
+
+$ˈo > ˈɛ / __ u # $ F63 COMMENTED OUT doesn't appear to be doing anything?
+
+$o > e / __ ([-syl])* ˈo $ F73 COMMENTED OUT doesn't appear to be doing anything?
+
+${ˈo;o} > {ˈu;u} / __ [+front,+hi] $ F59+72 FLAG makes it worse
+
+x s > ʃ $ F154 not what francesc specifies but i wanted a rule that does something
+
+$ˈa > ˈɛ / __ r r $ F50 $ FLAG makes it worse
+
+[-cont] > [+voi] / [-cons] __ [-cons] $ F108+110+114+*131* FLAG FIX CITATION
+s > z / [-cons] __ [-cons]
+
+{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} $ F135   DEGEMINATION RULE
+
+r > ∅ / __ ([+syl]) ([-syl])* r $ F174 FLAG everything about this rule might be either wrong or unnecessary
+s > ∅ / __ ([+syl]) ([-syl])* s $ F174 FLAG see above BUT SOMEHOW IT'S IMPROVING THE ACCURACY?!
+
+d̪ s > d͡z $ F146+172
+
+s > ʃ / __ [+front,+hi] $ F99 FLAG i don't think this happens everywhere for some reason.
+
+$ FLAG F152 says a lot about C'T secundari but i think most of it is just vowel stuff that affects everything else
+
+l > ∅ / __ [+cons] $ F165 doesn't appear to be doing anything
+
+ˈe > ˈɛ / [-hi] __ (n̪) [-hi] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
+
+ˈe > ˈi / __ ([-syl])* ʝ $ F45
+
+$ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36
+
+ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
+
+$ FLAG F50 says something about ˈa > ˈɛ before esh but it seems dialectal.
+	$ F50 also says analogy causes the same change to occur in verbs without esh. the analogy has nothing to do with esh btw
+		$ and finally F50 tells us that this change occurs in proclitic monosyllables but i doubt i could accurately model that with this software.
+
+ˈɔ > ˈu / __ j $ F55 -- francesc says there's an intermediate uei, and also that some other guy thinks there's an intermediate uoi instead. both feel quite unnecessary
+
+ˈɔ > ˈo / __ [+nas] [-cont,-nas] $ F57 FLAG may not need -nas in the second matrix; included for safety
+
+{e;ɛ} > {i;i} / # ([-syl])* __ {[+front,+hi];[+nas];[+syl]} $ F68 FLAG idk what the input is supposed to be HIT? a isn't affected? HIT? doesn't happen in vowel-initial words? context should start with # ([-syl])+ maybe
+
+{e;ɛ} > {i;i} / # ([-syl])* __ ([-syl])* {ˈe;ˈɛ} $ F68 FLAG idk about the input OR the context HIT? see above
+
+${a;e;ɛ} > {i;i;i} / # ([-syl])* __ ([-syl])* [+hi,-cons] $ F68
+${a;e;ɛ} > {i;i;i} / # ([-syl])* __ ([-syl])* [+syl] ([-syl])* [+hi,-cons] $ F68 but also maybe only affects one or two words FLAG for removal (?)
+	$...also FLAG makes it worse for BOTH of these
+
+{e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons 1. +nas may be unnecessary 2. unsure about output 3. revisit this number for the assimilation thing in b EDIT: "the assimilation thing in b" is a dialectal thing HIT? a isn't affected?
+
+{e;ɛ} > {o;o} / __ l # $ F82 FLAG unsure about both input and output
 
 
 
-a > ə $ F76
+ʝ > d͡ʒ / __ # $ F131 seems to imply this FLAG bc not sure
+
+ʝ > ʒ $ F119   YOD RULE/IOD RULE/JOD RULE
 
 
 
-$ b and v merge in the dialect of Catalan that we care about. i don't think francesc ever references this Directly but i have reason to believe it's a very late development because it doesn't happen in other dialects
+ə > ∅ / r __ [+cons] $ F226
 
-v > β
-
-β > b / # __
-
-p > b / [-cons] __ [-cons] $ F108
-
-b > β / @ __ $ F109
-
-β > ∅ / __ [+syl,+lab,+stres] $ F109
-
-β > w / __ {t;r;ɾ} $ F137+140+141 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens
-
-p > b / @ __ {r;ɾ} $ F139 $ FLAG same thing as above.
+ə > ∅ / [+cons] __ r $ F226
 
 
+
+v > w / __ [+cons] $ F141
+
+$ b and v merge in the dialect of Catalan that we're looking at. i don't think francesc ever references this Directly (EDIT: he totally does in F109) but i have reason to believe it's a very late development because it doesn't happen in other dialects EDIT: starting to believe this less and less
+
+v > β $ F109
+
+β > b / # __ $ this one i think Actually isn't mentioned directly but just in case FLAG go through F2.1 Consonants inicials to see if this is ever mentioned
+
+d > ð / [-cons] __ $ this is the same rule as below. SOMEHOW we're getting a non-dental d somewhere even though I double-checked CatLLex and combed the cascade to see if I could find the offending rule. just putting this here to make me stop wanting to cry and so i can move on with my life.
+[-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ $ F109+110 FLAG fix citation
+
+β > b / __ b $ this is just here to not break our bbl
+
+{β;ð;d͡z} > {w;w;w} / __ # $ F130 AGAIN. THIS MAKES NO SENSE.
+
+β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
+
+β > w / __ {t̪;r;ɾ;l} $ F137+140+141 and F168 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens
+
+$ p > b / @ __ {t̪} $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
+
+$ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
+
+$ r > ɾ / [-cons] __ [-cons] $ FLAG HIT? to my knowledge francesc never discusses the business with r. also might not be doing everything it's supposed to do right now. also commenting it out because francesc doesn't talk about it. ACTUALLY he does have ɾ a couple of times
+
+
+
+[+syl,-stres] ˈi > [+stres] j $ F230
+
+[+syl,-stres] > ∅ / __ [+stres] $ F229
+
+
+
+$ FLAG revisit F231 if j insertion becomes important and also    the  Other    insertion
+
+
+
+[+round,-stres,+syl] > u $ FLAG cite the appropriate francescs later
+
+[-hi,-stres,+syl] > ə $ FLAG cite the appropriate francescs later
+
+
+
+[-son] > [-voi] / __ # $ F131
