@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :970:
+#sˌyːrˈin̪ɡam# >>> *#ʃiɾˈeŋɡə# ( GOLD : #ʃəɾˈiŋɡə#) :
+s ˌyː r ˈi n̪ ɡ a m 
+*#sˌyːrˈiŋɡam# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#sˌyːrˈiŋɡɑm# | 2 : [+lo] > [-front,+back] 
+*#sˌiːrˈiŋɡɑm# | 7 : [+hi,+front] > [-round,-lab] 
+*#sˌiːrˈɪŋɡɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌirˈɪŋɡɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#sˌirˈeŋɡɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌirˈeŋɡɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˌirˈeŋɡɑ#
+*#sˌirˈeŋɡa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sirˈeŋɡa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#siɾˈeŋɡa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#ʃiɾˈeŋɡa# | 210 : s > ʃ / __ [+front,+hi]
+*#ʃiɾˈeŋɡə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʃiɾˈeŋɡə#

@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :973:
+#sˌan̪ɡuin̪ˈeːn̪t̪um# >>> *#səŋɡwəɾˈɛn̪t̪# ( GOLD : #səŋɡun̪ˈen#) :
+s ˌa n̪ ɡ u i n̪ ˈeː n̪ t̪ u m 
+*#sˌaŋɡuin̪ˈeːn̪t̪um# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#sˌɑŋɡuin̪ˈeːn̪t̪um# | 2 : [+lo] > [-front,+back] 
+*#sˌɑŋɡʊɪn̪ˈeːn̪t̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑŋɡwɪn̪ˈeːn̪t̪ʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sˌɑŋɡwɪn̪ˈen̪t̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#sˌɑŋɡwen̪ˈen̪t̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑŋɡwen̪ˈen̪t̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˌɑŋɡwen̪ˈen̪t̪o#
+*#sˌaŋɡwen̪ˈen̪t̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sˌaŋɡwerˈen̪t̪o# | 143 : n̪ > r / __ ( [-son] )* [+syl] ( [-son] )* n̪
+*#sˌaŋɡwerˈen̪t̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#saŋɡwerˈen̪t̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#saŋɡweɾˈen̪t̪# | 205 : r > ɾ / [-cons] __ [-cons]
+*#saŋɡweɾˈɛn̪t̪# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#səŋɡwəɾˈɛn̪t̪# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#səŋɡwəɾˈɛn̪t̪#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :630:
+#rˌekˈipere# >>> *#rizˈepr# ( GOLD : #rˈɛβɾə#) :
+r ˌe k ˈi p e r e 
+*#rˌɛkˈɪpɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛkˈepɛrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛkʲˈepɛrɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#rˌɛcˈepɛrɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#rˌɛcˈepɛrɛ#
+*#rˌɛt͡sʲˈepɛrɛ# | 134 : c > t͡sʲ 
+*#rˌɛsˈepɛrɛ# | 140 : t͡sʲ > s 
+*#rˌɛsˈepɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rˌɛsˈepr# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#rɛsˈepr# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɛzˈepr# | 204 : s > z / [-cons] __ [-cons]
+*#rɛzˈɛpr# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#rɛzˈepr# | 214 : ˈɛ > ˈe / __ [-son]
+*#rizˈepr# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+Final form : *#rizˈepr#

@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1007:
+#rˌeplˈeːre# >>> *#riwlˈe# ( GOLD : #rəbblˈi#) :
+r ˌe p l ˈeː r e 
+*#rˌɛplˈeːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛplˈerɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#rˌɛplˈerɛ#
+*#rˌɛblˈerɛ# | 127 : p > b / @ __ l
+*#rˌɛbblˈerɛ# | 128 : b > b b / __ l
+*#rˌɛbblˈer# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rɛbblˈer# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɛbblˈe# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#rɛblˈe# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#riblˈe# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#riβlˈe# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#riwlˈe# | 239 : β > w / __ l
+Final form : *#riwlˈe#

@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :128:
+#ˌepˈiskopum# >>> *#iβˈeskup# ( GOLD : #bˈizbə#) :
+ˌe p ˈi s k o p u m 
+*#ˌɛpˈɪskɔpʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛpˈeskɔpom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛpˈeskɔpo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɛpˈeskɔpo#
+*#ˌɛpˈeskɔp# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ɛpˈeskɔp# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ɛbˈeskɔp# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ɛbˈɛskɔp# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#ɛbˈeskɔp# | 214 : ˈɛ > ˈe / __ [-son]
+*#ibˈeskɔp# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#iβˈeskɔp# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#iβˈeskup# | 242 : [+round,-stres,+syl] > u 
+Final form : *#iβˈeskup#

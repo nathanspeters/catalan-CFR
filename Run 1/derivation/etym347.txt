@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :347:
+#sˈuːkid̪um# >>> *#ˈust̪# ( GOLD : #sˈud͡zew#) :
+s ˈuː k i d̪ u m 
+*#sˈuːkɪd̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈukɪd̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#sˈuked̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈuked̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#sˈukʲed̪o# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#sˈuced̪o# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#sˈuced̪o#
+*#sˈut͡sʲed̪o# | 134 : c > t͡sʲ 
+*#sˈused̪o# | 140 : t͡sʲ > s 
+*#sˈused̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#sˈusd̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#ˈusd̪# | 208 : s > ∅ / __ ( [+syl] ) ( [-syl] )* s
+*#ˈust̪# | 244 : [-son] > [-voi] / __ #
+Final form : *#ˈust̪#

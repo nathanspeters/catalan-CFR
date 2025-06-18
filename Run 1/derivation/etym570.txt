@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :570:
+#wˌakˈiːwam# >>> *#bəzˈiβə# ( GOLD : #bəsˈiβə#) :
+w ˌa k ˈiː w a m 
+*#wˌɑkˈiːwɑm# | 2 : [+lo] > [-front,+back] 
+*#ɣʷˌɑkˈiːɣʷɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#βʷˌɑkˈiːβʷɑm# | 47 : ɣʷ > βʷ 
+*#βʷˌɑkˈiβʷɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#βʷˌɑkˈiβʷɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#βʷˌɑkʲˈiβʷɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#βʷˌɑcˈiβʷɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#βʷˌɑcˈiβʷɑ#
+*#βˌɑcˈiβɑ# | 91 : βʷ > β 
+*#bˌɑcˈibɑ# | 92 : β > b 
+*#bˌacˈiba# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌat͡sʲˈiba# | 134 : c > t͡sʲ 
+*#bˌasˈiba# | 140 : t͡sʲ > s 
+*#basˈiba# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bazˈiba# | 204 : s > z / [-cons] __ [-cons]
+*#bazˈiβa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#bəzˈiβə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bəzˈiβə#

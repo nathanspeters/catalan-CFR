@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :924:
+#iˌaːkˈoːmum# >>> *#ʒəɣˈom# ( GOLD : #ʒˈawmə#) :
+i ˌaː k ˈoː m u m 
+*#iˌɑːkˈoːmum# | 2 : [+lo] > [-front,+back] 
+*#ɪˌɑːkˈoːmʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌɑːkˈoːmʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ʝˌɑːkˈoːmʊm# | 26 : j > ʝ / __ [+syl]
+*#ʝˌɑkˈomʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ʝˌɑkˈomom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ʝˌɑkˈomo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ʝˌɑkˈomo#
+*#ʝˌakˈomo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˌakˈom# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ʝakˈom# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʝaɡˈom# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ʒaɡˈom# | 225 : ʝ > ʒ 
+*#ʒaɣˈom# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʒəɣˈom# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʒəɣˈom#

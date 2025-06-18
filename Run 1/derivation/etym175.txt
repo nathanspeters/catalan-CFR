@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :175:
+#rˈad̪ium# >>> *#rˈaʒi# ( GOLD : #rˈat͡ʃ#) :
+r ˈa d̪ i u m 
+*#rˈɑd̪ium# | 2 : [+lo] > [-front,+back] 
+*#rˈɑd̪ɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈɑd̪jʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˈɑd̪ʝʊm# | 26 : j > ʝ / __ [+syl]
+*#rˈɑd̪ʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˈɑd̪ʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#rˈɑɟʝo# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+*#rˈɑʝʝo# | 86 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ ʝ
+Late Latin stage form : *#rˈɑʝʝo#
+*#rˈaʝʝo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˈaʝʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rˈaʝi# | 154 : ʝ > i / __ #
+*#rˈaʒi# | 225 : ʝ > ʒ 
+Final form : *#rˈaʒi#

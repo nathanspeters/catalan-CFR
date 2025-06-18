@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1049:
+#ˈamplum# >>> *#ˈamblu# ( GOLD : #ˈamplə#) :
+ˈa m p l u m 
+*#ˈɑmplum# | 2 : [+lo] > [-front,+back] 
+*#ˈɑmplʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɑmplom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈɑmplo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈɑmplo#
+*#ˈamplo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈamblo# | 127 : p > b / @ __ l
+*#ˈambblo# | 128 : b > b b / __ l
+*#ˈamblo# | 162 : b > ∅ / m __ 
+*#ˈamblu# | 242 : [+round,-stres,+syl] > u 
+Final form : *#ˈamblu#

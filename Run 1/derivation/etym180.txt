@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :180:
+#plˈakit̪um# >>> *#plˈet̪# ( GOLD : #plˈet#) :
+p l ˈa k i t̪ u m 
+*#plˈɑkit̪um# | 2 : [+lo] > [-front,+back] 
+*#plˈɑkɪt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˈɑkt̪ʊm# | 42 : [-stres,+front] > ∅ / [+prim,+lo] [+back,-cont] __ [+cor,-strid,-nas,-lat] [+syl]
+*#plˈɑxt̪ʊm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#plˈɑxt̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#plˈɑxt̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#plˈɑxt̪o#
+*#plˈaxt̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#plˈaxt̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#plˈajt̪# | 195 : x > j / __ t̪
+*#plˈejt̪# | 196 : ˈa > ˈe / __ j
+*#plˈet̪# | 198 : j > ∅ / ˈe __ 
+*#plˈɛt̪# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#plˈet̪# | 214 : ˈɛ > ˈe / __ [-son]
+Final form : *#plˈet̪#

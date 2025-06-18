@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :488:
+#t̪ˈalamum# >>> *#t̪ˈam# ( GOLD : #t̪ˈaləm#) :
+t̪ ˈa l a m u m 
+*#t̪ˈɑlɑmum# | 2 : [+lo] > [-front,+back] 
+*#t̪ˈɑlɑmʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˈɑlɑmom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˈɑlɑmo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#t̪ˈɑlɑmo#
+*#t̪ˈalamo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t̪ˈalemo# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#t̪ˈalem# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#t̪ˈalm# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#t̪ˈam# | 211 : l > ∅ / __ [+cons]
+Final form : *#t̪ˈam#

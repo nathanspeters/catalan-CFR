@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1121:
+#mˌalˈit̪iam# >>> *#məlˈezə# ( GOLD : #məlˈisiə#) :
+m ˌa l ˈi t̪ i a m 
+*#mˌɑlˈit̪iɑm# | 2 : [+lo] > [-front,+back] 
+*#mˌɑlˈɪt̪ɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑlˈɪt̪jɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˌɑlˈɪt̪ʝɑm# | 26 : j > ʝ / __ [+syl]
+*#mˌɑlˈet̪ʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑlˈet̪ʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#mˌɑlˈet͡sʲʝɑ# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#mˌɑlˈet͡sʲʝɑ#
+*#mˌɑlˈet͡sʲɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#mˌalˈet͡sʲa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˌalˈesa# | 140 : t͡sʲ > s 
+*#malˈesa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#malˈeza# | 204 : s > z / [-cons] __ [-cons]
+*#malˈɛza# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#malˈeza# | 214 : ˈɛ > ˈe / __ [-son]
+*#məlˈezə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#məlˈezə#

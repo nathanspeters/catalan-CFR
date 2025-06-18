@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :957:
+#rˌot̪ˈun̪d̪am# >>> *#ruðˈon̪ə# ( GOLD : #ruðˈon̪ə#) :
+r ˌo t̪ ˈu n̪ d̪ a m 
+*#rˌot̪ˈun̪d̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#rˌɔt̪ˈʊn̪d̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔt̪ˈon̪d̪ɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔt̪ˈon̪d̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#rˌɔt̪ˈon̪d̪ɑ#
+*#rˌɔt̪ˈon̪d̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rɔt̪ˈon̪d̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɔt̪ˈon̪a# | 163 : d̪ > ∅ / n̪ __ 
+*#rɔd̪ˈon̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#rɔðˈon̪a# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ruðˈon̪a# | 242 : [+round,-stres,+syl] > u 
+*#ruðˈon̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ruðˈon̪ə#

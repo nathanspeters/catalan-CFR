@@ -1,0 +1,8 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1028:
+#ˈopus# >>> *#ˈɔps# ( GOLD : #ˈɔps#) :
+ˈo p u s 
+*#ˈɔpʊs# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɔpos# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#ˈɔpos#
+*#ˈɔps# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+Final form : *#ˈɔps#

@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :857:
+#prˈoprium# >>> *#blˈɔʒə# ( GOLD : #pɾˈɔpi#) :
+p r ˈo p r i u m 
+*#prˈɔprɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈɔprjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#prˈɔprʝʊm# | 26 : j > ʝ / __ [+syl]
+*#prˈɔprʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˈɔprʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#prˈɔprʝo#
+*#brˈɔbrʝo# | 115 : [-cont] > [+voi] / __ r
+*#blˈɔbrʝo# | 144 : r > l / __ ( [-son] )* [+syl] ( [-son] )* r
+*#blˈɔbrʝe# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#blˈɔbʝe# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#blˈɔʝe# | 191 : [+lab,+cons] > ∅ / __ ʝ
+*#blˈɔʒe# | 225 : ʝ > ʒ 
+*#blˈɔʒə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#blˈɔʒə#

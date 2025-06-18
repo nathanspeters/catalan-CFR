@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :777:
+#prˌimˈaːrium# >>> *#brimˈaɾə# ( GOLD : #pɾimˈe#) :
+p r ˌi m ˈaː r i u m 
+*#prˌimˈɑːrium# | 2 : [+lo] > [-front,+back] 
+*#prˌɪmˈɑːrɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˌɪmˈɑːrjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#prˌɪmˈɑːrʝʊm# | 26 : j > ʝ / __ [+syl]
+*#prˌɪmˈɑrʝʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#prˌemˈɑrʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˌemˈɑrʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#prˌemˈɑrʝo#
+*#prˌemˈarʝo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#brˌemˈarʝo# | 115 : [-cont] > [+voi] / __ r
+*#brˌemˈarʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#brˌemˈari# | 154 : ʝ > i / __ #
+*#bremˈari# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bremˈare# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#bremˈaɾe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#brimˈaɾe# | 218 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+nas]
+*#brimˈaɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#brimˈaɾə#

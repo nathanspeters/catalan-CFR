@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :462:
+#pˌaːpiliˈoːn̪em# >>> *#pəpʎˈo# ( GOLD : #pəpəʎˈo#) :
+p ˌaː p i l i ˈoː n̪ e m 
+*#pˌɑːpiliˈoːn̪em# | 2 : [+lo] > [-front,+back] 
+*#pˌɑːpɪlɪˈoːn̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑːpɪljˈoːn̪ɛm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˌɑːpɪlʝˈoːn̪ɛm# | 26 : j > ʝ / __ [+syl]
+*#pˌɑpɪlʝˈon̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌɑpelʝˈon̪ɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑpelʝˈon̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌɑpelʝˈon̪ɛ#
+*#pˌɑpeʎˈon̪ɛ# | 89 : l ʝ > ʎ 
+*#pˌapeʎˈon̪ɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌapeʎˈon̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˌapʎˈon̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#papʎˈon̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#papʎˈo# | 160 : n̪ > ∅ / __ #
+*#pəpʎˈo# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pəpʎˈo#

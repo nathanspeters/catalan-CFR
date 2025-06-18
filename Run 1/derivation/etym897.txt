@@ -1,0 +1,23 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :897:
+#d̪ˌiskˈipulum# >>> *#d̪isˈewlu# ( GOLD : #d̪əʃˈɛbblə#) :
+d̪ ˌi s k ˈi p u l u m 
+*#d̪ˌɪskˈɪpʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɪskˈɪplʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#d̪ˌeskˈeplom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌeskˈeplo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#d̪ˌeskʲˈeplo# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#d̪ˌescˈeplo# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#d̪ˌescˈeplo#
+*#d̪ˌescˈeblo# | 127 : p > b / @ __ l
+*#d̪ˌescˈebblo# | 128 : b > b b / __ l
+*#d̪ˌest͡sʲˈebblo# | 134 : c > t͡sʲ 
+*#d̪ˌessˈebblo# | 140 : t͡sʲ > s 
+*#d̪essˈebblo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪esˈeblo# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#d̪esˈɛblo# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#d̪esˈeblo# | 214 : ˈɛ > ˈe / __ [-son]
+*#d̪isˈeblo# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#d̪isˈeβlo# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#d̪isˈewlo# | 239 : β > w / __ l
+*#d̪isˈewlu# | 242 : [+round,-stres,+syl] > u 
+Final form : *#d̪isˈewlu#

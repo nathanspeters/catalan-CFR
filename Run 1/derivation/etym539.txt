@@ -1,0 +1,23 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :539:
+#rˌewiːwˈiːskulat̪# >>> *#rəβˈiʃʎə# ( GOLD : #rəβiskˈɔlə#) :
+r ˌe w iː w ˈiː s k u l a t̪ 
+*#rˌewiːwˈiːskulɑt̪# | 2 : [+lo] > [-front,+back] 
+*#rˌeɣʷiːɣʷˈiːskulɑt̪# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#rˌɛɣʷiːɣʷˈiːskʊlɑt̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛɣʷiːɣʷˈiːsklɑt̪# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#rˌɛβʷiːβʷˈiːsklɑt̪# | 47 : ɣʷ > βʷ 
+*#rˌɛβʷiβʷˈisklɑt̪# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#rˌɛβʷiβʷˈisklɑt̪#
+*#rˌɛβiβˈisklɑt̪# | 91 : βʷ > β 
+*#rˌɛbibˈisklɑt̪# | 92 : β > b 
+*#rˌɛbibˈisklat̪# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˌɛbibˈiskla# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#rˌɛbbˈiskla# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#rɛbbˈiskla# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɛbbˈislla# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#rɛbbˈisʎa# | 180 : l l > ʎ 
+*#rɛbˈisʎa# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#rɛbˈiʃʎa# | 210 : s > ʃ / __ [+front,+hi]
+*#rɛβˈiʃʎa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#rəβˈiʃʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#rəβˈiʃʎə#

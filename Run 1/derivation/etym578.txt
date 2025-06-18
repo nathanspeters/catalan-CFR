@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :578:
+#wˌerˈikulum# >>> *#biɾˈeʎə# ( GOLD : #furˈoʎ#) :
+w ˌe r ˈi k u l u m  
+*#ɣʷˌerˈikulum# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˌɛrˈɪkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˌɛrˈɪklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#βʷˌɛrˈɪklʊm# | 47 : ɣʷ > βʷ 
+*#βʷˌɛrˈeklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˌɛrˈeklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷˌɛrˈeklo#
+*#βˌɛrˈeklo# | 91 : βʷ > β 
+*#bˌɛrˈeklo# | 92 : β > b 
+*#bɛrˈeklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bɛrˈekle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#bɛrˈelle# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#bɛrˈeʎe# | 180 : l l > ʎ 
+*#bɛɾˈeʎe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#biɾˈeʎe# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#biɾˈeʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#biɾˈeʎə#

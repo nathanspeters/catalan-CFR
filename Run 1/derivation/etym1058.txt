@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1058:
+#ˌekskˈarpsum# >>> *#əskˈasu# ( GOLD : #əskˈas#) :
+ˌe k s k ˈa r p s u m 
+*#ˌekskˈɑrpsum# | 2 : [+lo] > [-front,+back] 
+*#ˌɛkskˈɑrpsʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛskˈɑrpsʊm# | 58 : k > ∅ / __ s [+cons]
+*#ˌɛskˈɑrpsom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛskˈɑrpso# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɛskˈɑrpso#
+*#ˌɛskˈarpso# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ɛskˈarpso# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ɛskˈarso# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#ɛskˈasso# | 186 : r > s / __ s
+*#ɛskˈaso# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#ɛskˈasu# | 242 : [+round,-stres,+syl] > u 
+*#əskˈasu# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əskˈasu#

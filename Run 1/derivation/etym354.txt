@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :354:
+#sˌiːbilˈaːre# >>> *#ʃiwlˈa# ( GOLD : #ʃiwlˈa#) :
+s ˌiː b i l ˈaː r e  
+*#sˌiːbilˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#sˌiːbɪlˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌiːβɪlˈɑːrɛ# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#sˌiβɪlˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#sˌiβelˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#sˌiβelˈɑrɛ#
+*#sˌibelˈɑrɛ# | 92 : β > b 
+*#sˌibelˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sˌibelˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#sˌiblˈar# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#siblˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#siblˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#ʃiblˈa# | 210 : s > ʃ / __ [+front,+hi]
+*#ʃiβlˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʃiwlˈa# | 239 : β > w / __ l
+Final form : *#ʃiwlˈa#

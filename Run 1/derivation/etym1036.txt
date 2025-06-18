@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1036:
+#t̪rˌiˈumpʰum# >>> *#rˈomp# ( GOLD : #t̪ɾiˈomf#) :
+t̪ r ˌi ˈu m pʰ u m 
+*#t̪rˌiˈumpum# | 6 : [+sg,-cont] > [-sg] 
+*#t̪rˌɪˈʊmpʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌeˈompom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌeˈompo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#t̪rˌeˈompo#
+*#d̪rˌeˈompo# | 115 : [-cont] > [+voi] / __ r
+*#rˌeˈompo# | 116 : d̪ > ∅ / __ r
+*#rˌeˈomp# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#reˈomp# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#riˈomp# | 219 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+syl]
+*#rˈomp# | 241 : [+syl,-stres] > ∅ / __ [+stres]
+Final form : *#rˈomp#

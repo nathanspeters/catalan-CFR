@@ -1,0 +1,9 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :995:
+#bˈarbam# >>> *#bˈarbə# ( GOLD : #bˈarbə#) :
+b ˈa r b a m 
+*#bˈɑrbɑm# | 2 : [+lo] > [-front,+back] 
+*#bˈɑrbɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#bˈɑrbɑ#
+*#bˈarba# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˈarbə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bˈarbə#

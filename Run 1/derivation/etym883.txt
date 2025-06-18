@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :883:
+#kwˌad̪rˈoːn̪em# >>> *#kwəɾˈo# ( GOLD : #kəjɾˈo#) :
+k w ˌa d̪ r ˈoː n̪ e m 
+*#kwˌɑd̪rˈoːn̪em# | 2 : [+lo] > [-front,+back] 
+*#kɣʷˌɑd̪rˈoːn̪em# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kwˌɑd̪rˈoːn̪em# | 5 : ɣʷ > w / [+back,+hi,+cons] __ 
+*#kwˌɑd̪rˈoːn̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌɑd̪rˈon̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kwˌɑd̪rˈon̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kwˌɑd̪rˈon̪ɛ#
+*#kwˌad̪rˈon̪ɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kwˌarˈon̪ɛ# | 116 : d̪ > ∅ / __ r
+*#kwˌarˈon̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kwarˈon̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kwarˈo# | 160 : n̪ > ∅ / __ #
+*#kwaɾˈo# | 205 : r > ɾ / [-cons] __ [-cons]
+*#kwəɾˈo# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kwəɾˈo#

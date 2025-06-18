@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :65:
+#prˈet̪ium# >>> *#brˈes# ( GOLD : #pɾˈɛw#) :
+p r ˈe t̪ i u m 
+*#prˈɛt̪ɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˈɛt̪jʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#prˈɛt̪ʝʊm# | 26 : j > ʝ / __ [+syl]
+*#prˈɛt̪ʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˈɛt̪ʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#prˈɛt͡sʲʝo# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#prˈɛt͡sʲʝo#
+*#prˈɛt͡sʲo# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#brˈɛt͡sʲo# | 115 : [-cont] > [+voi] / __ r
+*#brˈɛso# | 140 : t͡sʲ > s 
+*#brˈɛs# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#brˈes# | 214 : ˈɛ > ˈe / __ [-son]
+Final form : *#brˈes#

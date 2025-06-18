@@ -1,0 +1,6 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :769:
+#kˈor# >>> *#kˈɔr# ( GOLD : #kˈɔr#) :
+k ˈo r 
+*#kˈɔr# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#kˈɔr#
+Final form : *#kˈɔr#

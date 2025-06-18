@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :701:
+#rˌumiɡˈaːre# >>> *#rumɣˈa# ( GOLD : #rumiˈa#) :
+r ˌu m i ɡ ˈaː r e 
+*#rˌumiɡˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#rˌʊmɪɡˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌʊmɪɡˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#rˌomeɡˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌomeɣˈɑrɛ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#rˌomeɣˈɑrɛ#
+*#rˌomeɣˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˌomeɣˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rˌomɣˈar# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#romɣˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#romɣˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#rumɣˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#rumɣˈa#

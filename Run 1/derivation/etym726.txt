@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :726:
+#kˌalˈiɡin̪em# >>> *#kəlˈeɣn̪ə# ( GOLD : #kəlˈid͡ʒə#) :
+k ˌa l ˈi ɡ i n̪ e m 
+*#kˌɑlˈiɡin̪em# | 2 : [+lo] > [-front,+back] 
+*#kˌɑlˈɪɡɪn̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑlˈɪɡn̪ɛm# | 43 : [-stres,+front] > ∅ / [+syl] ɡ __ [+cor,-lat,+voi] [+syl]
+*#kˌɑlˈeɡn̪ɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑlˈeɡn̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɑlˈeɡn̪ɛ#
+*#kˌalˈeɡn̪ɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kalˈeɡn̪ɛ# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kalˈeɡn̪e# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#kalˈeɣn̪e# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kəlˈeɣn̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kəlˈeɣn̪ə#

@@ -1,0 +1,22 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1102:
+#sˌubplˈuwium# >>> *#suwlˈoi# ( GOLD : #suplˈut͡ʃ#) :
+s ˌu b p l ˈu w i u m 
+*#sˌubplˈuɣʷium# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#sˌʊbplˈʊɣʷɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌʊbplˈʊɣʷjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sˌʊbplˈʊɣʷʝʊm# | 26 : j > ʝ / __ [+syl]
+*#sˌʊbplˈʊʝʊm# | 28 : {ɣʷ;w} > {∅;∅} / __ ʝ
+*#sˌobplˈoʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌobplˈoʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˌobplˈoʝo#
+*#sˌobblˈoʝo# | 127 : p > b / @ __ l
+*#sˌobbblˈoʝo# | 128 : b > b b / __ l
+*#sˌobbblˈoʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#sˌobbblˈoi# | 154 : ʝ > i / __ #
+*#sobbblˈoi# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#sobblˈoi# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#soblˈoi# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#soβlˈoi# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#sowlˈoi# | 239 : β > w / __ l
+*#suwlˈoi# | 242 : [+round,-stres,+syl] > u 
+Final form : *#suwlˈoi#

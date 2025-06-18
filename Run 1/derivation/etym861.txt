@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :861:
+#pˈalpebram# >>> *#pəɫpˈewrə# ( GOLD : #pərpˈeʎə#) :
+p ˈa l p e b r a m 
+*#pˈɑlpebrɑm# | 2 : [+lo] > [-front,+back] 
+*#pˈɑlpɛbrɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɑlpˈɛbrɑm# | 18 : [-stres] > [+prim,+stres,+syl,+son,0delrel] / [+prim] ( [-syl] )* __ [-cont] r ( [-syl] )* [+syl] ( [-syl] )* #
+*#pˌɑlpˈɛbrɑm# | 19 : [+prim] > [-prim,+syl,+son,0delrel] / # ( [-syl] )* __ ( [-syl] )* [+prim]
+*#pˌɑɫpˈɛbrɑm# | 25 : l > ɫ / __ [+cons,-lat]
+*#pˌɑɫpˈɛβrɑm# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#pˌɑɫpˈɛβrɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌɑɫpˈɛβrɑ#
+*#pˌɑɫpˈɛbrɑ# | 92 : β > b 
+*#pˌaɫpˈɛbra# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#paɫpˈɛbra# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#paɫpˈebra# | 214 : ˈɛ > ˈe / __ [-son]
+*#paɫpˈeβra# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#paɫpˈewra# | 237 : β > w / __ r
+*#pəɫpˈewrə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pəɫpˈewrə#

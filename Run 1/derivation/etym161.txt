@@ -1,0 +1,13 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :161:
+#ˈakwam# >>> *#ˈaɣwə# ( GOLD : #ˈajɣwə#) :
+ˈa k w a m 
+*#ˈɑkwɑm# | 2 : [+lo] > [-front,+back] 
+*#ˈɑkɣʷɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ˈɑkwɑm# | 5 : ɣʷ > w / [+back,+hi,+cons] __ 
+*#ˈɑkwɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈɑkwɑ#
+*#ˈakwa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈaɡwa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ˈaɣwa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ˈaɣwə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈaɣwə#

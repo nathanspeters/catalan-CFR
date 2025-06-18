@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :456:
+#pˌekt̪orˈaːlem# >>> *#pijðuɾˈal# ( GOLD : #pit̪ɾˈal#) :
+p ˌe k t̪ o r ˈaː l e m 
+*#pˌekt̪orˈɑːlem# | 2 : [+lo] > [-front,+back] 
+*#pˌɛkt̪ɔrˈɑːlɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɛkt̪ɔrˈɑlɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌɛxt̪ɔrˈɑlɛm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#pˌɛxt̪ɔrˈɑlɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌɛxt̪ɔrˈɑlɛ#
+*#pˌɛxt̪ɔrˈalɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌɛxt̪ɔrˈal# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pɛxt̪ɔrˈal# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#pɛjt̪ɔrˈal# | 195 : x > j / __ t̪
+*#pɛjd̪ɔrˈal# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#pɛjd̪ɔɾˈal# | 205 : r > ɾ / [-cons] __ [-cons]
+*#pijd̪ɔɾˈal# | 217 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+front,+hi]
+*#pijðɔɾˈal# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#pijðuɾˈal# | 242 : [+round,-stres,+syl] > u 
+Final form : *#pijðuɾˈal#

@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :134:
+#ˌekklˈeːsiam# >>> *#ikʎˈezə# ( GOLD : #əzɡlˈeziə#) :
+ˌe k k l ˈeː s i a m 
+*#ˌekklˈeːsiɑm# | 2 : [+lo] > [-front,+back] 
+*#ˌɛkklˈeːsɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛkklˈeːsjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˌɛkklˈeːsʝɑm# | 26 : j > ʝ / __ [+syl]
+*#ˌɛkklˈesʝɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɛkklˈesʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɛkklˈesʝɑ#
+*#ˌɛkklˈesʝa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ɛkklˈesʝa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ɛkllˈesʝa# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#ɛkʎˈesʝa# | 180 : l l > ʎ 
+*#ɛkʎˈesa# | 200 : ʝ > ∅ / [+cons] __ 
+*#ɛkʎˈeza# | 204 : s > z / [-cons] __ [-cons]
+*#ikʎˈeza# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#ikʎˈezə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ikʎˈezə#

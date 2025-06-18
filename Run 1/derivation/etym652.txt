@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :652:
+#pˌakifikˈaːre# >>> *#pəskˈa# ( GOLD : #əpəjβəɣˈa#) :
+p ˌa k i f i k ˈaː r e 
+*#pˌɑkifikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#pˌɑkɪfɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑkɪfɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌɑkefekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑkʲefekˈɑrɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#pˌɑcefekˈɑrɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#pˌɑcefekˈɑrɛ#
+*#pˌacefekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌat͡sʲefekˈarɛ# | 134 : c > t͡sʲ 
+*#pˌasefekˈarɛ# | 140 : t͡sʲ > s 
+*#pˌasefekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˌasefkˈar# | 156 : [-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-syl] [+stres]
+*#pˌasfkˈar# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#pasfkˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#pasfkˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#paskˈa# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#pəskˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pəskˈa#

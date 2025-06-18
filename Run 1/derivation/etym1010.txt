@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1010:
+#kˈoːpulam# >>> *#kˈowlə# ( GOLD : #kˈɔʎə#) :
+k ˈoː p u l a m 
+*#kˈoːpulɑm# | 2 : [+lo] > [-front,+back] 
+*#kˈoːpʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈoːplɑm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#kˈoplɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˈoplɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈoplɑ#
+*#kˈopla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˈobla# | 127 : p > b / @ __ l
+*#kˈobbla# | 128 : b > b b / __ l
+*#kˈobla# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#kˈoβla# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kˈowla# | 239 : β > w / __ l
+*#kˈowlə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kˈowlə#

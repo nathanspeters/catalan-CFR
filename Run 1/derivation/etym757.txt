@@ -1,0 +1,8 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :757:
+#sˈiːk# >>> *#ʃˈi# ( GOLD : #sˈi#) :
+s ˈiː k 
+*#sˈik# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#sˈik#
+*#sˈi# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#ʃˈi# | 210 : s > ʃ / __ [+front,+hi]
+Final form : *#ʃˈi#

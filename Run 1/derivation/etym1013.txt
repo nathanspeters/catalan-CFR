@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1013:
+#sˈibilat̪# >>> *#sˈewlə# ( GOLD : #sˈiwlə#) :
+s ˈi b i l a t̪ 
+*#sˈibilɑt̪# | 2 : [+lo] > [-front,+back] 
+*#sˈɪbɪlɑt̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɪβɪlɑt̪# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#sˈeβelɑt̪# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#sˈeβelɑt̪#
+*#sˈebelɑt̪# | 92 : β > b 
+*#sˈebelat̪# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sˈebela# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#sˈebla# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#sˈɛbla# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#sˈebla# | 214 : ˈɛ > ˈe / __ [-son]
+*#sˈeβla# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#sˈewla# | 239 : β > w / __ l
+*#sˈewlə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#sˈewlə#

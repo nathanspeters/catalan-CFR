@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :676:
+#klˌawd̪ˈen̪d̪am# >>> *#kluzˈɛn̪ə# ( GOLD : #kluˈen̪d̪ə#) :
+k l ˌa w d̪ ˈe n̪ d̪ a m 
+*#klˌɑwd̪ˈen̪d̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#klˌɑwd̪ˈɛn̪d̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˌɑwd̪ˈɛn̪d̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#klˌɑwd̪ˈɛn̪d̪ɑ#
+*#klˌawd̪ˈɛn̪d̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#klˌɔd̪ˈɛn̪d̪a# | 108 : ˌa w > ˌɔ 
+*#klɔd̪ˈɛn̪d̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#klɔd̪ˈɛn̪a# | 163 : d̪ > ∅ / n̪ __ 
+*#klɔsˈɛn̪a# | 187 : d̪ > s / [-cons] __ [-cons]
+*#klɔzˈɛn̪a# | 204 : s > z / [-cons] __ [-cons]
+*#kluzˈɛn̪a# | 242 : [+round,-stres,+syl] > u 
+*#kluzˈɛn̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kluzˈɛn̪ə#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :803:
+#blˌid̪ˈalem# >>> *#brəzˈal# ( GOLD : #bɾiˈal#) :
+b l ˌi d̪ ˈa l e m 
+*#blˌid̪ˈɑlem# | 2 : [+lo] > [-front,+back] 
+*#blˌɪd̪ˈɑlɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#blˌed̪ˈɑlɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#blˌed̪ˈɑlɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#blˌed̪ˈɑlɛ#
+*#blˌed̪ˈalɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bblˌed̪ˈalɛ# | 128 : b > b b / __ l
+*#bbrˌed̪ˈalɛ# | 147 : l > r / __ ( [-son] )* [+syl] ( [-son] )* [+syl] ( [-son] )* l
+*#bbrˌed̪ˈal# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bbred̪ˈal# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bbresˈal# | 187 : d̪ > s / [-cons] __ [-cons]
+*#bbrezˈal# | 204 : s > z / [-cons] __ [-cons]
+*#brezˈal# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#brəzˈal# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#brəzˈal#

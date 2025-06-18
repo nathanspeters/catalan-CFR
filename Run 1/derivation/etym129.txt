@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :129:
+#fˌamˈiliam# >>> *#fəmˈeʎə# ( GOLD : #fəmˈiliə#) :
+f ˌa m ˈi l i a m 
+*#fˌɑmˈiliɑm# | 2 : [+lo] > [-front,+back] 
+*#fˌɑmˈɪlɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɑmˈɪljɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fˌɑmˈɪlʝɑm# | 26 : j > ʝ / __ [+syl]
+*#fˌɑmˈelʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˌɑmˈelʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˌɑmˈelʝɑ#
+*#fˌɑmˈeʎɑ# | 89 : l ʝ > ʎ 
+*#fˌamˈeʎa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#famˈeʎa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#fəmˈeʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#fəmˈeʎə#

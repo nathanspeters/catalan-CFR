@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :458:
+#kˌomput̪ˈaːre# >>> *#kumpuðˈa# ( GOLD : #kumt̪ˈa#) :
+k ˌo m p u t̪ ˈaː r e 
+*#kˌomput̪ˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#kˌɔmpʊt̪ˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmpʊt̪ˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔmpot̪ˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#kˌɔmpot̪ˈɑrɛ#
+*#kˌɔmpot̪ˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔmpot̪ˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kɔmpot̪ˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔmpot̪ˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kɔmpod̪ˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#kɔmpoðˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kumpuðˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kumpuðˈa#

@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :381:
+#ˌin̪d̪ˌiːreːkt̪um# >>> *#in̪irt̪# ( GOLD : #in̪d̪ɾˈɛt̪#) :
+ˌi n̪ d̪ ˌiː r eː k t̪ u m 
+*#ˌɪn̪d̪ˌiːreːkt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪn̪d̪ˌirekt̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɪn̪d̪ˌirext̪ʊm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#ˌen̪d̪ˌirext̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌen̪d̪ˌirext̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌen̪d̪ˌirext̪o#
+*#ˌen̪d̪ˌirext̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ˌen̪d̪ˌirxt̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#en̪d̪irxt̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#en̪irxt̪# | 163 : d̪ > ∅ / n̪ __ 
+*#en̪irt̪# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#in̪irt̪# | 218 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+nas]
+Final form : *#in̪irt̪#

@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :979:
+#mˌan̪kˈiːpum# >>> *#məŋʃˈip# ( GOLD : #məsˈip#) :
+m ˌa n̪ k ˈiː p u m 
+*#mˌaŋkˈiːpum# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#mˌɑŋkˈiːpum# | 2 : [+lo] > [-front,+back] 
+*#mˌɑŋkˈiːpʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑŋkˈipʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌɑŋkˈipom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑŋkˈipo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#mˌɑŋkʲˈipo# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#mˌɑŋcˈipo# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#mˌɑŋcˈipo#
+*#mˌaŋcˈipo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˌaŋt͡sʲˈipo# | 134 : c > t͡sʲ 
+*#mˌaŋsˈipo# | 140 : t͡sʲ > s 
+*#mˌaŋsˈip# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#maŋsˈip# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#maŋʃˈip# | 210 : s > ʃ / __ [+front,+hi]
+*#məŋʃˈip# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#məŋʃˈip#

@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :937:
+#kˌommun̪ikˈaːre# >>> *#kummun̪kˈa# ( GOLD : #kumbɾəɣˈa#) :
+k ˌo m m u n̪ i k ˈaː r e 
+*#kˌommun̪ikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#kˌɔmmʊn̪ɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmmʊn̪ɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔmmon̪ekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#kˌɔmmon̪ekˈɑrɛ#
+*#kˌɔmmon̪ekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔmmon̪ekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kˌɔmmon̪kˈar# | 156 : [-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-syl] [+stres]
+*#kɔmmon̪kˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔmmon̪kˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kummun̪kˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kummun̪kˈa#

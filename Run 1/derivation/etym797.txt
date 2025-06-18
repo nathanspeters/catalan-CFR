@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :797:
+#brˈakhium# >>> *#brˈas# ( GOLD : #bɾˈas#) :
+b r ˈa k h i u m 
+*#brˈɑkhium# | 2 : [+lo] > [-front,+back] 
+*#brˈɑkhɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#brˈɑkɪʊm# | 13 : h > ∅ / @ __ 
+*#brˈɑkjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#brˈɑkʝʊm# | 26 : j > ʝ / __ [+syl]
+*#brˈɑkʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#brˈɑkʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#brˈɑccʝo# | 74 : k > c c / [+syl] __ ʝ [+syl]
+Late Latin stage form : *#brˈɑccʝo#
+*#brˈɑcco# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#brˈacco# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#brˈat͡sʲt͡sʲo# | 134 : c > t͡sʲ 
+*#brˈatt͡sʲo# | 136 : [-cont] > t / __ t͡sʲ
+*#brˈasso# | 138 : t t͡sʲ > s s 
+*#brˈass# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#brˈas# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+Final form : *#brˈas#

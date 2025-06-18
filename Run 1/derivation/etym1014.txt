@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1014:
+#st̪ˈabulum# >>> *#əst̪ˈawlu# ( GOLD : #əst̪ˈabblə#) :
+s t̪ ˈa b u l u m 
+*#st̪ˈɑbulum# | 2 : [+lo] > [-front,+back] 
+*#st̪ˈɑbʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪst̪ˈɑbʊlʊm# | 14 : ∅ > ˌɪ / # __ s [+cons]
+*#ˌɪst̪ˈɑblʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#ˌest̪ˈɑblom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌest̪ˈɑblo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌest̪ˈɑblo#
+*#ˌest̪ˈablo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌest̪ˈabblo# | 128 : b > b b / __ l
+*#est̪ˈabblo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#est̪ˈablo# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#est̪ˈaβlo# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#est̪ˈawlo# | 239 : β > w / __ l
+*#est̪ˈawlu# | 242 : [+round,-stres,+syl] > u 
+*#əst̪ˈawlu# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əst̪ˈawlu#

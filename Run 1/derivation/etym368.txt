@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :368:
+#bˌilˈan̪keam# >>> *#bəlˈaŋsə# ( GOLD : #bəlˈan̪sə#) :
+b ˌi l ˈa n̪ k e a m 
+*#bˌilˈaŋkeam# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#bˌilˈɑŋkeɑm# | 2 : [+lo] > [-front,+back] 
+*#bˌɪlˈɑŋkɛɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɪlˈɑŋkjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#bˌɪlˈɑŋkʝɑm# | 26 : j > ʝ / __ [+syl]
+*#bˌelˈɑŋkʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˌelˈɑŋkʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#bˌelˈɑŋkʲʝɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#bˌelˈɑŋcʝɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#bˌelˈɑŋcʝɑ#
+*#bˌelˈɑŋcɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#bˌelˈaŋca# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌelˈaŋt͡sʲa# | 134 : c > t͡sʲ 
+*#bˌelˈaŋsa# | 140 : t͡sʲ > s 
+*#belˈaŋsa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bəlˈaŋsə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bəlˈaŋsə#

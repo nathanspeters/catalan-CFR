@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :393:
+#rˌest̪ˈuplum# >>> *#rəst̪ˈowlu# ( GOLD : #rust̪ˈoʎ#) :
+r ˌe s t̪ ˈu p l u m 
+*#rˌɛst̪ˈʊplʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛst̪ˈoplom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌɛst̪ˈoplo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#rˌɛst̪ˈoplo#
+*#rˌɛst̪ˈoblo# | 127 : p > b / @ __ l
+*#rˌɛst̪ˈobblo# | 128 : b > b b / __ l
+*#rɛst̪ˈobblo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɛst̪ˈoblo# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#rɛst̪ˈoβlo# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#rɛst̪ˈowlo# | 239 : β > w / __ l
+*#rɛst̪ˈowlu# | 242 : [+round,-stres,+syl] > u 
+*#rəst̪ˈowlu# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#rəst̪ˈowlu#

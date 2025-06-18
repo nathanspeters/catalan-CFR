@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :202:
+#ˈaskiam# >>> *#ˈasə# ( GOLD : #ˈaʃə#) :
+ˈa s k i a m 
+*#ˈɑskiɑm# | 2 : [+lo] > [-front,+back] 
+*#ˈɑskɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɑskjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˈɑskʝɑm# | 26 : j > ʝ / __ [+syl]
+*#ˈɑskʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#ˈɑskʲʝɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#ˈɑscʝɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#ˈɑscʝɑ#
+*#ˈɑscɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#ˈasca# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈast͡sʲa# | 134 : c > t͡sʲ 
+*#ˈassa# | 140 : t͡sʲ > s 
+*#ˈasa# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#ˈasə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈasə#

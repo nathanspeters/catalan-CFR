@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :252:
+#kˈorium# >>> *#kˈɔɾə# ( GOLD : #kˈujr#) :
+k ˈo r i u m 
+*#kˈɔrɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈɔrʝʊm# | 26 : j > ʝ / __ [+syl]
+*#kˈɔrʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔrʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɔrʝo#
+*#kˈɔrʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kˈɔri# | 154 : ʝ > i / __ #
+*#kˈɔre# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#kˈɔɾe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#kˈɔɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kˈɔɾə#

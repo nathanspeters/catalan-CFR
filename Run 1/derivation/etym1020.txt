@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1020:
+#ˈiːn̪sulam# >>> *#ˈilə# ( GOLD : #ˈiʎə#) :
+ˈiː n̪ s u l a m 
+*#ˈiːn̪sulɑm# | 2 : [+lo] > [-front,+back] 
+*#ˈiːsulɑm# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#ˈiːsʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈisʊlɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˈisolɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈisolɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈisolɑ#
+*#ˈisola# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈisla# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#ˈilla# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#ˈiʎa# | 180 : l l > ʎ 
+*#ˈila# | 182 : {ʎ;ɲ} > {l;n̪} / ˈi __ 
+*#ˈilə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈilə#

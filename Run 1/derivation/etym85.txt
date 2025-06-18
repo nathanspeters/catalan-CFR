@@ -1,0 +1,9 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :85:
+#hˈeriː# >>> *#ˈɛr# ( GOLD : #əˈi#) :
+h ˈe r iː 
+*#hˈɛriː# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˈɛri# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#hˈɛri#
+*#ˈɛri# | 90 : h > ∅ 
+*#ˈɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+Final form : *#ˈɛr#

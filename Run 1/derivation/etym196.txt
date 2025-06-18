@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :196:
+#kˌan̪t̪ˈaːwiː# >>> *#kən̪t̪ˈaw# ( GOLD : #kən̪t̪ˈe#) :
+k ˌa n̪ t̪ ˈaː w iː 
+*#kˌɑn̪t̪ˈɑːwiː# | 2 : [+lo] > [-front,+back] 
+*#kˌɑn̪t̪ˈɑːɣʷiː# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kˌɑn̪t̪ˈɑːβʷiː# | 47 : ɣʷ > βʷ 
+*#kˌɑn̪t̪ˈɑβʷi# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#kˌɑn̪t̪ˈɑβʷi#
+*#kˌɑn̪t̪ˈɑβi# | 91 : βʷ > β 
+*#kˌɑn̪t̪ˈɑbi# | 92 : β > b 
+*#kˌan̪t̪ˈabi# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌan̪t̪ˈab# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kan̪t̪ˈab# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kan̪t̪ˈaβ# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kan̪t̪ˈaw# | 234 : {β;ð;d͡z} > {w;w;w} / __ #
+*#kən̪t̪ˈaw# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kən̪t̪ˈaw#

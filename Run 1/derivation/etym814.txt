@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :814:
+#krˈypt̪am# >>> *#ɡrˈet̪ə# ( GOLD : #ɡɾˈut̪ə#) :
+k r ˈy p t̪ a m 
+*#krˈypt̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#krˈipt̪ɑm# | 7 : [+hi,+front] > [-round,-lab] 
+*#krˈɪpt̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈept̪ɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#krˈept̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#krˈept̪ɑ#
+*#krˈept̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#krˈet̪t̪a# | 106 : {p;b} > {t̪;t̪} / @ __ t̪
+*#ɡrˈet̪t̪a# | 115 : [-cont] > [+voi] / __ r
+*#ɡrˈet̪a# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#ɡrˈɛt̪a# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#ɡrˈet̪a# | 214 : ˈɛ > ˈe / __ [-son]
+*#ɡrˈet̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ɡrˈet̪ə#

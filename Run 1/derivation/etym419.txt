@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :419:
+#mˌoːlliˈaːre# >>> *#muʎˈa# ( GOLD : #muʎˈa#) :
+m ˌoː l l i ˈaː r e 
+*#mˌoːlliˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#mˌoːllɪˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌoːlljˈɑːrɛ# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˌoːllʝˈɑːrɛ# | 26 : j > ʝ / __ [+syl]
+*#mˌollʝˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#mˌollʝˈɑrɛ#
+*#mˌoʎˈɑrɛ# | 88 : l l ʝ > ʎ 
+*#mˌoʎˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˌoʎˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#moʎˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#moʎˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#muʎˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#muʎˈa#

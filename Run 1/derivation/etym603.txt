@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :603:
+#kˌikˈaːlam# >>> *#səɣˈalə# ( GOLD : #siɣˈalə#) :
+k ˌi k ˈaː l a m 
+*#kˌikˈɑːlɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌɪkˈɑːlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɪkˈɑlɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌekˈɑlɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌekˈɑlɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kʲˌekˈɑlɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cˌekˈɑlɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#cˌekˈɑlɑ#
+*#cˌekˈala# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t͡sʲˌekˈala# | 134 : c > t͡sʲ 
+*#sˌekˈala# | 140 : t͡sʲ > s 
+*#sekˈala# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#seɡˈala# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#seɣˈala# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#səɣˈalə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#səɣˈalə#

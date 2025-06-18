@@ -1,0 +1,23 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :940:
+#kˌolumbˈaːrium# >>> *#kumˈaɾə# ( GOLD : #kulumˈe#) :
+k ˌo l u m b ˈaː r i u m 
+*#kˌolumbˈɑːrium# | 2 : [+lo] > [-front,+back] 
+*#kˌɔlʊmbˈɑːrɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔlʊmbˈɑːrjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌɔlʊmbˈɑːrʝʊm# | 26 : j > ʝ / __ [+syl]
+*#kˌɔlʊmbˈɑrʝʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔlombˈɑrʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔlombˈɑrʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɔlombˈɑrʝo#
+*#kˌɔlombˈarʝo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔlombˈarʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kˌɔlombˈari# | 154 : ʝ > i / __ #
+*#kˌɔlmbˈari# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#kɔlmbˈari# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔlmˈari# | 162 : b > ∅ / m __ 
+*#kɔlmˈare# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#kɔlmˈaɾe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#kɔmˈaɾe# | 211 : l > ∅ / __ [+cons]
+*#kumˈaɾe# | 242 : [+round,-stres,+syl] > u 
+*#kumˈaɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kumˈaɾə#

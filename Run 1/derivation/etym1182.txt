@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1182:
+#min̪ist̪erˈaːlem# >>> *#min̪əst̪əɾˈal# ( GOLD : #mən̪əst̪ɾˈal#) :
+m i n̪ i s t̪ e r ˈaː l e m 
+*#min̪ist̪erˈɑːlem# | 2 : [+lo] > [-front,+back] 
+*#mɪn̪ɪst̪ɛrˈɑːlɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mɪn̪ɪst̪ɛrˈɑlɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#men̪est̪ɛrˈɑlɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#men̪est̪ɛrˈɑlɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#men̪est̪ɛrˈɑlɛ#
+*#men̪est̪ɛrˈalɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#men̪est̪ɛrˈal# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#men̪est̪ɛɾˈal# | 205 : r > ɾ / [-cons] __ [-cons]
+*#min̪est̪ɛɾˈal# | 218 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+nas]
+*#min̪əst̪əɾˈal# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#min̪əst̪əɾˈal#

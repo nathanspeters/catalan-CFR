@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :267:
+#jˈokat̪# >>> *#ʒˈɔɣə# ( GOLD : #ʒˈuɣə#) :
+j ˈo k a t̪ 
+*#jˈokɑt̪# | 2 : [+lo] > [-front,+back] 
+*#ʝˈokɑt̪# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ʝˈɔkɑt̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#ʝˈɔkɑt̪#
+*#ʝˈɔkat̪# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˈɔka# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#ʝˈɔɡa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ʒˈɔɡa# | 225 : ʝ > ʒ 
+*#ʒˈɔɣa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʒˈɔɣə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʒˈɔɣə#

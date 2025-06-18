@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :525:
+#kˈirkulum# >>> *#sˈɛrʎu# ( GOLD : #sˈɛrkul#) :
+k ˈi r k u l u m 
+*#kˈɪrkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɪrklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#kˈerklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈerklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kʲˈerklo# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cˈerklo# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#cˈerklo#
+*#t͡sʲˈerklo# | 134 : c > t͡sʲ 
+*#sˈerklo# | 140 : t͡sʲ > s 
+*#sˈerllo# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#sˈerʎo# | 180 : l l > ʎ 
+*#sˈɛrʎo# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#sˈɛrʎu# | 242 : [+round,-stres,+syl] > u 
+Final form : *#sˈɛrʎu#

@@ -1,0 +1,23 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :966:
+#ˌin̪kˈen̪sa# >>> *#iŋsˈezə# ( GOLD : #ən̪sˈɛzə#) :
+ˌi n̪ k ˈe n̪ s a 
+*#ˌiŋkˈen̪sa# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#ˌiŋkˈen̪sɑ# | 2 : [+lo] > [-front,+back] 
+*#ˌiŋkˈeːn̪sɑ# | 8 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#ˌiŋkˈeːsɑ# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#ˌɪŋkˈeːsɑ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪŋkˈesɑ# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌeŋkˈesɑ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeŋkʲˈesɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#ˌeŋcˈesɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#ˌeŋcˈesɑ#
+*#ˌeŋcˈesa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌeŋt͡sʲˈesa# | 134 : c > t͡sʲ 
+*#ˌeŋsˈesa# | 140 : t͡sʲ > s 
+*#eŋsˈesa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#eŋsˈeza# | 204 : s > z / [-cons] __ [-cons]
+*#eŋsˈɛza# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#eŋsˈeza# | 214 : ˈɛ > ˈe / __ [-son]
+*#iŋsˈeza# | 218 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+nas]
+*#iŋsˈezə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#iŋsˈezə#

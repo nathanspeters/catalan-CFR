@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :901:
+#kwˌassikˈaːre# >>> *#kwəsəɣˈa# ( GOLD : #kəskˈa#) :
+k w ˌa s s i k ˈaː r e 
+*#kwˌɑssikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#kɣʷˌɑssikˈɑːre# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kwˌɑssikˈɑːre# | 5 : ɣʷ > w / [+back,+hi,+cons] __ 
+*#kwˌɑssɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kwˌɑssɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#kwˌɑssekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#kwˌɑssekˈɑrɛ#
+*#kwˌassekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kwˌassekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kwassekˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kwassekˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kwasseɡˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#kwaseɡˈa# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#kwaseɣˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kwəsəɣˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kwəsəɣˈa#

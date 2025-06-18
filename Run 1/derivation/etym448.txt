@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :448:
+#hˌort̪ulˈaːn̪um# >>> *#urt̪ulˈa# ( GOLD : #urt̪ulˈa#) :
+h ˌo r t̪ u l ˈaː n̪ u m 
+*#hˌort̪ulˈɑːn̪um# | 2 : [+lo] > [-front,+back] 
+*#hˌɔrt̪ʊlˈɑːn̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˌɔrt̪ʊlˈɑn̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#hˌɔrt̪olˈɑn̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#hˌɔrt̪olˈɑn̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hˌɔrt̪olˈɑn̪o#
+*#ˌɔrt̪olˈɑn̪o# | 90 : h > ∅ 
+*#ˌɔrt̪olˈan̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌɔrt̪olˈan̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ɔrt̪olˈan̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ɔrt̪olˈa# | 160 : n̪ > ∅ / __ #
+*#urt̪ulˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#urt̪ulˈa#

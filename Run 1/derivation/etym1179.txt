@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1179:
+#koːn̪sˈilium# >>> *#kuzˈeʎ# ( GOLD : #kun̪sˈɛʎ#) :
+k oː n̪ s ˈi l i u m 
+*#koːsˈilium# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#koːsˈɪlɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#koːsˈɪljʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#koːsˈɪlʝʊm# | 26 : j > ʝ / __ [+syl]
+*#kosˈɪlʝʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kosˈelʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kosˈelʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kosˈelʝo#
+*#kosˈeʎo# | 89 : l ʝ > ʎ 
+*#kosˈeʎ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kozˈeʎ# | 204 : s > z / [-cons] __ [-cons]
+*#kuzˈeʎ# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kuzˈeʎ#

@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :24:
+#ˌamˈiːkum# >>> *#əmˈik# ( GOLD : #əmˈik#) :
+ˌa m ˈiː k u m 
+*#ˌɑmˈiːkum# | 2 : [+lo] > [-front,+back] 
+*#ˌɑmˈiːkʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈikʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɑmˈikom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈiko# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑmˈiko#
+*#ˌamˈiko# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌamˈik# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#amˈik# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#əmˈik# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əmˈik#

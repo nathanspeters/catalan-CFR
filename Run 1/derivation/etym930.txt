@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :930:
+#pˌuɡn̪ˈaːre# >>> *#puɲˈa# ( GOLD : #puɲˈa#) :
+p ˌu ɡ n̪ ˈaː r e 
+*#pˌuŋn̪ˈaːre# | 1 : ɡ > ŋ / __ [+nas,+cor]
+*#pˌuŋn̪ˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#pˌʊŋn̪ˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌʊŋn̪ˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌoŋn̪ˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#pˌoŋn̪ˈɑrɛ#
+*#pˌoŋn̪ˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌoɲˈarɛ# | 96 : ŋ n̪ > ɲ 
+*#pˌoɲˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#poɲˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#poɲˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#puɲˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#puɲˈa#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :383:
+#kist̪ˈellam# >>> *#ist̪ˈɛʎə# ( GOLD : #sist̪ˈeʎə#) :
+k i s t̪ ˈe l l a m 
+*#kist̪ˈellɑm# | 2 : [+lo] > [-front,+back] 
+*#kɪst̪ˈɛllɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kest̪ˈɛllɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kest̪ˈɛllɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kʲest̪ˈɛllɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cest̪ˈɛllɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#cest̪ˈɛllɑ#
+*#cest̪ˈɛlla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t͡sʲest̪ˈɛlla# | 134 : c > t͡sʲ 
+*#sest̪ˈɛlla# | 140 : t͡sʲ > s 
+*#sest̪ˈɛʎa# | 180 : l l > ʎ 
+*#est̪ˈɛʎa# | 208 : s > ∅ / __ ( [+syl] ) ( [-syl] )* s
+*#ist̪ˈɛʎa# | 221 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈɛ
+*#ist̪ˈɛʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ist̪ˈɛʎə#

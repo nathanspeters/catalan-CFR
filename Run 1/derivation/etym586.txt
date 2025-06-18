@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :586:
+#tʰrˈiskan̪# >>> *#drˈeskə# ( GOLD : #t̪ɾəskˈa#) :
+tʰ r ˈi s k a n̪ 
+*#tʰrˈiskɑn̪# | 2 : [+lo] > [-front,+back] 
+*#trˈiskɑn̪# | 6 : [+sg,-cont] > [-sg] 
+*#trˈɪskɑn̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#trˈeskɑn̪# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#trˈeskɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#trˈeskɑ#
+*#trˈeska# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#drˈeska# | 115 : [-cont] > [+voi] / __ r
+*#drˈɛska# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#drˈeska# | 214 : ˈɛ > ˈe / __ [-son]
+*#drˈeskə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#drˈeskə#

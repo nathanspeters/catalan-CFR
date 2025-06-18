@@ -1,0 +1,24 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :287:
+#wˌereːkˈun̪d̪iam# >>> *#bərkˈuɲə# ( GOLD : #bərɡˈoɲə#) :
+w ˌe r eː k ˈu n̪ d̪ i a m 
+*#wˌereːkˈun̪d̪iɑm# | 2 : [+lo] > [-front,+back] 
+*#ɣʷˌereːkˈun̪d̪iɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˌɛreːkˈʊn̪d̪ɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˌɛreːkˈʊn̪d̪jɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɣʷˌɛreːkˈʊn̪d̪ʝɑm# | 26 : j > ʝ / __ [+syl]
+*#βʷˌɛreːkˈʊn̪d̪ʝɑm# | 47 : ɣʷ > βʷ 
+*#βʷˌɛrekˈʊn̪d̪ʝɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#βʷˌɛrekˈon̪d̪ʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˌɛrekˈon̪d̪ʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#βʷˌɛrekˈon̪ɟʝɑ# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#βʷˌɛrekˈon̪ɟʝɑ#
+*#βʷˌɛrekˈon̪ɟɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#βˌɛrekˈon̪ɟɑ# | 91 : βʷ > β 
+*#bˌɛrekˈon̪ɟɑ# | 92 : β > b 
+*#bˌɛrekˈon̪ɟa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌɛrekˈun̪ɟa# | 111 : ˈo > ˈu / __ [+nas] [+hi]
+*#bˌɛrekˈuɲa# | 123 : [+nas] ɟ > ɲ
+*#bˌɛrkˈuɲa# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#bɛrkˈuɲa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bərkˈuɲə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bərkˈuɲə#

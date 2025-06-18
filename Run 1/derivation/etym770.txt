@@ -1,0 +1,12 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :770:
+#sˈemper# >>> *#sˈɛmbrə# ( GOLD : #sˈempɾə#) :
+s ˈe m p e r 
+*#sˈɛmpɛr# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#sˈɛmpɛr#
+*#sˈɛmprɛ# | 104 : ∅ [+syl] r > r [+syl,+son,0delrel] ∅/ [+syl] ( [-syl] )* __ #
+*#sˈɛmbrɛ# | 115 : [-cont] > [+voi] / __ r
+*#sˈɛmrɛ# | 162 : b > ∅ / m __ 
+*#sˈɛmre# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#sˈɛmbre# | 176 : ∅ > b / m __ r
+*#sˈɛmbrə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#sˈɛmbrə#

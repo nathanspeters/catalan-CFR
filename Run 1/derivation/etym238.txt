@@ -1,0 +1,10 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :238:
+#krˈokum# >>> *#ɡrˈɔk# ( GOLD : #ɡɾˈɔk#) :
+k r ˈo k u m 
+*#krˈɔkʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈɔkom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#krˈɔko# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#krˈɔko#
+*#ɡrˈɔko# | 115 : [-cont] > [+voi] / __ r
+*#ɡrˈɔk# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+Final form : *#ɡrˈɔk#

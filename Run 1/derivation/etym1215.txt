@@ -1,0 +1,24 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1215:
+#ˌakˌuːkulˈaːrium# >>> *#əɣuʎˈaɾə# ( GOLD : #əɣuʎˈe#) :
+ˌa k ˌuː k u l ˈaː r i u m 
+*#ˌɑkˌuːkulˈɑːrium# | 2 : [+lo] > [-front,+back] 
+*#ˌɑkˌuːkʊlˈɑːrɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑkˌuːkʊlˈɑːrjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˌɑkˌuːkʊlˈɑːrʝʊm# | 26 : j > ʝ / __ [+syl]
+*#ˌɑkˌukʊlˈɑrʝʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɑkˌukolˈɑrʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑkˌukolˈɑrʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑkˌukolˈɑrʝo#
+*#ˌakˌukolˈarʝo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌakˌukolˈarʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ˌakˌukolˈari# | 154 : ʝ > i / __ #
+*#ˌakˌuklˈari# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#akuklˈari# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#akuklˈare# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#akullˈare# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#akuʎˈare# | 180 : l l > ʎ 
+*#aɡuʎˈare# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#aɡuʎˈaɾe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#aɣuʎˈaɾe# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#əɣuʎˈaɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əɣuʎˈaɾə#

@@ -1,0 +1,10 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :977:
+#brˈan̪kam# >>> *#brˈaŋkə# ( GOLD : #bɾˈaŋkə#) :
+b r ˈa n̪ k a m 
+*#brˈaŋkam# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#brˈɑŋkɑm# | 2 : [+lo] > [-front,+back] 
+*#brˈɑŋkɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#brˈɑŋkɑ#
+*#brˈaŋka# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#brˈaŋkə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#brˈaŋkə#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :747:
+#kˌolumn̪ˈellam# >>> *#kuɲˈɛʎə# ( GOLD : #kuɾun̪ˈeʎə#) :
+k ˌo l u m n̪ ˈe l l a m 
+*#kˌolumn̪ˈellɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌɔlʊmn̪ˈɛllɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔlomn̪ˈɛllɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔlomn̪ˈɛllɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɔlomn̪ˈɛllɑ#
+*#kˌɔlomn̪ˈɛlla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔlon̪n̪ˈɛlla# | 103 : m > n̪ / __ n̪
+*#kˌɔln̪n̪ˈɛlla# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#kɔln̪n̪ˈɛlla# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔln̪n̪ˈɛʎa# | 180 : l l > ʎ 
+*#kɔlɲˈɛʎa# | 181 : n̪ n̪ > ɲ 
+*#kɔɲˈɛʎa# | 211 : l > ∅ / __ [+cons]
+*#kuɲˈɛʎa# | 242 : [+round,-stres,+syl] > u 
+*#kuɲˈɛʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kuɲˈɛʎə#

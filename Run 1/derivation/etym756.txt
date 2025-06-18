@@ -1,0 +1,8 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :756:
+#n̪ˌek# >>> *#n̪ˈɛ# ( GOLD : #n̪i#) :
+n̪ ˌe k 
+*#n̪ˌɛk# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#n̪ˌɛk#
+*#n̪ˌɛ# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#n̪ˈɛ# | 158 : [+stres,-prim] > [+prim,+stres,+syl,+son,0delrel] / # ( [-syl] )* __ ( [-syl] )* #
+Final form : *#n̪ˈɛ#

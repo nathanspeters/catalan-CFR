@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :944:
+#t̪rˌiumpʰˈaːre# >>> *#riumpˈa# ( GOLD : #t̪ɾiumfˈa#) :
+t̪ r ˌi u m pʰ ˈaː r e 
+*#t̪rˌiumpʰˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#t̪rˌiumpˈɑːre# | 6 : [+sg,-cont] > [-sg] 
+*#t̪rˌɪʊmpˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌɪʊmpˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#t̪rˌeompˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#t̪rˌeompˈɑrɛ#
+*#t̪rˌeompˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#d̪rˌeompˈarɛ# | 115 : [-cont] > [+voi] / __ r
+*#rˌeompˈarɛ# | 116 : d̪ > ∅ / __ r
+*#rˌeompˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#reompˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#reompˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#riompˈa# | 219 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+syl]
+*#riumpˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#riumpˈa#

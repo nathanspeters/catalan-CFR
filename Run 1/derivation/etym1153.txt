@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1153:
+#kˌamˈisiam# >>> *#kəmˈezə# ( GOLD : #kəmˈizə#) :
+k ˌa m ˈi s i a m 
+*#kˌɑmˈisiɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌɑmˈɪsɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑmˈɪsjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌɑmˈɪsʝɑm# | 26 : j > ʝ / __ [+syl]
+*#kˌɑmˈesʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑmˈesʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɑmˈesʝɑ#
+*#kˌamˈesʝa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kamˈesʝa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kamˈesa# | 200 : ʝ > ∅ / [+cons] __ 
+*#kamˈeza# | 204 : s > z / [-cons] __ [-cons]
+*#kamˈɛza# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#kamˈeza# | 214 : ˈɛ > ˈe / __ [-son]
+*#kəmˈezə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kəmˈezə#

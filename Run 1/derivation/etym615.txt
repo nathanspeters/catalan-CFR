@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :615:
+#iˈakere# >>> *#ʒˈaɣrə# ( GOLD : #ʒˈawɾə#) :
+i ˈa k e r e 
+*#iˈɑkere# | 2 : [+lo] > [-front,+back] 
+*#ɪˈɑkɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˈɑkɛrɛ# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ʝˈɑkɛrɛ# | 26 : j > ʝ / __ [+syl]
+*#ʝˈɑkrɛ# | 42 : [-stres,+front] > ∅ / [+prim,+lo] [+back,-cont] __ [+cor,-strid,-nas,-lat] [+syl]
+Late Latin stage form : *#ʝˈɑkrɛ#
+*#ʝˈakrɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˈaɡrɛ# | 115 : [-cont] > [+voi] / __ r
+*#ʝˈaɡre# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#ʒˈaɡre# | 225 : ʝ > ʒ 
+*#ʒˈaɣre# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʒˈaɣrə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʒˈaɣrə#

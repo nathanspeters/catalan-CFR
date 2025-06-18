@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :205:
+#kˈapsum# >>> *#kˈapsu# ( GOLD : #kˈeʃ#) :
+k ˈa p s u m 
+*#kˈɑpsum# | 2 : [+lo] > [-front,+back] 
+*#kˈɑpsʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɑpsom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈɑpso# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɑpso#
+*#kˈapso# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˈapsu# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kˈapsu#

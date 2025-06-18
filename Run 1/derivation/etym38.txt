@@ -1,0 +1,13 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :38:
+#pˈersikum# >>> *#pˈesək# ( GOLD : #pɾˈesək#) :
+p ˈe r s i k u m 
+*#pˈɛrsɪkʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛrsekom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛrseko# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˈɛrseko#
+*#pˈɛrsek# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˈɛssek# | 186 : r > s / __ s
+*#pˈɛsek# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#pˈesek# | 214 : ˈɛ > ˈe / __ [-son]
+*#pˈesək# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pˈesək#

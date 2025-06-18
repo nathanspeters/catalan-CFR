@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :644:
+#ˌumbilˈiːkulum# >>> *#uməɾˈilə# ( GOLD : #ʎumbɾˈiɣul#) :
+ˌu m b i l ˈiː k u l u m 
+*#ˌʊmbɪlˈiːkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌʊmbɪlˈiːklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#ˌʊmbɪlˈiklʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌombelˈiklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌombelˈiklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌombelˈiklo#
+*#ˌomberˈiklo# | 146 : l > r / __ ( [-son] )* [+syl] ( [-son] )* l
+*#omberˈiklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#omerˈiklo# | 162 : b > ∅ / m __ 
+*#omerˈikle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#omerˈille# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#omerˈiʎe# | 180 : l l > ʎ 
+*#omerˈile# | 182 : {ʎ;ɲ} > {l;n̪} / ˈi __ 
+*#omeɾˈile# | 205 : r > ɾ / [-cons] __ [-cons]
+*#umeɾˈile# | 242 : [+round,-stres,+syl] > u 
+*#uməɾˈilə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#uməɾˈilə#

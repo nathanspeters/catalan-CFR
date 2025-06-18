@@ -1,0 +1,8 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1040:
+#sˈerpem# >>> *#sˈɛrp# ( GOLD : #sˈerp#) :
+s ˈe r p e m 
+*#sˈɛrpɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛrpɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈɛrpɛ#
+*#sˈɛrp# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+Final form : *#sˈɛrp#

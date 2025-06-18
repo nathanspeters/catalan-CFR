@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :965:
+#kˌoːn̪suˈeːre# >>> *#kuzwˈe# ( GOLD : #kuzˈi#) :
+k ˌoː n̪ s u ˈeː r e 
+*#kˌoːsuˈeːre# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#kˌoːsʊˈeːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌoːswˈeːrɛ# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌoswˈerɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#kˌoswˈerɛ#
+*#kˌoswˈer# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#koswˈer# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#koswˈe# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kozwˈe# | 204 : s > z / [-cons] __ [-cons]
+*#kuzwˈe# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kuzwˈe#

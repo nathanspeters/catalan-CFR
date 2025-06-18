@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1073:
+#pˈaskuam# >>> *#pˈaskwə# ( GOLD : #pˈaskwə#) :
+p ˈa s k u a m 
+*#pˈɑskuɑm# | 2 : [+lo] > [-front,+back] 
+*#pˈɑskʊɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɑskwɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˈɑskwɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˈɑskwɑ#
+*#pˈaskwa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˈaskwə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pˈaskwə#

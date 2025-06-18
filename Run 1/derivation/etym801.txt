@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :801:
+#flˈeːbilem# >>> *#frˈewl# ( GOLD : #fˈebblə#) :
+f l ˈeː b i l e m 
+*#flˈeːbɪlɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#flˈeːβɪlɛm# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#flˈeβɪlɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#flˈeβelɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#flˈeβelɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#flˈeβelɛ#
+*#flˈebelɛ# | 92 : β > b 
+*#frˈebelɛ# | 147 : l > r / __ ( [-son] )* [+syl] ( [-son] )* [+syl] ( [-son] )* l
+*#frˈebel# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#frˈebl# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#frˈɛbl# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#frˈebl# | 214 : ˈɛ > ˈe / __ [-son]
+*#frˈeβl# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#frˈewl# | 239 : β > w / __ l
+Final form : *#frˈewl#

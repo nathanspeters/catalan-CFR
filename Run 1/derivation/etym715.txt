@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :715:
+#fˌuɡˈiːre# >>> *#fuʒˈi# ( GOLD : #fuʒˈi#) :
+f ˌu ɡ ˈiː r e 
+*#fˌʊɡˈiːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌʊɡˈirɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#fˌoɡˈirɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˌoɡʲˈirɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#fˌoɟˈirɛ# | 76 : [+back,+front] > [-back] 
+*#fˌoʝˈirɛ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#fˌoʝˈirɛ#
+*#fˌoʝˈir# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#foʝˈir# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#foʝˈi# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#foʒˈi# | 225 : ʝ > ʒ 
+*#fuʒˈi# | 242 : [+round,-stres,+syl] > u 
+Final form : *#fuʒˈi#

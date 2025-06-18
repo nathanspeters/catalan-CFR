@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :872:
+#pˌat̪rˈast̪rum# >>> *#pəlˈasr# ( GOLD : #pəðˈast̪ɾə#) :
+p ˌa t̪ r ˈa s t̪ r u m 
+*#pˌɑt̪rˈɑst̪rum# | 2 : [+lo] > [-front,+back] 
+*#pˌɑt̪rˈɑst̪rʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑt̪rˈɑst̪rom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌɑt̪rˈɑst̪ro# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌɑt̪rˈɑst̪ro#
+*#pˌat̪rˈast̪ro# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌad̪rˈasd̪ro# | 115 : [-cont] > [+voi] / __ r
+*#pˌarˈasro# | 116 : d̪ > ∅ / __ r
+*#pˌalˈasro# | 144 : r > l / __ ( [-son] )* [+syl] ( [-son] )* r
+*#pˌalˈasr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#palˈasr# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#pəlˈasr# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pəlˈasr#

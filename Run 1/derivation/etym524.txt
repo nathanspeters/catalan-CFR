@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :524:
+#ˌapˈost̪olum# >>> *#əβˈɔʃʎu# ( GOLD : #əpˈɔst̪ul#) :
+ˌa p ˈo s t̪ o l u m 
+*#ˌɑpˈost̪olum# | 2 : [+lo] > [-front,+back] 
+*#ˌɑpˈɔst̪ɔlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑpˈɔst̪lʊm# | 34 : ɔ > ∅ / [+prim] ( [-syl] )* [-cont,-lab] __ [+lat] [+syl] ( [-syl] ) #
+*#ˌɑpˈɔst̪lom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑpˈɔsklom# | 68 : t̪ > k / __ [+lat]
+*#ˌɑpˈɔsklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑpˈɔsklo#
+*#ˌapˈɔsklo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#apˈɔsklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#apˈɔsllo# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#apˈɔsʎo# | 180 : l l > ʎ 
+*#abˈɔsʎo# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#abˈɔʃʎo# | 210 : s > ʃ / __ [+front,+hi]
+*#aβˈɔʃʎo# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#aβˈɔʃʎu# | 242 : [+round,-stres,+syl] > u 
+*#əβˈɔʃʎu# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əβˈɔʃʎu#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :907:
+#rˌukt̪ˈaːre# >>> *#ruðˈa# ( GOLD : #rut̪ˈa#) :
+r ˌu k t̪ ˈaː r e 
+*#rˌukt̪ˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#rˌʊkt̪ˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌʊkt̪ˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#rˌʊxt̪ˈɑrɛ# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#rˌoxt̪ˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#rˌoxt̪ˈɑrɛ#
+*#rˌoxt̪ˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˌoxt̪ˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#roxt̪ˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#roxt̪ˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#rot̪ˈa# | 194 : x > ∅ / __ t̪ [+stres]
+*#rod̪ˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#roðˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ruðˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#ruðˈa#

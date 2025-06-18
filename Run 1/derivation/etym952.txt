@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :952:
+#kˌon̪wen̪ˈiːre# >>> *#kurbən̪ˈi# ( GOLD : #kumbən̪ˈi#) :
+k ˌo n̪ w e n̪ ˈiː r e 
+*#kˌon̪ɣʷen̪ˈiːre# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kˌɔn̪ɣʷɛn̪ˈiːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔn̪βʷɛn̪ˈiːrɛ# | 47 : ɣʷ > βʷ 
+*#kˌɔn̪βʷɛn̪ˈirɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#kˌɔn̪βʷɛn̪ˈirɛ#
+*#kˌɔn̪βɛn̪ˈirɛ# | 91 : βʷ > β 
+*#kˌɔn̪bɛn̪ˈirɛ# | 92 : β > b 
+*#kˌɔrbɛn̪ˈirɛ# | 143 : n̪ > r / __ ( [-son] )* [+syl] ( [-son] )* n̪
+*#kˌɔrbɛn̪ˈir# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kɔrbɛn̪ˈir# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔrbɛn̪ˈi# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kurbɛn̪ˈi# | 242 : [+round,-stres,+syl] > u 
+*#kurbən̪ˈi# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kurbən̪ˈi#

@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :37:
+#hˈerbam# >>> *#ˈɛrbə# ( GOLD : #ˈerbə#) :
+h ˈe r b a m 
+*#hˈerbɑm# | 2 : [+lo] > [-front,+back] 
+*#hˈɛrbɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˈɛrbɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hˈɛrbɑ#
+*#ˈɛrbɑ# | 90 : h > ∅ 
+*#ˈɛrba# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈɛrbə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈɛrbə#

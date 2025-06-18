@@ -1,0 +1,9 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :271:
+#pˈoːma# >>> *#pˈomə# ( GOLD : #pˈomə#) :
+p ˈoː m a 
+*#pˈoːmɑ# | 2 : [+lo] > [-front,+back] 
+*#pˈomɑ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#pˈomɑ#
+*#pˈoma# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˈomə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pˈomə#

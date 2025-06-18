@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :294:
+#t̪ˌon̪sˈoːrias# >>> *#t̪uzˈojɾəs# ( GOLD : #t̪izˈoɾəs#) :
+t̪ ˌo n̪ s ˈoː r i a s 
+*#t̪ˌon̪sˈoːriɑs# | 2 : [+lo] > [-front,+back] 
+*#t̪ˌɔn̪sˈoːrɪɑs# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˌɔn̪sˈoːrjɑs# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#t̪ˌɔn̪sˈoːrʝɑs# | 26 : j > ʝ / __ [+syl]
+*#t̪ˌɔn̪sˈorʝɑs# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#t̪ˌɔn̪sˈorʝɑs#
+*#t̪ˌɔn̪sˈorʝas# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t̪ˌɔn̪sˈorʝes# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#t̪ˌɔsˈorʝes# | 133 : n̪ > ∅ / __ s [+stres]
+*#t̪ɔsˈorʝes# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#t̪ɔsˈojres# | 193 : r ʝ > j r 
+*#t̪ɔzˈojres# | 204 : s > z / [-cons] __ [-cons]
+*#t̪ɔzˈojɾes# | 205 : r > ɾ / [-cons] __ [-cons]
+*#t̪uzˈojɾes# | 242 : [+round,-stres,+syl] > u 
+*#t̪uzˈojɾəs# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#t̪uzˈojɾəs#

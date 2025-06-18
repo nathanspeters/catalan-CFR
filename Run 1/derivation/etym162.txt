@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :162:
+#iˌakˈet̪# >>> *#ʒəzˈɛ# ( GOLD : #ʒˈɛw#) :
+i ˌa k ˈe t̪ 
+*#iˌɑkˈet̪# | 2 : [+lo] > [-front,+back] 
+*#ɪˌɑkˈɛt̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌɑkˈɛt̪# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ʝˌɑkˈɛt̪# | 26 : j > ʝ / __ [+syl]
+*#ʝˌɑkʲˈɛt̪# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#ʝˌɑcˈɛt̪# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#ʝˌɑcˈɛt̪#
+*#ʝˌacˈɛt̪# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˌacˈɛ# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#ʝˌat͡sʲˈɛ# | 134 : c > t͡sʲ 
+*#ʝˌasˈɛ# | 140 : t͡sʲ > s 
+*#ʝasˈɛ# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʝazˈɛ# | 204 : s > z / [-cons] __ [-cons]
+*#ʒazˈɛ# | 225 : ʝ > ʒ 
+*#ʒəzˈɛ# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʒəzˈɛ#

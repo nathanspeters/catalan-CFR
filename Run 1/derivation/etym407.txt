@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :407:
+#kˌun̪ˈiːkulum# >>> *#kun̪ˈilə# ( GOLD : #kun̪ˈiʎ#) :
+k ˌu n̪ ˈiː k u l u m 
+*#kˌʊn̪ˈiːkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌʊn̪ˈiːklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#kˌʊn̪ˈiklʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌon̪ˈiklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌon̪ˈiklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌon̪ˈiklo#
+*#kon̪ˈiklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kon̪ˈikle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#kon̪ˈille# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#kon̪ˈiʎe# | 180 : l l > ʎ 
+*#kon̪ˈile# | 182 : {ʎ;ɲ} > {l;n̪} / ˈi __ 
+*#kun̪ˈile# | 242 : [+round,-stres,+syl] > u 
+*#kun̪ˈilə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kun̪ˈilə#

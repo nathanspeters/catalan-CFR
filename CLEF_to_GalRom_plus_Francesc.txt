@@ -760,7 +760,7 @@ d > ð / [-cons] __ $ this is the same rule as below. SOMEHOW we're getting a no
 
 β > w / __ {t̪;r;ɾ;l} $ F137+140+141 and F168 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens
 
-$ p > b / @ __ {t̪} $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
+$ p > b / @ __ t̪ $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
 
 $ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
 

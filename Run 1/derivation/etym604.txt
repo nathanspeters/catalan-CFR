@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :604:
+#kˈilia# >>> *#sˈeʎə# ( GOLD : #sˈɛʎə#) :
+k ˈi l i a 
+*#kˈiliɑ# | 2 : [+lo] > [-front,+back] 
+*#kˈɪlɪɑ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɪljɑ# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈɪlʝɑ# | 26 : j > ʝ / __ [+syl]
+*#kˈelʝɑ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kʲˈelʝɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cˈelʝɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#cˈelʝɑ#
+*#cˈeʎɑ# | 89 : l ʝ > ʎ 
+*#cˈeʎa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t͡sʲˈeʎa# | 134 : c > t͡sʲ 
+*#sˈeʎa# | 140 : t͡sʲ > s 
+*#sˈeʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#sˈeʎə#

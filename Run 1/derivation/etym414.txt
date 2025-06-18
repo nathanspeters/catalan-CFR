@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :414:
+#prˌobˈaːre# >>> *#bruβˈa# ( GOLD : #pɾuβˈa#) :
+p r ˌo b ˈaː r e 
+*#prˌobˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#prˌɔbˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˌɔβˈɑːrɛ# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#prˌɔβˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#prˌɔβˈɑrɛ#
+*#prˌɔbˈɑrɛ# | 92 : β > b 
+*#prˌɔbˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#brˌɔbˈarɛ# | 115 : [-cont] > [+voi] / __ r
+*#brˌɔbˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#brɔbˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#brɔbˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#brɔβˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#bruβˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#bruβˈa#

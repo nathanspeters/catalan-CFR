@@ -1,0 +1,22 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1167:
+#rˌoskiˈaːt̪um# >>> *#rusˈat̪# ( GOLD : #ruʃˈat#) :
+r ˌo s k i ˈaː t̪ u m 
+*#rˌoskiˈɑːt̪um# | 2 : [+lo] > [-front,+back] 
+*#rˌɔskɪˈɑːt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔskjˈɑːt̪ʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˌɔskʝˈɑːt̪ʊm# | 26 : j > ʝ / __ [+syl]
+*#rˌɔskʝˈɑt̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#rˌɔskʝˈɑt̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔskʝˈɑt̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#rˌɔskʲʝˈɑt̪o# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#rˌɔscʝˈɑt̪o# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#rˌɔscʝˈɑt̪o#
+*#rˌɔscˈɑt̪o# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#rˌɔscˈat̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˌɔst͡sʲˈat̪o# | 134 : c > t͡sʲ 
+*#rˌɔssˈat̪o# | 140 : t͡sʲ > s 
+*#rˌɔssˈat̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rɔssˈat̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɔsˈat̪# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#rusˈat̪# | 242 : [+round,-stres,+syl] > u 
+Final form : *#rusˈat̪#

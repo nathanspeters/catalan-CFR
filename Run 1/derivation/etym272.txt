@@ -1,0 +1,13 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :272:
+#ˈumbram# >>> *#ˈombrə# ( GOLD : #ˈombɾə#) :
+ˈu m b r a m 
+*#ˈumbrɑm# | 2 : [+lo] > [-front,+back] 
+*#ˈʊmbrɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈombrɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈombrɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈombrɑ#
+*#ˈombra# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈomra# | 162 : b > ∅ / m __ 
+*#ˈombra# | 176 : ∅ > b / m __ r
+*#ˈombrə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈombrə#

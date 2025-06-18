@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1004:
+#ˌarbit̪rˈaːre# >>> *#ərbəlˈa# ( GOLD : #əlβiɾˈa#) :
+ˌa r b i t̪ r ˈaː r e 
+*#ˌɑrbit̪rˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#ˌɑrbɪt̪rˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑrbɪt̪rˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɑrbet̪rˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#ˌɑrbet̪rˈɑrɛ#
+*#ˌarbet̪rˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌarbed̪rˈarɛ# | 115 : [-cont] > [+voi] / __ r
+*#ˌarberˈarɛ# | 116 : d̪ > ∅ / __ r
+*#ˌalbelˈarɛ# | 144 : r > l / __ ( [-son] )* [+syl] ( [-son] )* r
+*#ˌarbelˈarɛ# | 146 : l > r / __ ( [-son] )* [+syl] ( [-son] )* l
+*#ˌarbelˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#arbelˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#arbelˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#ərbəlˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ərbəlˈa#

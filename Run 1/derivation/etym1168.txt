@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1168:
+#kˌommeˈaːt̪um# >>> *#kumˈat̪# ( GOLD : #kumiˈat#) :
+k ˌo m m e ˈaː t̪ u m 
+*#kˌommeˈɑːt̪um# | 2 : [+lo] > [-front,+back] 
+*#kˌɔmmɛˈɑːt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmmjˈɑːt̪ʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌɔmmʝˈɑːt̪ʊm# | 26 : j > ʝ / __ [+syl]
+*#kˌɔmmʝˈɑt̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔmmʝˈɑt̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔmmʝˈɑt̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɔmmʝˈɑt̪o#
+*#kˌɔmmʝˈat̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔmmʝˈat̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kɔmmʝˈat̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔmʝˈat̪# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#kɔmiˈat̪# | 189 : ʝ > i / m __ 
+*#kɔmˈat̪# | 241 : [+syl,-stres] > ∅ / __ [+stres]
+*#kumˈat̪# | 242 : [+round,-stres,+syl] > u 
+Final form : *#kumˈat̪#

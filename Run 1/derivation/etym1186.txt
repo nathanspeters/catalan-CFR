@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1186:
+#kˌurreˈoːlam# >>> *#kujɾˈolə# ( GOLD : #kuriˈɔlə#) :
+k ˌu r r e ˈoː l a m 
+*#kˌurreˈoːlɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌʊrrɛˈoːlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌʊrrjˈoːlɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌʊrrʝˈoːlɑm# | 26 : j > ʝ / __ [+syl]
+*#kˌʊrrʝˈolɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌorrʝˈolɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌorrʝˈolɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌorrʝˈolɑ#
+*#kˌorrʝˈola# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#korrʝˈola# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#korʝˈola# | 184 : [-syl] > ∅ / [+cons] __ [-son]
+*#kojrˈola# | 193 : r ʝ > j r 
+*#kojɾˈola# | 205 : r > ɾ / [-cons] __ [-cons]
+*#kujɾˈola# | 242 : [+round,-stres,+syl] > u 
+*#kujɾˈolə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kujɾˈolə#

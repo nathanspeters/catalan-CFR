@@ -1,0 +1,22 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :742:
+#bˌarkin̪ˈoːn̪em# >>> *#bəsəlˈo# ( GOLD : #bəɾsəlˈon̪ə#) :
+b ˌa r k i n̪ ˈoː n̪ e m 
+*#bˌɑrkin̪ˈoːn̪em# | 2 : [+lo] > [-front,+back] 
+*#bˌɑrkɪn̪ˈoːn̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɑrkɪn̪ˈon̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#bˌɑrken̪ˈon̪ɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˌɑrken̪ˈon̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#bˌɑrkʲen̪ˈon̪ɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#bˌɑrcen̪ˈon̪ɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#bˌɑrcen̪ˈon̪ɛ#
+*#bˌarcen̪ˈon̪ɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌart͡sʲen̪ˈon̪ɛ# | 134 : c > t͡sʲ 
+*#bˌarsen̪ˈon̪ɛ# | 140 : t͡sʲ > s 
+*#bˌarselˈon̪ɛ# | 142 : n̪ > l / r ( [-son] )* [+syl] ( [-son] )* __ ( [-son] )* [+syl] ( [-son] )* n̪
+*#bˌarselˈon̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#barselˈon̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#barselˈo# | 160 : n̪ > ∅ / __ #
+*#basselˈo# | 186 : r > s / __ s
+*#baselˈo# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#bəsəlˈo# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bəsəlˈo#

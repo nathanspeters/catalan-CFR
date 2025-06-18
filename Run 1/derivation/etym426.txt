@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :426:
+#jˌokˈaːre# >>> *#ʒuɣˈa# ( GOLD : #ʒuɣˈa#) :
+j ˌo k ˈaː r e 
+*#jˌokˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#ʝˌokˈɑːre# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ʝˌɔkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ʝˌɔkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#ʝˌɔkˈɑrɛ#
+*#ʝˌɔkˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˌɔkˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ʝɔkˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʝɔkˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#ʝɔɡˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ʒɔɡˈa# | 225 : ʝ > ʒ 
+*#ʒɔɣˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʒuɣˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#ʒuɣˈa#

@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :651:
+#rˌubˈikulum# >>> *#ruβˈeʎə# ( GOLD : #ruβˈɛʎ#) :
+r ˌu b ˈi k u l u m 
+*#rˌʊbˈɪkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌʊbˈɪklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#rˌʊβˈɪklʊm# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#rˌoβˈeklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˌoβˈeklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#rˌoβˈeklo#
+*#rˌobˈeklo# | 92 : β > b 
+*#robˈeklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#robˈekle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#robˈelle# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#robˈeʎe# | 180 : l l > ʎ 
+*#roβˈeʎe# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ruβˈeʎe# | 242 : [+round,-stres,+syl] > u 
+*#ruβˈeʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ruβˈeʎə#

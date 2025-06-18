@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :693:
+#plˌakˈeːre# >>> *#pləzˈe# ( GOLD : #pləˈɛ#) :
+p l ˌa k ˈeː r e 
+*#plˌɑkˈeːre# | 2 : [+lo] > [-front,+back] 
+*#plˌɑkˈeːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˌɑkˈerɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#plˌɑkʲˈerɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#plˌɑcˈerɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#plˌɑcˈerɛ#
+*#plˌacˈerɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#plˌat͡sʲˈerɛ# | 134 : c > t͡sʲ 
+*#plˌasˈerɛ# | 140 : t͡sʲ > s 
+*#plˌasˈer# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#plasˈer# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#plasˈe# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#plazˈe# | 204 : s > z / [-cons] __ [-cons]
+*#pləzˈe# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pləzˈe#

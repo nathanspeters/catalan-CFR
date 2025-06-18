@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :58:
+#d̪ˈiewˈen̪eris# >>> *#d̪ixbˈɛn̪d̪rəs# ( GOLD : #d̪iβˈɛn̪d̪ɾəs#) :
+d̪ ˈi e w ˈe n̪ e r i s 
+*#d̪ˈieɣʷˈen̪eris# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#d̪ˈiːxɣʷˈen̪eris# | 11 : [+hi,+front,+stres] e > [+long] x/ __ [-nas]
+*#d̪ˈiːxɣʷˈɛn̪ɛrɪs# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌiːxɣʷˈɛn̪ɛrɪs# | 19 : [+prim] > [-prim,+syl,+son,0delrel] / # ( [-syl] )* __ ( [-syl] )* [+prim]
+*#d̪ˌiːxɣʷˈɛn̪rɪs# | 39 : [-lo,-stres] > ∅ / [+prim] ( [-syl] )* n̪ __ r [+syl]
+*#d̪ˌiːxβʷˈɛn̪rɪs# | 47 : ɣʷ > βʷ 
+*#d̪ˌixβʷˈɛn̪rɪs# | 54 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌixβʷˈɛn̪res# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#d̪ˌixβʷˈɛn̪res#
+*#d̪ˌixβˈɛn̪res# | 91 : βʷ > β 
+*#d̪ˌixbˈɛn̪res# | 92 : β > b 
+*#d̪ixbˈɛn̪res# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪ixbˈɛn̪d̪res# | 177 : ∅ > d̪ / n̪ __ r
+*#d̪ixbˈɛn̪d̪rəs# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#d̪ixbˈɛn̪d̪rəs#

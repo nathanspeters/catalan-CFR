@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :27:
+#kˌokˈiːn̪am# >>> *#kuzˈin̪ə# ( GOLD : #kˈujn̪ə#) :
+k ˌo k ˈiː n̪ a m 
+*#kˌokˈiːn̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌɔkˈiːn̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔkˈin̪ɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔkˈin̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kˌɔkʲˈin̪ɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#kˌɔcˈin̪ɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#kˌɔcˈin̪ɑ#
+*#kˌɔcˈin̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌɔt͡sʲˈin̪a# | 134 : c > t͡sʲ 
+*#kˌɔsˈin̪a# | 140 : t͡sʲ > s 
+*#kɔsˈin̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔzˈin̪a# | 204 : s > z / [-cons] __ [-cons]
+*#kuzˈin̪a# | 242 : [+round,-stres,+syl] > u 
+*#kuzˈin̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kuzˈin̪ə#

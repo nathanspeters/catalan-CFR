@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :806:
+#plˌikˈaːre# >>> *#pləɣˈa# ( GOLD : #bləɣˈa#) :
+p l ˌi k ˈaː r e 
+*#plˌikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#plˌɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˌɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#plˌekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#plˌekˈɑrɛ#
+*#plˌekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#plˌekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#plekˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#plekˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#pleɡˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#pleɣˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#pləɣˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pləɣˈa#

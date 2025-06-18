@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :895:
+#mˌan̪sion̪ˈaːt̪am# >>> *#məzun̪ˈaðə# ( GOLD : #məjn̪ˈaðə#) :
+m ˌa n̪ s i o n̪ ˈaː t̪ a m 
+*#mˌɑn̪sion̪ˈɑːt̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#mˌɑːn̪sion̪ˈɑːt̪ɑm# | 8 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#mˌɑːsion̪ˈɑːt̪ɑm# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#mˌɑːsɪɔn̪ˈɑːt̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑːsjɔn̪ˈɑːt̪ɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˌɑːsʝɔn̪ˈɑːt̪ɑm# | 26 : j > ʝ / __ [+syl]
+*#mˌɑsʝɔn̪ˈɑt̪ɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌɑsʝɔn̪ˈɑt̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˌɑsʝɔn̪ˈɑt̪ɑ#
+*#mˌasʝɔn̪ˈat̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#masʝɔn̪ˈat̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#masɔn̪ˈat̪a# | 200 : ʝ > ∅ / [+cons] __ 
+*#masɔn̪ˈad̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#mazɔn̪ˈad̪a# | 204 : s > z / [-cons] __ [-cons]
+*#mazɔn̪ˈaða# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#mazun̪ˈaða# | 242 : [+round,-stres,+syl] > u 
+*#məzun̪ˈaðə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#məzun̪ˈaðə#

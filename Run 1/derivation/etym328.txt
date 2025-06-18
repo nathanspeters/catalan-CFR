@@ -1,0 +1,12 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :328:
+#hˈoːram# >>> *#ˈoɾə# ( GOLD : #ˈɔɾə#) :
+h ˈoː r a m 
+*#hˈoːrɑm# | 2 : [+lo] > [-front,+back] 
+*#hˈorɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#hˈorɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hˈorɑ#
+*#ˈorɑ# | 90 : h > ∅ 
+*#ˈora# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈoɾa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#ˈoɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈoɾə#

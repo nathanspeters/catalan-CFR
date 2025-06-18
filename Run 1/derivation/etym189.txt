@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :189:
+#pˈaːskere# >>> *#pˈasə# ( GOLD : #pˈeʃə#) :
+p ˈaː s k e r e 
+*#pˈɑːskere# | 2 : [+lo] > [-front,+back] 
+*#pˈɑːskɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɑskɛrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˈɑskʲɛrɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#pˈɑscɛrɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#pˈɑscɛrɛ#
+*#pˈascɛrɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˈast͡sʲɛrɛ# | 134 : c > t͡sʲ 
+*#pˈassɛrɛ# | 140 : t͡sʲ > s 
+*#pˈassɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˈassɛ# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#pˈasɛ# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#pˈasə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pˈasə#

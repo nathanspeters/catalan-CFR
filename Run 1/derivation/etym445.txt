@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :445:
+#kˌalamˈellum# >>> *#kəmˈɛʎ# ( GOLD : #kəɾəmˈeʎ#) :
+k ˌa l a m ˈe l l u m 
+*#kˌɑlɑmˈellum# | 2 : [+lo] > [-front,+back] 
+*#kˌɑlɑmˈɛllʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑlɑmˈɛllom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑlɑmˈɛllo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɑlɑmˈɛllo#
+*#kˌalamˈɛllo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˌalemˈɛllo# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#kˌalemˈɛll# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kˌalmˈɛll# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#kalmˈɛll# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kalmˈɛʎ# | 180 : l l > ʎ 
+*#kamˈɛʎ# | 211 : l > ∅ / __ [+cons]
+*#kəmˈɛʎ# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kəmˈɛʎ#

@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :70:
+#iˌekt̪at̪# >>> *#ʒijðə# ( GOLD : #ʒit̪ə#) :
+i ˌe k t̪ a t̪ 
+*#iˌekt̪ɑt̪# | 2 : [+lo] > [-front,+back] 
+*#ɪˌɛkt̪ɑt̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#jˌɛkt̪ɑt̪# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ʝˌɛkt̪ɑt̪# | 26 : j > ʝ / __ [+syl]
+*#ʝˌɛxt̪ɑt̪# | 59 : k > x / [-cons] __ [+cor,-voi]
+Late Latin stage form : *#ʝˌɛxt̪ɑt̪#
+*#ʝˌɛxt̪at̪# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˌɛxt̪a# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#ʝɛxt̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʝɛjt̪a# | 195 : x > j / __ t̪
+*#ʝɛjd̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ʝijd̪a# | 217 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+front,+hi]
+*#ʒijd̪a# | 225 : ʝ > ʒ 
+*#ʒijða# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#ʒijðə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʒijðə#

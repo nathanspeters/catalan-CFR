@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :905:
+#kˈokt̪am# >>> *#kˈujðə# ( GOLD : #kˈujt̪ə#) :
+k ˈo k t̪ a m 
+*#kˈokt̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#kˈɔkt̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɔxt̪ɑm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#kˈɔxt̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɔxt̪ɑ#
+*#kˈɔxt̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˈɔjt̪a# | 195 : x > j / __ t̪
+*#kˈɔjd̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#kˈujd̪a# | 215 : ˈɔ > ˈu / __ j
+*#kˈujða# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#kˈujðə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kˈujðə#

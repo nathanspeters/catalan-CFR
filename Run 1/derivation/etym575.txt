@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :575:
+#wˈokit̪um# >>> *#bˈɔkt̪# ( GOLD : #bˈujt#) :
+w ˈo k i t̪ u m 
+*#ɣʷˈokit̪um# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈɔkɪt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈɔkɪt̪ʊm# | 47 : ɣʷ > βʷ 
+*#βʷˈɔket̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈɔket̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#βʷˈɔkʲet̪o# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#βʷˈɔcet̪o# | 76 : [+back,+front] > [-back] 
+*#βʷˈɔket̪o# | 78 : c > k / [+back,+stres] __ e t̪ @
+Late Latin stage form : *#βʷˈɔket̪o#
+*#βˈɔket̪o# | 91 : βʷ > β 
+*#bˈɔket̪o# | 92 : β > b 
+*#bˈɔket̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bˈɔkt̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+Final form : *#bˈɔkt̪#

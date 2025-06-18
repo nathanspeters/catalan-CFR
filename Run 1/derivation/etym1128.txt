@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1128:
+#mˈort̪ium# >>> *#mˈɔs# ( GOLD : #mˈars#) :
+m ˈo r t̪ i u m 
+*#mˈɔrt̪ɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrt̪jʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈɔrt̪ʝʊm# | 26 : j > ʝ / __ [+syl]
+*#mˈɔrt̪ʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrt̪ʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#mˈɔrt͡sʲʝo# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#mˈɔrt͡sʲʝo#
+*#mˈɔrt͡sʲo# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#mˈɔrso# | 140 : t͡sʲ > s 
+*#mˈɔrs# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#mˈɔss# | 186 : r > s / __ s
+*#mˈɔs# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+Final form : *#mˈɔs#

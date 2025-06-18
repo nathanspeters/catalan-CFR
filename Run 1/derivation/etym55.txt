@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :55:
+#mˈerulam# >>> *#mˈɛrlə# ( GOLD : #mˈɛrlə#) :
+m ˈe r u l a m 
+*#mˈerulɑm# | 2 : [+lo] > [-front,+back] 
+*#mˈɛrʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛrlɑm# | 33 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* r __ [+lat] [+syl] ( [-syl] ) #
+*#mˈɛrlɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˈɛrlɑ#
+*#mˈɛrla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˈɛrlə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#mˈɛrlə#

@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :759:
+#t̪ˈabulaːs# >>> *#t̪ˈawləs# ( GOLD : #t̪ˈawləs#) :
+t̪ ˈa b u l aː s 
+*#t̪ˈɑbulɑːs# | 2 : [+lo] > [-front,+back] 
+*#t̪ˈɑbʊlɑːs# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˈɑblɑːs# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#t̪ˈɑblɑs# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#t̪ˈɑblɑs#
+*#t̪ˈablas# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t̪ˈables# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#t̪ˈabbles# | 128 : b > b b / __ l
+*#t̪ˈables# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#t̪ˈaβles# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#t̪ˈawles# | 239 : β > w / __ l
+*#t̪ˈawləs# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#t̪ˈawləs#

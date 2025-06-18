@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :427:
+#n̪ˌowˈaːkulam# >>> *#n̪uβˈaʎə# ( GOLD : #n̪əβˈaʎə#) :
+n̪ ˌo w ˈaː k u l a m 
+*#n̪ˌowˈɑːkulɑm# | 2 : [+lo] > [-front,+back] 
+*#n̪ˌoɣʷˈɑːkulɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#n̪ˌɔɣʷˈɑːkʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˌɔɣʷˈɑːklɑm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#n̪ˌɔβʷˈɑːklɑm# | 47 : ɣʷ > βʷ 
+*#n̪ˌɔβʷˈɑklɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#n̪ˌɔβʷˈɑklɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#n̪ˌɔβʷˈɑklɑ#
+*#n̪ˌɔβˈɑklɑ# | 91 : βʷ > β 
+*#n̪ˌɔbˈɑklɑ# | 92 : β > b 
+*#n̪ˌɔbˈakla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#n̪ɔbˈakla# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#n̪ɔbˈalla# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#n̪ɔbˈaʎa# | 180 : l l > ʎ 
+*#n̪ɔβˈaʎa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#n̪uβˈaʎa# | 242 : [+round,-stres,+syl] > u 
+*#n̪uβˈaʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#n̪uβˈaʎə#

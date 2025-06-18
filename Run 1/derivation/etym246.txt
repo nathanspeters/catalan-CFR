@@ -1,0 +1,13 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :246:
+#lˈolium# >>> *#ʎˈɔʎ# ( GOLD : #ʒˈuʎ#) :
+l ˈo l i u m 
+*#lˈɔlɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɔljʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˈɔlʝʊm# | 26 : j > ʝ / __ [+syl]
+*#lˈɔlʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˈɔlʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#lˈɔlʝo#
+*#lˈɔʎo# | 89 : l ʝ > ʎ 
+*#ʎˈɔʎo# | 105 : l > ʎ / # __ 
+*#ʎˈɔʎ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+Final form : *#ʎˈɔʎ#

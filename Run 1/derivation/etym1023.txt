@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1023:
+#ˌamˈid̪d̪ulam# >>> *#əmˈeðʎə# ( GOLD : #əmmˈɛʎʎə#) :
+ˌa m ˈi d̪ d̪ u l a m 
+*#ˌɑmˈid̪d̪ulɑm# | 2 : [+lo] > [-front,+back] 
+*#ˌɑmˈɪd̪d̪ʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈɪd̪d̪lɑm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#ˌɑmˈed̪d̪lɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈed̪d̪lɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑmˈed̪d̪lɑ#
+*#ˌamˈed̪d̪la# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#amˈed̪d̪la# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#amˈed̪lla# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#amˈed̪ʎa# | 180 : l l > ʎ 
+*#amˈɛd̪ʎa# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#amˈed̪ʎa# | 214 : ˈɛ > ˈe / __ [-son]
+*#amˈeðʎa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#əmˈeðʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əmˈeðʎə#

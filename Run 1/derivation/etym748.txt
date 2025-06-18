@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :748:
+#fˌilˈikulam# >>> *#fiɾˈeʎə# ( GOLD : #fəɾiɣˈolə#) :
+f ˌi l ˈi k u l a m 
+*#fˌilˈikulɑm# | 2 : [+lo] > [-front,+back] 
+*#fˌɪlˈɪkʊlɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɪlˈɪklɑm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#fˌelˈeklɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˌelˈeklɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˌelˈeklɑ#
+*#fˌelˈekla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#fˌerˈekla# | 146 : l > r / __ ( [-son] )* [+syl] ( [-son] )* l
+*#ferˈekla# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ferˈella# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#ferˈeʎa# | 180 : l l > ʎ 
+*#feɾˈeʎa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#fiɾˈeʎa# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#fiɾˈeʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#fiɾˈeʎə#

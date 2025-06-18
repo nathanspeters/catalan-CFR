@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :853:
+#ˌaprˌikˈaːre# >>> *#əwrəɣˈa# ( GOLD : #əβɾiɣˈa#) :
+ˌa p r ˌi k ˈaː r e 
+*#ˌɑprˌikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#ˌɑprˌɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑprˌɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɑprˌekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#ˌɑprˌekˈɑrɛ#
+*#ˌaprˌekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌabrˌekˈarɛ# | 115 : [-cont] > [+voi] / __ r
+*#ˌabrˌekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#abrekˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#abrekˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#abreɡˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#aβreɣˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#awreɣˈa# | 237 : β > w / __ r
+*#əwrəɣˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əwrəɣˈa#

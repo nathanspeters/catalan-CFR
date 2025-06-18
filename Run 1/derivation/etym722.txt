@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :722:
+#sˌaɡˈin̪um# >>> *#səʒˈe# ( GOLD : #səʒˈi#) :
+s ˌa ɡ ˈi n̪ u m 
+*#sˌɑɡˈin̪um# | 2 : [+lo] > [-front,+back] 
+*#sˌɑɡˈɪn̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑɡˈen̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑɡˈen̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#sˌɑɡʲˈen̪o# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#sˌɑɟˈen̪o# | 76 : [+back,+front] > [-back] 
+*#sˌɑʝˈen̪o# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#sˌɑʝˈen̪o#
+*#sˌaʝˈen̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sˌaʝˈen̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#saʝˈen̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#saʝˈe# | 160 : n̪ > ∅ / __ #
+*#saʒˈe# | 225 : ʝ > ʒ 
+*#səʒˈe# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#səʒˈe#

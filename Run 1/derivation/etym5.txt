@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :5:
+#bˈibere# >>> *#bˈewr# ( GOLD : #bˈɛwɾə#) :
+b ˈi b e r e 
+*#bˈɪbɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˈɪβɛrɛ# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#bˈeβɛrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#bˈeβɛrɛ#
+*#bˈebɛrɛ# | 92 : β > b 
+*#bˈebɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bˈebr# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#bˈɛbr# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#bˈebr# | 214 : ˈɛ > ˈe / __ [-son]
+*#bˈeβr# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#bˈewr# | 237 : β > w / __ r
+Final form : *#bˈewr#

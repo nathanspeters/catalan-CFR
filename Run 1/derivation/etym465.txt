@@ -1,0 +1,22 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :465:
+#lˌumin̪ˈariam# >>> *#ʎumn̪ˈɛɾə# ( GOLD : #ʎumən̪ˈeɾə#) :
+l ˌu m i n̪ ˈa r i a m 
+*#lˌumin̪ˈɑriɑm# | 2 : [+lo] > [-front,+back] 
+*#lˌʊmɪn̪ˈɑrɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌʊmɪn̪ˈɑrjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˌʊmɪn̪ˈɑrʝɑm# | 26 : j > ʝ / __ [+syl]
+*#lˌomen̪ˈɑrʝɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˌomen̪ˈɑrʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#lˌomen̪ˈɑrʝɑ#
+*#lˌomen̪ˈarʝa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʎˌomen̪ˈarʝa# | 105 : l > ʎ / # __ 
+*#ʎˌomn̪ˈarʝa# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#ʎomn̪ˈarʝa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʎomn̪ˈajra# | 193 : r ʝ > j r 
+*#ʎomn̪ˈejra# | 196 : ˈa > ˈe / __ j
+*#ʎomn̪ˈera# | 198 : j > ∅ / ˈe __ 
+*#ʎomn̪ˈeɾa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#ʎomn̪ˈɛɾa# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#ʎumn̪ˈɛɾa# | 242 : [+round,-stres,+syl] > u 
+*#ʎumn̪ˈɛɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʎumn̪ˈɛɾə#

@@ -1,0 +1,12 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1084:
+#mˈort̪uam# >>> *#mˈɔrt̪ə# ( GOLD : #mˈɔrt̪ə#) :
+m ˈo r t̪ u a m 
+*#mˈort̪uɑm# | 2 : [+lo] > [-front,+back] 
+*#mˈɔrt̪ʊɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔrt̪wɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈɔrt̪wɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˈɔrt̪wɑ#
+*#mˈɔrt̪wa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˈɔrt̪a# | 94 : w > ∅ / [-back,+cons] [-back,+cons] __ 
+*#mˈɔrt̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#mˈɔrt̪ə#

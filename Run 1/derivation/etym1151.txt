@@ -1,0 +1,10 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1151:
+#pˈort̪ikum# >>> *#pˈɔrt̪ək# ( GOLD : #pˈɔrʃu#) :
+p ˈo r t̪ i k u m 
+*#pˈɔrt̪ɪkʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔrt̪ekom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˈɔrt̪eko# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˈɔrt̪eko#
+*#pˈɔrt̪ek# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˈɔrt̪ək# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pˈɔrt̪ək#

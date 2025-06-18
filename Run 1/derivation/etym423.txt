@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :423:
+#ˌokt̪ˈan̪t̪am# >>> *#uðˈan̪t̪ə# ( GOLD : #bujt̪ˈan̪t̪ə#) :
+ˌo k t̪ ˈa n̪ t̪ a m 
+*#ˌokt̪ˈɑn̪t̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#ˌɔkt̪ˈɑn̪t̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔxt̪ˈɑn̪t̪ɑm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#ˌɔxt̪ˈɑn̪t̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɔxt̪ˈɑn̪t̪ɑ#
+*#ˌɔxt̪ˈan̪t̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ɔxt̪ˈan̪t̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ɔt̪ˈan̪t̪a# | 194 : x > ∅ / __ t̪ [+stres]
+*#ɔd̪ˈan̪t̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#ɔðˈan̪t̪a# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#uðˈan̪t̪a# | 242 : [+round,-stres,+syl] > u 
+*#uðˈan̪t̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#uðˈan̪t̪ə#

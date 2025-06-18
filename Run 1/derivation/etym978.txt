@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :978:
+#ˈan̪kʰoram# >>> *#ˈaŋkuɾə# ( GOLD : #ˈaŋkuɾə#) :
+ˈa n̪ kʰ o r a m 
+*#ˈaŋkʰoram# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#ˈɑŋkʰorɑm# | 2 : [+lo] > [-front,+back] 
+*#ˈɑŋkorɑm# | 6 : [+sg,-cont] > [-sg] 
+*#ˈɑŋkɔrɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɑŋkɔrɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈɑŋkɔrɑ#
+*#ˈaŋkɔra# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˈaŋkɔɾa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#ˈaŋkuɾa# | 242 : [+round,-stres,+syl] > u 
+*#ˈaŋkuɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ˈaŋkuɾə#

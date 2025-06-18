@@ -1,0 +1,10 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :762:
+#jˈam# >>> *#ʒˈa# ( GOLD : #ʒˈa#) :
+j ˈa m 
+*#jˈɑm# | 2 : [+lo] > [-front,+back] 
+*#ʝˈɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+Late Latin stage form : *#ʝˈɑm#
+*#ʝˈam# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʝˈa# | 102 : m > ∅ / __ #
+*#ʒˈa# | 225 : ʝ > ʒ 
+Final form : *#ʒˈa#

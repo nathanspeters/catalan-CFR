@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :182:
+#werwakt̪um# >>> *#bərbət̪# ( GOLD : #ɡwəɾˈɛt̪#) :
+w e r w a k t̪ u m 
+*#werwɑkt̪um# | 2 : [+lo] > [-front,+back] 
+*#ɣʷerɣʷɑkt̪um# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷɛrɣʷɑkt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷɛrβʷɑkt̪ʊm# | 47 : ɣʷ > βʷ 
+*#βʷɛrβʷɑxt̪ʊm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#βʷɛrβʷɑxt̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷɛrβʷɑxt̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷɛrβʷɑxt̪o#
+*#βɛrβɑxt̪o# | 91 : βʷ > β 
+*#bɛrbɑxt̪o# | 92 : β > b 
+*#bɛrbaxt̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bɛrbaxt̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bɛrbajt̪# | 195 : x > j / __ t̪
+*#bɛrbet̪# | 199 : a j > e 
+*#bərbət̪# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bərbət̪#

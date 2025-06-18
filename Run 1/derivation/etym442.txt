@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :442:
+#mˌuːrˈaliam# >>> *#muɾˈaʎə# ( GOLD : #muɾˈaʎə#) :
+m ˌuː r ˈa l i a m 
+*#mˌuːrˈɑliɑm# | 2 : [+lo] > [-front,+back] 
+*#mˌuːrˈɑlɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌuːrˈɑljɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˌuːrˈɑlʝɑm# | 26 : j > ʝ / __ [+syl]
+*#mˌurˈɑlʝɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌurˈɑlʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˌurˈɑlʝɑ#
+*#mˌurˈɑʎɑ# | 89 : l ʝ > ʎ 
+*#mˌurˈaʎa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#murˈaʎa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#muɾˈaʎa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#muɾˈaʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#muɾˈaʎə#

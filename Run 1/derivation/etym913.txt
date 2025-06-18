@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :913:
+#mˌakerˈaːre# >>> *#məʎˈa# ( GOLD : #məwɾˈa#) :
+m ˌa k e r ˈaː r e 
+*#mˌɑkerˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#mˌɑkɛrˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑkɛrˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌɑkʲɛrˈɑrɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#mˌɑcɛrˈɑrɛ# | 76 : [+back,+front] > [-back] 
+*#mˌɑkɛrˈɑrɛ# | 82 : c > k / [+back,+stres] __ ɛ r @
+Late Latin stage form : *#mˌɑkɛrˈɑrɛ#
+*#mˌakɛrˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˌakɛlˈarɛ# | 144 : r > l / __ ( [-son] )* [+syl] ( [-son] )* r
+*#mˌakɛlˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#mˌaklˈar# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#maklˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#maklˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#mallˈa# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#maʎˈa# | 180 : l l > ʎ 
+*#məʎˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#məʎˈa#

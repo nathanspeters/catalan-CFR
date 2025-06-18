@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :947:
+#fˌon̪t̪an̪ˈellam# >>> *#furt̪ən̪ˈɛʎə# ( GOLD : #fun̪t̪ən̪ˈeʎə#) :
+f ˌo n̪ t̪ a n̪ ˈe l l a m 
+*#fˌon̪t̪ɑn̪ˈellɑm# | 2 : [+lo] > [-front,+back] 
+*#fˌɔn̪t̪ɑn̪ˈɛllɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɔn̪t̪ɑn̪ˈɛllɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˌɔn̪t̪ɑn̪ˈɛllɑ#
+*#fˌɔn̪t̪an̪ˈɛlla# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#fˌɔn̪t̪en̪ˈɛlla# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#fˌɔrt̪en̪ˈɛlla# | 143 : n̪ > r / __ ( [-son] )* [+syl] ( [-son] )* n̪
+*#fɔrt̪en̪ˈɛlla# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#fɔrt̪en̪ˈɛʎa# | 180 : l l > ʎ 
+*#furt̪en̪ˈɛʎa# | 242 : [+round,-stres,+syl] > u 
+*#furt̪ən̪ˈɛʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#furt̪ən̪ˈɛʎə#

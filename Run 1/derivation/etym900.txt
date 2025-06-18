@@ -1,0 +1,14 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :900:
+#pˌiskˈaːre# >>> *#pəskˈa# ( GOLD : #pəskˈa#) :
+p ˌi s k ˈaː r e 
+*#pˌiskˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#pˌɪskˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɪskˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌeskˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#pˌeskˈɑrɛ#
+*#pˌeskˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#pˌeskˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#peskˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#peskˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#pəskˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#pəskˈa#

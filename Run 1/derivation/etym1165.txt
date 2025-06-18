@@ -1,0 +1,22 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1165:
+#ˌaskiˈaːt̪am# >>> *#əsˈaðə# ( GOLD : #əʃˈaðə#) :
+ˌa s k i ˈaː t̪ a m 
+*#ˌɑskiˈɑːt̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#ˌɑskɪˈɑːt̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑskjˈɑːt̪ɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˌɑskʝˈɑːt̪ɑm# | 26 : j > ʝ / __ [+syl]
+*#ˌɑskʝˈɑt̪ɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#ˌɑskʝˈɑt̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#ˌɑskʲʝˈɑt̪ɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#ˌɑscʝˈɑt̪ɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#ˌɑscʝˈɑt̪ɑ#
+*#ˌɑscˈɑt̪ɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#ˌascˈat̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌast͡sʲˈat̪a# | 134 : c > t͡sʲ 
+*#ˌassˈat̪a# | 140 : t͡sʲ > s 
+*#assˈat̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#assˈad̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#asˈad̪a# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#asˈaða# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#əsˈaðə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əsˈaðə#

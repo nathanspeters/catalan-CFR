@@ -1,0 +1,12 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :599:
+#kˈuppam# >>> *#kˈopə# ( GOLD : #kˈopə#) :
+k ˈu p p a m 
+*#kˈuppɑm# | 2 : [+lo] > [-front,+back] 
+*#kˈʊppɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈoppɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈoppɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈoppɑ#
+*#kˈoppa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˈopa# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#kˈopə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kˈopə#

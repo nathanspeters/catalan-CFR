@@ -1,0 +1,10 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :939:
+#kˈambam# >>> *#kˈamə# ( GOLD : #kˈamə#) :
+k ˈa m b a m 
+*#kˈɑmbɑm# | 2 : [+lo] > [-front,+back] 
+*#kˈɑmbɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɑmbɑ#
+*#kˈamba# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kˈama# | 162 : b > ∅ / m __ 
+*#kˈamə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kˈamə#

@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :72:
+#mˈed̪ium# >>> *#mˈeʒi# ( GOLD : #mˈit͡ʃ#) :
+m ˈe d̪ i u m 
+*#mˈɛd̪ɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛd̪jʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈɛd̪ʝʊm# | 26 : j > ʝ / __ [+syl]
+*#mˈɛd̪ʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛd̪ʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#mˈɛɟʝo# | 73 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+*#mˈɛʝʝo# | 86 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ ʝ
+Late Latin stage form : *#mˈɛʝʝo#
+*#mˈɛʝʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#mˈɛʝi# | 154 : ʝ > i / __ #
+*#mˈeʝi# | 214 : ˈɛ > ˈe / __ [-son]
+*#mˈeʒi# | 225 : ʝ > ʒ 
+Final form : *#mˈeʒi#

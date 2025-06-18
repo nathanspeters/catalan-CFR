@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :82:
+#wˈeːn̪ioː# >>> *#bˈɛn̪ə# ( GOLD : #bˈiŋk#) :
+w ˈeː n̪ i oː 
+*#ɣʷˈeːn̪ioː# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈeːn̪ɪoː# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˈeːn̪joː# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɣʷˈeːn̪ʝoː# | 26 : j > ʝ / __ [+syl]
+*#βʷˈeːn̪ʝoː# | 47 : ɣʷ > βʷ 
+*#βʷˈen̪ʝo# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#βʷˈen̪ʝo#
+*#βˈen̪ʝo# | 91 : βʷ > β 
+*#bˈen̪ʝo# | 92 : β > b 
+*#bˈen̪ʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bˈen̪i# | 154 : ʝ > i / __ #
+*#bˈen̪e# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#bˈɛn̪e# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#bˈɛn̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bˈɛn̪ə#

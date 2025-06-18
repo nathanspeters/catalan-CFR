@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1003:
+#wˌersˈaːre# >>> *#bəsˈa# ( GOLD : #bəsˈa#) :
+w ˌe r s ˈaː r e 
+*#wˌersˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#ɣʷˌersˈɑːre# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˌɛrsˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˌɛrsˈɑːrɛ# | 47 : ɣʷ > βʷ 
+*#βʷˌɛrsˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#βʷˌɛrsˈɑrɛ#
+*#βˌɛrsˈɑrɛ# | 91 : βʷ > β 
+*#bˌɛrsˈɑrɛ# | 92 : β > b 
+*#bˌɛrsˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌɛlsˈarɛ# | 144 : r > l / __ ( [-son] )* [+syl] ( [-son] )* r
+*#bˌɛlsˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bɛlsˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bɛlsˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#bɛsˈa# | 211 : l > ∅ / __ [+cons]
+*#bəsˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bəsˈa#

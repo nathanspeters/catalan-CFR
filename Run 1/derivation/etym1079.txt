@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1079:
+#kˌen̪suˈalem# >>> *#səzwˈal# ( GOLD : #sən̪sˈal#) :
+k ˌe n̪ s u ˈa l e m 
+*#kˌen̪suˈɑlem# | 2 : [+lo] > [-front,+back] 
+*#kˌeːn̪suˈɑlem# | 8 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#kˌeːsuˈɑlem# | 9 : n̪ > ∅ / [+syl,+long] __ s
+*#kˌeːsʊˈɑlɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌeːswˈɑlɛm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌeswˈɑlɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌeswˈɑlɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kʲˌeswˈɑlɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cˌeswˈɑlɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#cˌeswˈɑlɛ#
+*#cˌeswˈalɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t͡sʲˌeswˈalɛ# | 134 : c > t͡sʲ 
+*#sˌeswˈalɛ# | 140 : t͡sʲ > s 
+*#sˌeswˈal# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#seswˈal# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#sezwˈal# | 204 : s > z / [-cons] __ [-cons]
+*#səzwˈal# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#səzwˈal#

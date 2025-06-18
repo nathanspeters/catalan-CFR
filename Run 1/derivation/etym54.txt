@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :54:
+#lˌukˈern̪am# >>> *#ʎuzˈɛrn̪ə# ( GOLD : #ʎuˈɛrn̪ə#) :
+l ˌu k ˈe r n̪ a m 
+*#lˌukˈern̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#lˌʊkˈɛrn̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˌokˈɛrn̪ɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˌokˈɛrn̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#lˌokʲˈɛrn̪ɑ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#lˌocˈɛrn̪ɑ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#lˌocˈɛrn̪ɑ#
+*#lˌocˈɛrn̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʎˌocˈɛrn̪a# | 105 : l > ʎ / # __ 
+*#ʎˌot͡sʲˈɛrn̪a# | 134 : c > t͡sʲ 
+*#ʎˌosˈɛrn̪a# | 140 : t͡sʲ > s 
+*#ʎosˈɛrn̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʎozˈɛrn̪a# | 204 : s > z / [-cons] __ [-cons]
+*#ʎuzˈɛrn̪a# | 242 : [+round,-stres,+syl] > u 
+*#ʎuzˈɛrn̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʎuzˈɛrn̪ə#

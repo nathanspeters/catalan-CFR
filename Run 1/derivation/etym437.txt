@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :437:
+#pˌuːbˈillum# >>> *#puβˈeʎ# ( GOLD : #puβˈiʎə#) :
+p ˌuː b ˈi l l u m 
+*#pˌuːbˈɪllʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌuːβˈɪllʊm# | 48 : b > β / [+syl] __ [+son,-lat,-nas]
+*#pˌuβˈɪllʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌuβˈellom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌuβˈello# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌuβˈello#
+*#pˌubˈello# | 92 : β > b 
+*#pˌubˈell# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pubˈell# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#pubˈeʎ# | 180 : l l > ʎ 
+*#puβˈeʎ# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+Final form : *#puβˈeʎ#

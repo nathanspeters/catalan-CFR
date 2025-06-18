@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1017:
+#mˌiːrˈaːkulum# >>> *#miɾˈaʎə# ( GOLD : #miɾˈaklə#) :
+m ˌiː r ˈaː k u l u m 
+*#mˌiːrˈɑːkulum# | 2 : [+lo] > [-front,+back] 
+*#mˌiːrˈɑːkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌiːrˈɑːklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#mˌirˈɑklʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌirˈɑklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌirˈɑklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˌirˈɑklo#
+*#mˌirˈaklo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mirˈaklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#mirˈakle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#mirˈalle# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#mirˈaʎe# | 180 : l l > ʎ 
+*#miɾˈaʎe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#miɾˈaʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#miɾˈaʎə#

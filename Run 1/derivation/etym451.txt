@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :451:
+#bˌon̪it̪ˈaːt̪em# >>> *#bun̪t̪ˈat̪# ( GOLD : #bun̪d̪ˈat#) :
+b ˌo n̪ i t̪ ˈaː t̪ e m 
+*#bˌon̪it̪ˈɑːt̪em# | 2 : [+lo] > [-front,+back] 
+*#bˌɔn̪ɪt̪ˈɑːt̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɔn̪ɪt̪ˈɑt̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#bˌɔn̪et̪ˈɑt̪ɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˌɔn̪et̪ˈɑt̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#bˌɔn̪et̪ˈɑt̪ɛ#
+*#bˌɔn̪et̪ˈat̪ɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˌɔn̪et̪ˈat̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#bˌɔn̪t̪ˈat̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#bɔn̪t̪ˈat̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#bun̪t̪ˈat̪# | 242 : [+round,-stres,+syl] > u 
+Final form : *#bun̪t̪ˈat̪#

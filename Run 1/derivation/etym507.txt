@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :507:
+#t̪ˈorkwere# >>> *#t̪ˈɔrkwə# ( GOLD : #t̪ˈɔrsə#) :
+t̪ ˈo r k w e r e 
+*#t̪ˈorkɣʷere# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#t̪ˈorkwere# | 5 : ɣʷ > w / [+back,+hi,+cons] __ 
+*#t̪ˈɔrkwɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#t̪ˈɔrkwɛrɛ#
+*#t̪ˈɔrkwɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#t̪ˈɔrkwɛ# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#t̪ˈɔrkwə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#t̪ˈɔrkwə#

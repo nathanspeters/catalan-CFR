@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :565:
+#fˌiːkˈaːriam# >>> *#fiɣˈeɾə# ( GOLD : #fiɣˈeɾə#) :
+f ˌiː k ˈaː r i a m 
+*#fˌiːkˈɑːriɑm# | 2 : [+lo] > [-front,+back] 
+*#fˌiːkˈɑːrɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌiːkˈɑːrjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fˌiːkˈɑːrʝɑm# | 26 : j > ʝ / __ [+syl]
+*#fˌikˈɑrʝɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#fˌikˈɑrʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˌikˈɑrʝɑ#
+*#fˌikˈarʝa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#fikˈarʝa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#fikˈajra# | 193 : r ʝ > j r 
+*#fikˈejra# | 196 : ˈa > ˈe / __ j
+*#fikˈera# | 198 : j > ∅ / ˈe __ 
+*#fiɡˈera# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#fiɡˈeɾa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#fiɣˈeɾa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#fiɣˈeɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#fiɣˈeɾə#

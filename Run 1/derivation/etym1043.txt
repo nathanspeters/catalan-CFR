@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1043:
+#fˌen̪ˈukulum# >>> *#fin̪ˈoʎə# ( GOLD : #fən̪ˈoʎ#) :
+f ˌe n̪ ˈu k u l u m 
+*#fˌɛn̪ˈʊkʊlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˌɛn̪ˈʊklʊm# | 31 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#fˌɛn̪ˈoklom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˌɛn̪ˈoklo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˌɛn̪ˈoklo#
+*#fɛn̪ˈoklo# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#fɛn̪ˈokle# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#fɛn̪ˈolle# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#fɛn̪ˈoʎe# | 180 : l l > ʎ 
+*#fin̪ˈoʎe# | 218 : {e;ɛ} > {i;i} / # ( [-syl] )* __ [+nas]
+*#fin̪ˈoʎə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#fin̪ˈoʎə#

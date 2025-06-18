@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1141:
+#sˈaɡioː# >>> *#sˈaʒi# ( GOLD : #sˈat͡ʃ#) :
+s ˈa ɡ i oː 
+*#sˈɑɡioː# | 2 : [+lo] > [-front,+back] 
+*#sˈɑɡɪoː# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɑɡjoː# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sˈɑɡʝoː# | 26 : j > ʝ / __ [+syl]
+*#sˈɑɡʝo# | 54 : [+syl,+long] > [-long,-splng] 
+*#sˈɑɡʲʝo# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#sˈɑɟʝo# | 76 : [+back,+front] > [-back] 
+*#sˈɑʝʝo# | 86 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ ʝ
+Late Latin stage form : *#sˈɑʝʝo#
+*#sˈaʝʝo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#sˈaʝʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#sˈaʝi# | 154 : ʝ > i / __ #
+*#sˈaʒi# | 225 : ʝ > ʒ 
+Final form : *#sˈaʒi#

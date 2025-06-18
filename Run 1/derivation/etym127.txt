@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :127:
+#wˈid̪uam# >>> *#bˈezwə# ( GOLD : #bˈiwðə#) :
+w ˈi d̪ u a m 
+*#wˈid̪uɑm# | 2 : [+lo] > [-front,+back] 
+*#ɣʷˈid̪uɑm# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈɪd̪ʊɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˈɪd̪wɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#βʷˈɪd̪wɑm# | 47 : ɣʷ > βʷ 
+*#βʷˈed̪wɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈed̪wɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷˈed̪wɑ#
+*#βˈed̪wɑ# | 91 : βʷ > β 
+*#bˈed̪wɑ# | 92 : β > b 
+*#bˈed̪wa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#bˈeswa# | 187 : d̪ > s / [-cons] __ [-cons]
+*#bˈezwa# | 204 : s > z / [-cons] __ [-cons]
+*#bˈɛzwa# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#bˈezwa# | 214 : ˈɛ > ˈe / __ [-son]
+*#bˈezwə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bˈezwə#

@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :807:
+#d̪ˌuplikˈaːre# >>> *#d̪uwləɣˈa# ( GOLD : #d̪ubbləɣˈa#) :
+d̪ ˌu p l i k ˈaː r e 
+*#d̪ˌuplikˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#d̪ˌʊplɪkˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌʊplɪkˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌoplekˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#d̪ˌoplekˈɑrɛ#
+*#d̪ˌoplekˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#d̪ˌoblekˈarɛ# | 127 : p > b / @ __ l
+*#d̪ˌobblekˈarɛ# | 128 : b > b b / __ l
+*#d̪ˌobblekˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#d̪obblekˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪obblekˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#d̪obbleɡˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#d̪obleɡˈa# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#d̪oβleɣˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#d̪owleɣˈa# | 239 : β > w / __ l
+*#d̪uwleɣˈa# | 242 : [+round,-stres,+syl] > u 
+*#d̪uwləɣˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#d̪uwləɣˈa#

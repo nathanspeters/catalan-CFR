@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :335:
+#kˌon̪ˈoːskere# >>> *#kun̪ˈosə# ( GOLD : #kun̪ˈɛʃə#) :
+k ˌo n̪ ˈoː s k e r e 
+*#kˌɔn̪ˈoːskɛrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɔn̪ˈoskɛrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɔn̪ˈoskʲɛrɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#kˌɔn̪ˈoscɛrɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#kˌɔn̪ˈoscɛrɛ#
+*#kˌɔn̪ˈost͡sʲɛrɛ# | 134 : c > t͡sʲ 
+*#kˌɔn̪ˈossɛrɛ# | 140 : t͡sʲ > s 
+*#kˌɔn̪ˈossɛr# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#kɔn̪ˈossɛr# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɔn̪ˈossɛ# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#kɔn̪ˈosɛ# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#kun̪ˈosɛ# | 242 : [+round,-stres,+syl] > u 
+*#kun̪ˈosə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kun̪ˈosə#

@@ -1,0 +1,9 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :764:
+#t̪ˈam# >>> *#t̪ˈa# ( GOLD : #t̪ˈan#) :
+t̪ ˈa m 
+*#t̪ˈɑm# | 2 : [+lo] > [-front,+back] 
+Late Latin stage form : *#t̪ˈɑm#
+*#t̪ˈam# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#t̪ˈan̪# | 101 : m > n̪ / [+ant] [+syl] __ #
+*#t̪ˈa# | 160 : n̪ > ∅ / __ #
+Final form : *#t̪ˈa#

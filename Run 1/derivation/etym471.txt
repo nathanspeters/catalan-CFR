@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :471:
+#d̪ˌormiːt̪ˈoːrium# >>> *#d̪urmiðˈoɾə# ( GOLD : #d̪urmiðˈo#) :
+d̪ ˌo r m iː t̪ ˈoː r i u m 
+*#d̪ˌɔrmiːt̪ˈoːrɪʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɔrmiːt̪ˈoːrjʊm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#d̪ˌɔrmiːt̪ˈoːrʝʊm# | 26 : j > ʝ / __ [+syl]
+*#d̪ˌɔrmit̪ˈorʝʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌɔrmit̪ˈorʝom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɔrmit̪ˈorʝo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#d̪ˌɔrmit̪ˈorʝo#
+*#d̪ˌɔrmit̪ˈorʝ# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#d̪ˌɔrmit̪ˈori# | 154 : ʝ > i / __ #
+*#d̪ɔrmit̪ˈori# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪ɔrmit̪ˈore# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#d̪ɔrmid̪ˈore# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#d̪ɔrmid̪ˈoɾe# | 205 : r > ɾ / [-cons] __ [-cons]
+*#d̪ɔrmiðˈoɾe# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#d̪urmiðˈoɾe# | 242 : [+round,-stres,+syl] > u 
+*#d̪urmiðˈoɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#d̪urmiðˈoɾə#

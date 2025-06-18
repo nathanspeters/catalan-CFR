@@ -1,0 +1,16 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :960:
+#wˈen̪d̪un̪t̪# >>> *#bˈɛrd̪ə# ( GOLD : #bˈɛn̪ən̪#) :
+w ˈe n̪ d̪ u n̪ t̪ 
+*#ɣʷˈen̪d̪un̪t̪# | 4 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈɛn̪d̪ʊn̪t̪# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈɛn̪d̪ʊn̪t̪# | 47 : ɣʷ > βʷ 
+*#βʷˈɛn̪d̪on̪t̪# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#βʷˈɛn̪d̪on̪t̪#
+*#βˈɛn̪d̪on̪t̪# | 91 : βʷ > β 
+*#bˈɛn̪d̪on̪t̪# | 92 : β > b 
+*#bˈɛn̪d̪on̪# | 100 : {t̪;d̪;k} > {∅;∅;∅} / __ #
+*#bˈɛrd̪on̪# | 143 : n̪ > r / __ ( [-son] )* [+syl] ( [-son] )* n̪
+*#bˈɛrd̪o# | 160 : n̪ > ∅ / __ #
+*#bˈɛrd̪e# | 168 : [-lo,+syl] > e / [+stres] ( [-syl] ) [+cons,+son] ( [-syl] ) __ #
+*#bˈɛrd̪ə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#bˈɛrd̪ə#

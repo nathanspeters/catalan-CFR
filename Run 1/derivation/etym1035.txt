@@ -1,0 +1,11 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1035:
+#frˈiskum# >>> *#frˈesk# ( GOLD : #fɾˈɛsk#) :
+f r ˈi s k u m 
+*#frˈɪskʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#frˈeskom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#frˈesko# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#frˈesko#
+*#frˈesk# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#frˈɛsk# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#frˈesk# | 214 : ˈɛ > ˈe / __ [-son]
+Final form : *#frˈesk#

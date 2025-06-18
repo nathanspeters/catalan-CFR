@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1022:
+#rˌot̪ulˈaːre# >>> *#ruʎˈa# ( GOLD : #ruʎʎˈa#) :
+r ˌo t̪ u l ˈaː r e 
+*#rˌot̪ulˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#rˌɔt̪ʊlˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌɔt̪ʊlˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#rˌɔt̪olˈɑrɛ# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#rˌɔt̪olˈɑrɛ#
+*#rˌɔt̪olˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˌɔt̪olˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rˌɔt̪lˈar# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#rɔt̪lˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#rɔt̪lˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#rɔllˈa# | 179 : {p;k;s;t̪;d̪;ɡ;ʒ} > {l;l;l;l;l;l;l} / @ __ l
+*#rɔʎˈa# | 180 : l l > ʎ 
+*#ruʎˈa# | 242 : [+round,-stres,+syl] > u 
+Final form : *#ruʎˈa#

@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :906:
+#mˌakt̪ˈaːre# >>> *#məðˈa# ( GOLD : #mət̪ˈa#) :
+m ˌa k t̪ ˈaː r e 
+*#mˌɑkt̪ˈɑːre# | 2 : [+lo] > [-front,+back] 
+*#mˌɑkt̪ˈɑːrɛ# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑkt̪ˈɑrɛ# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌɑxt̪ˈɑrɛ# | 59 : k > x / [-cons] __ [+cor,-voi]
+Late Latin stage form : *#mˌɑxt̪ˈɑrɛ#
+*#mˌaxt̪ˈarɛ# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#mˌaxt̪ˈar# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#maxt̪ˈar# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#maxt̪ˈa# | 165 : r > ∅ / [+syl] ( [-syl] )* [+syl] __ #
+*#mat̪ˈa# | 194 : x > ∅ / __ t̪ [+stres]
+*#mad̪ˈa# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#maðˈa# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#məðˈa# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#məðˈa#

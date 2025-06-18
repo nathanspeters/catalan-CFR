@@ -1,0 +1,21 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :365:
+#mˌerkˈeːd̪em# >>> *#misˈew# ( GOLD : #mərsˈɛ#) :
+m ˌe r k ˈeː d̪ e m 
+*#mˌɛrkˈeːd̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɛrkˈed̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#mˌɛrkˈed̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#mˌɛrkʲˈed̪ɛ# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#mˌɛrcˈed̪ɛ# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#mˌɛrcˈed̪ɛ#
+*#mˌɛrt͡sʲˈed̪ɛ# | 134 : c > t͡sʲ 
+*#mˌɛrsˈed̪ɛ# | 140 : t͡sʲ > s 
+*#mˌɛrsˈed̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#mɛrsˈed̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#mɛssˈed̪# | 186 : r > s / __ s
+*#mɛsˈed̪# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#mɛsˈɛd̪# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#mɛsˈed̪# | 214 : ˈɛ > ˈe / __ [-son]
+*#misˈed̪# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+*#misˈeð# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#misˈew# | 234 : {β;ð;d͡z} > {w;w;w} / __ #
+Final form : *#misˈew#

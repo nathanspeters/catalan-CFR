@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :312:
+#t̪rˈukt̪am# >>> *#rˈojðə# ( GOLD : #t̪ɾˈujt̪ə#) :
+t̪ r ˈu k t̪ a m 
+*#t̪rˈukt̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#t̪rˈʊkt̪ɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˈʊxt̪ɑm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#t̪rˈoxt̪ɑm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˈoxt̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#t̪rˈoxt̪ɑ#
+*#t̪rˈoxt̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#d̪rˈoxt̪a# | 115 : [-cont] > [+voi] / __ r
+*#rˈoxt̪a# | 116 : d̪ > ∅ / __ r
+*#rˈojt̪a# | 195 : x > j / __ t̪
+*#rˈojd̪a# | 203 : [-cont] > [+voi] / [-cons] __ [-cons]
+*#rˈojða# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#rˈojðə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#rˈojðə#

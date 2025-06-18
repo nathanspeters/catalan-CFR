@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :1195:
+#ˌad̪id̪ˈipsum# >>> *#əðˈepsu# ( GOLD : #əðˈes#) :
+ˌa d̪ i d̪ ˈi p s u m 
+*#ˌɑd̪id̪ˈipsum# | 2 : [+lo] > [-front,+back] 
+*#ˌɑd̪ɪd̪ˈɪpsʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑd̪ed̪ˈepsom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑd̪ed̪ˈepso# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑd̪ed̪ˈepso#
+*#ˌad̪ed̪ˈepso# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌad̪d̪ˈepso# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#ad̪d̪ˈepso# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ad̪ˈepso# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#ad̪ˈɛpso# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#ad̪ˈepso# | 214 : ˈɛ > ˈe / __ [-son]
+*#aðˈepso# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#aðˈepsu# | 242 : [+round,-stres,+syl] > u 
+*#əðˈepsu# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əðˈepsu#

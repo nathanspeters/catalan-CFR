@@ -1,0 +1,9 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :763:
+#sˈum# >>> *#sˈo# ( GOLD : #sˈɔn̪#) :
+s ˈu m 
+*#sˈʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#sˈom#
+*#sˈon̪# | 101 : m > n̪ / [+ant] [+syl] __ #
+*#sˈo# | 160 : n̪ > ∅ / __ #
+Final form : *#sˈo#

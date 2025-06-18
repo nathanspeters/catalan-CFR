@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :672:
+#lˌamprˈeːd̪am# >>> *#ʎəmbrˈezə# ( GOLD : #ʎəmpɾˈɛzə#) :
+l ˌa m p r ˈeː d̪ a m 
+*#lˌɑmprˈeːd̪ɑm# | 2 : [+lo] > [-front,+back] 
+*#lˌɑmprˈed̪ɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#lˌɑmprˈed̪ɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#lˌɑmprˈed̪ɑ#
+*#lˌamprˈed̪a# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ʎˌamprˈed̪a# | 105 : l > ʎ / # __ 
+*#ʎˌambrˈed̪a# | 115 : [-cont] > [+voi] / __ r
+*#ʎambrˈed̪a# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʎamrˈed̪a# | 162 : b > ∅ / m __ 
+*#ʎambrˈed̪a# | 176 : ∅ > b / m __ r
+*#ʎambrˈesa# | 187 : d̪ > s / [-cons] __ [-cons]
+*#ʎambrˈeza# | 204 : s > z / [-cons] __ [-cons]
+*#ʎambrˈɛza# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#ʎambrˈeza# | 214 : ˈɛ > ˈe / __ [-son]
+*#ʎəmbrˈezə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ʎəmbrˈezə#

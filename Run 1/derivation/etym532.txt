@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :532:
+#ˌalt̪ˈissimum# >>> *#əɫt̪ˈesəm# ( GOLD : #əlt̪ˈisim#) :
+ˌa l t̪ ˈi s s i m u m 
+*#ˌɑlt̪ˈissimum# | 2 : [+lo] > [-front,+back] 
+*#ˌɑlt̪ˈɪssɪmʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑɫt̪ˈɪssɪmʊm# | 25 : l > ɫ / __ [+cons,-lat]
+*#ˌɑɫt̪ˈessemom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑɫt̪ˈessemo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑɫt̪ˈessemo#
+*#ˌaɫt̪ˈessemo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌaɫt̪ˈessem# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#aɫt̪ˈessem# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#aɫt̪ˈesem# | 206 : {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f} > {p;t̪;k;b;d̪;ɡ;s;r;f} 
+*#aɫt̪ˈɛsem# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#aɫt̪ˈesem# | 214 : ˈɛ > ˈe / __ [-son]
+*#əɫt̪ˈesəm# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əɫt̪ˈesəm#

@@ -1,0 +1,19 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :518:
+#rˈan̪kid̪um# >>> *#rˈaŋsəw# ( GOLD : #rˈan̪si#) :
+r ˈa n̪ k i d̪ u m 
+*#rˈaŋkid̪um# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#rˈɑŋkid̪um# | 2 : [+lo] > [-front,+back] 
+*#rˈɑŋkɪd̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈɑŋked̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˈɑŋked̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+*#rˈɑŋkʲed̪o# | 75 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#rˈɑŋced̪o# | 76 : [+back,+front] > [-back] 
+Late Latin stage form : *#rˈɑŋced̪o#
+*#rˈaŋced̪o# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#rˈaŋt͡sʲed̪o# | 134 : c > t͡sʲ 
+*#rˈaŋsed̪o# | 140 : t͡sʲ > s 
+*#rˈaŋsed̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#rˈaŋseð# | 232 : [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ 
+*#rˈaŋsew# | 234 : {β;ð;d͡z} > {w;w;w} / __ #
+*#rˈaŋsəw# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#rˈaŋsəw#

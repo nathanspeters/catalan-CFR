@@ -1,0 +1,13 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :791:
+#hˌerbˈoːsum# >>> *#ərbˈos# ( GOLD : #ərbˈos#) :
+h ˌe r b ˈoː s u m 
+*#hˌɛrbˈoːsʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˌɛrbˈosʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#hˌɛrbˈosom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#hˌɛrbˈoso# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hˌɛrbˈoso#
+*#ˌɛrbˈoso# | 90 : h > ∅ 
+*#ˌɛrbˈos# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#ɛrbˈos# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#ərbˈos# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#ərbˈos#

@@ -1,0 +1,15 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :992:
+#pˌulikˈoːn̪em# >>> *#pukˈo# ( GOLD : #puɣˈo#) :
+p ˌu l i k ˈoː n̪ e m 
+*#pˌʊlɪkˈoːn̪ɛm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌʊlɪkˈon̪ɛm# | 54 : [+syl,+long] > [-long,-splng] 
+*#pˌolekˈon̪ɛm# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌolekˈon̪ɛ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌolekˈon̪ɛ#
+*#pˌolekˈon̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#pˌolkˈon̪# | 157 : [+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons]
+*#polkˈon̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#polkˈo# | 160 : n̪ > ∅ / __ #
+*#pokˈo# | 211 : l > ∅ / __ [+cons]
+*#pukˈo# | 242 : [+round,-stres,+syl] > u 
+Final form : *#pukˈo#

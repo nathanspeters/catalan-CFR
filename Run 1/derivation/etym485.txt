@@ -1,0 +1,18 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :485:
+#skˈan̪d̪alum# >>> *#əskˈan̪ul# ( GOLD : #əskˈan̪d̪ul#) :
+s k ˈa n̪ d̪ a l u m 
+*#skˈɑn̪d̪ɑlum# | 2 : [+lo] > [-front,+back] 
+*#skˈɑn̪d̪ɑlʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪskˈɑn̪d̪ɑlʊm# | 14 : ∅ > ˌɪ / # __ s [+cons]
+*#ˌeskˈɑn̪d̪ɑlom# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeskˈɑn̪d̪ɑlo# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌeskˈɑn̪d̪ɑlo#
+*#ˌeskˈan̪d̪alo# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#ˌeskˈan̪d̪elo# | 113 : a > e / [+stres] ( [-syl] )* __ [-syl]
+*#ˌeskˈan̪d̪el# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#eskˈan̪d̪el# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#eskˈan̪el# | 163 : d̪ > ∅ / n̪ __ 
+*#eskˈan̪ol# | 223 : {e;ɛ} > {o;o} / __ l #
+*#eskˈan̪ul# | 242 : [+round,-stres,+syl] > u 
+*#əskˈan̪ul# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#əskˈan̪ul#

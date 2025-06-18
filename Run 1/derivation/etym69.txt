@@ -1,0 +1,17 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :69:
+#d̪ˌeːlˈeːkt̪um# >>> *#d̪ilˈet̪# ( GOLD : #d̪əlˈit#) :
+d̪ ˌeː l ˈeː k t̪ u m 
+*#d̪ˌeːlˈeːkt̪ʊm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌelˈekt̪ʊm# | 54 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌelˈext̪ʊm# | 59 : k > x / [-cons] __ [+cor,-voi]
+*#d̪ˌelˈext̪om# | 64 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌelˈext̪o# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#d̪ˌelˈext̪o#
+*#d̪ˌelˈext̪# | 152 : [-lo,-cons,-prim] > ∅ / [+syl] ( [+cont] ) [-syl] __ #
+*#d̪elˈext̪# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪elˈejt̪# | 195 : x > j / __ t̪
+*#d̪elˈet̪# | 198 : j > ∅ / ˈe __ 
+*#d̪elˈɛt̪# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#d̪elˈet̪# | 214 : ˈɛ > ˈe / __ [-son]
+*#d̪ilˈet̪# | 220 : {e;ɛ} > {i;i} / # ( [-syl] )* __ ( [-syl] )* ˈe
+Final form : *#d̪ilˈet̪#

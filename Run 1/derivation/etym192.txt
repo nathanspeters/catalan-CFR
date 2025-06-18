@@ -1,0 +1,20 @@
+Derivation file for run '../unnamed_run_2025-06-18_155550'; etymon number :192:
+#kˌald̪ˈaːriam# >>> *#kəɫd̪ˈɛɾə# ( GOLD : #kəld̪ˈeɾə#) :
+k ˌa l d̪ ˈaː r i a m 
+*#kˌɑld̪ˈɑːriɑm# | 2 : [+lo] > [-front,+back] 
+*#kˌɑld̪ˈɑːrɪɑm# | 12 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑld̪ˈɑːrjɑm# | 21 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌɑɫd̪ˈɑːrjɑm# | 25 : l > ɫ / __ [+cons,-lat]
+*#kˌɑɫd̪ˈɑːrʝɑm# | 26 : j > ʝ / __ [+syl]
+*#kˌɑɫd̪ˈɑrʝɑm# | 54 : [+syl,+long] > [-long,-splng] 
+*#kˌɑɫd̪ˈɑrʝɑ# | 69 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˌɑɫd̪ˈɑrʝɑ#
+*#kˌaɫd̪ˈarʝa# | 93 : {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} 
+*#kaɫd̪ˈarʝa# | 159 : [+stres,-prim] > [-stres,-prim,+syl,+son,0delrel] 
+*#kaɫd̪ˈajra# | 193 : r ʝ > j r 
+*#kaɫd̪ˈejra# | 196 : ˈa > ˈe / __ j
+*#kaɫd̪ˈera# | 198 : j > ∅ / ˈe __ 
+*#kaɫd̪ˈeɾa# | 205 : r > ɾ / [-cons] __ [-cons]
+*#kaɫd̪ˈɛɾa# | 212 : ˈe > ˈɛ / [-hi] __ ( n̪ ) [-hi]
+*#kəɫd̪ˈɛɾə# | 243 : [-hi,-stres,+syl] > ə 
+Final form : *#kəɫd̪ˈɛɾə#
