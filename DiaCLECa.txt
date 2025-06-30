@@ -554,7 +554,6 @@ l > r / __ ([-son])* [+syl] ([-son])* l $ F120
 
 l > r / __ ([-son])* [+syl] ([-son])* [+syl] ([-son])* l $ F120
 
-l l > ʎ $ F136
 {k l;ɡ l} > {ʎ;ʎ} / [-cons] __ $ HIT?
 
 n̪ ʝ > ɲ $ this is in francesc but i forget where
@@ -569,7 +568,7 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 {f;s} > {v;z} / {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
 
-$ɛ > ∅ / [+prim] r __ # $ FLAG check to see if this applies to other vowels as well   also maybe terrible even though it makes the number go up
+ɛ > ∅ / [+prim] r __ # $ FLAG check to see if this applies to other vowels as well   also maybe terrible even though it makes the number go up <----open letter to past self: why is it terrible?
 
 
 
@@ -585,11 +584,13 @@ $$$$$$$$$$ syncope 1
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
-[-cont] > [+voi] / [+syl] __ {[-cons];r} $ F108+110+114+*131* FLAG FIX CITATION
+[-cont] > [+voi] / [-cons] __ {[-cons];r} $ F108+110+114+*131* FLAG FIX CITATION
 
-o > e / [-cons] ({[-son];[+nas]}) [+cons] __ # $ not in francesc (to my knowledge)
+l l > ʎ $ F136
 
-z > ∅ / [+syl] __ [+stres] $ F111+112
+o > e / [-cons] (([+cons]) {[-son];[+nas]}) [+cons] __ # $ not in francesc (to my knowledge)
+
+z > ∅ / [+syl] __ [+stres] $ F111+112 FLAG might need to add @ at the end of the context?
 
 ˈa w > ˈɔ $ F53
 
@@ -637,6 +638,8 @@ n̪ n̪ > ɲ $ F136
 
 s s ʝ > ʃ $ F149+190
 
+r ʝ > j r $ F195
+
 n̪ > r / n̪ ([-son])* [+syl] ([-son])* __ ([-son])* [+syl] ([-son])* n̪ $ F120
 
 n̪ > l / r ([-son])* [+syl] ([-son])* __ ([-son])* [+syl] ([-son])* n̪ $ F120
@@ -666,9 +669,20 @@ r > ɾ / [+stres] __ [-cons] $ not in francesc
 
 [-cont] > [+voi] / [-cons] __ r $ F144+153 $ HIT? added [-cons]
 
+β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
+
+β > ∅ / ˈu __ ɾ $ HIT?
+
+{ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something FLAG fix this to include intermediate stages
+
+ʝ > i / m __ $ F192
+
+b > w / __ ʝ [+stres] $ F180 HIT? only happens to b    also i don't think this actually happens so FLAG for removal
+b > ∅ / __ ʝ $ F181 HIT? see above
 
 
-$[-lo,-cons,-prim] > ∅ / __ #
+
+$[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
 
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
@@ -683,7 +697,9 @@ $$$$$$$ BETTER FINAL VOWEL DELETIONS
 $$$$$$$ more final vowel deletions
 [-lo,-cons,-prim] > ∅ / [+syl] [+cons] __ #
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪} [+cons] __ #
-[-lo,-cons,-prim] > ∅ / [-cons] l {[-cont];[+nas]} __ #
+[-cons,-prim] > ∅ / [-cons] l {[-cont];[+nas]} __ #
+
+=FVD
 
 
 
@@ -693,13 +709,15 @@ d̪ z > d͡z $ F146+172
 
 d̪ ʒ > d͡ʒ $ F189
 
+[+syl] > ∅ / [-cons] ([+cons]) [+cons] __ s # $ not in francesc (as far as i know)
+
 [+cons] > ∅ / {[-cont,-nas];r} __ {[-son];[+nas]} $ F175 $ for inclusion of r, see catorze
 
 k > ∅ / __ s k $ F175 (shown but not described)
 
 [-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
 
-l > ∅ / __ s
+l > ∅ / __ s @ $ HIT? was this in francesc?! also added @
 
 ŋ > n̪ / __ [+ant] $ not in francesc but not noteworthy
 
@@ -708,8 +726,6 @@ l > ∅ / __ s
 ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 FLAG see above
 
 {k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
-
-{ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something
 
 [+syl,-stres] > ∅ / [+stres] __ @ $ there's no way this isn't in francesc but idk where it is HIT? added @
 
@@ -724,15 +740,15 @@ b > b b / [-cons] __ l $ F167
 
 n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
 
+ˈe j > ˈi $ F151
+
 ʝ > ∅ / [+syl] __ [-lo,+front,+prim] @ $ not in francesc (to my knowledge)
 
 [+syl,-prim] ˈi > [+stres,+prim] j $ F230
 
 [+syl,-stres] > ∅ / __ [+stres] $ F229
 
-ˈe j > ˈi $ F151
-
-t̪ > ∅ / {n̪;s;[-stres]} __ # $ F172 + HIT? on the [-stres]
+t̪ > ∅ / {n̪;[-stres]} __ # $ F172 + HIT? on the [-stres] HIT? removed s from context
 
 ∅ ɡ n̪ > ŋ ɡ ∅ / [-nas] __
 ∅ ɡ [+syl] n̪ > ŋ ɡ [+syl] ∅ / [-nas] __ $ this rule (this rule+prev rule are "one rule" but diasim doesn't support a disjunction with a feature matrix yet) only affects 2 words but they're the only two words that it Could affect and also it's not crazy so i'm comfortable including it
@@ -759,15 +775,7 @@ x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does so
 
 r > l / __ b [+syl] r $ F166 FLAG for deletion this rule may be redundant
 
-ˈe > ˈɛ / [-hi] __ (n̪) [-hi] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
-
-ʝ > i / m __ $ F192
-
-[+lab,+cons] > w / __ ʝ [+stres] $ F180
-
-[+lab,+cons] > ∅ / __ ʝ $ F181
-
-r ʝ > j r $ F195
+ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
 
 x > ∅ / __ t̪ [+stres] $ F152 not what francesc specifies but i wanted a rule that does something FLAG probably goes x>ɣ>ʝ>j sometime after syncope 1
 
@@ -859,7 +867,9 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 [+voi,+cont,-son] > w / [+stres] __ # $ F130 AGAIN. THIS MAKES NO SENSE. also HIT? because i simplified it a lot. also possible that there is an intermediate stage > β >, which makes more sense to me than z > w
 
-{ˈɔ;ˈo} > {ˈɛ;ˈɛ} / @ __ w # $ F63
+ð > ∅ / [-cont] ɾ [+syl] __ [+stres] $ not in francesc ALSO really weird?
+
+{ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab]
 
 ˈe > ˈɛ / __ w $ not in francesc HIT?
 ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
@@ -867,13 +877,15 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 ˈɛ > ˈe / __ ʎ $ not in francesc (and also bad? (but also not?ǃ))
 
-β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
+ˈe > ˈi / __ [+syl] #
 
 $β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens COMMENTED OUT because an earlier rule makes this redundant
 
 $ p > b / @ __ t̪ $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
-
 $ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
+	$EDIT: this is not getting taken care of. choosing to replace it with the cluster getting voiced as a whole unit.
+p t̪ > b d̪ / [-cons] __ [-cons] $ F137+139
+
 
 b > β / __ ɾ $ i THINK this is in francesc but idk where
 
