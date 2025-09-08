@@ -598,7 +598,9 @@ $$$$$$$$$$ syncope 1
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
-[-cont] > [+voi] / [-cons] __ {[-cons];r} $ F108+110+114+*131* FLAG FIX CITATION
+[-cont] > [+voi] / [-cons] __ [-cons]
+[-cont] > [+voi] / [-cons] __ r [-cons] $ this one i added the last [-cons]
+$$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
 l l > ʎ $ F136
 
@@ -712,6 +714,9 @@ z > j / __ β $ this only affects one word and is sorta dubious so FLAG for remo
 {ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something FLAG fix this to include intermediate stages
 
 b > w / [-cons] __ ʝ [+stres] $ F180 HIT? only happens to b AND HIT? added [-cons]    also there needs to be an intermediate stage of β i mean come on FLAG
+
+=temp
+
 b > ∅ / __ ʝ $ F181 HIT? see above pt 1
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
@@ -736,7 +741,7 @@ $$$$$$$ BETTER FINAL VOWEL DELETIONS
 $$$$$$$ more final vowel deletions
 [-lo,-cons,-prim] > ∅ / [+syl] [+cons] __ #
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
-[-cons,-prim] > ∅ / [-cons] l {[-cont];[+nas]} __ #
+[-cons,-prim] > ∅ / [-cons] l [+nas] __ #
 
 =FVD
 
@@ -763,7 +768,7 @@ r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 b > b b / [-cons] __ l $ F167
 ɡ > ɡ ɡ / [-cons] __ l $ HIT?
 
-r > ∅ / __ #
+r > ∅ / __ # $ FLAG FIX CITATION
 n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
 
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
