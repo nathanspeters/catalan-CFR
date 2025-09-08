@@ -1,3 +1,5 @@
-517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
+APOCOPE FALSE POS
+-517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
+-excrescence DOES bleed syncope 1
 
 b > ∅ / __ ʝ needs more context!!!!! we have a temp stage there rn
