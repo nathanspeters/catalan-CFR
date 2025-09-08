@@ -577,6 +577,13 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 ɛ > ∅ / [+prim] r __ # $ FLAG check to see if this applies to other vowels as well   also maybe terrible even though it makes the number go up <----open letter to past self: why is it terrible? <----the conditioning is wrong. need to fine-tune
 
+∅ > b / m __ r $ F157
+∅ > d̪ / n̪ __ r $ FLAG fix citation
+
+[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
+
+
+
 $$$$$$$$$$ syncope 1
 
 [+syl,-stres] > ∅ / [+stres] ([+cont]) [+cons] __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and the alpha voices
@@ -643,9 +650,6 @@ x > ç / __ [+cor] $ conditioning here is not necessary because all x's at this 
 
 ʝ > j / __ [+cons] $ not in francesc but would've been in francesc if he had mentioned an intermediate ʝ stage
 
-∅ > b / m __ ɾ $ F157
-∅ > d̪ / n̪ __ ɾ $ FLAG fix citation
-
 [+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know)
 
 [+cons] > ∅ / {[-cont,-nas];r} __ {[-son];[+nas]} $ F175 $ for inclusion of r, see catorze (HIT?)
@@ -699,6 +703,8 @@ z > j / __ β $ this only affects one word and is sorta dubious so FLAG for remo
 
 β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
 
+β > ∅ / [+round] __ [+stres]
+
 β > ∅ / ˈu __ ɾ $ HIT?
 
 {ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something FLAG fix this to include intermediate stages
@@ -710,12 +716,13 @@ b > ∅ / __ ʝ $ F181 HIT? see above pt 1
 
 n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages)
 
+[+syl,-prim] ˈi > [+stres,+prim] j / __ @ $ F230 HIT? added @
+
 
 
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
 
-[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] [+cons,-nas,-son] __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning
 
 
@@ -762,8 +769,6 @@ d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
 n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
 
 ʝ > ∅ / [+syl] __ [-lo,+front] @ $ not in francesc (to my knowledge)
-
-[+syl,-prim] ˈi > [+stres,+prim] j / __ @ $ F230 HIT? added @
 
 [+syl,-stres] > ∅ / __ [+stres] $ F229
 
