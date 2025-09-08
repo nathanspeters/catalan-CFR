@@ -577,10 +577,9 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 ɛ > ∅ / [+prim] r __ # $ FLAG check to see if this applies to other vowels as well   also maybe terrible even though it makes the number go up <----open letter to past self: why is it terrible? <----the conditioning is wrong. need to fine-tune
 
-∅ > b / m __ r $ F157
-∅ > d̪ / n̪ __ r $ FLAG fix citation
-
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
+
+=pre-syncope
 
 
 
@@ -593,6 +592,9 @@ $$$$$$$$$$ syncope 1
 =Syncope 1
 
 
+
+∅ > b / m __ r $ F157
+∅ > d̪ / n̪ __ r $ FLAG fix citation
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
@@ -761,6 +763,7 @@ r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 b > b b / [-cons] __ l $ F167
 ɡ > ɡ ɡ / [-cons] __ l $ HIT?
 
+r > ∅ / __ #
 n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
 
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
