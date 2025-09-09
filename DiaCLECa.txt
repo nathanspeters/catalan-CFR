@@ -531,7 +531,8 @@ n̪ > ∅ / __ s [+stres] $ F161+F163 (F163 being the one that makes it clear th
 
 x s > ʃ / __ @ $ F154 not what francesc specifies but i wanted a rule that does something also HIT? added @
 
-s > ʃ / __ [+front,+hi,-cons] $ F99 FLAG i don't think this happens everywhere for some reason.
+s s > ʃ ʃ / __ [+front,+hi,-cons]
+s > ʃ / __ [+front,+hi,-cons] $ F99 FLAG unaffectedness of reína and si remains a mystery
 
 c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
 
@@ -680,7 +681,7 @@ r > ɾ / {[-stres,+syl];[-cons,-syl];[+nas];[-son];[+lat]} __ {[-cons];[+nas];[-
 
 r > ɾ / [+stres] __ [-cons] $ not in francesc
 
-{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ} $ F135   DEGEMINATION RULE
+{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
 
 =Degeminated
 
@@ -774,6 +775,8 @@ d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
 n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
 
 ʝ > ∅ / [+syl] __ [-lo,+front] @ $ not in francesc (to my knowledge)
+
+=temp2 $$$$$$$$the following rule is messing a couple of things up. it probably goes somewhere else in the cascade but moving it to the place i think it should go is causing more problems.
 
 [+syl,-stres] > ∅ / __ [+stres] $ F229
 
