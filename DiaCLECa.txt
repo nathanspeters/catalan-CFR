@@ -575,8 +575,6 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 {f;s} > {v;z} / {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
 
-ɛ > ∅ / [+prim] r __ # $ FLAG check to see if this applies to other vowels as well   also maybe terrible even though it makes the number go up <----open letter to past self: why is it terrible? <----the conditioning is wrong. need to fine-tune
-
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
 
 =pre-syncope
@@ -715,9 +713,9 @@ z > j / __ β $ this only affects one word and is sorta dubious so FLAG for remo
 
 b > w / [-cons] __ ʝ [+stres] $ F180 HIT? only happens to b AND HIT? added [-cons]    also there needs to be an intermediate stage of β i mean come on FLAG
 
-=temp
+[+syl,-stres] > ∅ / [+stres] __ @ $ there's no way this isn't in francesc but idk where it is HIT? added @
 
-b > ∅ / __ ʝ $ F181 HIT? see above pt 1
+b > ∅ / {#;[-front]} [+stres] __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case.
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
 
@@ -742,6 +740,7 @@ $$$$$$$ more final vowel deletions
 [-lo,-cons,-prim] > ∅ / [+syl] [+cons] __ #
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
 [-cons,-prim] > ∅ / [-cons] l [+nas] __ #
+[-lo,-cons,-prim] > ∅ / i __ #
 
 =FVD
 
@@ -756,8 +755,6 @@ $ɡ > ∅ / __ ˈa $ F115 COMMENTED OUT according to our data, this is a complet
 ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 FLAG see above
 
 {k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
-
-[+syl,-stres] > ∅ / [+stres] __ @ $ there's no way this isn't in francesc but idk where it is HIT? added @
 
 {r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] __ # $ F128+129 definitely only polysyllabics this time
 
