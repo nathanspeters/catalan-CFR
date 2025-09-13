@@ -1,8 +1,0 @@
-APOCOPE FALSE POS
--517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
--excrescence DOES bleed syncope 1
-
-POSTTONIC SYNCOPE
--actually seems like there's some low-ish hanging fruit here:
----seems to need [-lat] in the post-locus segment but maybe only when after secondary stress?
----speaking of which, might just behave differently when after secondary stress

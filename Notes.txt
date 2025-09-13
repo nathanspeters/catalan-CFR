@@ -1,0 +1,17 @@
+APOCOPE FALSE POS
+-517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
+-excrescence DOES bleed syncope 1
+-DEGEMINATION NEEDS TO COUNTERFEED at least some of the apocope rules. probably the simple apocope at a minimum and maybe even the liquid cluster apocope.
+
+POSTTONIC SYNCOPE
+-actually seems like there's some low-ish hanging fruit here:
+---seems to need [-lat] in the post-locus segment but maybe only when after secondary stress?
+---speaking of which, might just behave differently when after secondary stress
+
+PRETONIC SYNCOPE
+-blocked by preceding double consonant
+
+
+
+STUFF THAT'S FAKE NEWS
+-hordeum/ordi is a reborrowing

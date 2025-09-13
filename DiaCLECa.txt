@@ -443,6 +443,8 @@ $ ...pulling some stuff from clayton's "ballpark later rules" to get to a more w
 
 ɫ > l $ here for convenience
 
+[-cont] > [-voi] / # [-prim] __ [-voi] $ prefix consonant devoicing rule. may need further specification. probably in fransesc
+
 x > ∅ / __ [-cont,+voi] $ FLAG where did this come from? why didn't i say where it came from?!
 
 w > ∅ / [-back,+cons] [-back,+cons] __ $ F179
@@ -499,9 +501,7 @@ d̪ > s / __ s $ F147
 
 $ FLAG footnote in F36 suggests a diphthongization of ˈɛ>jˈe but that doesn't seem relevant At All
 
-ɡ > ɟ / __ n̪ $ not in francesc   feeds ɟ > j
-
-[+nas] ɟ > ɲ $ F162+188
+ɡ > ɟ / __ n̪ $ not in francesc(?)   feeds ɟ > j
 
 ɟ > ∅ / [-cons] __ [-cons] $ F117 FLAG clayton/pope may have already taken care of this.
 
@@ -525,7 +525,7 @@ u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i fo
 
 r > s / __ s $ F166
 
-[-lo,-cons,-stres] > ∅ / d̪ __ [+hi,-cont] $$$$$ secret syncope 0?! not in francesc!
+[-lo,-cons,-stres] > ∅ / d̪ __ [+hi,-cont] $$$$$ FLAG i guarantee this is wrong. the regular syncopes should be doing this. however, they aren't.
 
 n̪ > ∅ / __ s [+stres] $ F161+F163 (F163 being the one that makes it clear that this is only in the pretonic)
 
@@ -584,7 +584,7 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([+cont]) [+cons] __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
+[+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
@@ -592,13 +592,15 @@ $$$$$$$$$$ syncope 1
 
 
 
+[+nas] ɟ > ɲ $ F162+188
+
 ∅ > b / m __ r $ F157
 ∅ > d̪ / n̪ __ r $ FLAG fix citation
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
-[-cont] > [+voi] / [-cons] __ [-cons]
-[-cont] > [+voi] / [-cons] __ r [-cons] $ this one i added the last [-cons]
+[-cont] > [+voi] / [+syl] __ [+syl]
+[-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
 l l > ʎ $ F136
@@ -696,13 +698,15 @@ $...replaced with:
 
 ${ˈo j;ˈɔ j} > {ˈu;ˈu} $ i think this was in francesc but idr where
 $...replaced with:
-[+back,-lo,αstres,βprim] j > [+hi,+tense,αstres,βprim] ∅
+[+back,-lo,αstres,βprim] > [+hi,+tense,αstres,βprim] / __ j
 
 z > j / __ β $ this only affects one word and is sorta dubious so FLAG for removal if we decide to get rid of it
 
-[+voi,+cont,-son] > w / __ [+cons] $ F141 for v doing this but i think the rest is HIT?
-
 [-cont] > [+voi] / [-cons] __ r $ F144+153 $ HIT? added [-cons]
+
+b > w / [-cons] __ ʝ [+stres] $ F180 HIT? only happens to b AND HIT? added [-cons]    also there needs to be an intermediate stage of β i mean come on FLAG
+
+[+voi,+cont,-son] > w / __ [+cons] $ F141 for v doing this but i think the rest is HIT?
 
 β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
 
@@ -711,8 +715,6 @@ z > j / __ β $ this only affects one word and is sorta dubious so FLAG for remo
 β > ∅ / ˈu __ ɾ $ HIT?
 
 {ɡ;ʒ} > {∅;∅} / __ {d̪;k} $ F156 not what francesc specifies but i wanted a rule that does something FLAG fix this to include intermediate stages
-
-b > w / [-cons] __ ʝ [+stres] $ F180 HIT? only happens to b AND HIT? added [-cons]    also there needs to be an intermediate stage of β i mean come on FLAG
 
 [+syl,-stres] > ∅ / [+stres] __ @ $ there's no way this isn't in francesc but idk where it is HIT? added @
 
@@ -766,7 +768,9 @@ r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 b > b b / [-cons] __ l $ F167
 ɡ > ɡ ɡ / [-cons] __ l $ HIT?
 
-r > ∅ / __ # $ FLAG FIX CITATION
+=temp
+
+{r;ɾ} > {∅;∅} / __ # $ F128+129? also FLAG this is the second final r deletion so what the heck.
 n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
 
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
