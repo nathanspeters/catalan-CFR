@@ -584,7 +584,7 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] [+cons] __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
+[+syl,-stres] > ∅ / [+stres] [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
@@ -599,7 +599,7 @@ $$$$$$$$$$ syncope 1
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
-[-cont] > [+voi] / [+syl] __ [+syl]
+[-cont] > [+voi] / [+syl] __ [-cons]
 [-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
@@ -637,7 +637,7 @@ $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 
 ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
 
-r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons]
+r ʝ > ʝ r / [-cons,-back] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons,-back]
 
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
@@ -710,7 +710,8 @@ b > w / [-cons] __ ʝ [+stres] $ F180 HIT? only happens to b AND HIT? added [-co
 
 β > ∅ / __ [+syl,+lab,+stres,+tense] $ F109 HIT? added +tense but maybe francesc actually did describe that but idk bc he REFUSES TO USE IPA
 
-β > ∅ / [+round] __ [+stres]
+$$$$$SUPPRESSED overfitting. only happens to bovinum/buina(unsure of this spelling). more likely that unstressed V stress i > stressed Vj can reach around voiced frics (maybe even more)
+$β > ∅ / [+round] __ [+stres]
 
 β > ∅ / ˈu __ ɾ $ HIT?
 

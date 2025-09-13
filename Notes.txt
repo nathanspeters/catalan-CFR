@@ -13,5 +13,20 @@ PRETONIC SYNCOPE
 
 
 
+WE HAVE TO FIGURE OUT APHERESIS
+-128 episcopum/bizbe
+-317 illorum/llur
+-523/1212 acripholum/grèbul
+-942 umbilicum/melic
+-1205 abrotonum/bròide
+
+
+
+WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
+WE HAVE TO FIGURE OUT WHY THE SECOND r DELETION IS HELPING. IT SHOULD NOT EXIST
+
+
+
 STUFF THAT'S FAKE NEWS
 -hordeum/ordi is a reborrowing
+-persicum/présec is some analogy with pre- i think
