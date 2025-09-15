@@ -584,7 +584,7 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
@@ -606,6 +606,8 @@ $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 l l > ʎ $ F136
 
 o > e / [-cons] (([+cons]) {[-son];[+nas]}) [+cons] __ # $ not in francesc (to my knowledge)
+
+=tempz
 
 z > ∅ / [+syl] __ [+stres] $ F111+112 FLAG might need to add @ at the end of the context?
 
@@ -637,7 +639,9 @@ $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 
 ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
 
-r ʝ > ʝ r / [-cons,-back] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons,-back]
+=temprjjr
+
+r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons]
 
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
@@ -760,7 +764,7 @@ $ɡ > ∅ / __ ˈa $ F115 COMMENTED OUT according to our data, this is a complet
 
 {k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
 
-{r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] __ # $ F128+129 definitely only polysyllabics this time
+{r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] ([-syl])* __ # $ F128+129 definitely only polysyllabics this time
 
 {r;ɾ} > {l;l} / [+syl] __ ([-son])* [+syl] ([-son])* {r;ɾ} $ F120
 
@@ -769,10 +773,7 @@ r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 b > b b / [-cons] __ l $ F167
 ɡ > ɡ ɡ / [-cons] __ l $ HIT?
 
-=temp
-
-{r;ɾ} > {∅;∅} / __ # $ F128+129? also FLAG this is the second final r deletion so what the heck.
-n̪ > ∅ / __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG
+n̪ > ∅ / [-cons] __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG $$$$$$$$$ EDIT: added [-cons]
 
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
 d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
@@ -781,7 +782,7 @@ n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
 
 ʝ > ∅ / [+syl] __ [-lo,+front] @ $ not in francesc (to my knowledge)
 
-=temp2 $$$$$$$$the following rule is messing a couple of things up. it probably goes somewhere else in the cascade but moving it to the place i think it should go is causing more problems.
+=temphiatus $$$$$$$$the following rule is messing a couple of things up. it probably goes somewhere else in the cascade but moving it to the place i think it should go is causing more problems.
 
 [+syl,-stres] > ∅ / __ [+stres] $ F229
 

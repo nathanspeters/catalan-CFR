@@ -16,17 +16,39 @@ PRETONIC SYNCOPE
 WE HAVE TO FIGURE OUT APHERESIS
 -128 episcopum/bizbe
 -317 illorum/llur
+-434 horologium/rellodga?
 -523/1212 acripholum/grèbul
 -942 umbilicum/melic
 -1205 abrotonum/bròide
 
 
 
+z-deletion is a problem rule. take notes later
+-*#t̪ˌɔzˈorʝes#     | *#t̪uˈujɾs#        | #t̪izˈoɾəs#
+-*#mˌɛzˈura#        | *#məˈuɾə#          | #məzˈuɾə#
+-*#bˌazˈarɛ#        | *#bəˈa#            | #bəzˈa#
+-(#wˌakˈiːwam#       | *#bˌazˈiβa#        | *#bˈeβə#           | #bəsˈiβə# but this one is a whole thing)
+-*#ˌakkozˈarɛ#      | *#əkˈa#            | #əkuzˈa#
+-*#rˌɔzˈad̪a#       | *#ruˈaðə#          | #ruzˈaðə#
+-*#t̪ˌezˈan̪a#      | *#t̪əˈan̪ə#        | #t̪izˈan̪ə#
+-*#ˌaβˌizˈarɛ#      | *#əβiˈa#           | #əβizˈa#
+-*#pˌɛzˈarɛ#        | *#pəˈa#            | #pəzˈa#
+-*#pˌazˈɔle#        | *#pəˈɔl#           | #fəzˈɔl#
+
+
+
+rj>jr holds many mysteries
+---probably doesn't happen word-finally?
+---i think the [-back] block we have on it now is wrong (hence its removal)
+
+
+
 WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
-WE HAVE TO FIGURE OUT WHY THE SECOND r DELETION IS HELPING. IT SHOULD NOT EXIST
+the deletion before /__s# feels like just a missed syncope. fix the syncope
 
 
 
 STUFF THAT'S FAKE NEWS
 -hordeum/ordi is a reborrowing
 -persicum/présec is some analogy with pre- i think
+-avium/avi is a reborrowing for sure if the >Late Latin rules are all correct
