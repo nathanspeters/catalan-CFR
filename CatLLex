@@ -9,6 +9,7 @@ $#https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
 
 $ FLAGGED for stuff that needs to be checked
 $ RB for stuff that seems like reborrowing
+$ ANALOGY for stuff that seems like analogy
 
 m ˌa n̪ d̪ ˈaː r e , m ə n̪ ˈa $verb. inf. 
 s ˌe n̪ t̪ ˈiː r e , s ə n̪ t̪ ˈi $verb. inf. 
@@ -51,7 +52,7 @@ l ˈe p o r e m , ʎ ˈe β ɾ ə
 w ˈe n̪ t̪ u m , b ˈe n̪
 w ˈe s p e r u m , b ˈe s p ɾ ə
 h ˈe r b a m , ˈe r b ə
-p ˈe r s i k u m , p ɾ ˈe s ə k
+p ˈe r s i k u m , p ɾ ˈe s ə k $ ANALOGY ?
 p ˈe l l e m , p ˈe ʎ
 k ˌa s t̪ ˈe l l u m, k ə s t̪ ˈe ʎ
 ˌa l ˈe k r e m , ə l ˈe ɣ ɾ ə 
@@ -77,7 +78,7 @@ t̪ ˈe n̪ e r u m ,  t̪ ˈɛ n̪ d̪ ɾ ə
 p ˈe d̪ e m , p ˈɛ w
 s ˈe d̪ e t̪ , s ˈɛ w $verb. 3sg.pres. 
 d̪ ˈe k e m , d̪ ˈɛ w
-d̪ ˈe k i m u m , d̪ ˈɛ w m ə 
+d̪ ˈe k i m u m , d̪ ˈɛ w m ə $ ANALOGY
 p r ˈe t̪ i u m , p ɾ ˈɛ w
 s ˈe p t̪ e m , s ˈɛ t̪
 l ˈe k t̪ u m , ʎ ˈi t̪ $"bed". not to be confused lēct(us/a/um), meaning "selected, read, choice-worthy, etc.", which appears to be the root of delit < dē-lēctum below. 
@@ -485,7 +486,7 @@ k ˌo l ˈo s t̪ r u m , k ə l ˈɔ s t̪ ɾ ə
 ˌo f f ˌo k ˈaː r e , ə f u ɣ ˈa $verb. inf.
 ˌo b t̪ ˌu r ˈaː r e , ə t̪ u ɾ ˈa $verb. inf.
 ˌo k k ˌu p ˈaː r e , ə k u β ˈa $verb. inf.
-h ˌoː r o l ˈo ɡ i u m , r ə ʎ ˈɔ d͡ʒ ə
+h ˌoː r o l ˈo ɡ i u m , r ə ʎ ˈɔ d͡ʒ ə $ FLAGGED for review -- entirely possible this is accurate, but it's been giving me trouble since the beginning, so please check it out just in case
 r ˌo t̪ ˈu n̪ d̪ u m , r ə ð ˈo $More popular word is ruˈðo dissimilation
 t̪ ˌoː n̪ s ˈo r i a s , t̪ i z ˈo ɾ ə s $old catalan word tesores. change likely due to spanish tijeras
 $page88 
@@ -601,7 +602,7 @@ s ˈu b t̪ u l u m , s ˈɔ t̪ i l
 l ˈa k r i m a m , ʎ ˈa ɣ ɾ i m ə
 s ˌa n̪ k t̪ ˈi s s i m u m , s ə n̪ t̪ ˈi s i m
 ˌa l t̪ ˈi s s i m u m , ə l t̪ ˈi s i m $#old catalan altisme
-ˈu t̪ i l e m , ˈu t̪ i l
+ˈu t̪ i l e m , ˈu t̪ i l $ RB ? , FLAGGED for review -- really not actually sure whether this is reborrowing or the cascade is just bad
 $#pg 91
 ˌa d̪ n̪ ˈo m i n̪ a t̪ , ə n̪ u m ˈɛ n̪ ə $verb. 3sg pres.
 $t̪ e r m i n̪ a t̪ , $#stress different transcription off
@@ -613,8 +614,8 @@ r ˌe w iː w ˈiː s k u l a t̪ , r ə β i s k ˈɔ l ə $verb. 3sg pres. Che
 r ˈo t̪ u l a t̪ , r u ð ˈu l ə $verb. 3sg pres. Check stress.
 t̪ r ˈe m u l a t̪ , t̪ ɾ e m ˈu l ə $verb. 3sg pres. Check stress.
 ˈa p i u m, ˈa p i
-ˈa w i u m , ˈa β i
-h ˈo r d̪ e u m , ˈɔ r d̪ i
+ˈa w i u m , ˈa β i $ RB -- Clayton's/Pope's rules make this come out of Late Latin as ˈɑʝo -- very sure that either {ɣʷ;w} > {∅;∅} / __ ʝ (R28) is a bad rule or this is borrowing/reborrowing
+h ˈo r d̪ e u m , ˈɔ r d̪ i $ RB ? , FLAGGED for review -- potential reborrowing
 ˈo l e u m , ˈɔ l i
 s t̪ ˈu d̪ i u m , ə s t̪ ˈu ð i
 $#pg 92

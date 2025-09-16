@@ -548,8 +548,6 @@ t͡sʲ ʝ > s s $ F191
 
 s t͡sʲ > ʃ $ HIT? ...not really because I think francesc says something about SCᵉ,ⁱ going to esh
 
-l > d̪ / __ [+syl] l $ F120
-
 l > r / __ ([-son])* [+syl] ([-son])* l $ F120
 
 l > r / __ ([-son])* [+syl] ([-son])* [+syl] ([-son])* l $ F120
@@ -573,6 +571,8 @@ s s ʝ > ʃ $ F149+190
 k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
 
 ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
+
+l > d̪ / __ [+syl] l $ F120
 
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
 

@@ -34,7 +34,7 @@ z-deletion is a problem rule. take notes later
 -*#ˌaβˌizˈarɛ#      | *#əβiˈa#           | #əβizˈa#
 -*#pˌɛzˈarɛ#        | *#pəˈa#            | #pəzˈa#          ns blocking
 -*#pˌazˈɔle#        | *#pəˈɔl#           | #fəzˈɔl#
------also, this rule has to come after hiatus resolution, at least i think.
+-----also, this rule has to come after hiatus resolution, at least i think...
 
 
 
@@ -45,17 +45,10 @@ rj>jr holds many mysteries
 
 
 another huge hole: late latin c doesn't go to z every time. we have it accurately going to ʃ when it needs to but it only >z>∅ sometimes.
-----------semi-related issue: late latin t͡sʲ doesn't always have the same outcomes as late latin c (unless i'm reading it wrong)
+---semi-related issue: late latin t͡sʲ doesn't always have the same outcomes as late latin c (unless i'm reading it wrong (<--might've been reading it wrong...))
 
 
 
 WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
----maybe c>...>s needs to be post-syncope?!
-the deletion before /__s# feels like just a missed syncope. fix the syncope
-
-
-
-STUFF THAT'S FAKE NEWS
--hordeum/ordi is a reborrowing
--persicum/présec is some analogy with pre- i think
--avium/avi is a reborrowing for sure if the >Late Latin rules are all correct
+---maybe c>...>s needs to be post-syncope?! (but this breaks things...)
+the deletion before /__s# just feels like a missed syncope. fix the syncope
