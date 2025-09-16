@@ -536,19 +536,17 @@ s > ʃ / __ [+front,+hi,-cons] $ F99 FLAG unaffectedness of reína and si remain
 
 c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
 
-t̪ ʝ > t͡sʲ $ F182 through F185 i think
+$ t̪ ʝ > t͡sʲ $ F182 through F185 i think FLAG ---- IT COMES OUT OF LATIN LIKE THIS
 
 [-cont,-voi] > t / __ t͡sʲ $ F185
 
-$t͡sʲ > d͡z / __ # $ F130+183   COMMENTED OUT bc i don't believe this actually happens but FLAG check back in francesc to see if there's actual evidence for it happening
+$ t͡sʲ > d͡z / __ # $ F130+183   COMMENTED OUT bc i don't believe this actually happens but FLAG check back in francesc to see if there's actual evidence for it happening
 
 t t͡sʲ > s s $ F185
 
 t͡sʲ ʝ > s s $ F191
 
 s t͡sʲ > ʃ $ HIT? ...not really because I think francesc says something about SCᵉ,ⁱ going to esh
-
-t͡sʲ > s $ marr+F114
 
 l > d̪ / __ [+syl] l $ F120
 
@@ -564,17 +562,17 @@ m m > m $ M DEGEMINATION not in francesc(?)
 
 $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spirantization is far more likely (so i am replacing this with that)
 
-s s ʝ > ʃ $ F149+190
-
-ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
-
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ [-cons] $ F109+110 FLAG fix citation
 
 ð > z $ this is just a complete merger at this point (not in francesc)
 
+t͡sʲ > s $ marr+F114
+
+s s ʝ > ʃ $ F149+190
+
 k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
 
-{f;s} > {v;z} / {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
+ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
 
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
 
@@ -584,13 +582,15 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
 =Syncope 1
 
 
+
+{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
 
 [+nas] ɟ > ɲ $ F162+188
 
@@ -658,6 +658,8 @@ x > ç / __ [+cor] $ conditioning here is not necessary because all x's at this 
 ç > ʝ $ complete merger here
 
 ʝ > j / __ [+cons] $ not in francesc but would've been in francesc if he had mentioned an intermediate ʝ stage
+
+d z > d͡z $ so this probably just needs to be in the cascade more than once to cover all our bases.
 
 [+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know)
 

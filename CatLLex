@@ -7,9 +7,12 @@ $#what to do for latin IPA?
 $#https://www.wiktionary.org/ for nominative form
 $#https://ca.wiktionary.org/wiki/tix catalan IPA for double-checking
 
+$ FLAGGED for stuff that needs to be checked
+$ RB for stuff that seems like reborrowing
+
 m ˌa n̪ d̪ ˈaː r e , m ə n̪ ˈa $verb. inf. 
 s ˌe n̪ t̪ ˈiː r e , s ə n̪ t̪ ˈi $verb. inf. 
-k ˌa t̪ ˈeː n̪ a , k a ð ˈɛ n̪ ə
+k ˌa t̪ ˈeː n̪ a , k a ð ˈɛ n̪ ə $ FLAGGED for review -- should the first vowel not be schwa?
 p ˌa w s ˈaː r e , p u z ˈa $verb. inf.
 $pg 67
 d̪ ˈe b i t̪ u m, d̪ ˈɛ w t̪ ə 
@@ -136,7 +139,7 @@ f ˈeː k iː , f ˈi w $verb. 1sg.perf.act.
 ˈi b iː , ˈi
 m ˈi h iː , m ˈi
 s ˈi b iː , s ˈi
-s t̪ ˈeː t̪ u iː , ə s t̪ ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres 
+s t̪ ˈeː t̪ u iː , ə s t̪ ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres $ FLAGGED for review
 t̪ ˈeː n̪ u iː , t̪ ˈi ŋ k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres.  
 w ˌi ɡ ˈi n̪ t̪ iː , b ˈi n̪
 d̪ ˈi a , d̪ ˈi ə $inherited from a *dia. Latin was diēs. Consider revisiting. 
@@ -373,7 +376,7 @@ h ˈoː r a m , ˈɔ ɾ ə
 p l ˈoː r a t̪ , p ɫ ˈɔ ɾ ə $verb 3sg. 
 p r ˈoː d̪ e m , p ɾ ˈɔ w
 n̪ ˈoː k e t̪ , n̪ ˈɔ w $verb 3sg. 
-k r ˈu k e m , k ɾ ɛ w 
+k r ˈu k e m , k ɾ ɛ w $ FLAGGED for review
 d̪ ˈu k e m , d̪ ˈɛ w 
 w ˈoː k e m , b ˈɛ w
 $pg 84
@@ -388,7 +391,7 @@ f ˈuː s u m , f ˈu s
 l ˈuː n̪ a m , ʎ ˈu n̪ ə
 m ˌe n̪ s ˈuː r a m , m ə z ˈu ɾ ə
 m ˌa t̪ ˈuː r u m , m ə ð ˈu
-p ˈuː l i k e m , p ˈu s ə
+p ˈuː l i k e m , p ˈu s ə $ FLAGGED for review -- this would be irregular loss of l...if i'm not mistaken
 s ˈuː k i d̪ u m , s ˈu d͡z e w $as listed in Francesc; elsewhere one finds sutze though. 
 ˌa k ˈuː k u l a m , ə ɣ ˈu ʎ ə
 f r ˈuː k t̪ u m , f ɾ ˈu j t̪
