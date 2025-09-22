@@ -441,6 +441,8 @@ $ ...pulling some stuff from clayton's "ballpark later rules" to get to a more w
 β > b $ marr
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
+ʝ > d̪ / # __ [+syl] ʝ
+
 ɫ > l $ here for convenience
 
 [-cont] > [-voi] / # [-prim] __ [-voi] $ prefix consonant devoicing rule. may need further specification. probably in fransesc
@@ -582,7 +584,7 @@ l > d̪ / __ [+syl] l $ F120
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
@@ -782,7 +784,9 @@ d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
 
 n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
 
-ʝ > ∅ / [+syl] __ [-lo,+front] @ $ not in francesc (to my knowledge)
+=tempj
+
+ʝ > ∅ / [+syl] __ [-cons,-lo,+front] @ $ not in francesc (to my knowledge)
 
 =temphiatus $$$$$$$$the following rule is messing a couple of things up. it probably goes somewhere else in the cascade but moving it to the place i think it should go is causing more problems.
 
