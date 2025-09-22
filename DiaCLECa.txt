@@ -536,20 +536,6 @@ x s > ʃ / __ @ $ F154 not what francesc specifies but i wanted a rule that does
 s s > ʃ ʃ / __ [+front,+hi,-cons]
 s > ʃ / __ [+front,+hi,-cons] $ F99 FLAG unaffectedness of reína and si remains a mystery
 
-c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
-
-$ t̪ ʝ > t͡sʲ $ F182 through F185 i think FLAG ---- IT COMES OUT OF LATIN LIKE THIS
-
-[-cont,-voi] > t / __ t͡sʲ $ F185
-
-$ t͡sʲ > d͡z / __ # $ F130+183   COMMENTED OUT bc i don't believe this actually happens but FLAG check back in francesc to see if there's actual evidence for it happening
-
-t t͡sʲ > s s $ F185
-
-t͡sʲ ʝ > s s $ F191
-
-s t͡sʲ > ʃ $ HIT? ...not really because I think francesc says something about SCᵉ,ⁱ going to esh
-
 l > r / __ ([-son])* [+syl] ([-son])* l $ F120
 
 l > r / __ ([-son])* [+syl] ([-son])* [+syl] ([-son])* l $ F120
@@ -565,12 +551,6 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ [-cons] $ F109+110 FLAG fix citation
 
 ð > z $ this is just a complete merger at this point (not in francesc)
-
-t͡sʲ > s $ marr+F114
-
-s s ʝ > ʃ $ F149+190
-
-k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
 
 ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
 
@@ -592,14 +572,34 @@ $$$$$$$$$$ syncope 1
 
 
 
-{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
-
 [+nas] ɟ > ɲ $ F162+188
 
 ∅ > b / m __ r $ F157
 ∅ > d̪ / n̪ __ r $ FLAG fix citation
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
+
+c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
+
+$ t̪ ʝ > t͡sʲ $ F182 through F185 i think FLAG ---- IT COMES OUT OF LATIN LIKE THIS
+
+[-cont,-voi] > t / __ t͡sʲ $ F185
+
+$ t͡sʲ > d͡z / __ # $ F130+183   COMMENTED OUT bc i don't believe this actually happens but FLAG check back in francesc to see if there's actual evidence for it happening
+
+t t͡sʲ > s s $ F185
+
+t͡sʲ ʝ > s s $ F191
+
+s t͡sʲ > ʃ $ HIT? ...not really because I think francesc says something about SCᵉ,ⁱ going to esh
+
+t͡sʲ > s $ marr+F114
+
+s s ʝ > ʃ $ F149+190
+
+k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
+
+{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
 
 [-cont] > [+voi] / [+syl] __ [-cons]
 [-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
@@ -649,7 +649,7 @@ r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermedia
 
 l l > ʎ ʎ $ not in francesc 
 
-ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow
+ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
 
 k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 
@@ -939,6 +939,10 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 [+round,-stres,+syl] > u $ FLAG cite the appropriate francescs later
 
 [-hi,-stres,+syl] > ə $ FLAG cite the appropriate francescs later
+
+
+
+[+nas] > m / __ [+lab,+cons] $ again, we just need a good nasal place assimilation rule
 
 
 

@@ -55,5 +55,6 @@ another huge hole: late latin c doesn't go to z every time. we have it accuratel
 
 
 WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
----maybe c>...>s needs to be post-syncope?! (but this breaks things...)
+---maybe c>...>s needs to be post-syncope?! (but this breaks things...) <---RESOLVED!!!!!!!!!!!
+
 the deletion before /__s# just feels like a missed syncope. fix the syncope
