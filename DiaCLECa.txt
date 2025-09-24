@@ -579,9 +579,9 @@ $$$$$$$$$$ syncope 1
 
 [-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
 
-c > t͡sʲ $ exists to feed F114(? not sure about what that number actually says anymore)
+c > t͡sʲ $ exists to feed F114
 
-$ t̪ ʝ > t͡sʲ $ F182 through F185 i think FLAG ---- IT COMES OUT OF LATIN LIKE THIS
+$ t̪ ʝ > t͡sʲ $ F182 through F185 i think SUPPRESSED ---- IT COMES OUT OF LATIN LIKE THIS
 
 [-cont,-voi] > t / __ t͡sʲ $ F185
 
@@ -599,7 +599,9 @@ s s ʝ > ʃ $ F149+190
 
 k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
 
-{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context
+=tempfsvz
+
+{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context. somehow b blocks this, which is why the prelocus conditioning is nasty
 
 [-cont] > [+voi] / [+syl] __ [-cons]
 [-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
@@ -731,9 +733,12 @@ b > ∅ / {#;[-front]} [+stres] __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LI
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
 
-n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages)
-
 [+syl,-prim] ˈi > [+stres,+prim] j / __ @ $ F230 HIT? added @
+
+ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc
+
+$n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages) $REPLACED BY FOLLOWING RULE
+n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 
 
@@ -942,7 +947,12 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 
 
 
+[-cont,-voi,αcor,βfront,ɣback,ðlab] > ∅ / [+nas,αcor,βfront,ɣback,ðlab] __ s $ not in francesc(?)
+
+
+
 [+nas] > m / __ [+lab,+cons] $ again, we just need a good nasal place assimilation rule
+[+nas] > n̪ / __ s $ AGAIN again, we just need a good nasal place assimilation rule
 
 
 
