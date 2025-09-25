@@ -121,11 +121,13 @@ $ CORRECTION (addition) : ʝ is deleted when coming after # + velar + w (cases o
 	$ this may look like overfitting but the errors that result are of a frankly uninteresting nature and better removed.
 ʝ > ∅ / # [+back,-cont] w __  
 
+=tempgww00j
 $p91 s187iic -- explicitly must come after p102 s220 
 $effacement of w before jod. 
 $NOTE however that in many nouns this was reversed by analogy (see p92 s188)
 $affects w as per laqueum > latz > "lacs"
 {ɣʷ;w} > {∅;∅} / __ ʝ
+$suppressing this rule increases accuracy. the note above explains this discrepancy.
 
 $p91 s187iia
 $ CORRECTION: This seems to only reliably occur after /ɑ/ and /ɑː/ -- this is a better reason why vivum, ovum and nativum are unaffected than "analogy" (which Pope says in s188).
@@ -511,7 +513,7 @@ $ FLAG footnote in F36 suggests a diphthongization of ˈɛ>jˈe but that doesn't
 
 d̪ ʝ > ʒ $ i really REALLY doubt that francesc never talked about this but if he did idk where he did
 
-p > b / [-nas] __ l $ F167
+p > b / [-cons] __ l $ F167 but I added [-cons] to the conditioning
 
 k > ∅ / s __ # $ F172
 
@@ -526,8 +528,6 @@ u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i fo
 {e;ɛ} > {i;i} / # ([-syl])* __ ([-syl])* {ˈe;ˈɛ} $ F68 FLAG idk about the input OR the context HIT? see above
 
 r > s / __ s $ F166
-
-[-lo,-cons,-stres] > ∅ / d̪ __ [+hi,-cont] $$$$$ FLAG i guarantee this is wrong. the regular syncopes should be doing this. however, they aren't.
 
 n̪ > ∅ / __ s [+stres] $ F161+F163 (F163 being the one that makes it clear that this is only in the pretonic)
 
@@ -550,8 +550,6 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ [-cons] $ F109+110 FLAG fix citation
 
-ð > z $ this is just a complete merger at this point (not in francesc)
-
 ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
 
 l > d̪ / __ [+syl] l $ F120
@@ -566,18 +564,26 @@ $$$$$$$$$$ syncope 1
 
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
 
+[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
+
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
 =Syncope 1
 
 
 
-[+nas] ɟ > ɲ $ F162+188
+ð > d̪ / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
+
+ð > z $ this is just a complete merger at this point (not in francesc)
+
+k > c / [+cor,-cont] __ $ not in francesc?
 
 ∅ > b / m __ r $ F157
 ∅ > d̪ / n̪ __ r $ FLAG fix citation
 
-[-cont] > [+voi] / [-cont,+voi] __ $ fixes all our problems i think
+[-cont] > [+voi] / [-cont,+voi] __ [-cons] $ fixes all our problems i think
+
+[+nas] ɟ > ɲ $ F162+188
 
 c > t͡sʲ $ exists to feed F114
 
@@ -641,7 +647,8 @@ $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 
 ɣ > ɡ / [+cons] __ [+cons] $ not in francesc HUGE FLAG this seems wrong and controversial
 
-ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
+$ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
+$$$replaced by earlier rule
 
 =temprjjr
 
@@ -650,6 +657,8 @@ r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermedia
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
 l l > ʎ ʎ $ not in francesc 
+
+b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but also not in francesc?
 
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
 
@@ -891,6 +900,10 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 ʒ > d͡ʒ / __ # $ F131 seems to imply this FLAG bc not sure
 
+
+
+ʒ > z / [+ant] [+ant] __ $ not in francesc. only affects one word as far as i can see (undecem/onze). look for other examples of this.
+$need to follow this up with either a rule that deletes the d in this cluster (bleeding the d z>dz rule below) or one that makes dz>z/n__. alternatively, we could have d>0/n__ come before syncope 1, but every time i've tried to move that rule, it makes things worse
 
 
 d̪ z > d͡z $ F146+172

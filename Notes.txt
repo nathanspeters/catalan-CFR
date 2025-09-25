@@ -56,6 +56,7 @@ another huge hole: late latin c doesn't go to z every time. we have it accuratel
 
 WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
 ---maybe c>...>s needs to be post-syncope?! (but this breaks things...) <---RESOLVED!!!!!!!!!!! ...but syncope 0 is still helping.
+---problem found: frication is messing up the outcomes. either it needs to come after syncope 1 or we need a new rule that hardens eth before a stop. <---RESOLVED, but with the second option, which i don't really like.
 
 n>0/__s might be too early
 
