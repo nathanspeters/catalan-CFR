@@ -680,10 +680,10 @@ d z > d͡z $ so this probably just needs to be in the cascade more than once to 
 
 k > ∅ / __ s k $ F175 (shown but not described)
 
-[-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
-
 $ɟ > ʒ $ F103+186+187 replaced with following
 ɟ > ʝ $ and yes, i believe this is unconditioned
+
+[-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
 
 d̪ > t̪ / t̪ __ $ F142+147
 
@@ -903,12 +903,15 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 
 ʒ > z / [+ant] [+ant] __ $ not in francesc. only affects one word as far as i can see (undecem/onze). look for other examples of this.
-$need to follow this up with either a rule that deletes the d in this cluster (bleeding the d z>dz rule below) or one that makes dz>z/n__. alternatively, we could have d>0/n__ come before syncope 1, but every time i've tried to move that rule, it makes things worse
+$need to follow this up with either a rule that deletes the d in this cluster (bleeding the d z>dz rule below) or one that makes dz>z/n__. alternatively, we could have d>0/n__ come before syncope 1, but every time i've tried to move that rule, it makes things worse.
+$follow-up to above: going with a deaffrication rule. seems like the easiest to implement, and timing stuff is notoriously wacky in nasal+(stop)+fricative clusters. this rule being placed after affricate synthesis rules
+
 
 
 d̪ z > d͡z $ F146+172
-
 d̪ ʒ > d͡ʒ $ F189
+
+[+delrel] > [+cont,0delrel] / [+nas] __ $
 
 ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
 
