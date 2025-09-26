@@ -536,9 +536,7 @@ x s > ʃ / __ @ $ F154 not what francesc specifies but i wanted a rule that does
 s s > ʃ ʃ / __ [+front,+hi,-cons]
 s > ʃ / __ [+front,+hi,-cons] $ F99 FLAG unaffectedness of reína and si remains a mystery
 
-l > r / __ ([-son])* [+syl] ([-son])* l $ F120
-
-l > r / __ ([-son])* [+syl] ([-son])* [+syl] ([-son])* l $ F120
+l > r / __ [+syl] ({[+cons];[-cons]}) l $ F120
 
 {k l;ɡ l} > {ʎ;ʎ} / [-cons] __ $ HIT?
 
@@ -627,8 +625,10 @@ z > ∅ / [+syl] __ [+stres] $ F111+112 FLAG might need to add @ at the end of t
 
 a w > ɔ $ F70 FLAG cite whatever else does this as i'm sure it comes up later too ALSO maybe output is o
 
-n̪ > r / m __ $ F157
-
+n̪ > r / [-lo,-hi,+front] m __ $ F157 , I added [-lo,-hi,+front] but it doesn't seem to be doing anything (yet...)
+m > b / [+lo] __ n̪ $ not in francesc
+n̪ > ∅ / m __ $ not in francesc?
+$ these don't seem to be doing anything. investigate later.
 
 
 $ b and v merge in the dialect of Catalan that we're looking at. i don't think francesc ever references this Directly (EDIT: he totally does in F109) but i have reason to believe it's a very late development because it doesn't happen in other dialects EDIT: starting to believe this less and less
