@@ -554,7 +554,9 @@ l > d̪ / __ [+syl] l $ F120
 
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
 
-=pre-syncope
+[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] [+cons,-nas,-son] __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler, this is a relchron issue. FIXED
+
+=Apocope 1
 
 
 
@@ -753,22 +755,15 @@ n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
-
-[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] [+cons,-nas,-son] __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning
-
-
-
-ʝ > i / [+cons] __ # $ not in francesc. this definitely happens between the two deletion stages.
-
-
-
-$$$$$$$ more final vowel deletions
 [-lo,-cons,-prim] > ∅ / [+syl] [+cons] __ #
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
+
+ʝ > i / [+cons] __ # $ not in francesc.
+
 [-cons,-prim] > ∅ / [-cons] l [+nas] __ #
 [-lo,-cons,-prim] > ∅ / i __ #
 
-=FVD
+=Apocope 2
 
 
 
@@ -825,7 +820,7 @@ t̪ > d̪ / __ ʒ $ F189 FLAG because maybe this voicing is intervocalic voicing
 
 $ ∅ > t̪ / r __ # $ F129 according to francesc this happens in oriental. can't tell if it's doing anything EDIT NO NO NO NO NO IT'S BAD $ FLAG made it worse
 
-[-lo,+syl] > e / [+stres] ([-syl]) [+cons,+son] ([-syl]) __ # $ F91 FLAG for output
+[-lo,-hi,+syl] > e / [+stres] ([-syl]) [+cons,+son] ([-syl]) __ # $ F91 FLAG for output. also HIT? added -hi to input
 
 $ e > ɔ / ˈɔ ([-syl])* __ # $ F92 FLAG unsure of output also FLAG this rule is just awful. and possibly analogic because i think it only affects masculine nouns
 
