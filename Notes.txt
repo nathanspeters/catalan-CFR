@@ -68,3 +68,12 @@ Wheeler (2007(?)) suggests that (some) apocope bleeds syncope. try to implement 
 ---namely, complex apocopes happen before the posttonic syncopes. simple apocope is bled by posttonic syncope, as we have seen
 
 our nasal dissimilation rules might be too late.
+
+
+
+hiatus repair has lots of issues:
+-apparently intervocalic ʝ deletion happens before intervocalic z deletion. hiatus repair happens after ʝ deletion but not after z deletion
+
+
+
+add r>l/__(anything)*l
