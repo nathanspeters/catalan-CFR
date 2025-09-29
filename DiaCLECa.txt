@@ -948,7 +948,7 @@ $β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ FLAG i have it phrased like thi
 $ p > b / @ __ t̪ $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
 $ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
 	$EDIT: this is not getting taken care of. choosing to replace it with the cluster getting voiced as a whole unit.
-p t̪ > b d̪ / [-cons] __ [-cons] [+lat] $ F137+139, but I added [+lat]. HIT?
+p t̪ > b d̪ / [-cons] __ [-cons] [+lat] $ F137+139, but I added [+lat]. this fix seems iffy. HIT?
 
 
 b > β / [-nas] __ ɾ $ i THINK this is in francesc but idk where
