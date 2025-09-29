@@ -65,7 +65,7 @@ the deletion before /__s# just feels like a missed syncope. fix the syncope
 
 
 Wheeler (2007) syncopes making things worse. figure out why.
-
+Wheeler also wants intervocalic voicing to precede syncope. This is wrong. Do not give in.
 Wheeler also suggests that (some) apocope bleeds syncope. try to implement this later because the evidence presented is convincing
 ---namely, complex apocopes happen before the posttonic syncopes. simple apocope is bled by posttonic syncope, as we have seen
 
@@ -79,3 +79,18 @@ hiatus repair has lots of issues:
 
 
 add r>l/__(anything)*l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIGHEST PRIORITY NEXT TIME: figure out T'K outcomes. this is an opportunity for some good, easy progress.
