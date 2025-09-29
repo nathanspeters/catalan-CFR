@@ -64,7 +64,9 @@ the deletion before /__s# just feels like a missed syncope. fix the syncope
 
 
 
-Wheeler (2007(?)) suggests that (some) apocope bleeds syncope. try to implement this later because the evidence presented is convincing
+Wheeler (2007) syncopes making things worse. figure out why.
+
+Wheeler also suggests that (some) apocope bleeds syncope. try to implement this later because the evidence presented is convincing
 ---namely, complex apocopes happen before the posttonic syncopes. simple apocope is bled by posttonic syncope, as we have seen
 
 our nasal dissimilation rules might be too late.

@@ -563,10 +563,16 @@ l > d̪ / __ [+syl] l $ F120
 $$$$$$$$$$ syncope 1
 
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
-
 [+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
-
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
+
+$$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They also don't work as well as the ones above, so workshop these later.
+$[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ prelocus conditioning to allow geminate obstruents
+$[+syl,-stres] > ∅ / [+stres] [+son,-nas] __ [+son,-lat] [+lo] $ Wheeler also gives Carolus>Carles (p. 11), so removing [+lo] for now. might add back later <--adding [+lo] does make this better
+$[+syl,-stres] > ∅ / [+stres] [+cons] __ [+lat] [+lo] $ always [+lo] except for a few exceptions, as noted by Wheeler
+$[+syl,-stres] > ∅ / [+stres] [+nas] __ [+nas] [+lo] $ per Wheeler p. 16
+$[+syl,-stres] > ∅ / [+stres] [+nas,+ant] __ ɾ [+syl] $ per Wheeler p. 19. exclusion of other pre-ɾ syncopes due to Wheeler's analogy hypothesis, same page
+$[+syl,-stres] > ∅ / [+stres] {s;[+son]} [-cont] __ {[+son];[-cont]} [+syl] $ technically last bit of conditioning should be [-cont,+voi], but we have the intervocalic voicing rule after posttonic syncope right now
 
 =Syncope 1
 
@@ -942,7 +948,7 @@ $β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ FLAG i have it phrased like thi
 $ p > b / @ __ t̪ $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
 $ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
 	$EDIT: this is not getting taken care of. choosing to replace it with the cluster getting voiced as a whole unit.
-p t̪ > b d̪ / [-cons] __ [-cons] $ F137+139
+p t̪ > b d̪ / [-cons] __ [-cons] [+lat] $ F137+139, but I added [+lat]. HIT?
 
 
 b > β / [-nas] __ ɾ $ i THINK this is in francesc but idk where
