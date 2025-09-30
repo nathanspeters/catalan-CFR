@@ -447,6 +447,8 @@ $ ...pulling some stuff from clayton's "ballpark later rules" to get to a more w
 
 ɫ > l $ here for convenience
 
+d̪ > k / __ k $ there's no way this isn't somewhere in francesc but idk where it is.
+
 [-cont] > [-voi] / # [-prim] __ [-voi] $ prefix consonant devoicing rule. may need further specification. probably in fransesc
 
 x > ∅ / __ [-cont,+voi] $ FLAG where did this come from? why didn't i say where it came from?!
@@ -562,17 +564,18 @@ l > d̪ / __ [+syl] l $ F120
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
-[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
-[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
+$[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
+$[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
+$[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
 $$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They also don't work as well as the ones above, so workshop these later.
-$[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ prelocus conditioning to allow geminate obstruents
-$[+syl,-stres] > ∅ / [+stres] [+son,-nas] __ [+son,-lat] [+lo] $ Wheeler also gives Carolus>Carles (p. 11), so removing [+lo] for now. might add back later <--adding [+lo] does make this better
-$[+syl,-stres] > ∅ / [+stres] [+cons] __ [+lat] [+lo] $ always [+lo] except for a few exceptions, as noted by Wheeler
-$[+syl,-stres] > ∅ / [+stres] [+nas] __ [+nas] [+lo] $ per Wheeler p. 16
-$[+syl,-stres] > ∅ / [+stres] [+nas,+ant] __ ɾ [+syl] $ per Wheeler p. 19. exclusion of other pre-ɾ syncopes due to Wheeler's analogy hypothesis, same page
-$[+syl,-stres] > ∅ / [+stres] {s;[+son]} [-cont] __ {[+son];[-cont]} [+syl] $ technically last bit of conditioning should be [-cont,+voi], but we have the intervocalic voicing rule after posttonic syncope right now
+[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ Wheeler says this should also happen after geminates, but this actually appears to be untrue?
+[+syl,-stres] > ∅ / [+stres] [+son,-nas] __ [+son,-lat] [+lo] $ Wheeler also gives Carolus>Carles (p. 11), so removing [+lo] for now. might add back later <--adding [+lo] does make this better
+[+syl,-stres] > ∅ / [+stres] [+cons] __ [+lat] $[+lo] $ always [+lo] except for a few exceptions, as noted by Wheeler. adding/removing [+lo] doesn't change accuracy, so removing it. (also complete lack of l-final words a huge giveaway that this is probably wrong)
+[+syl,-stres] > ∅ / [+stres] [+cons] __ [+nas] [+lo] $ per Wheeler p. 16
+[+syl,-stres] > ∅ / [+stres] [+nas,-front] __ r [+syl] $ per Wheeler p. 19
+[+syl,-stres] > ∅ / [+stres] ({s;[+son]}) [-cont] __ {[+son,-nas];[-cont]} [+syl] $ technically Wheeler implies last bit of conditioning should be [-cont,+voi], but we have the intervocalic voicing rule after posttonic syncope right now, and I intend to keep it there
+[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
 
 =Syncope 1
 
@@ -584,12 +587,14 @@ $[+syl,-stres] > ∅ / [+stres] {s;[+son]} [-cont] __ {[+son];[-cont]} [+syl] $ 
 
 k > c / [+cor,-cont] __ $ not in francesc?
 
-∅ > b / m __ r $ F157
-∅ > d̪ / n̪ __ r $ FLAG fix citation
+∅ > b / m __ [+son,+cons,-nas] $ F157
+∅ > d̪ / n̪ __ [+son,+cons,-nas] $ FLAG fix citation
 
 [-cont] > [+voi] / [-cont,+voi] __ [-cons] $ fixes all our problems i think
 
 [+nas] ɟ > ɲ $ F162+188
+
+c > ʃ / t̪ __ $ skipping some intermediate stages obviously. not(?) in francesc
 
 c > t͡sʲ $ exists to feed F114
 
@@ -614,6 +619,8 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 =tempfsvz
 
 {f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context. somehow b blocks this, which is why the prelocus conditioning is nasty
+
+t̪ ʃ > t͡ʃ $ not(?) in francesc
 
 [-cont] > [+voi] / [+syl] __ [-cons]
 [-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
@@ -762,7 +769,7 @@ n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
-[-lo,-cons,-prim] > ∅ / [+syl] [+cons] __ #
+[-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} __ # $ disallowed after affricates
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
 
 ʝ > i / [+cons] __ # $ not in francesc.
@@ -913,7 +920,7 @@ $follow-up to above: going with a deaffrication rule. seems like the easiest to 
 d̪ z > d͡z $ F146+172
 d̪ ʒ > d͡ʒ $ F189
 
-[+delrel] > [+cont,0delrel] / [+nas] __ $
+[+delrel] > [+cont,0delrel] / [+son,+cons] __ $
 
 ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
 
