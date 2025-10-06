@@ -75,6 +75,7 @@ our nasal dissimilation rules might be too late.
 
 hiatus repair has lots of issues:
 -apparently intervocalic ʝ deletion happens before intervocalic z deletion. hiatus repair happens after ʝ deletion but not after z deletion
+-----EDIT: hiatus repair is apparently a whole issue. the fix isn't this simple
 
 
 

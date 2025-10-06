@@ -447,6 +447,8 @@ $ ...pulling some stuff from clayton's "ballpark later rules" to get to a more w
 
 ɫ > l $ here for convenience
 
+$$$various early assimilations. might be able to generalize these even further later
+[-cont,+voi] > p / __ p $ not in francesc but also not very shocking
 d̪ > k / __ k $ there's no way this isn't somewhere in francesc but idk where it is.
 
 [-cont] > [-voi] / # [-prim] __ [-voi] $ prefix consonant devoicing rule. may need further specification. probably in fransesc
@@ -581,7 +583,14 @@ $[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
 
 
 
+n̪ > r / [-lo,-hi,+front] m __ $ F157 , I added [-lo,-hi,+front] but it doesn't seem to be doing anything (yet...)
+m > b / [+lo] __ n̪ $ not in francesc
+n̪ > ∅ / m __ $ not in francesc?
+$ these don't seem to be doing anything. investigate later.
+
 ð > d̪ / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
+
+ð ð > d̪ d̪ $ apparently this fortifies but only it only occurs in word 1195 adidipsum/adés so FLAG for review
 
 ð > z $ this is just a complete merger at this point (not in francesc)
 
@@ -623,7 +632,7 @@ k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does 
 t̪ ʃ > t͡ʃ $ not(?) in francesc
 
 [-cont] > [+voi] / [+syl] __ [-cons]
-[-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [-cons]
+[-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [+syl]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
 l l > ʎ $ F136
@@ -635,15 +644,8 @@ o > e / [-cons] (([+cons]) {[-son];[+nas]}) [+cons] __ # $ not in francesc (to m
 z > ∅ / [+syl] __ [+stres] $ F111+112 FLAG might need to add @ at the end of the context?
 
 ˈa w > ˈɔ $ F53
-
 ˌa w > ˌɔ $ i doubt francesc ever addresses this but i feel like it's not paper-worthy
-
 a w > ɔ $ F70 FLAG cite whatever else does this as i'm sure it comes up later too ALSO maybe output is o
-
-n̪ > r / [-lo,-hi,+front] m __ $ F157 , I added [-lo,-hi,+front] but it doesn't seem to be doing anything (yet...)
-m > b / [+lo] __ n̪ $ not in francesc
-n̪ > ∅ / m __ $ not in francesc?
-$ these don't seem to be doing anything. investigate later.
 
 
 
@@ -672,11 +674,13 @@ r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermedia
 
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
-l l > ʎ ʎ $ not in francesc 
+l l > ʎ ʎ $ not in francesc
 
 b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but also not in francesc?
 
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
+
+[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know)
 
 k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 
@@ -689,8 +693,6 @@ x > ç / __ [+cor] $ conditioning here is not necessary because all x's at this 
 ʝ > j / __ [+cons] $ not in francesc but would've been in francesc if he had mentioned an intermediate ʝ stage
 
 d z > d͡z $ so this probably just needs to be in the cascade more than once to cover all our bases.
-
-[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know)
 
 [+cons] > ∅ / {[-cont,-nas];r} __ {[-son];[+nas]} $ F175 $ for inclusion of r, see catorze (HIT?)
 
@@ -760,7 +762,7 @@ b > ∅ / {#;[-front]} [+stres] __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LI
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
 
-[+syl,-prim] ˈi > [+stres,+prim] j / __ @ $ F230 HIT? added @
+
 
 ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc
 
@@ -814,6 +816,8 @@ n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
 ʝ > ∅ / [+syl] __ [-cons,-lo,+front] @ $ not in francesc (to my knowledge)
 
 =temphiatus $$$$$$$$the following rule is messing a couple of things up. it probably goes somewhere else in the cascade but moving it to the place i think it should go is causing more problems.
+
+[+syl,-prim] ˈi > [+stres,+prim] j / __ @ $ F230 HIT? added @
 
 [+syl,-stres] > ∅ / __ [+stres] $ F229
 
