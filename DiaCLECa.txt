@@ -564,18 +564,18 @@ l > d̪ / __ [+syl] l $ F120
 
 $$$$$$$$$$ syncope 1
 
-$[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
-$[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
-$[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
+[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
+[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
 
-$$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They also don't work as well as the ones above, so workshop these later.
-[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ Wheeler says this should also happen after geminates, but this actually appears to be untrue?
-[+syl,-stres] > ∅ / [+stres] [+son,-nas] __ [+son,-lat] [+lo] $ Wheeler also gives Carolus>Carles (p. 11), so removing [+lo] for now. might add back later <--adding [+lo] does make this better
-[+syl,-stres] > ∅ / [+stres] [+cons] __ [+lat] $[+lo] $ always [+lo] except for a few exceptions, as noted by Wheeler. adding/removing [+lo] doesn't change accuracy, so removing it. (also complete lack of l-final words a huge giveaway that this is probably wrong)
-[+syl,-stres] > ∅ / [+stres] [+cons] __ [+nas] [+lo] $ per Wheeler p. 16
-[+syl,-stres] > ∅ / [+stres] [+nas,-front] __ r [+syl] $ per Wheeler p. 19
-[+syl,-stres] > ∅ / [+stres] ({s;[+son]}) [-cont] __ {[+son,-nas];[-cont]} [+syl] $ technically Wheeler implies last bit of conditioning should be [-cont,+voi], but we have the intervocalic voicing rule after posttonic syncope right now, and I intend to keep it there
-[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
+$$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They don't work as well as the ones above, so abandoning for now.
+$[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ Wheeler says this should also happen after geminates, but this actually appears to be untrue?
+$[+syl,-stres] > ∅ / [+stres] [+son,-nas] __ [+son,-lat] [+lo] $ Wheeler also gives Carolus>Carles (p. 11), so removing [+lo] for now. might add back later <--adding [+lo] does make this better
+$[+syl,-stres] > ∅ / [+stres] [+cons] __ [+lat] $[+lo] $ always [+lo] except for a few exceptions, as noted by Wheeler. adding/removing [+lo] doesn't change accuracy, so removing it. (also complete lack of l-final words a huge giveaway that this is probably wrong)
+$[+syl,-stres] > ∅ / [+stres] [+cons] __ [+nas] [+lo] $ per Wheeler p. 16
+$[+syl,-stres] > ∅ / [+stres] [+nas,-front] __ r [+syl] $ per Wheeler p. 19
+$[+syl,-stres] > ∅ / [+stres] ({s;[+son]}) [-cont] __ {[+son,-nas];[-cont]} [+syl] $ technically Wheeler implies last bit of conditioning should be [-cont,+voi], but we have the intervocalic voicing rule after posttonic syncope right now, and I intend to keep it there
+$[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
 
 =Syncope 1
 
@@ -698,6 +698,8 @@ k > ∅ / __ s k $ F175 (shown but not described)
 
 $ɟ > ʒ $ F103+186+187 replaced with following
 ɟ > ʝ $ and yes, i believe this is unconditioned
+
+ˈe > ˈi / __ ([-syl])* ʝ $ F45
 
 [-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
 
@@ -876,8 +878,6 @@ $ FLAG F152 says a lot about C'T secundari but i think most of it is just vowel 
 $l > ∅ / __ [+cons] $ F165 FLAG makes it worse
 
 $ʝ > j / ˈe __ $ not in francesc COMMENTED OUT bc i think it's wrong. another rule does this
-
-ˈe > ˈi / __ ([-syl])* ʝ $ F45
 
 $ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36
 
