@@ -1,4 +1,4 @@
-$#https://www.openipa.org/transcription/latin IPA latin
+	$#https://www.openipa.org/transcription/latin IPA latin
 $#Add page numbers for data
 $#Catalan to IPA useful here? https://github.com/Connum/catalan2ipa
 $#Only catalan to french gives IPA https://www.diccionari.cat/catala-frances/diccionari
@@ -33,7 +33,7 @@ $pg 64
 w ˈiː w e r e , b ˈi w ɾ ə $verb. inf. 
 r ˈiː w u m , r ˈi w
 f ˈiː l u m , f ˈi l
-ɡ ˌa l l ˈiː n̪ a m , ɡ ə ʎ i n̪ ə $ FLAGGED for review -- no stress in output
+ɡ ˌa l l ˈiː n̪ a m , ɡ ə ʎ ˈi n̪ ə 
 b ˈiː n̪ u m , b ˈi 
 ˌa p r ˈiː l e m , ə β ɾ ˈi l
 ˌa e̯ s t̪ ˈiː w u m , ə s t̪ ˈi w
