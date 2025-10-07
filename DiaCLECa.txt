@@ -515,6 +515,8 @@ $ FLAG footnote in F36 suggests a diphthongization of ˈɛ>jˈe but that doesn't
 
 ɟ > ʝ / [-cons] __ [+cons] $ F117
 
+n̪ > ʝ / ʝ __ ɛ $ FLAG this is really weird and we may be missing something about the stages of development here. HIT though! I'm pretty sure I've seen this nowhere.
+
 d̪ ʝ > ʒ $ i really REALLY doubt that francesc never talked about this but if he did idk where he did
 
 p > b / [-cons] __ l $ F167 but I added [-cons] to the conditioning
@@ -556,9 +558,12 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 
 l > d̪ / __ [+syl] l $ F120
 
-[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ #
+=temprjjr
 
-[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] [+cons,-nas,-son] __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
+r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons]
+
+[-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
+[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
 
 =Apocope 1
 
@@ -568,7 +573,7 @@ $$$$$$$$$$ syncope 1
 
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
 [+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
-[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] [+syl,+lo] $ ... HIT?
+[+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
 
 $$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They don't work as well as the ones above, so abandoning for now.
 $[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ Wheeler says this should also happen after geminates, but this actually appears to be untrue?
@@ -583,7 +588,7 @@ $[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
 
 
 
-n̪ > r / [-lo,-hi,+front] m __ $ F157 , I added [-lo,-hi,+front] but it doesn't seem to be doing anything (yet...)
+n̪ > r / m __ $ F157
 m > b / [+lo] __ n̪ $ not in francesc
 n̪ > ∅ / m __ $ not in francesc?
 $ these don't seem to be doing anything. investigate later.
@@ -668,10 +673,6 @@ $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 $ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
 $$$replaced by earlier rule
 
-=temprjjr
-
-r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons]
-
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
 l l > ʎ ʎ $ not in francesc
@@ -701,7 +702,8 @@ k > ∅ / __ s k $ F175 (shown but not described)
 $ɟ > ʒ $ F103+186+187 replaced with following
 ɟ > ʝ $ and yes, i believe this is unconditioned
 
-ˈe > ˈi / __ ([-syl])* ʝ $ F45
+$ˈe > ˈi / __ ([-syl])* ʝ $ F45 $ replaced with following
+[+front,-hi,-lo,+tense] > [+hi] / __ ([-syl])* ʝ
 
 [-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
 
@@ -809,7 +811,7 @@ n̪ > ∅ / [-cons] __ # $ F127. if i understand correctly the exceptions to thi
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
 d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
 
-n̪ > ɾ / @ __ ([+syl]) m $ F159 $ HIT? added @
+n̪ > r / @ __ ([+syl]) m $ F159 $ HIT? added @
 
 =tempj
 
@@ -990,3 +992,7 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 
 
 [-son] > [-voi] / __ # $ F131
+
+
+
+ˈe > ˈi / __ t͡ʃ $ only affects 2 etyma, FLAG review for deletion?

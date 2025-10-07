@@ -40,8 +40,10 @@ z-deletion is a problem rule. take notes later
 
 
 rj>jr holds many mysteries
----probably doesn't happen word-finally?
+---probably doesn't happen word-finally? <--but this makes number go down :(
 ---i think the [-back] block we have on it now is wrong (hence its removal)
+---probably feeds apocope
+--------maybe make this next priority. it constitutes a large class of words and has a lot of potential for progress
 
 
 
@@ -83,4 +85,12 @@ add r>l/__(anything)*l
 
 
 
-need to figure out dʒ vs dz
+need to figure out dʒ vs dz <---LATER it only affects a very small number of etyma (3) we can deal with it at the end
+
+
+
+əŋklˈuzə < review bc that l came outta nowhere
+vˈɛrə < review bc v should not exist
+burˈad̪ʒə < review bc that should be an affricate (actually just fix this)
+əβˈuj < review bc this makes no sense
+rˈeŋn̪əs < review bc this makes no sense either ː'(
