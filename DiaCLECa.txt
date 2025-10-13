@@ -363,7 +363,7 @@ $p131 s312, assigned to Late Latin p73 s155-5iv -- but not evident in Pope's tab
 $ as per s293 and s156 however this did not YET affect l + pla-stop -- i.e. not words like culcita 
 $trigger again in Gallo-Roman stage
 l l ʝ > ʎ
-l ʝ > ʎ $ +F194 FLAG may happen way later
+$l ʝ > ʎ $ +F194 FLAG may happen way later EDIT: it totally happens later
 
 $ CORRECTION: unstressed vowels deleted between [+syl] w and {t;d}
 	$ even when not penultimate (Pope's rule s353 applies only for penultimates
@@ -443,7 +443,7 @@ $ ...pulling some stuff from clayton's "ballpark later rules" to get to a more w
 β > b $ marr
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
-ʝ > d̪ / # __ [+syl] ʝ
+ʝ > d̪ / # __ [+syl] ʝ $ I (nathan) added this. it's probably just analogy to other forms with the de- prefix from latin but it happens to all of the examples we have of this in our dataset so here it is
 
 ɫ > l $ here for convenience
 
@@ -496,7 +496,7 @@ a > e / __ s # $ F89 FLAG revisit because francesc yaps a lot on this one and i 
 
 $ FLAG revisit F96 in case any germanic loans were included in CatLLex. rule should be something like ɡwa > ɡo
 
-d̪ > ∅ / __ {r;v} $ F144+145 and F147 FLAG this might be assimilation (and francesc might call it that) but then we gotta get v-b merger above the degemination rule
+d̪ > ∅ / @ __ {r;v} $ F144+145 and F147 FLAG this might be assimilation (and francesc might call it that) but then we gotta get v-b merger above the degemination rule EDIT: v-b merger now above degemination rule. HIT? added @
 
 $u > o / __ m $ F75 COMMENTED OUT doesn't appear to be doing anything?
 
@@ -546,6 +546,8 @@ l > r / __ [+syl] ({[+cons];[-cons]}) l $ F120
 
 {k l;ɡ l} > {ʎ;ʎ} / [-cons] __ $ HIT?
 
+l ʝ > ʎ $ F194
+
 n̪ ʝ > ɲ $ this is in francesc but i forget where
 
 m m > m $ M DEGEMINATION not in francesc(?)
@@ -560,7 +562,8 @@ l > d̪ / __ [+syl] l $ F120
 
 =temprjjr
 
-r ʝ > ʝ r / [-cons] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added [-cons]
+$r ʝ > ʝ r / [+syl] __
+r ʝ > ʝ r / {#;[+son];[+cont];# [-cont,-front];[+syl] [-cont,-front];[+cons,αson] [-cont,-front,αvoi]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning. # by itself is still questionable i think
 
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
@@ -741,7 +744,7 @@ ${ˈo j;ˈɔ j} > {ˈu;ˈu} $ i think this was in francesc but idr where
 $...replaced with:
 [+back,-lo,αstres,βprim] > [+hi,+tense,αstres,βprim] / __ j
 
-z > j / __ β $ this only affects one word and is sorta dubious so FLAG for removal if we decide to get rid of it
+z > j / __ β $ this only affects one word and is sorta dubious so FLAG for removal if we decide to get rid of it (actually i'm starting to see other examples of it maybe happening in other places...)
 
 [-cont] > [+voi] / [-cons] __ r $ F144+153 $ HIT? added [-cons]
 
@@ -763,8 +766,6 @@ $β > ∅ / [+round] __ [+stres]
 b > ∅ / {#;[-front]} [+stres] __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case.
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
-
-
 
 ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc
 
@@ -792,8 +793,7 @@ l > ∅ / __ s @ $ HIT? was this in francesc?! also added @
 ŋ > n̪ / __ [+ant] $ not in francesc but not noteworthy
 
 $ɡ > ∅ / __ ˈa $ F115 COMMENTED OUT according to our data, this is a complete and total lie
-
-ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 FLAG see above
+$ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 COMMENTED OUT see above
 
 {k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
 
@@ -911,6 +911,11 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 
 
+ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
+ʝ > ∅ / ʎ __ $ ...more "oops too many palatals?" can we generalize to [+cons,+front,αlat] > ∅ / [+cons,+front,-αlat] __ ? FLAG
+
+
+
 ʝ > ʒ $ F119   YOD RULE/IOD RULE/JOD RULE
 
 ʒ > d͡ʒ / __ # $ F131 seems to imply this FLAG bc not sure
@@ -926,9 +931,7 @@ $follow-up to above: going with a deaffrication rule. seems like the easiest to 
 d̪ z > d͡z $ F146+172
 d̪ ʒ > d͡ʒ $ F189
 
-[+delrel] > [+cont,0delrel] / [+son,+cons] __ $
-
-ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
+[+delrel] > [+cont,0delrel] / [+son,+cons] __ $ don't think this was in francesc?
 
 
 

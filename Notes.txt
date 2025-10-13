@@ -86,3 +86,13 @@ add r>l/__(anything)*l
 
 
 need to figure out dʒ vs dz <---LATER it only affects a very small number of etyma (3) we can deal with it at the end
+---also, tell max to find more etyma with dz in the output
+
+
+
+is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there)
+
+
+
+
+NEXT TIMEː try to move ˈa > ˈe / __ [+cons] ʝ to before degemination, figure out how to chop i off the end of acer(i)
