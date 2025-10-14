@@ -2,11 +2,13 @@ APOCOPE FALSE POS
 -517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
 -excrescence DOES bleed syncope 1
 -DEGEMINATION NEEDS TO COUNTERFEED at least some of the apocope rules. probably the simple apocope at a minimum and maybe even the liquid cluster apocope.
+---maybe...prioritize this?
 
 POSTTONIC SYNCOPE
 -actually seems like there's some low-ish hanging fruit here:
 ---seems to need [-lat] in the post-locus segment but maybe only when after secondary stress?
 ---speaking of which, might just behave differently when after secondary stress
+-between nasals needs further examination/clarification
 
 PRETONIC SYNCOPE
 -blocked by preceding double consonant
@@ -91,8 +93,3 @@ need to figure out dʒ vs dz <---LATER it only affects a very small number of et
 
 
 is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there)
-
-
-
-
-NEXT TIMEː try to move ˈa > ˈe / __ [+cons] ʝ to before degemination, figure out how to chop i off the end of acer(i)

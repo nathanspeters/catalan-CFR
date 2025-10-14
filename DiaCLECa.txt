@@ -458,7 +458,8 @@ x > ∅ / __ [-cont,+voi] $ FLAG where did this come from? why didn't i say wher
 w > ∅ / [-back,+cons] [-back,+cons] __ $ F179
 w > ∅ / n̪ __ $ F179
 
-w > ∅ / {k;ɡ} __ [+front,-lo] $ i'm sure this is in francesc somewhere but idk where FLAG the k appears to not be doing anything
+=tempw0
+$w > ∅ / {k;ɡ} __ [+front,-lo] $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION
 
 ŋ n̪ > ɲ $ F155 not really what francesc says happens but i'm giving him the benefit of the doubt and just writing a rule that actually does something
 
@@ -563,7 +564,7 @@ l > d̪ / __ [+syl] l $ F120
 =temprjjr
 
 $r ʝ > ʝ r / [+syl] __
-r ʝ > ʝ r / {#;[+son];[+cont];# [-cont,-front];[+syl] [-cont,-front];[+cons,αson] [-cont,-front,αvoi]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning. # by itself is still questionable i think
+r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[+cons,αson] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning
 
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
@@ -577,6 +578,7 @@ $$$$$$$$$$ syncope 1
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
 [+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
+[+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT?
 
 $$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They don't work as well as the ones above, so abandoning for now.
 $[+syl,-stres] > ∅ / [+stres] [+cons] __ {[-cont];m} [+syl] $ Wheeler says this should also happen after geminates, but this actually appears to be untrue?
@@ -590,6 +592,8 @@ $[+syl,-stres] > ∅ / [+stres] [+cont,-son,+voi] __ r [+lo] $ per Wheeler p. 19
 =Syncope 1
 
 
+
+w > u / [+cons] __ [+cons] $ HIT?
 
 n̪ > r / m __ $ F157
 m > b / [+lo] __ n̪ $ not in francesc
@@ -776,7 +780,7 @@ n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
-[-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} __ # $ disallowed after affricates
+[-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
 [-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
 
 ʝ > i / [+cons] __ # $ not in francesc.
@@ -827,9 +831,6 @@ n̪ > r / @ __ ([+syl]) m $ F159 $ HIT? added @
 
 t̪ > ∅ / {n̪;[-stres]} __ # $ F172 + HIT? on the [-stres] HIT? removed s from context
 
-∅ ɡ n̪ > ŋ ɡ ∅ / [-nas] __
-∅ ɡ [+syl] n̪ > ŋ ɡ [+syl] ∅ / [-nas] __ $ this rule (this rule+prev rule are "one rule" but diasim doesn't support a disjunction with a feature matrix yet) only affects 2 words but they're the only two words that it Could affect and also it's not crazy so i'm comfortable including it
-
 
 
 [+stres,-prim] > [+prim] / {#;# ([-syl])* [-stres]} ([-syl])* __ ([-syl])* {#;[-stres] ([-syl])* #;[-stres] ([-syl])* [-stres] ([-syl])*#} $ HIT?
@@ -868,7 +869,7 @@ j > ∅ / ˈe __ $ F51 doesn't appear to be doing anything. FLAG i think this mi
 
 a j > e $ implied by F67
 
-ˈa > ˈe / __ [+cons] ʝ $ F67
+$ˈa > ˈe / __ [+cons] ʝ $ F67 $ actually this is plain wrong
 
 $o > e / __ ([-syl])* ˈo $ F73 COMMENTED OUT doesn't appear to be doing anything?
 
@@ -945,11 +946,13 @@ d̪ ʒ > d͡ʒ $ F189
 
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ {[-cons];ɾ} $ F109+110 FLAG fix citation HIT? added ;ɾ
 
+w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION (also I added #)
+
 [+voi,+cont,-son] > w / [+stres] __ # $ F130 AGAIN. THIS MAKES NO SENSE. also HIT? because i simplified it a lot. also possible that there is an intermediate stage > β >, which makes more sense to me than z > w
 
 ð > ∅ / [-cont] ɾ [+syl] __ [+stres] $ not in francesc ALSO really weird?
 
-{ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab]
+{ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab,-back] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab,-back]
 
 ˈe > ˈɛ / __ w $ not in francesc HIT?
 ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
