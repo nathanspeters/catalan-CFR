@@ -121,13 +121,13 @@ $ CORRECTION (addition) : ʝ is deleted when coming after # + velar + w (cases o
 	$ this may look like overfitting but the errors that result are of a frankly uninteresting nature and better removed.
 ʝ > ∅ / # [+back,-cont] w __  
 
-=tempgww00j
 $p91 s187iic -- explicitly must come after p102 s220 
 $effacement of w before jod. 
 $NOTE however that in many nouns this was reversed by analogy (see p92 s188)
 $affects w as per laqueum > latz > "lacs"
-{ɣʷ;w} > {∅;∅} / __ ʝ
-$suppressing this rule increases accuracy. the note above explains this discrepancy.
+{ɣʷ;w} > {∅;∅} / [+hi,-lat] __ ʝ
+$found non-analogical conditioning ([+hi,-lat]) that improves accuracy greatly. -nathan
+$besides, forms like ˌɑbbrˌɛɣʷʝˈɑːrɛ, ˌɑɡɡrˌɛɣʷʝˈɑːrɛ, and ˌɑllˌɛɣʷʝˈɑːrɛ couldn't have been repaired by analogy because ʝ is present across the paradigm.
 
 $p91 s187iia
 $ CORRECTION: This seems to only reliably occur after /ɑ/ and /ɑː/ -- this is a better reason why vivum, ovum and nativum are unaffected than "analogy" (which Pope says in s188).
@@ -437,15 +437,19 @@ $ˌi > ˌe / __ ([-syl])* [+hi,-round,+prim,+tense] $i.e. by i $ FLAG made it wo
 
 $ and as there are no long vowels in Catalan, i can say i'm fairly confident there aren't any lengthening rules before the split.
 
-$ ...pulling some stuff from clayton's "ballpark later rules" to get to a more workable position
+ɫ > l $ here for convenience
+
+l > ʎ / # __ $ F106
+
+b > ∅ / {#;[-front]} [+stres] ([-cons,-syl]) __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case. $ HUGE FLAG this seems to only affect forms coming out of late latin.
+
+w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to following "hard" yod in this context. possible new sound law.
 
 βʷ > β $ marr
 β > b $ marr
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
 ʝ > d̪ / # __ [+syl] ʝ $ I (nathan) added this. it's probably just analogy to other forms with the de- prefix from latin but it happens to all of the examples we have of this in our dataset so here it is
-
-ɫ > l $ here for convenience
 
 $$$various early assimilations. might be able to generalize these even further later
 [-cont,+voi] > p / __ p $ not in francesc but also not very shocking
@@ -459,7 +463,7 @@ w > ∅ / [-back,+cons] [-back,+cons] __ $ F179
 w > ∅ / n̪ __ $ F179
 
 =tempw0
-$w > ∅ / {k;ɡ} __ [+front,-lo] $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION
+$w > ∅ / {k;ɡ} __ [+front,-lo] $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION $ i moved this a lot later in the cascade but that may have been the wrong move... please review later
 
 ŋ n̪ > ɲ $ F155 not really what francesc says happens but i'm giving him the benefit of the doubt and just writing a rule that actually does something
 
@@ -480,8 +484,6 @@ m > n̪ / __ n̪ $ F157 not what francesc says actually happens but i think it's
 ∅ [+syl] r > r [+syl] ∅ / [+syl] ([-syl])* __ # $ F124   R METATHESIS
 
 $ FLAG revisit F166 for whatever is going on with the r>l HOWEVER don't include in baseline as francesc appears to not know what's going on ALSO probably doesn't happen in oriental? but if it does it's r > l / __ l and it's AFTER l l > lambda
-
-l > ʎ / # __ $ F106
 
 {p;b} > {t̪;t̪} / @ __ t̪ $ F137 NOTE TO CLAYTON i wish i could only have one output listed here. just sayin'
 
@@ -561,10 +563,8 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 
 l > d̪ / __ [+syl] l $ F120
 
-=temprjjr
-
 $r ʝ > ʝ r / [+syl] __
-r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[+cons,αson] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning
+r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[+cons,αson] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
 
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
@@ -684,7 +684,7 @@ $$$replaced by earlier rule
 
 l l > ʎ ʎ $ not in francesc
 
-b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but also not in francesc?
+$b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but also not in francesc? $ EDIT I replaced this with an assimilation rule.
 
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
 
@@ -692,7 +692,7 @@ b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but a
 
 k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 
-$$$following replaced with the even-followinger
+$$$following replaced with the even followinger
 $$$x > ∅ / __ t̪ [+stres] $ F152 not what francesc specifies but i wanted a rule that does something
 $$$x > j / __ t̪ $ F151 not what francesc specifies but i wanted a rule that does something FLAG probably goes x>ç>ʝ>j sometime after syncope 1 ALSO happens before things that aren't t (such as the s that arises in lectionem)
 x > ç / __ [+cor] $ conditioning here is not necessary because all x's at this point meet this condition. just wanted to include the motivation for the change
@@ -710,7 +710,7 @@ $ɟ > ʒ $ F103+186+187 replaced with following
 ɟ > ʝ $ and yes, i believe this is unconditioned
 
 $ˈe > ˈi / __ ([-syl])* ʝ $ F45 $ replaced with following
-[+front,-hi,-lo,+tense] > [+hi] / __ ([-syl])* ʝ
+[+front,-hi,-lo,+tense] > [+hi] / __ ([-syl])* ʝ $ FLAG THIS NEEDS TO BE BLED BY DELETION or some other solution (i think we have options actually)
 
 [-cont] > ∅ / [+cons] __ [-cont,-son] $ HIT?
 
@@ -728,14 +728,7 @@ $n̪ > r / __ ([-son])* [+syl] ([-son])* n̪ $ F120
 n̪ > r / __ [+syl] ([-son])* n̪ $ F120 updated
 
 r > ɾ / {[-stres,+syl];[-cons,-syl];[+nas];[-son];[+lat]} __ {[-cons];[+nas];[-son];[+lat]} $ not in francesc. conditioning intended to make this rule occur between everything except r or a word boundary. also doesn't occur after a stressed vowel. [+lat] included in conditioning just for completeness's sake but i don't believe there are any rl or lr sequences
-
 r > ɾ / [+stres] __ [-cons] $ not in francesc
-
-{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
-
-=Degeminated
-
-
 
 i > j / [+syl] __ $ not in francesc but not particularly interesting
 u > w / [+syl] __ $ see above
@@ -747,6 +740,8 @@ $...replaced with:
 ${ˈo j;ˈɔ j} > {ˈu;ˈu} $ i think this was in francesc but idr where
 $...replaced with:
 [+back,-lo,αstres,βprim] > [+hi,+tense,αstres,βprim] / __ j
+$...and also:
+[+back,-lo,αstres,βprim] > [+hi,+tense,αstres,βprim] / __ ([-syl])* ʝ
 
 z > j / __ β $ this only affects one word and is sorta dubious so FLAG for removal if we decide to get rid of it (actually i'm starting to see other examples of it maybe happening in other places...)
 
@@ -767,14 +762,14 @@ $β > ∅ / [+round] __ [+stres]
 
 [+syl,-stres] > ∅ / [+stres] __ @ $ there's no way this isn't in francesc but idk where it is HIT? added @
 
-b > ∅ / {#;[-front]} [+stres] __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case.
-
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
 
 ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc
 
 $n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages) $REPLACED BY FOLLOWING RULE
 n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
+
+{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
 
 
 
@@ -804,6 +799,7 @@ $ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 COMMENTED OUT see above
 {r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] ([-syl])* __ # $ F128+129 definitely only polysyllabics this time
 
 {r;ɾ} > {l;l} / [+syl] __ ([-son])* [+syl] ([-son])* {r;ɾ} $ F120
+${r;ɾ} > {l;l} / [+syl] __ ([-son])* [+syl] ([-son])* {r;ɾ} $ FLAG make a version of the above that 1. happens in more words and 2. doesn't mess things up
 
 r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 
@@ -856,11 +852,9 @@ r > l / __ b [+syl] r $ F166 FLAG for deletion this rule may be redundant
 ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
 
 j > ∅ / __ ˈi $ F151
-
 j > ∅ / ˈi __ $ F151
 
 w > ∅ / __ [+hi,+back,-cons] $ not in francesc (to my knowledge)
-
 w > ∅ / [+hi,+back,-cons] __ $ not in francesc (to my knowledge)
 
 ˈa > ˈe / __ {j;ʃ} $ F51 doesn't appear to be doing anything
@@ -870,22 +864,17 @@ j > ∅ / ˈe __ $ F51 doesn't appear to be doing anything. FLAG i think this mi
 a j > e $ implied by F67
 
 $ˈa > ˈe / __ [+cons] ʝ $ F67 $ actually this is plain wrong
-
 $o > e / __ ([-syl])* ˈo $ F73 COMMENTED OUT doesn't appear to be doing anything?
-
 ${ˈo;o} > {ˈu;u} / __ [+front,+hi] $ F59+72 FLAG makes it worse
-
 $ˈa > ˈɛ / __ r r $ F50 $ FLAG makes it worse
 
-ɾ > ∅ / @ __ ([+syl]) ([-syl])* ɾ $ F174 HIT? added @
+ɾ > ∅ / [-cont] __ ([+syl]) ([-syl])* ɾ $ F174 HIT? added [-cont]
 s > ∅ / @ __ ([+syl]) ([-syl])* s $ F174 HIT? added @
 
 $ FLAG F152 says a lot about C'T secundari but i think most of it is just vowel stuff that affects everything else
 
 $l > ∅ / __ [+cons] $ F165 FLAG makes it worse
-
 $ʝ > j / ˈe __ $ not in francesc COMMENTED OUT bc i think it's wrong. another rule does this
-
 $ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36
 
 ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
@@ -944,7 +933,7 @@ d̪ ʒ > d͡ʒ $ F189
 
 β > b / # __ $ this one i think Actually isn't mentioned directly but just in case FLAG go through F2.1 Consonants inicials to see if this is ever mentioned
 
-[-cont,+voi,-son,-delrel] > [+cont,0delrel] / [-cons] __ {[-cons];ɾ} $ F109+110 FLAG fix citation HIT? added ;ɾ
+[-cont,+voi,-son,-delrel] > [+cont,0delrel] / {[-cons];l} __ {[-cons];ɾ} $ F109+110 FLAG fix citation HIT? added ;l and ;ɾ
 
 w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION (also I added #)
 
@@ -989,6 +978,7 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 
 
 [+nas] > m / __ [+lab,+cons] $ again, we just need a good nasal place assimilation rule
+$m > ɱ / __ f $ but we need to fix the lexicon before we implement this
 [+nas] > n̪ / __ s $ AGAIN again, we just need a good nasal place assimilation rule
 
 

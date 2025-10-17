@@ -140,7 +140,7 @@ f ˈeː k iː , f ˈi w $verb. 1sg.perf.act.
 ˈi b iː , ˈi
 m ˈi h iː , m ˈi
 s ˈi b iː , s ˈi
-s t̪ ˈeː t̪ u iː , ə s t̪ ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres $ FLAGGED for review
+s t̪ ˈeː t̪ u iː , ə s t̪ ˈi k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres $ FLAGGED for review -- the development of the final consonant is weird. either confirm that the input/output is wrong OR find more examples of latin words ending in -tuī to add to the lexicon
 t̪ ˈeː n̪ u iː , t̪ ˈi ŋ k $verb. Originally 1sg.perf.act in Latin it seems, now 1sg.pres.  
 w ˌi ɡ ˈi n̪ t̪ iː , b ˈi n̪
 d̪ ˈi a , d̪ ˈi ə $inherited from a *dia. Latin was diēs. Consider revisiting. 
@@ -213,7 +213,7 @@ f ˈa k t̪ u m , f ˈe t̪
 l ˈa k t̪ e m , ʎ ˈe t̪
 p l ˈa k i t̪ u m , p l ˈe t̪
 t̪ r ˈa k t̪ u m , t̪ ɾ ˈe t̪
-w e r w a k t̪ u m , ɡ w ə ɾ ˈɛ t̪ $"Germanic influence". Cf. Spanish barbecho. Reexamine. 
+w e r w a k t̪ u m , ɡ w ə ɾ ˈɛ t̪ $"Germanic influence". Cf. Spanish barbecho. Reexamine. $ FLAGGED for review -- first of all, no stress in input; secondly, the outcome we're getting right now is /biɾbət̪ə/, so this output makes pretty much no sense at all
 ˈa k s e m , ˈe ʃ
 f ˈa s k i a m , f ˈe ʃ ə
 f ˈa s k e m , f ˈe ʃ
@@ -1019,7 +1019,7 @@ r ˈeː t̪ i n̪ a s , r ˈe ŋ n̪ ə s $ FLAGGED for review -- this output ma
 $l e ɡ i t̪ i m u , $#not found. old catalan
 $k u l k i t̪ r a , $#not found
 p ˈa t̪ r e m , p ˈa ɾ ə
-m aː t̪ r e m , m ˈa ɾ ə 
+m aː t̪ r e m , m ˈa ɾ ə $ FLAGGED for review -- no stress in input
 p ˈe t̪ r a m , p ˈe ð ɾ ə $#old catalan <pera>
 d̪ ˌeː r ˈe t̪ r oː , d̪ ə r ˈe ɾ ə
 p ˌa t̪ r ˈa s t̪ r u m , p ə ð ˈa s t̪ ɾ ə $#strange case. This is old catalan i believe.
@@ -1171,7 +1171,7 @@ $#pg 123
 p ˌu l i k ˈoː n̪ e m , p u ɣ ˈo
 $k u l m i n̪ aː r i a , $#not found
 k ˈo l p u m , k ˈɔ p
-p ˈa l m u m , p ˈa m
+p ˈa l m u m , p ˈa m $ FLAGGED for review -- l deletion seems irregular
 b ˈa r b a m , b ˈa r b ə
 m ˌa r t̪ ˈe l l u m , m ə r t̪ ˈe ʎ
 p ˌe r d̪ ˈiː k e m , p ə r d̪ ˈi w 

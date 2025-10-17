@@ -41,14 +41,6 @@ z-deletion is a problem rule. take notes later
 
 
 
-rj>jr holds many mysteries
----probably doesn't happen word-finally? <--but this makes number go down :(
----i think the [-back] block we have on it now is wrong (hence its removal)
----probably feeds apocope <--RESOLVED. (yes it does)
---------maybe make this next priority. it constitutes a large class of words and has a lot of potential for progress
-
-
-
 another huge hole: late latin c doesn't go to z every time. we have it accurately going to ʃ when it needs to but it only >z>∅ sometimes.
 ---semi-related issue: late latin t͡sʲ doesn't always have the same outcomes as late latin c (unless i'm reading it wrong (<--might've been reading it wrong...))
 
@@ -93,3 +85,11 @@ need to figure out dʒ vs dz <---LATER it only affects a very small number of et
 
 
 is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there)
+
+
+
+
+
+
+
+ASK CLAYTON about m/ɱ
