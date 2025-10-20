@@ -119,13 +119,13 @@ $ w, newly from u,o in hiatus is clearly NOT effected by this as per treatment i
 
 $ CORRECTION (addition) : ʝ is deleted when coming after # + velar + w (cases of quie:tum etc...)
 	$ this may look like overfitting but the errors that result are of a frankly uninteresting nature and better removed.
-ʝ > ∅ / # [+back,-cont] w __  
+ʝ > ∅ / # [+back,-cont] w __
 
 $p91 s187iic -- explicitly must come after p102 s220 
 $effacement of w before jod. 
 $NOTE however that in many nouns this was reversed by analogy (see p92 s188)
 $affects w as per laqueum > latz > "lacs"
-{ɣʷ;w} > {∅;∅} / [+hi,-lat] __ ʝ
+{ɣʷ;w} > {∅;∅} / [+hi,-cor] __ ʝ
 $found non-analogical conditioning ([+hi,-lat]) that improves accuracy greatly. -nathan
 $besides, forms like ˌɑbbrˌɛɣʷʝˈɑːrɛ, ˌɑɡɡrˌɛɣʷʝˈɑːrɛ, and ˌɑllˌɛɣʷʝˈɑːrɛ couldn't have been repaired by analogy because ʝ is present across the paradigm.
 

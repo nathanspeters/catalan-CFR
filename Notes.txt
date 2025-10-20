@@ -9,6 +9,7 @@ POSTTONIC SYNCOPE
 ---seems to need [-lat] in the post-locus segment but maybe only when after secondary stress?
 ---speaking of which, might just behave differently when after secondary stress
 -between nasals needs further examination/clarification
+-maybe needs to be blocked before fricatives?
 
 PRETONIC SYNCOPE
 -blocked by preceding double consonant
@@ -88,7 +89,7 @@ is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t�
 
 
 
-
+ok i really want to work on 'e problems but it looks like I need to figure out the early stress shift ***MAKE THIS TOP PRIORITY TOMORROW***
 
 
 
