@@ -1,15 +1,18 @@
 APOCOPE FALSE POS
 -517-528 we need an apocope that acts before syncope 1 that somehow doesn't break anything.
--excrescence DOES bleed syncope 1
+-excrescence DOES bleed syncope 1 <--what excrescence?
 -DEGEMINATION NEEDS TO COUNTERFEED at least some of the apocope rules. probably the simple apocope at a minimum and maybe even the liquid cluster apocope.
 ---maybe...prioritize this?
+-----doesn't affect accuracy anymore when i do this...
 
 POSTTONIC SYNCOPE
 -actually seems like there's some low-ish hanging fruit here:
 ---seems to need [-lat] in the post-locus segment but maybe only when after secondary stress?
 ---speaking of which, might just behave differently when after secondary stress
 -between nasals needs further examination/clarification
--maybe needs to be blocked before fricatives?
+-maybe needs to be blocked before fricatives? EDIT: see below
+---ok this needs blocked before all voiced fricatives. (probably not voiceless ones, but keep this in mind for later.) you may notice that it looks like it *should* happen after beta. this is false. these forms are getting got by the *pre*tonic syncope, not the posttonic one. see 742 paraveredum>palafrè.
+-------ok so actually the issue appears to be more complicated than this (see forms with ˈVtið)
 
 PRETONIC SYNCOPE
 -blocked by preceding double consonant
@@ -89,7 +92,24 @@ is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t�
 
 
 
-ok i really want to work on 'e problems but it looks like I need to figure out the early stress shift ***MAKE THIS TOP PRIORITY TOMORROW***
+s~w/__# confusion needs looked at in depth
+
+
+
+ok i really want to work on 'e problems but it looks like I need to figure out the early stress shift:
+---appears to have something to do with {[+lo];[-lo,-hi,-tense]} C (W) {[+hi];[-lo,-hi,+tense]}, but other things would need to feed this (namely a couple of /ˌe/s lowering to /ˌɛ/)
+
+
+
+add https://www.diccionari.cat/GDLC/treure# note to catllex
+#n̪ˌekˈuːn̪um#     | *#n̪ˌɛkˈun̪o#      | *#n̪əɣˈu#          | #n̪iŋɡˈu#
+bəllˈa
+961,  | #lˌen̪d̪ˈin̪em#    | *#lˌɛn̪d̪ˈen̪ɛ#    | *#ʎin̪ˈe#          | #ʎˈemən̪ə#
+ #vˌikˈaːt̪am#      | *#vˌekˈɑt̪ɑ#       | *#bəɣˈaðə#         | #bəɣˈa#
+
+
+
+NEXT TIME: s/w confusion and the thing i wrote in my notebook about eth deletion/lenition needs work but has promise
 
 
 

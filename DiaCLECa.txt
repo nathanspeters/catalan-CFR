@@ -575,8 +575,8 @@ r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[+cons,αson] [-cont,αvoi];[-
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added -nas and [+syl]
-[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-son] [+syl] $ not in francesc
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before voiced fricatives.
+[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-nas] [+syl] $ not in francesc
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
 [+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT? <--but this might just work better as an addition to syncope 2. feels really weird here tbh
 
@@ -768,6 +768,8 @@ $β > ∅ / [+round] __ [+stres]
 
 $n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages) $REPLACED BY FOLLOWING RULE
 n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
+
+[-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
 
 {p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
 
