@@ -722,7 +722,7 @@ n̪ ˈiː d̪ u m , n̪ ˈi w
 n̪ ˈu m e r u m , n̪ ˈɔ m b ɾ ə
 m ˈe s p i l a m , n̪ ˈe s p l ə
 $m u s k a t̪ a , $#not found
-n̪ ˌe k ˈuː n̪ u m , n̪ i ŋ ɡ ˈu
+n̪ ˌe k ˈuː n̪ u m , n̪ i ŋ ɡ ˈu $ FLAGGED for review -- just make sure it's not a borrowing from some other romance language bc they all have basically this exact form
 r ˈaː d̪ e r e , r ˈa w ɾ ə $verb. inf.
 r ˌe k ˈi p e r e , r ˈɛ β ɾ ə $verb. inf.
 r ˈi k k u m , r ˈi k
@@ -773,7 +773,7 @@ p ˌa t̪ ˈeː l l a m , p ə ˈe ʎ ə
 k w ˌa t̪ ˈe r n̪ u m , k w ə ð ˈe r n̪ $#self. more modern version here. Fransesc uses old catalan version
 s p ˈa t̪ʰ a m , ə s p ˈa z ə $#old catalan espaa
 t̪ r ˌi t̪ ˈaː r e , t̪ ɾ i ˈa $verb. inf.
-v ˌi k ˈaː t̪ a m , b ə ɣ ˈa 
+v ˌi k ˈaː t̪ a m , b ə ɣ ˈa $ FLAGGED for review -- does the latin form really have /v/? I don't think this actually makes a difference since it all merges in catalan anyway
 l ˌaː b o r aː t̪ ˈoː r e m , ʎ ə w ɾ ə ð ˈo $#self. fransesc suggests an older llauraor
 b ˈoː t̪ a n̪ , b u t̪ ˈa $Germanic? Reexamine.
 b r ˈu t̪ a n̪ , b ɾ u t̪ ˈa $Germanic? Reexamine. 
@@ -830,7 +830,7 @@ k w ˌa d̪ r aː ɡ ˈeː s i m a m , k w ə ɾ ˈɛ z m ə
 b ˌo r r ˈa ɡ i n̪ a m , b u r ˈa j n̪ ə
 $b r u ɡ i t̪ u , $#not found. bruit
 k ˌo ɡ i t̪ ˈaː r e , k u j t̪ ˈa $verb. inf.
-w ˌi ɡ i l ˈaː r e , b ə l l ˈa $verb. inf.# dialectal here
+w ˌi ɡ i l ˈaː r e , b ə l l ˈa $verb. inf.# dialectal here $ FLAGGED for review -- output should have lambda(s)?
 $d̪ o ɡ e l l a , $#self
 m ˌa ɡ ˈi s t̪ r u m , m ˈɛ s t̪ ɾ ə
 n̪ ˌi ɡ ˈe l l a m , n̪ i ˈe ʎ ə
@@ -1131,7 +1131,7 @@ $t̪ e n̪ d̪ i k u l a , $#not found
 w ˈe n̪ d̪ u n̪ t̪ , b ˈɛ n̪ ə n̪ $verb. 3pl. pres. 
 ɡ ˌe r ˈu n̪ d̪ a m , ʒ i ɾ ˈo n̪ ə 
 k ˌoː n̪ d̪ o m ˈiː n̪ a m , k u ɾ u m ˈi n̪ ə 
-l ˌe n̪ d̪ ˈi n̪ e m , ʎ ˈe m ə n̪ ə $#old catalan <lénena>
+l ˌe n̪ d̪ ˈi n̪ e m , ʎ ˈe m ə n̪ ə $#old catalan <lénena> $ FLAGGED for review -- the m is weird; dissimilation usually doesn't happen like this. if confirmed, please find more examples of n>m
 ˌa d̪ d̪ e n̪ s ˈaː r e , ə ð ə z ˈa $verb. inf.
 k ˌoː n̪ s u ˈeː r e , k u z ˈi $verb. inf.
 ˌi n̪ k ˈe n̪ s a , ə n̪ s ˈɛ z ə 
