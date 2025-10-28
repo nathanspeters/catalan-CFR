@@ -564,7 +564,7 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 l > d̪ / __ [+syl] l $ F120
 
 $r ʝ > ʝ r / [+syl] __
-r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[+cons,αson] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
+r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
 
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED

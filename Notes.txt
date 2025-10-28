@@ -102,10 +102,6 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 
 add https://www.diccionari.cat/GDLC/treure# note to catllex
-#n̪ˌekˈuːn̪um#     | *#n̪ˌɛkˈun̪o#      | *#n̪əɣˈu#          | #n̪iŋɡˈu#
-bəllˈa
-961,  | #lˌen̪d̪ˈin̪em#    | *#lˌɛn̪d̪ˈen̪ɛ#    | *#ʎin̪ˈe#          | #ʎˈemən̪ə#
- #vˌikˈaːt̪am#      | *#vˌekˈɑt̪ɑ#       | *#bəɣˈaðə#         | #bəɣˈa#
 
 
 
