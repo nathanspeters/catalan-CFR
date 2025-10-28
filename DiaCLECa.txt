@@ -575,8 +575,8 @@ r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ [+cons,-nas] [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before voiced fricatives.
-[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ [+cons,-nas] [+syl] $ not in francesc
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð.
+[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
 [+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT? <--but this might just work better as an addition to syncope 2. feels really weird here tbh
 
@@ -621,7 +621,7 @@ c > t͡sʲ $ exists to feed F114
 
 $ t̪ ʝ > t͡sʲ $ F182 through F185 i think SUPPRESSED ---- IT COMES OUT OF LATIN LIKE THIS
 
-[-cont,-voi] > t / __ t͡sʲ $ F185
+[-cont,-voi,-lab] > t / __ t͡sʲ $ F185 $ added -lab HIT?
 
 $ t͡sʲ > d͡z / __ # $ F130+183   COMMENTED OUT bc i don't believe this actually happens but FLAG check back in francesc to see if there's actual evidence for it happening
 
@@ -688,7 +688,7 @@ $b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but 
 
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
 
-[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know)
+[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know) $$$$$ S SYNCOPE
 
 k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 

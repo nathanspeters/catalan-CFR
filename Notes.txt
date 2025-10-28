@@ -60,7 +60,7 @@ WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
 
 n>0/__s might be too early
 
-the deletion before /__s# just feels like a missed syncope. fix the syncope
+the deletion before /__s# just feels like a missed syncope. fix the syncope (also the rule we have there ar hyn o bryd is bad)
 
 
 
@@ -88,7 +88,11 @@ need to figure out dʒ vs dz <---LATER it only affects a very small number of et
 
 
 
-is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there)
+is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there) $ NO IT IS NOT according to REW
+386,  | #d̪ˌaːmˈaskum#     | #d̪umˈas#          | *#d̪əmˈask#        | #d̪umˈas#		seems fake
+794,  | #brˈakhium#        | #bɾˈas#            | *#bɾˈas#           | #bɾˈas#		need to check actual status of the kh in this word
+864,  | #rˈeːt̪in̪as#      | #rˈeŋn̪əs#         | *#rˈeðən̪s#        | #rˈeŋn̪əs#		i straight up can't find this word
+1141, | #ˈod̪ium#          | *#ˈɔʝʝo#           | *#ˈɔt͡ʃ#           | #ˈɔði#			i've seen a number of suggestions that this is the borrowed one and oi is the actual inherited term; ***need to find a good citation for this***
 
 
 
@@ -101,11 +105,8 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 
 
-add https://www.diccionari.cat/GDLC/treure# note to catllex
-
-
-
-NEXT TIME: s/w confusion and the thing i wrote in my notebook about eth deletion/lenition needs work but has promise
+NEXT TIME: s/w confusion and the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
+ALSO NEXT TIME: implement syncope block between stop and affricate; ***move vowel delengthening***
 
 
 
