@@ -96,17 +96,18 @@ is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t�
 
 
 
-s~w/__# confusion needs looked at in depth
+s~w/__# confusion still needs finished. turns out not a whole lot's wrong with it...
 
 
 
 ok i really want to work on 'e problems but it looks like I need to figure out the early stress shift:
 ---appears to have something to do with {[+lo];[-lo,-hi,-tense]} C (W) {[+hi];[-lo,-hi,+tense]}, but other things would need to feed this (namely a couple of /ˌe/s lowering to /ˌɛ/)
+-----ok the e lowerings are done but my rules as they stand are MASSIVELY overproductive. will need to look at this further later
 
 
 
-NEXT TIME: s/w confusion and the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
-ALSO NEXT TIME: implement syncope block between stop and affricate; ***move vowel delengthening***
+NEXT TIME: the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
+ALSO NEXT TIME: ***move vowel delengthening***
 
 
 

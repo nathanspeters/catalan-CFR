@@ -441,13 +441,21 @@ $ and as there are no long vowels in Catalan, i can say i'm fairly confident the
 
 l > ʎ / # __ $ F106
 
-b > ∅ / {#;[-front]} [+stres] ([-cons,-syl]) __ ʝ $ F181 HIT? see above pt 1 $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case. $ HUGE FLAG this seems to only affect forms coming out of late latin.
+b > ∅ / {#;[-front]} [+stres] ([-cons,-syl]) __ ʝ $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case. $ HUGE FLAG this seems to only affect forms coming out of late latin.
 
 w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to following "hard" yod in this context. possible new sound law.
 
 βʷ > β $ marr
 β > b $ marr
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
+
+[-lo,-hi,+tense,+front] > [-tense] / __ ʝ [+front,+hi,+syl] $ not in francesc. only certain that it affects one word. could also affect 711 fugire>fugir if we removed +front, but doing so would not change the result. this is motivated as height dissimilation
+
+[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; motivated by multiple words
+
+$$$$$ THE GREAT CATALAN STRESS SHIFT $ ...needs workshopping
+$[-hi,αlo,αtense] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-prim,-stres] / # ([-syl])* __
+$[-hi,αlo,αtense] [-syl] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-syl] [-prim,-stres] / # ([-syl])* __
 
 ʝ > d̪ / # __ [+syl] ʝ $ I (nathan) added this. it's probably just analogy to other forms with the de- prefix from latin but it happens to all of the examples we have of this in our dataset so here it is
 
@@ -575,8 +583,10 @@ r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð.
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð and affricates.
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[+cont];[+lab]} ([+cons,+lab,-nas]) __ [+delrel] [+syl] $ gives us what syncopes we do see before affricates. note that blocking syncope before affricates and giving the rule here only fixes one word (acutiare>agusar (which may also need to come out aguar anyway)) $ EDIT: this should also fix attitiare>atiar and partitionem>partio, it just isn't
 [+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
+[+syl,-stres] > ∅ / [+stres] [-cont,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
 [+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT? <--but this might just work better as an addition to syncope 2. feels really weird here tbh
 
