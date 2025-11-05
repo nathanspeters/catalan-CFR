@@ -89,10 +89,16 @@ need to figure out dʒ vs dz <---LATER it only affects a very small number of et
 
 
 is t̪izˈoɾəs really the output of t̪ˌon̪sˈoːrias/t̪ˌoːn̪sˈorias/t̪ˌon̪sˈorias? (i mean it probably is but i fail to see how the /i/ got there) $ NO IT IS NOT according to REW
-386,  | #d̪ˌaːmˈaskum#     | #d̪umˈas#          | *#d̪əmˈask#        | #d̪umˈas#		seems fake
+$$$$$386,  | #d̪ˌaːmˈaskum#     | #d̪umˈas#          | *#d̪əmˈask#        | #d̪umˈas#		seems fake	<--actually, confirmed by REW
 794,  | #brˈakhium#        | #bɾˈas#            | *#bɾˈas#           | #bɾˈas#		need to check actual status of the kh in this word
-864,  | #rˈeːt̪in̪as#      | #rˈeŋn̪əs#         | *#rˈeðən̪s#        | #rˈeŋn̪əs#		i straight up can't find this word
+864,  | #rˈeːt̪in̪as#      | #rˈeŋn̪əs#         | *#rˈeðən̪s#        | #rˈeŋn̪əs#
+-----thing with the above: 1. final s seems fake 2. it makes no sense, but... REW confirms
 1141, | #ˈod̪ium#          | *#ˈɔʝʝo#           | *#ˈɔt͡ʃ#           | #ˈɔði#			i've seen a number of suggestions that this is the borrowed one and oi is the actual inherited term; ***need to find a good citation for this***
+
+
+
+1114, | #iˌust̪ˈit̪iam#    | #ʒust̪ˈisiə#       | *#ʒust̪ˈezə#       | #ʒust̪ˈisiə#	<---not in REW
+1177, | #klˌawd̪iˈan̪us#   | #ɡluɾiˈan̪əs#      | *#klujʒˈan̪s#      | #ɡluɾiˈan̪əs#	<---not in REW
 
 
 

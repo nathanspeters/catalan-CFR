@@ -441,7 +441,7 @@ $ and as there are no long vowels in Catalan, i can say i'm fairly confident the
 
 l > ʎ / # __ $ F106
 
-b > ∅ / {#;[-front]} [+stres] ([-cons,-syl]) __ ʝ $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case. $ HUGE FLAG this seems to only affect forms coming out of late latin.
+b > ∅ / {#;[-front]} [+stres] ([-cons,-syl]) __ ʝ $ F181 HIT? $ THIS FEELS LIKE OVERFITTING. [-lat] only fixes llabi $ EDIT [-front] feels like a way better block but let's keep this in mind for later just in case. $ HUGE FLAG this seems to only affect forms coming out of late latin. <--...what other forms are there?
 
 w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to following "hard" yod in this context. possible new sound law.
 
@@ -450,8 +450,7 @@ w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
 [-lo,-hi,+tense,+front] > [-tense] / __ ʝ [+front,+hi,+syl] $ not in francesc. only certain that it affects one word. could also affect 711 fugire>fugir if we removed +front, but doing so would not change the result. this is motivated as height dissimilation
-
-[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; motivated by multiple words
+[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in multiple words
 
 $$$$$ THE GREAT CATALAN STRESS SHIFT $ ...needs workshopping
 $[-hi,αlo,αtense] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-prim,-stres] / # ([-syl])* __
@@ -583,11 +582,24 @@ r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-
 
 $$$$$$$$$$ syncope 1
 
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cons] ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð and affricates.
-[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[+cont];[+lab]} ([+cons,+lab,-nas]) __ [+delrel] [+syl] $ gives us what syncopes we do see before affricates. note that blocking syncope before affricates and giving the rule here only fixes one word (acutiare>agusar (which may also need to come out aguar anyway)) $ EDIT: this should also fix attitiare>atiar and partitionem>partio, it just isn't
-[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
-[+syl,-stres] > ∅ / [+stres] [-cont,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[-cont,-back];[+cont,-nas]} ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð and affricates.
+
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+nas] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel,-hi]} [+syl] $ specific block against syncope between nasals and dorsal stops
+[+syl,-stres] > ∅ / [+stres,+back] ([-cons,-syl]) [-cont,-back] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ specific vowel requirement for syncope after k
+
+$$$ I want these more specific rules for fricatives, but implementing them is making the number go down :(
+$[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cont,-son,+voi] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi]} [+syl] $ for all voiced frics
+$[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+cont,-son,-round,αlab,βcor,ɣfront,ɛback] __ [-cont,-delrel,-αlab,-βcor,-ɣfront,-ɛback] [+syl] $ for all voiced frics except beta before stops
+$[+syl,-stres] > ∅ / [+stres,+round] ([-cons,-syl]) β __ [-cont,-delrel,-lab] [+syl] $ for beta before stops
+
+[+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[+cont];[+lab]} ([+cons,+lab,-nas]) __ [+delrel] [+syl] $ gives us what syncopes we do see before affricates. note that blocking syncope before affricates and giving the rule here only fixes one word (acutiare>agusar (which may also need to come out aguar anyway)) $ EDIT: this should also fix attitiare>atiar and partitionem>partio, it just isn't doing so yet $ EDIT EDIT: this is because the same block needs to be applied to other syncope rules.
+
+[+syl,-stres] > ∅ / [+stres] [+son,+cons,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
+
+[+syl,-stres] > ∅ / [+stres] [-cont,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
+
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
+
 [+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT? <--but this might just work better as an addition to syncope 2. feels really weird here tbh
 
 $$$$$ RULES BELOW ARE ADAPTED FROM Wheeler, Max W. 2007. Syncope and apocope in the history of Catalan: an Optimality Theory approach. Valencia: Universitat de València(?). They don't work as well as the ones above, so abandoning for now.
@@ -610,7 +622,7 @@ m > b / [+lo] __ n̪ $ not in francesc
 n̪ > ∅ / m __ $ not in francesc?
 $ these don't seem to be doing anything. investigate later.
 
-ð > d̪ / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
+{β;ð} > {b;d̪} / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
 
 ð ð > d̪ d̪ $ apparently this fortifies but only it only occurs in word 1195 adidipsum/adés so FLAG for review
 
