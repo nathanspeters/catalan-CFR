@@ -104,7 +104,7 @@ $ CORRECTION: uː unstressed becomes sonus medius
 	$ -- before a non syllable and not near word boundary 
 	$ -- but does not bleed prior yod formation (see adiu:ta:re)
 		$ or feed it (manu:opera)
-uː > ɪ / __ [-syl] @
+$uː > ɪ / __ [-syl] @ $ appears to be untrue for catalan -nathan
 
 $ per s220 : yod is lost between e and p,r
 j > ∅ / {p;r} __ [+front,-hi,-lo,+syl]
@@ -423,6 +423,8 @@ $ s353 : devoicing of labial and dental consonants that are now before t
 $ since aidier is excluded, we can dodge fixing palatals too. 
 $ [+ant,+cons,-son] > [-voi] / __ t̪ $ COMMENTED OUT doesn't appear to be doing anything?
 
+h > β / __ [+round,+syl] [+cont,-son,+voi] $ h simultaneous assimilation to vowel and following fricative. not in francesc. only affects a hodie > avui (so far), but seems to be motivated well enough to keep. FLAG to reevaluate later
+
 $p73 s155i ~ p91 s185 -- as Pope explained, h-effacement happened word-internally first. 
 $It was apparently still being resisted among the educated classes at the time of St. Augustine, 4th century and early 5th century 
 h > ∅
@@ -533,8 +535,6 @@ p > b / [-cons] __ l $ F167 but I added [-cons] to the conditioning
 
 k > ∅ / s __ # $ F172
 
-ŋ > n̪ / __ s $ HIT? ish. just feeds next rule
-
 $ FLAG there is another r > n̪ but francesc says it only happens in one word and it's progressive instead of recessive dissimilation so i doubt it's even the same phenomenon.
 
 u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i forgot where i found this in francesc
@@ -545,6 +545,7 @@ u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i fo
 
 r > s / __ s $ F166
 
+ŋ > n̪ / __ s $ HIT? ish. just feeds next rule
 n̪ > ∅ / __ s [+stres] $ F161+F163 (F163 being the one that makes it clear that this is only in the pretonic)
 
 x s > ʃ / __ @ $ F154 not what francesc specifies but i wanted a rule that does something also HIT? added @
@@ -585,6 +586,9 @@ $$$$$$$$$$ syncope 1
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[-cont,-back];[+cont,-nas]} ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð and affricates.
 
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+nas] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel,-hi]} [+syl] $ specific block against syncope between nasals and dorsal stops
+
+$$$$$ ^^^^^ HUGE FLAG... above rule just isn't true?! figure out what we were trying to do later. but see #d̪ˈied̪ˌomˈin̪ikum#| *#d̪ˈizˌɔmˈen̪eɡe# | *#d̪ˈiumˈɛn̪ək#    | #d̪iwmˈeɲʒə# for proof that it's wrong
+
 [+syl,-stres] > ∅ / [+stres,+back] ([-cons,-syl]) [-cont,-back] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ specific vowel requirement for syncope after k
 
 $$$ I want these more specific rules for fricatives, but implementing them is making the number go down :(
@@ -599,6 +603,7 @@ $[+syl,-stres] > ∅ / [+stres,+round] ([-cons,-syl]) β __ [-cont,-delrel,-lab]
 [+syl,-stres] > ∅ / [+stres] [-cont,αlab,βcor,ɣfront,ɛback] [-cont,αlab,βcor,ɣfront,ɛback] __ {[+cons,+son,-nas,-lat];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ not in francesc. postlocus conditioning intended to block syncope before ð and l.
 
 [+syl,-stres] > ∅ / [+stres] [+cons,+voi] __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
+[+syl,-stres] > ∅ / [+stres] ([+cont,+voi])+ __ [+nas] {[+syl,+lo] #;[+syl] @} $ ... HIT?
 
 [+syl,-stres] > ∅ / [+stres] [+nas] [+cons,+voi] w __ [+nas] [+syl] $ ...HIT? <--but this might just work better as an addition to syncope 2. feels really weird here tbh
 
@@ -622,7 +627,7 @@ m > b / [+lo] __ n̪ $ not in francesc
 n̪ > ∅ / m __ $ not in francesc?
 $ these don't seem to be doing anything. investigate later.
 
-{β;ð} > {b;d̪} / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
+ð > d̪ / __ [-cont] $ technically manner assimilation makes sense as a rule. this still feels like a bad way to do things, though. i would rather just have frication come after the syncope. try to do this later. FLAG
 
 ð ð > d̪ d̪ $ apparently this fortifies but only it only occurs in word 1195 adidipsum/adés so FLAG for review
 
@@ -657,11 +662,11 @@ t͡sʲ > s $ marr+F114
 
 s s ʝ > ʃ $ F149+190
 
-k > ɡ / # __ r [+syl] {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
+k > ɡ / # __ {r;l} [+syl] ([-cons,-syl]) {[-cont];s s} $ I PROMISE THE SS IS REAL idk why it does that but it definitely does.
 
 =tempfsvz
 
-{f;s} > {v;z} / [-lab] {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context. somehow b blocks this, which is why the prelocus conditioning is nasty
+{f;s} > {v;z} / {#;[-lab]} {[-cons];[-cont,+voi,-nas]} __ [+voi] $ HIT? specified context. somehow b blocks this, which is why the prelocus conditioning is nasty
 
 t̪ ʃ > t͡ʃ $ not(?) in francesc
 
@@ -675,7 +680,10 @@ o > e / [-cons] (([+cons]) {[-son];[+nas]}) [+cons] __ # $ not in francesc (to m
 
 =tempz
 
-z > ∅ / [+syl] __ [+stres] $ F111+112 FLAG might need to add @ at the end of the context?
+z > ∅ / [+syl,αround] __ [+stres,+tense,-lo,-αround] $ F111+112, but i'm making it more nuanced
+z > ∅ / [+syl,-round] __ [+stres,+tense,-lo,-round]
+z > ∅ / {[+front];[+stres,+tense]} __ [+stres,+lo]
+z > ∅ / [-lo] __ ˈɛ
 
 ˈa w > ˈɔ $ F53
 ˌa w > ˌɔ $ i doubt francesc ever addresses this but i feel like it's not paper-worthy
@@ -955,6 +963,9 @@ d̪ ʒ > d͡ʒ $ F189
 
 
 
+z > j / i __ #
+j > ∅ / i __ # $ neither of these are in francesc. probably not doing everything they need to do yet since we still have vowel height issues
+
 β > b / # __ $ this one i think Actually isn't mentioned directly but just in case FLAG go through F2.1 Consonants inicials to see if this is ever mentioned
 
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / {[-cons];l} __ {[-cons];ɾ} $ F109+110 FLAG fix citation HIT? added ;l and ;ɾ
@@ -993,7 +1004,8 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 
 [+round,-stres,+syl] > u $ FLAG cite the appropriate francescs later
 
-[-hi,-stres,+syl] > ə $ FLAG cite the appropriate francescs later
+a > ə
+[-hi,-stres,+syl] > ə / __ {[-stres];[+stres,-lo];[+cons];[-cons,-syl];#} $ FLAG cite the appropriate francescs later $ reduction block from https://diposit.ub.edu/dspace/bitstream/2445/203629/1/Lloret_Prieto_Catalan.pdf
 
 
 

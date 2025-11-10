@@ -93,7 +93,6 @@ $$$$$386,  | #d̪ˌaːmˈaskum#     | #d̪umˈas#          | *#d̪əmˈask#     
 794,  | #brˈakhium#        | #bɾˈas#            | *#bɾˈas#           | #bɾˈas#		need to check actual status of the kh in this word
 864,  | #rˈeːt̪in̪as#      | #rˈeŋn̪əs#         | *#rˈeðən̪s#        | #rˈeŋn̪əs#
 -----thing with the above: 1. final s seems fake 2. it makes no sense, but... REW confirms
-1141, | #ˈod̪ium#          | *#ˈɔʝʝo#           | *#ˈɔt͡ʃ#           | #ˈɔði#			i've seen a number of suggestions that this is the borrowed one and oi is the actual inherited term; ***need to find a good citation for this***
 
 
 
@@ -114,7 +113,7 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 NEXT TIME: the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
 ALSO NEXT TIME: ***move vowel delengthening***
-ALSO ALSO ACTUALLY NEXT TIME: read the paper.
+ALSO ALSO NEXT TIMEː do other half of z fix (i.e. fix false negs)
 
 
 
