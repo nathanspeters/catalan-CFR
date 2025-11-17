@@ -452,7 +452,11 @@ w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
 [-lo,-hi,+tense,+front] > [-tense] / __ ʝ [+front,+hi,+syl] $ not in francesc. only certain that it affects one word. could also affect 711 fugire>fugir if we removed +front, but doing so would not change the result. this is motivated as height dissimilation
-[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in multiple words
+$[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in multiple words $ <--following rules might make this irrelevant? blocking for now just in case
+
+ˈe > ˈə / {#;[+cons,-hi]} __ {[+cons,-hi];#} $ F40+42
+ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
+ˈə > ˈɛ $ F39
 
 $$$$$ THE GREAT CATALAN STRESS SHIFT $ ...needs workshopping
 $[-hi,αlo,αtense] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-prim,-stres] / # ([-syl])* __
@@ -471,7 +475,6 @@ x > ∅ / __ [-cont,+voi] $ FLAG where did this come from? why didn't i say wher
 w > ∅ / [-back,+cons] [-back,+cons] __ $ F179
 w > ∅ / n̪ __ $ F179
 
-=tempw0
 $w > ∅ / {k;ɡ} __ [+front,-lo] $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION $ i moved this a lot later in the cascade but that may have been the wrong move... please review later
 
 ŋ n̪ > ɲ $ F155 not really what francesc says happens but i'm giving him the benefit of the doubt and just writing a rule that actually does something
@@ -570,6 +573,8 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 ʝ > ∅ / s __ $ i mean this is probably in francesc somewhere
 
 l > d̪ / __ [+syl] l $ F120
+
+[-hi,-lo,-prim] > [+tense] / __ [+prim] $ 
 
 $r ʝ > ʝ r / [+syl] __
 r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
@@ -674,24 +679,22 @@ t̪ ʃ > t͡ʃ $ not(?) in francesc
 [-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [+syl]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
-l l > ʎ $ F136
+l l > ʎ $ F136 FLAG I think this needs moved way farther up in the cascade but need to investigate effects of this movement in detail before implementation
 
 o > e / [-cons] (([+cons]) {[-son];[+nas]}) [+cons] __ # $ not in francesc (to my knowledge)
-
-=tempz
 
 z > ∅ / [+syl,αround] __ [+stres,+tense,-lo,-αround] $ F111+112, but i'm making it more nuanced
 z > ∅ / [+syl,-round] __ [+stres,+tense,-lo,-round]
 z > ∅ / {[+front];[+stres,+tense]} __ [+stres,+lo]
 z > ∅ / [-lo] __ ˈɛ
 
+$ this is new z-deletion; not really a good way to formulate it but it has to do with crossing the mouth and decreasing height
+z > ∅ / [+stres,αfront,+hi] __ {[+syl,-αfront,-hi,-tense];[+syl,-αfront,+lo]}
+z > ∅ / [+stres,αfront,-hi,-lo,+tense] __ [+syl,-αfront,+lo]
+
 ˈa w > ˈɔ $ F53
 ˌa w > ˌɔ $ i doubt francesc ever addresses this but i feel like it's not paper-worthy
 a w > ɔ $ F70 FLAG cite whatever else does this as i'm sure it comes up later too ALSO maybe output is o
-
-
-
-$ b and v merge in the dialect of Catalan that we're looking at. i don't think francesc ever references this Directly (EDIT: he totally does in F109) but i have reason to believe it's a very late development because it doesn't happen in other dialects EDIT: starting to believe this less and less
 
 v > β $ F109
 
@@ -808,7 +811,7 @@ n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
 [-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
-[-lo,-cons,-prim] > ∅ / [-cons] {r;n̪;m} [+cons] __ #
+[-lo,-cons,-prim] > ∅ / [-cons] {r;ɾ;n̪;m} [+cons] __ #
 
 ʝ > i / [+cons] __ # $ not in francesc.
 
@@ -909,8 +912,6 @@ $l > ∅ / __ [+cons] $ F165 FLAG makes it worse
 $ʝ > j / ˈe __ $ not in francesc COMMENTED OUT bc i think it's wrong. another rule does this
 $ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36
 
-ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
-
 
 
 $ FLAG F50 says something about ˈa > ˈɛ before esh but it seems dialectal.
@@ -955,14 +956,6 @@ d̪ ʒ > d͡ʒ $ F189
 
 [+delrel] > [+cont,0delrel] / [+son,+cons] __ $ don't think this was in francesc?
 
-
-
-ə > ∅ / r __ [+cons] $ F226
-
-ə > ∅ / [+cons] __ r $ F226
-
-
-
 z > j / i __ #
 j > ∅ / i __ # $ neither of these are in francesc. probably not doing everything they need to do yet since we still have vowel height issues
 
@@ -993,7 +986,6 @@ $ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk 
 	$EDIT: this is not getting taken care of. choosing to replace it with the cluster getting voiced as a whole unit.
 p t̪ > b d̪ / [-cons] __ [-cons] [+lat] $ F137+139, but I added [+lat]. this fix seems iffy. HIT?
 
-
 b > β / [-nas] __ ɾ $ i THINK this is in francesc but idk where
 
 
@@ -1007,6 +999,11 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 a > ə
 [-hi,-stres,+syl] > ə / __ {[-stres];[+stres,-lo];[+cons];[-cons,-syl];#} $ FLAG cite the appropriate francescs later $ reduction block from https://diposit.ub.edu/dspace/bitstream/2445/203629/1/Lloret_Prieto_Catalan.pdf
 
+e > i $ appears to happen in all words with e at this stage?
+
+$ə > ∅ / r __ [+cons] $ F226 $ no
+$ə > ∅ / [+cons] __ r $ F226 $ no
+
 
 
 [-cont,-voi,αcor,βfront,ɣback,ðlab] > ∅ / [+nas,αcor,βfront,ɣback,ðlab] __ s $ not in francesc(?)
@@ -1014,7 +1011,7 @@ a > ə
 
 
 [+nas] > m / __ [+lab,+cons] $ again, we just need a good nasal place assimilation rule
-$m > ɱ / __ f $ but we need to fix the lexicon before we implement this
+m > ɱ / __ f $ again, we just need a good nasal place assimilation rule
 [+nas] > n̪ / __ s $ AGAIN again, we just need a good nasal place assimilation rule
 
 
