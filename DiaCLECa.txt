@@ -454,9 +454,7 @@ w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to
 [-lo,-hi,+tense,+front] > [-tense] / __ ʝ [+front,+hi,+syl] $ not in francesc. only certain that it affects one word. could also affect 711 fugire>fugir if we removed +front, but doing so would not change the result. this is motivated as height dissimilation
 $[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in multiple words $ <--following rules might make this irrelevant? blocking for now just in case
 
-ˈe > ˈə / {#;[+cons,-hi]} __ {[+cons,-hi];#} $ F40+42
-ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
-ˈə > ˈɛ $ F39
+[+round] > w / [+syl] __ $ I'm sure this is in francesc somewhere but idk where FLAG find good citation
 
 $$$$$ THE GREAT CATALAN STRESS SHIFT $ ...needs workshopping
 $[-hi,αlo,αtense] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-prim,-stres] / # ([-syl])* __
@@ -564,6 +562,12 @@ l ʝ > ʎ $ F194
 
 n̪ ʝ > ɲ $ this is in francesc but i forget where
 
+=tempeh
+
+ˈe > ˈə / {#;[+cons,-hi]} __ {[+cons,-hi] [+syl];[+cons,-hi] [+cons,-hi];#} $ F40+42, not sure if francesc mentioned that any part of the following cluster being palatal blocked this but if he didn't then HIT?
+ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
+ˈə > ˈɛ $ F39
+
 m m > m $ M DEGEMINATION not in francesc(?)
 
 $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spirantization is far more likely (so i am replacing this with that)
@@ -579,7 +583,8 @@ l > d̪ / __ [+syl] l $ F120
 $r ʝ > ʝ r / [+syl] __
 r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
 
-[-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] [+cons,-nas,+cont] __ # $ exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
+[-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-son] [+cons,-nas,+cont] __ # $ supposed to be blocked when first element is r and allow r as the second element, and otherwise same as following rule
+[-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] {[+cons,+cont,-son];[+nas];[+lat]} __ # $ disjunction intended to block this apocope when the second element in the cluster is r. exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
 [-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
 
 =Apocope 1
@@ -676,7 +681,7 @@ k > ɡ / # __ {r;l} [+syl] ([-cons,-syl]) {[-cont];s s} $ I PROMISE THE SS IS RE
 t̪ ʃ > t͡ʃ $ not(?) in francesc
 
 [-cont] > [+voi] / [+syl] __ [-cons]
-[-cont] > [+voi] / [+syl] __ r [+syl] $ this one i added the last [+syl]
+[-cont] > [+voi] / [-cons] __ r [+syl] $ this one i added the [+syl]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
 
 l l > ʎ $ F136 FLAG I think this needs moved way farther up in the cascade but need to investigate effects of this movement in detail before implementation
@@ -797,21 +802,21 @@ $β > ∅ / [+round] __ [+stres]
 
 ʝ > i / [+lab,+cons] __ $ F192 HIT? condition wasn't only m __
 
-ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc
+ˈe > ˈi / __ [+nas] [+front,+hi] $ not in francesc $ FLAG i want to put this before the great e shift.
 
 $n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages) $REPLACED BY FOLLOWING RULE
 n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 [-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
 
-{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;r r;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;r;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
+{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
 
 
 
 $[-lo,-cons,-prim] > ∅ / __ # $ from francesc/marr. replaced by the better ones below.
 $$$$$$$ BETTER FINAL VOWEL DELETIONS
 [-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
-[-lo,-cons,-prim] > ∅ / [-cons] {r;ɾ;n̪;m} [+cons] __ #
+[-lo,-cons,-prim] > ∅ / [-cons] [+cons,+son,-lat] {[+cons,-delrel];[+cons,+cont,-son];[+nas]} __ #
 
 ʝ > i / [+cons] __ # $ not in francesc.
 
@@ -821,6 +826,8 @@ $$$$$$$ BETTER FINAL VOWEL DELETIONS
 =Apocope 2
 
 
+
+r r > r $ F135		R DEGEMINATION (SEPARATE FROM OTHER DEGEMINATION FOR SOME REASON)
 
 l > ∅ / __ s @ $ HIT? was this in francesc?! also added @
 
@@ -886,8 +893,11 @@ r > l / __ b [+syl] r $ F166 FLAG for deletion this rule may be redundant
 
 ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
 
-j > ∅ / __ ˈi $ F151
-j > ∅ / ˈi __ $ F151
+$$$$$ REPLACED WITH FOLLOWING
+$j > ∅ / __ ˈi $ F151
+$j > ∅ / ˈi __ $ F151
+j > ∅ / [+front,+hi,+syl] __
+j > ∅ / __ [+front,+hi,+syl]
 
 w > ∅ / __ [+hi,+back,-cons] $ not in francesc (to my knowledge)
 w > ∅ / [+hi,+back,-cons] __ $ not in francesc (to my knowledge)
@@ -999,7 +1009,8 @@ $ FLAG revisit F231 if j insertion becomes important and also    the  Other    i
 a > ə
 [-hi,-stres,+syl] > ə / __ {[-stres];[+stres,-lo];[+cons];[-cons,-syl];#} $ FLAG cite the appropriate francescs later $ reduction block from https://diposit.ub.edu/dspace/bitstream/2445/203629/1/Lloret_Prieto_Catalan.pdf
 
-e > i $ appears to happen in all words with e at this stage?
+e > i $ appears to happen in all words with e at this stage? <--FLAG probably not; investigate later
+ɛ > e $ only affects one word (so far), but it makes sense
 
 $ə > ∅ / r __ [+cons] $ F226 $ no
 $ə > ∅ / [+cons] __ r $ F226 $ no
@@ -1012,7 +1023,7 @@ $ə > ∅ / [+cons] __ r $ F226 $ no
 
 [+nas] > m / __ [+lab,+cons] $ again, we just need a good nasal place assimilation rule
 m > ɱ / __ f $ again, we just need a good nasal place assimilation rule
-[+nas] > n̪ / __ s $ AGAIN again, we just need a good nasal place assimilation rule
+[+nas] > n̪ / __ s $ AGAIN again, we just need a good nasal place assimilation rule $ FLAG this needs to be counterfed by consonant cluster simplification.
 
 
 

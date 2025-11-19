@@ -111,8 +111,13 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 
 
+508,  | #kˈawikum#         | *#kˈawko#          | *#kˈɔk#            | #kˈaβək# <--find a source for this?!
+
+
+
 NEXT TIME: the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
 ALSO NEXT TIME: ***move vowel delengthening***
 ALSO ALSO NEXT TIME: look at F45+47
 ALSO ALSO ALSO NEXT TIME: we should try to move ll>ʎ to before ˈe>ˈə. this is currently making the number go down, but we just need to figure out why.
 -----OR: we can move the vowel shift to below the last palatalization rule, because apparently kl also blocks it
+ALSO ALSO ALSO ALSO NEXT TIME: finish making error list for é>úh (schwá)
