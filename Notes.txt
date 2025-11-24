@@ -14,9 +14,6 @@ POSTTONIC SYNCOPE
 ---ok this needs blocked before all voiced fricatives. (probably not voiceless ones, but keep this in mind for later.) you may notice that it looks like it *should* happen after beta. this is false. these forms are getting got by the *pre*tonic syncope, not the posttonic one. see 742 paraveredum>palafrè.
 -------ok so actually the issue appears to be more complicated than this (see forms with ˈVtið)
 
-PRETONIC SYNCOPE
--blocked by preceding double consonant
-
 
 
 WE HAVE TO FIGURE OUT APHERESIS
@@ -60,7 +57,7 @@ WE HAVE TO FIGURE OUT WHY "SYNCOPE 0" IS HELPING. IT SHOULD NOT EXIST
 
 n>0/__s might be too early
 
-the deletion before /__s# just feels like a missed syncope. fix the syncope (also the rule we have there ar hyn o bryd is bad)
+the deletion before /__s# just feels like a missed syncope. fix the syncope (also the rule we have there at the moment is bad)
 
 
 
@@ -115,9 +112,5 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 
 
-NEXT TIME: the thing i wrote in my notebook about eth deletion/lenition needs work but has promise (if i can figure out what it means...)
-ALSO NEXT TIME: ***move vowel delengthening***
-ALSO ALSO NEXT TIME: look at F45+47
-ALSO ALSO ALSO NEXT TIME: we should try to move ll>ʎ to before ˈe>ˈə. this is currently making the number go down, but we just need to figure out why.
------OR: we can move the vowel shift to below the last palatalization rule, because apparently kl also blocks it
-ALSO ALSO ALSO ALSO NEXT TIME: finish making error list for é>úh (schwá)
+NEXT TIME: ***move vowel delengthening***
+ALSO NEXT TIME: finish making error list for é>úh (schwá)

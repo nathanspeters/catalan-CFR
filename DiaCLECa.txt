@@ -456,6 +456,9 @@ $[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in mult
 
 [+round] > w / [+syl] __ $ I'm sure this is in francesc somewhere but idk where FLAG find good citation
 
+[+front,-hi,-lo,+tense] > [+hi] / __ [+nas] [+cons] [+cons] $ F45d
+[+front,-hi,-lo,+tense] > [+hi] / __ ([+cons]) w $ F45e
+
 $$$$$ THE GREAT CATALAN STRESS SHIFT $ ...needs workshopping
 $[-hi,αlo,αtense] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-prim,-stres] / # ([-syl])* __
 $[-hi,αlo,αtense] [-syl] [-syl] [-lo,+tense,+prim] > [+prim] [-syl] [-syl] [-prim,-stres] / # ([-syl])* __
@@ -498,13 +501,11 @@ $ FLAG revisit F166 for whatever is going on with the r>l HOWEVER don't include 
 {p;b} > {t̪;t̪} / @ __ t̪ $ F137 NOTE TO CLAYTON i wish i could only have one output listed here. just sayin'
 
 ˈo > ˈu / __ [-cons] $ F59
-
 ˈo > ˈu / __ [+nas] [+hi] $ F59
 
 i > e / # ([-syl])* __ ([-syl])* ˈi $ F66 FLAG because is it e or ɛ? also does this happen in front of unstressed i as well? FLAG for removal. doesn't appear to be doing anything
 
 a > e / [+stres] ([-syl])* __ [-syl] $ F80
-
 a > e / __ s # $ F89 FLAG revisit because francesc yaps a lot on this one and i don't wanna miss anything
 
 $ FLAG revisit F96 in case any germanic loans were included in CatLLex. rule should be something like ɡwa > ɡo
@@ -541,7 +542,6 @@ $ FLAG there is another r > n̪ but francesc says it only happens in one word an
 u j > ˌo $ HIT? FLAG check to see if this is working/relevant also FLAG bc i forgot where i found this in francesc
 
 {e;ɛ} > {i;i} / # ([-syl])* __ {[+front,+hi];[+nas];[+syl]} $ F68 FLAG idk what the input is supposed to be HIT? a isn't affected? HIT? doesn't happen in vowel-initial words? context should start with # ([-syl])+ maybe
-
 {e;ɛ} > {i;i} / # ([-syl])* __ ([-syl])* {ˈe;ˈɛ} $ F68 FLAG idk about the input OR the context HIT? see above
 
 r > s / __ s $ F166
@@ -718,6 +718,8 @@ $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 $ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
 $$$replaced by earlier rule
 
+{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
+
 {p;k;s;t̪;ʒ;ʝ;d̪} > {l;l;l;l;l;l;l} / [-cons] __ l $ F167+169+170+171 FLAG francesc implies that P'L was somehow CL in vulgar latin so look into that later i guess also HIT? bc i added [-cons]
 
 l l > ʎ ʎ $ not in francesc
@@ -808,8 +810,6 @@ $n̪ > ɲ / __ ʝ $ F193 (slightly modified to better capture distinct stages) $
 n̪ > ɲ / [+front,+hi,-cons] __ [+front,+hi] $ not in francesc(?)
 
 [-lo,-cons,-prim] > ∅ / [+syl] {[-cont,-delrel];[+cons,+cont]} ([-cons,-syl]) __ # $ disallowed after affricates
-
-{p p;t̪ t̪;k k;b b;d̪ d̪;ɡ ɡ;s s;f f;ʝ ʝ;ʃ ʃ} > {p;t̪;k;b;d̪;ɡ;s;f;ʝ;ʃ} $ F135   DEGEMINATION RULE
 
 
 
