@@ -891,7 +891,7 @@ $x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does s
 
 r > l / __ b [+syl] r $ F166 FLAG for deletion this rule may be redundant
 
-ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39. methinks this will all work out fine and if it doesn't then clayton needs to figure out how to implement cyclical chain shifts. or we can have a dummy extra vowel floating around ig. recruit ə or ɪ? FLAG the (n̪) may be unnecessary. consider deleting
+ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39
 
 $$$$$ REPLACED WITH FOLLOWING
 $j > ∅ / __ ˈi $ F151
@@ -983,7 +983,6 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 
 ˈe > ˈɛ / __ w $ not in francesc HIT?
 ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
-ˈe > ˈɛ / ɾ __ $ not in francesc HIT?
 
 ˈɛ > ˈe / __ ʎ $ not in francesc (and also bad? (but also not?ǃ))
 
