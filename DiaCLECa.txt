@@ -578,7 +578,7 @@ $d̪ > s / [-cons] __ [+syl] $ F111+112 ALTHOUGH i think ð>z after the spiranti
 
 l > d̪ / __ [+syl] l $ F120
 
-[-hi,-lo,-prim] > [+tense] / __ [+prim] $ 
+[-hi,-lo,-prim] > [+tense] / __ [+prim] $ not in francesc
 
 $r ʝ > ʝ r / [+syl] __
 r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-cont] [-cont]} [+syl] __ $ F195 although iirc he doesn't mention this intermediate ʝ stage also HIT? added conditioning!!!
@@ -707,13 +707,15 @@ v > β $ F109
 
 $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 
-[-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-syl] [+stres] $ F77+78+79. I have reason to believe that the counterexamples in F78c are due to analogy.
+[-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-son] [+stres] $ F77+78+79. I have reason to believe that the counterexamples in F78c are due to analogy.
 
 =Syncope 2
 
+$ for some reason only assimilates to voiceless. not in francesc
+[-son,-lab] > [-voi] / [-voi] __
+[-son,-lab] > [-voi] / __ [-voi]
 
 
-ɣ > ɡ / [+cons] __ [+cons] $ not in francesc HUGE FLAG this seems wrong and controversial
 
 $ɡ > ɟ / d̪ __ $ not in francesc (i think? francesc may have mentioned something like this...) EDIT: probably F189 but i'm not sure
 $$$replaced by earlier rule
@@ -724,8 +726,6 @@ $$$replaced by earlier rule
 
 l l > ʎ ʎ $ not in francesc
 
-$b > ∅ / __ [+cons,+lab] [+cons] $ FLAG idk if this conditioning is right but also not in francesc? $ EDIT I replaced this with an assimilation rule.
-
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
 
 [+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know) $$$$$ S SYNCOPE
@@ -734,7 +734,7 @@ k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 
 $$$following replaced with the even followinger
 $$$x > ∅ / __ t̪ [+stres] $ F152 not what francesc specifies but i wanted a rule that does something
-$$$x > j / __ t̪ $ F151 not what francesc specifies but i wanted a rule that does something FLAG probably goes x>ç>ʝ>j sometime after syncope 1 ALSO happens before things that aren't t (such as the s that arises in lectionem)
+$$$x > j / __ t̪ $ F151 not what francesc specifies but i wanted a rule that does something
 x > ç / __ [+cor] $ conditioning here is not necessary because all x's at this point meet this condition. just wanted to include the motivation for the change
 ç > ʝ $ complete merger here
 
@@ -838,7 +838,7 @@ $ɡ > ∅ / [+stres] __ [+round,+syl] $ F116 COMMENTED OUT see above
 
 {k;ɡ} > {w;w} / __ m $ F155 FLAG idk that this is doing anything
 
-{r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] ([-syl])* __ # $ F128+129 definitely only polysyllabics this time
+{r;ɾ} > {∅;∅} / [+syl] ([-syl])* [+syl] ([-syl])* __ # $ F128+129 definitely only polysyllabics this time $ FLAG happens in heri>hir???
 
 {r;ɾ} > {l;l} / [+syl] __ ([-son])* [+syl] ([-son])* {r;ɾ} $ F120
 ${r;ɾ} > {l;l} / [+syl] __ ([-son])* [+syl] ([-son])* {r;ɾ} $ FLAG make a version of the above that 1. happens in more words and 2. doesn't mess things up
@@ -848,7 +848,7 @@ r > n̪ / __ ([-son])* [+syl] ([-son])* r $ F120
 b > b b / [-cons] __ l $ F167
 ɡ > ɡ ɡ / [-cons] __ l $ HIT?
 
-n̪ > ∅ / [-cons] __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. if it makes a huge difference, try / [+syl] ([-syl])* __ # instead FLAG $$$$$$$$$ EDIT: added [-cons]
+n̪ > ∅ / [-cons] __ # $ F127. if i understand correctly the exceptions to this are all either rebracketing or analogy. $ EDIT: added [-cons]
 
 b > ∅ / m __ {[-cons];#} $ F158+173 $ HIT? added post-locus conditioning
 d̪ > ∅ / n̪ __ {[-cons];#} $ F160+173 $ HIT? see above
@@ -877,21 +877,21 @@ t̪ > ∅ / {n̪;[-stres]} __ # $ F172 + HIT? on the [-stres] HIT? removed s fro
 
 
 
-t̪ > d̪ / __ ʒ $ F189 FLAG because maybe this voicing is intervocalic voicing and if that's the case then the intervocalic voicing rule needs to come before the syncope and that messes everything up BAD. otherwise this works fine i guess
+t̪ > d̪ / __ ʒ $ F189
 
-$ ∅ > t̪ / r __ # $ F129 according to francesc this happens in oriental. can't tell if it's doing anything EDIT NO NO NO NO NO IT'S BAD $ FLAG made it worse
+$ ∅ > t̪ / r __ # $ F129 according to francesc this happens in oriental. appears to be incorrect, find problem etyma later FLAG
 
 [-lo,-hi,+syl] > e / [+stres] ([-syl]) [+cons,+son] ([-syl]) __ # $ F91 FLAG for output. also HIT? added -hi to input
 
-$ e > ɔ / ˈɔ ([-syl])* __ # $ F92 FLAG unsure of output also FLAG this rule is just awful. and possibly analogic because i think it only affects masculine nouns
+$ e > ɔ / ˈɔ ([-syl])* __ # $ F92 FLAG unsure of output also this rule is just awful. and possibly analogic because i think it only affects masculine nouns
 
 s > j / __ [+nas] $ F148
 
 $x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does something COMMENTED OUT doesn't appear to be doing anything?
 
-r > l / __ b [+syl] r $ F166 FLAG for deletion this rule may be redundant
+$r > l / __ b [+syl] r $ F166 for deletion this rule may be redundant $ EDIT does appear to be redundant
 
-ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39
+ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39 $ FLAG it doesn't make sense that this should be working. this feels like a miss on our vowel shift towards the beginning
 
 $$$$$ REPLACED WITH FOLLOWING
 $j > ∅ / __ ˈi $ F151
@@ -904,23 +904,23 @@ w > ∅ / [+hi,+back,-cons] __ $ not in francesc (to my knowledge)
 
 ˈa > ˈe / __ {j;ʃ} $ F51 doesn't appear to be doing anything
 
-j > ∅ / ˈe __ $ F51 doesn't appear to be doing anything. FLAG i think this might be actually causing problems
+j > ∅ / ˈe __ $ F51
 
 a j > e $ implied by F67
 
 $ˈa > ˈe / __ [+cons] ʝ $ F67 $ actually this is plain wrong
 $o > e / __ ([-syl])* ˈo $ F73 COMMENTED OUT doesn't appear to be doing anything?
-${ˈo;o} > {ˈu;u} / __ [+front,+hi] $ F59+72 FLAG makes it worse
-$ˈa > ˈɛ / __ r r $ F50 $ FLAG makes it worse
+${ˈo;o} > {ˈu;u} / __ [+front,+hi] $ F59+72	this makes it worse
+$ˈa > ˈɛ / __ r r $ F50 $ makes it worse
 
 ɾ > ∅ / [-cont] __ ([+syl]) ([-syl])* ɾ $ F174 HIT? added [-cont]
 s > ∅ / @ __ ([+syl]) ([-syl])* s $ F174 HIT? added @
 
 $ FLAG F152 says a lot about C'T secundari but i think most of it is just vowel stuff that affects everything else
 
-$l > ∅ / __ [+cons] $ F165 FLAG makes it worse
+$l > ∅ / __ [+cons] $ F165	this makes it worse
 $ʝ > j / ˈe __ $ not in francesc COMMENTED OUT bc i think it's wrong. another rule does this
-$ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36
+$ ˈɛ > ˈi / __ ([-syl])* ʝ $ F37 FLAG this is commented out bc i think j metathesis just activates F36 but investigate more later
 
 
 
@@ -932,20 +932,21 @@ $ FLAG F50 says something about ˈa > ˈɛ before esh but it seems dialectal.
 
 ˈɔ > ˈo / __ [+nas] [-cont,-nas] $ F57 FLAG may not need -nas in the second matrix; included for safety
 
-{e;ɛ} > {i;i} / # ([-syl])+ __ ([-syl])* [+front,-hi,-lo,-cons] $ F68
-${a;e;ɛ} > {i;i;i} / # ([-syl])* __ ([-syl])* [+syl] ([-syl])* [+hi,-cons] $ F68 but also maybe only affects one or two words FLAG for removal (?)
-	$...also FLAG makes it worse for BOTH of these
+${e;ɛ} > {i;i} / # ([-syl])+ __ ([-syl])* [+front,-hi,-lo,-cons] $ F68
+${a;e;ɛ} > {i;i;i} / # ([-syl])* __ ([-syl])* [+syl] ([-syl])* [+hi,-cons] $ F68
+	$...makes it worse for BOTH of these
 
-${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons 1. +nas may be unnecessary 2. unsure about output 3. revisit this number for the assimilation thing in b EDIT: "the assimilation thing in b" is a dialectal thing HIT? a isn't affected? $ FLAG makes it worse
+${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons 1. +nas may be unnecessary 2. unsure about output 3. revisit this number for the assimilation thing in b EDIT: "the assimilation thing in b" is a dialectal thing HIT? a isn't affected? $ makes it worse
 
-{e;ɛ} > {o;o} / __ l # $ F82 FLAG unsure about both input and output
+{e;ɛ} > {o;o} / __ l # $ F82 $ FLAG only affects 479 scandalum>escandol
 
 ˈɛ j > ˈi $ HIT?
 
 
 
-ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
-ʝ > ∅ / ʎ __ $ ...more "oops too many palatals?" can we generalize to [+cons,+front,αlat] > ∅ / [+cons,+front,-αlat] __ ? FLAG
+[-syl,+front,αlat] > ∅ / [-syl,+front,-αlat] __ $ "oops too many palatals" generalized!!!
+$ʎ > ∅ / j __ $ not in francesc. calling it the "oops too many palatals" rule
+$ʝ > ∅ / ʎ __ $ ...more "oops too many palatals?"
 
 
 
@@ -969,8 +970,6 @@ d̪ ʒ > d͡ʒ $ F189
 z > j / i __ #
 j > ∅ / i __ # $ neither of these are in francesc. probably not doing everything they need to do yet since we still have vowel height issues
 
-β > b / # __ $ this one i think Actually isn't mentioned directly but just in case FLAG go through F2.1 Consonants inicials to see if this is ever mentioned
-
 [-cont,+voi,-son,-delrel] > [+cont,0delrel] / {[-cons];l} __ {[-cons];ɾ} $ F109+110 FLAG fix citation HIT? added ;l and ;ɾ
 
 w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewhere but idk where FLAG FIX CITATION (also I added #)
@@ -988,11 +987,11 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 
 ˈe > ˈi / __ [+syl] #
 
-$β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ FLAG i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens COMMENTED OUT because an earlier rule makes this redundant
+$β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens COMMENTED OUT because an earlier rule makes this redundant
 
-$ p > b / @ __ t̪ $ F137+139 $ FLAG same thing as above. commented out bc i think an earlier rule takes care of this
-$ t̪ > d̪ / b __ [-cons] $ F137 ? maybe pt gets voiced as a whole cluster idk FLAG. commented out for same reason as above
-	$EDIT: this is not getting taken care of. choosing to replace it with the cluster getting voiced as a whole unit.
+$ p > b / @ __ t̪ $ F137+139
+$ t̪ > d̪ / b __ [-cons] $ F137
+	$EDIT: this is not working. choosing to replace it with the cluster getting voiced as a whole unit.
 p t̪ > b d̪ / [-cons] __ [-cons] [+lat] $ F137+139, but I added [+lat]. this fix seems iffy. HIT?
 
 b > β / [-nas] __ ɾ $ i THINK this is in francesc but idk where
