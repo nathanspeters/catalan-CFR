@@ -109,6 +109,7 @@ ok i really want to work on 'e problems but it looks like I need to figure out t
 
 
 508,  | #kˈawikum#         | *#kˈawko#          | *#kˈɔk#            | #kˈaβək# <--find a source for this?!
+484,  | #ɡˈen̪ere#         | *#ɟˈɛn̪rɛ#         | *#ʒˈen̪d̪ɾə#       | #ʒˈɛn̪əɾə#	<--seems fake
 
 
 

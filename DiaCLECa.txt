@@ -145,7 +145,7 @@ $ ... typically concerning those which are common suffixes here.
 $ Pope attests this with the Appendix Probi, which was written in the third or fourth centuries but does not say that is when it specifically occurred. 
 $ Because of words like "table", we know it probably occurred before lenition of intervocalic b (early second century) but Pope does not confirm this either. 
 $ By placing it here before the beginning of betacism, we are giving Pope the benefit of the doubt. 
-$ This is also inline with what she states about the -itus,-itum etc group -- she is holding that this phenomenon occurred before hte beginnings
+$ This is also inline with what she states about the -itus,-itum etc group -- she is holding that this phenomenon occurred before the beginnings
 $ 	of palatalization  (s296)
 $ Further note : s262b -- Pope notes that sometimes the older forms were restored by preservative analogy via "clerkly influence" 
 $ p115 s262a -- effects on -ulus,-ulum,-ula words. Attested for affecting those where preceding cons is k,g,t,p or b. There don't seem to be
@@ -153,6 +153,7 @@ $ p115 s262a -- effects on -ulus,-ulum,-ula words. Attested for affecting those 
 $ CORRECTION : -mulum endings also effected (cumulum > comble; tremulum > tremble) 
 $ CORRECTION : -rula endings also effected (berula (Gaul.) > berle not bierle) 
 $ CORRECTION: -olum,-olus endings also included if not after a labial stop
+$ FLAG this seems to not occur in a number of forms... investigate later
 {ʊ;o} > {∅;∅} / [+prim] ([-syl])* {[-cont];m;r} __ [+lat] [+syl] ([-syl]) #
 ɔ > ∅ / [+prim] ( [-syl] )* {[-cont,-lab];m;r} __ [+lat] [+syl] ( [-syl] ) #
 
@@ -564,8 +565,8 @@ n̪ ʝ > ɲ $ this is in francesc but i forget where
 
 =tempeh
 
-ˈe > ˈə / {#;[+cons,-hi]} __ {[+cons,-hi] [+syl];[+cons,-hi] [+cons,-hi];#} $ F40+42, not sure if francesc mentioned that any part of the following cluster being palatal blocked this but if he didn't then HIT?
-ˈɛ > ˈe / __ [-son] $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
+ˈe > ˈə / __ {[+cons,-hi] [+syl];[+cons,-hi] [+cons,-hi];#} $ F40+42, not sure if francesc mentioned that any part of the following cluster being palatal blocked this but if he didn't then HIT?
+ˈɛ > ˈe / __ {[-son];r [-cor] [+lo];r [-cor] [+cons];r [-cor] #;n̪ [+cor,-cont] [+lo];n̪ [+cor,-cont] #;m [+lab,-cont];w #} $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
 ˈə > ˈɛ $ F39
 
 m m > m $ M DEGEMINATION not in francesc(?)
@@ -891,6 +892,7 @@ $x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does s
 
 $r > l / __ b [+syl] r $ F166 for deletion this rule may be redundant $ EDIT does appear to be redundant
 
+=tempething
 ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39 $ FLAG it doesn't make sense that this should be working. this feels like a miss on our vowel shift towards the beginning
 
 $$$$$ REPLACED WITH FOLLOWING
@@ -940,8 +942,6 @@ ${e;ɛ} > {o;o} / # ([-syl])* __ [+lab,+nas] $ F69 FLAG for soooooo many reasons
 
 {e;ɛ} > {o;o} / __ l # $ F82 $ FLAG only affects 479 scandalum>escandol
 
-ˈɛ j > ˈi $ HIT?
-
 
 
 [-syl,+front,αlat] > ∅ / [-syl,+front,-αlat] __ $ "oops too many palatals" generalized!!!
@@ -983,7 +983,7 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 ˈe > ˈɛ / __ w $ not in francesc HIT?
 ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
 
-ˈɛ > ˈe / __ ʎ $ not in francesc (and also bad? (but also not?ǃ))
+ˈɛ > ˈe / __ ʎ $ not in francesc
 
 ˈe > ˈi / __ [+syl] #
 
@@ -1008,7 +1008,7 @@ a > ə
 [-hi,-stres,+syl] > ə / __ {[-stres];[+stres,-lo];[+cons];[-cons,-syl];#} $ FLAG cite the appropriate francescs later $ reduction block from https://diposit.ub.edu/dspace/bitstream/2445/203629/1/Lloret_Prieto_Catalan.pdf
 
 e > i $ appears to happen in all words with e at this stage? <--FLAG probably not; investigate later
-ɛ > e $ only affects one word (so far), but it makes sense
+ɛ > e / __ [+syl] $ only affects one word (so far), but it makes sense
 
 $ə > ∅ / r __ [+cons] $ F226 $ no
 $ə > ∅ / [+cons] __ r $ F226 $ no
