@@ -452,7 +452,6 @@ w > β / __ ʝ [+syl,-stres] $ HIT? not in francesc(?). w assimilating manner to
 β > b $ marr
 {ɑ;ˌɑ;ˈɑ} > {a;ˌa;ˈa} $ marr
 
-[-lo,-hi,+tense,+front] > [-tense] / __ ʝ [+front,+hi,+syl] $ not in francesc. only certain that it affects one word. could also affect 711 fugire>fugir if we removed +front, but doing so would not change the result. this is motivated as height dissimilation
 $[-lo,-hi,+tense,+front] > [-tense] / __ t̪ t̪ $ not in francesc; seen in multiple words $ <--following rules might make this irrelevant? blocking for now just in case
 
 [+round] > w / [+syl] __ $ I'm sure this is in francesc somewhere but idk where FLAG find good citation
@@ -566,7 +565,7 @@ n̪ ʝ > ɲ $ this is in francesc but i forget where
 =tempeh
 
 ˈe > ˈə / __ {[+cons,-hi] [+syl];[+cons,-hi] [+cons,-hi];#} $ F40+42, not sure if francesc mentioned that any part of the following cluster being palatal blocked this but if he didn't then HIT?
-ˈɛ > ˈe / __ {[-son];r [-cor] [+lo];r [-cor] [+cons];r [-cor] #;n̪ [+cor,-cont] [+lo];n̪ [+cor,-cont] #;m [+lab,-cont];w #} $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
+ˈɛ > ˈe / __ {[-son];r [-cor] [+lo];r [-cor] [+cons];r [-cor] #;n̪ [+cor,-cont] [+lo];n̪ [+cor,-cont] #;m [+lab,-cont];[+son,+hi,+cons];w #} $ F34+35 FLAG bc i have a sneaking suspicion that this context is not good
 ˈə > ˈɛ $ F39
 
 m m > m $ M DEGEMINATION not in francesc(?)
@@ -892,8 +891,9 @@ $x > w / __ r $ F153 not what francesc specifies but i wanted a rule that does s
 
 $r > l / __ b [+syl] r $ F166 for deletion this rule may be redundant $ EDIT does appear to be redundant
 
-=tempething
-ˈe > ˈɛ / [-hi,+cons] __ (n̪) [-hi,+cons] $ F39 $ FLAG it doesn't make sense that this should be working. this feels like a miss on our vowel shift towards the beginning
+ˈe > ˈi / __ [+cons,+front] $ I'm sure this is in francesc FLAG find a good citation
+
+ˈe > ˈɛ / __ (n̪) [-hi,-son] {[+syl];#} $ FOR THE RECORD, I think préssec might just be a dialect borrowing from Valencian. $ I have no idea why this change happens. it doesn't seem like a miss on the stress shift from earlier (yet) at least. FLAG this is just weird
 
 $$$$$ REPLACED WITH FOLLOWING
 $j > ∅ / __ ˈi $ F151
@@ -985,7 +985,7 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 
 ˈɛ > ˈe / __ ʎ $ not in francesc
 
-ˈe > ˈi / __ [+syl] #
+ˈe > ˈi / __ [+syl] # $ F45c
 
 $β > w / __ {t̪;r;l} $ F137+140+141 and F168 $ i have it phrased like this bc idk whether it happens pre- or post- r>ɾ/where it happens COMMENTED OUT because an earlier rule makes this redundant
 
