@@ -35,7 +35,7 @@ $ of k -- such as the deletion of the rounded "fricative"/approximant before ʝ 
 
 $Pope p226 s629
 $In the second century, all aspiration on Greek loanwords was lost. 
-[+sg,-cont] > [-sg] $ FLAG i think this might be bled by pʰ > f, but given that pʰ still ends up as β in at least one form, maybe not... then again, possibly pʰ > f > v > β
+[+sg,-cont] > [-sg]
 
 $Pope p226-7 s632
 $ Greek y unrounded to i 
@@ -286,6 +286,8 @@ $ p73 s156v ~ s262 ~ s360
 $ tl > kl -- attested first in the Appendix Probi as per Pope p145 s360
 $ as noted by Pope s262, sometimes reversed under "clerkly influence" by preservative analogy
 t̪ > k / __ [+lat]
+
+[+syl,+round,+stres] > ˈe / __ k ɛ m # $ not in pope Or francesc. HIT?
 
 $ p97-98 s205i ~ p73 s156ii : final m deletion  -- 
 $ ... unlike some later authors Pope does not recognize a nasalization in Late Latin, instead holding that simple nasal consonant deletion occurred
@@ -585,7 +587,7 @@ r ʝ > ʝ r / {#;[+cont];# [-cont];[+syl] [-cont];[αson,+cons] [-cont,αvoi];[-
 
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-son] [+cons,-nas,+cont] __ # $ supposed to be blocked when first element is r and allow r as the second element, and otherwise same as following rule
 [-lo,-cons,-prim,+round] > ∅ / [+stres] ([-syl,-cons]) [+cont,-nas,+cons,-lat] {[+cons,+cont,-son];[+nas];[+lat]} __ # $ disjunction intended to block this apocope when the second element in the cluster is r. exceptions ([-round] vowels that delete here) are probably either analogical OR final e assimilates to o earlier in the word. FLAG investigate later
-[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ FLAG sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
+[-lo,-cons,-prim] > ∅ / [+stres] [+cont,-nas,+cons] {[-cont];[+cont,-voi]} __ # $ sometimes this happens after clusters beginning with l and sometimes it doesn't. i'm having a hard time telling whether it's a reborrowing thing or there's something i'm missing in the conditioning <- according to Wheeler (2007), this is a relchron issue. FIXED
 
 =Apocope 1
 
@@ -872,7 +874,6 @@ t̪ > ∅ / {n̪;[-stres]} __ # $ F172 + HIT? on the [-stres] HIT? removed s fro
 
 
 [+stres,-prim] > [+prim] / {#;# ([-syl])* [-stres]} ([-syl])* __ ([-syl])* {#;[-stres] ([-syl])* #;[-stres] ([-syl])* [-stres] ([-syl])*#} $ HIT?
-
 [+stres,-prim] > [-stres] $ marr
 
 
@@ -978,7 +979,7 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 
 ð > ∅ / [-cont] ɾ [+syl] __ [+stres] $ not in francesc ALSO really weird?
 
-{ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab,-back] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab,-back]
+${ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab,-back] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab,-back] $ replaced with much earlier rule (within pre-LL era)
 
 ˈe > ˈɛ / __ w $ not in francesc HIT?
 ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
