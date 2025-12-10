@@ -494,7 +494,7 @@ m > n̪ / [+ant] [+syl] __ # $ F123 HIT? francesc didn't specify this context bu
 
 m > ∅ / __ # $ F123 btw this rule and the above rule only work if the m is deleted in polysyllabics before this point, but i think clayton and/or pope already did this for me, so yay!
 
-m > n̪ / __ n̪ $ F157 not what francesc says actually happens but i think it's a way more plausible hypothesis than a bilabial and a dental "coalescing" into a palatal $ FLAG think this needs to be moved.
+m > n̪ / __ n̪ $ F157 not what francesc says actually happens but i think it's a way more plausible hypothesis than a bilabial and a dental "coalescing" into a palatal $ FLAG think this needs to be moved. $ <--where? why?
 
 ∅ [+syl] r > r [+syl] ∅ / [+syl] ([-syl])* __ # $ F124   R METATHESIS
 
@@ -598,7 +598,6 @@ $$$$$$$$$$ syncope 1
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) {[-cont,-back];[+cont,-nas]} ([+cons,+lab,-nas]) __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ IMPLIED by F86+91 but not explicitly elaborated. also HIT? i added a lot of the conditioning FLAG to check back and see what francesc already said. postlocus conditioning intended to block syncope before ð and affricates.
 
 [+syl,-stres] > ∅ / [+stres] ([-cons,-syl]) [+nas] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel,-hi]} [+syl] $ specific block against syncope between nasals and dorsal stops
-
 $$$$$ ^^^^^ HUGE FLAG... above rule just isn't true?! figure out what we were trying to do later. but see #d̪ˈied̪ˌomˈin̪ikum#| *#d̪ˈizˌɔmˈen̪eɡe# | *#d̪ˈiumˈɛn̪ək#    | #d̪iwmˈeɲʒə# for proof that it's wrong
 
 [+syl,-stres] > ∅ / [+stres,+back] ([-cons,-syl]) [-cont,-back] __ {[+cons,+son,-nas];[+cont,-son,+voi,-cor];[+cont,-son,-voi];[-cont,-delrel]} [+syl] $ specific vowel requirement for syncope after k
@@ -682,6 +681,8 @@ k > ɡ / # __ {r;l} [+syl] ([-cons,-syl]) {[-cont];s s} $ I PROMISE THE SS IS RE
 
 t̪ ʃ > t͡ʃ $ not(?) in francesc
 
+[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know) $$$$$ S SYNCOPE
+
 [-cont] > [+voi] / [+syl] __ [-cons]
 [-cont] > [+voi] / [-cons] __ r [+syl] $ this one i added the [+syl]
 $$$$$$ F108+110+114+*131* FLAG FIX CITATION
@@ -709,7 +710,7 @@ v > β $ F109
 
 $$$$$$$ SYNCOPE!!!!!!!!!!!!!!! 2!!!!!!!!!!!!!!!!
 
-[-lo,+syl,-stres] > ∅ / [+syl,-stres] [-syl] __ [-son] [+stres] $ F77+78+79. I have reason to believe that the counterexamples in F78c are due to analogy.
+[-lo,+syl,-prim] > ∅ / [+syl,-stres] [-syl] __ [-son] [+stres] $ F77+78+79. I have reason to believe that the counterexamples in F78c are due to analogy.
 
 =Syncope 2
 
@@ -729,8 +730,6 @@ $$$replaced by earlier rule
 l l > ʎ ʎ $ not in francesc
 
 ʝ ʝ > d͡ʒ / [+prim] __ $ not in francesc TO MY KNOWLEDGE but it gives "i was in francesc" vibes yknow. also added conditioning
-
-[+syl] > ∅ / [-cons] ([+cons]) [+cons,-lat] __ s # $ not in francesc (as far as i know) $$$$$ S SYNCOPE
 
 k > x / __ t̪ $ not in francesc and only serves to feed x>...>j
 
@@ -981,10 +980,11 @@ w > ∅ / [-son,+back] __ {[+front,-lo];#} $ i'm sure this is in francesc somewh
 
 ${ˈɔ;ˈo} > {ˈɛ;ˈɛ} / [-lab,-back] __ w # $ F63 HIT? i don't think francesc said anything about the [-lab,-back] $ replaced with much earlier rule (within pre-LL era)
 
-ˈe > ˈɛ / __ w $ not in francesc HIT?
-ˈe > ˈɛ / __ [+hi,+front,+cons] $ not in francesc HIT?
+=tempweirderules
 
-ˈɛ > ˈe / __ ʎ $ not in francesc
+ˈe > ˈɛ / __ w [+cor] $ not in francesc HIT?
+
+ˈɛ > ˈe / __ ʎ $ not in francesc $ only reason this is necessary at the moment is because we need to move ll>lambda to before e cycle.
 
 ˈe > ˈi / __ [+syl] # $ F45c
 
